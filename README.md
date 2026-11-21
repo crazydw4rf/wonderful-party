@@ -80,3 +80,10 @@ Available subcommands:
   progress            Calculate progress statistics and update Shields.io badges
   list [lang]         List per-scenario translation progress (interactive TUI/pager)
 ```
+
+---
+
+## Credits
+
+Thanks to [UlyssesWu/FreeMote](https://github.com/UlyssesWu/FreeMote), which makes
+PSB archive manipulation and this project possible.
