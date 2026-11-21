@@ -57,6 +57,8 @@ The `setup` command downloads the game binaries into `./workspace/` (which is gi
    - Set `"status": "machine_translated"` if using DeepL/ChatGPT/LLM.
    - Do NOT edit the `"original"` or `"speaker"` fields.
 
+   Character nameplates are translated globally via `patches/{lang}/speakers.json` (e.g. `"ココア": "Cocoa"`).
+
 3. **Validate your changes**:
    Run the validator to verify syntax and text integrity:
 

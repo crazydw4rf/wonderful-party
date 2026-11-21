@@ -6,6 +6,7 @@ from .constants import (
     PATCHES_DIR,
     SCENALIST_FILENAME,
     SCENARIO_EXTRACTED_DIR,
+    SPEAKERS_FILENAME,
     STATUS_UNTRANSLATED,
     SUPPORTED_LANGUAGES,
 )
@@ -200,4 +201,50 @@ def extract_all_patches(lang: str) -> int:
             extracted_count += 1
 
     print(f"Extracted {extracted_count} patch templates for language '{lang}' into '{lang_dir}'.")
+
+    # Extract speakers glossary
+    spk_path = extract_speakers_file(lang)
+    print(f"Extracted speaker glossary to '{spk_path}'.")
+
     return extracted_count
+
+
+def extract_speakers_file(lang: str) -> str:
+    lang_dir = os.path.join(PATCHES_DIR, lang)
+    os.makedirs(lang_dir, exist_ok=True)
+    speakers_path = os.path.join(lang_dir, SPEAKERS_FILENAME)
+
+    existing_speakers = {}
+    if os.path.exists(speakers_path):
+        try:
+            with open(speakers_path, "r", encoding="utf-8") as f:
+                existing_speakers = json.load(f)
+        except Exception:
+            existing_speakers = {}
+
+    all_speakers = set()
+    files = sorted(os.listdir(SCENARIO_EXTRACTED_DIR))
+    for fname in files:
+        if not fname.endswith(".scn.m.json"):
+            continue
+        full_path = os.path.join(SCENARIO_EXTRACTED_DIR, fname)
+        with open(full_path, "r", encoding="utf-8") as fp:
+            data = json.load(fp)
+        for scene in data.get("scenes", []):
+            for t in scene.get("texts", []):
+                if isinstance(t, list) and t and t[0]:
+                    all_speakers.add(t[0])
+            si = scene.get("selectInfo")
+            if si and isinstance(si, dict) and si.get("name"):
+                all_speakers.add(si["name"])
+
+    speaker_map = {}
+    for spk in sorted(all_speakers):
+        val = existing_speakers.get(spk, "")
+        speaker_map[spk] = val
+
+    with open(speakers_path, "w", encoding="utf-8") as out:
+        json.dump(speaker_map, out, ensure_ascii=False, indent=2)
+
+    return speakers_path
+

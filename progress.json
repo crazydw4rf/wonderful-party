@@ -23,6 +23,10 @@
       "total": 1014,
       "translated": 0
     },
+    "speakers": {
+      "total": 48,
+      "translated": 48
+    },
     "routes": {
       "all": {
         "total_dialogues": 1318,
@@ -126,6 +130,10 @@
     },
     "titles": {
       "total": 1014,
+      "translated": 0
+    },
+    "speakers": {
+      "total": 48,
       "translated": 0
     },
     "routes": {

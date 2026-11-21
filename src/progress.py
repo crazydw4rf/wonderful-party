@@ -7,6 +7,7 @@ from .constants import (
     PATCHES_DIR,
     PROGRESS_FILE,
     SCENALIST_FILENAME,
+    SPEAKERS_FILENAME,
     STATUS_MACHINE_TRANSLATED,
     STATUS_PROOFREAD,
     STATUS_UNTRANSLATED,
@@ -57,6 +58,9 @@ def analyze_language_progress(lang: str) -> Dict[str, Any]:
         fpath = os.path.join(lang_dir, fname)
         with open(fpath, "r", encoding="utf-8") as pf:
             data = json.load(pf)
+
+        if fname == SPEAKERS_FILENAME:
+            continue
 
         if fname in ("scenelist.scn.json", f"{SCENALIST_FILENAME[:-7]}.json"):
             for t_info in data.get("titles", {}).values():
@@ -111,6 +115,20 @@ def analyze_language_progress(lang: str) -> Dict[str, Any]:
                 if c_entry.get("translation"):
                     choices_translated += 1
 
+    speakers_file = os.path.join(lang_dir, SPEAKERS_FILENAME)
+    total_speakers = 0
+    speakers_translated = 0
+    if os.path.exists(speakers_file):
+        try:
+            with open(speakers_file, "r", encoding="utf-8") as f:
+                spk_data = json.load(f)
+            total_speakers = len(spk_data)
+            speakers_translated = sum(
+                1 for v in spk_data.values() if (v if isinstance(v, str) else v.get("translation", "")).strip()
+            )
+        except Exception:
+            pass
+
     translated_dialogues = dialogues_proofread + dialogues_mtl
     dialogue_percent = (translated_dialogues / total_dialogues * 100.0) if total_dialogues > 0 else 0.0
     proofread_percent = (dialogues_proofread / total_dialogues * 100.0) if total_dialogues > 0 else 0.0
@@ -138,6 +156,10 @@ def analyze_language_progress(lang: str) -> Dict[str, Any]:
         "titles": {
             "total": total_titles,
             "translated": titles_translated,
+        },
+        "speakers": {
+            "total": total_speakers,
+            "translated": speakers_translated,
         },
         "routes": route_stats,
     }
@@ -196,6 +218,7 @@ def print_progress_report(all_progress: Dict[str, Any]):
         print(f"  Untranslated    : {d['untranslated']:,}")
         print(f"  Choices Trans   : {stats['choices']['translated']}/{stats['choices']['total']}")
         print(f"  Titles Trans    : {stats['titles']['translated']}/{stats['titles']['total']}")
+        print(f"  Speakers Trans  : {stats['speakers']['translated']}/{stats['speakers']['total']}")
 
         print("\n  Route Breakdown (Dialogues):")
         for r_name, r_stat in sorted(stats.get("routes", {}).items()):

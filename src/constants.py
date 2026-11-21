@@ -7,6 +7,7 @@ MDF_KEY_LEN = 131
 SCENARIO_BODY_FILENAME = "scenario_body.bin"
 SCENARIO_INFOPSB_FILENAME = "scenario_info.psb.m"
 SCENALIST_FILENAME = "scenelist.scn.m.json"
+SPEAKERS_FILENAME = "speakers.json"
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 WORKSPACE_DIR = os.path.join(ROOT_DIR, "workspace")

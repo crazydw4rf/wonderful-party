@@ -71,6 +71,13 @@ Stores story chapter titles and choice mirrors:
 - `choices`: Keyed by `storage#target` (e.g. `all_a01.txt#*sel_0101`).
 Choice translations in scenario files are automatically synchronized into `scenelist` during `cli.py apply` and `cli.py build`.
 
+## Speaker Glossary (`speakers.json`)
+
+Stored at `patches/{lang}/speakers.json`:
+- Contains all 48 unique character and NPC names in the game (e.g. `"ココア": "Cocoa"`, `"チノ": "Chino"`).
+- Automatically translates nameplates in dialogue lines (`scene['texts']`) and choice prompts (`selectInfo`).
+- Compound speakers (e.g. `"ココア＆チノ"`) are either mapped directly or automatically resolved via component lookup.
+
 ## CLI Commands
 
 ```bash

@@ -6,6 +6,7 @@ from .constants import (
     PATCHES_DIR,
     SCENALIST_FILENAME,
     SCENARIO_EXTRACTED_DIR,
+    SPEAKERS_FILENAME,
     SUPPORTED_LANGUAGES,
     VALID_STATUSES,
 )
@@ -29,6 +30,11 @@ def validate_language_patches(lang: str) -> Tuple[bool, List[str]]:
                 data = json.load(pf)
         except json.JSONDecodeError as e:
             errors.append(f"{fname}: Invalid JSON syntax - {e}")
+            continue
+
+        if fname == SPEAKERS_FILENAME:
+            if not isinstance(data, dict):
+                errors.append(f"{fname}: Root must be a dictionary")
             continue
 
         identity = data.get("identity")

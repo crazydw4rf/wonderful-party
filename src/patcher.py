@@ -16,9 +16,44 @@ from .constants import (
     SCENARIO_BODY_FILENAME,
     SCENARIO_EXTRACTED_DIR,
     SCENARIO_INFOPSB_FILENAME,
+    SPEAKERS_FILENAME,
     TITLE_ID,
 )
 from .utils import get_psbuild_path
+
+
+def translate_speaker(orig_spk: Optional[str], speaker_map: Dict[str, Any]) -> Optional[str]:
+    if not orig_spk or not speaker_map:
+        return orig_spk
+
+    # 1. Exact match in glossary
+    if orig_spk in speaker_map:
+        val = speaker_map[orig_spk]
+        trans = val if isinstance(val, str) else val.get("translation", "")
+        if trans:
+            return trans
+
+    # 2. Compound resolution (e.g. 'ココア＆チノ' -> 'Cocoa & Chino')
+    if "＆" in orig_spk:
+        parts = orig_spk.split("＆")
+        translated_parts = []
+        all_matched = True
+        for p in parts:
+            if p in speaker_map:
+                val = speaker_map[p]
+                p_trans = val if isinstance(val, str) else val.get("translation", "")
+                if p_trans:
+                    translated_parts.append(p_trans)
+                else:
+                    all_matched = False
+                    break
+            else:
+                all_matched = False
+                break
+        if all_matched:
+            return " & ".join(translated_parts)
+
+    return orig_spk
 
 
 def apply_patches(lang: str) -> List[str]:
@@ -52,8 +87,17 @@ def apply_patches(lang: str) -> List[str]:
     patch_files = {f: os.path.join(lang_patch_dir, f) for f in os.listdir(lang_patch_dir) if f.endswith(".json")}
     choice_sync_map: Dict[str, str] = {}
 
+    speakers_patch_path = os.path.join(lang_patch_dir, SPEAKERS_FILENAME)
+    speaker_map: Dict[str, Any] = {}
+    if os.path.exists(speakers_patch_path):
+        try:
+            with open(speakers_patch_path, "r", encoding="utf-8") as sf:
+                speaker_map = json.load(sf)
+        except Exception:
+            speaker_map = {}
+
     for patch_fname, patch_path in patch_files.items():
-        if patch_fname in ("scenelist.scn.json", f"{SCENALIST_FILENAME[:-7]}.json"):
+        if patch_fname in ("scenelist.scn.json", f"{SCENALIST_FILENAME[:-7]}.json", SPEAKERS_FILENAME):
             continue
 
         with open(patch_path, "r", encoding="utf-8") as pf:
@@ -75,6 +119,25 @@ def apply_patches(lang: str) -> List[str]:
         patch_scenes = patch.get("scenes", {})
 
         for scene in scenario_data.get("scenes", []):
+            # Translate speakers in dialogue and selectInfo
+            if speaker_map:
+                if "texts" in scene:
+                    for entry in scene["texts"]:
+                        if isinstance(entry, list) and len(entry) >= 1 and entry[0]:
+                            orig_spk = entry[0]
+                            translated_spk = translate_speaker(orig_spk, speaker_map)
+                            if translated_spk and translated_spk != orig_spk:
+                                entry[0] = translated_spk
+                                has_modifications = True
+
+                if "selectInfo" in scene and scene["selectInfo"]:
+                    orig_spk = scene["selectInfo"].get("name")
+                    if orig_spk:
+                        translated_spk = translate_speaker(orig_spk, speaker_map)
+                        if translated_spk and translated_spk != orig_spk:
+                            scene["selectInfo"]["name"] = translated_spk
+                            has_modifications = True
+
             label = scene.get("label")
             if not label or label not in patch_scenes:
                 continue
