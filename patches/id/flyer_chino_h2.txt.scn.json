@@ -1,0 +1,217 @@
+{
+  "identity": "flyer_chino_h2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん……\\n私、チノちゃんに隠してたことがあるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "え、ええ？\\n急になんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "実はね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "私の正体は怪盗なのだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……何を言い出すかと思えば。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あれ？\\nチノちゃん、驚いてくれないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "そんなあからさまな嘘に\\nいちいち驚くわけないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "嘘じゃないよ！　私は怪盗なんだよ！\\nこれからチノちゃんの心を盗んじゃう\\n予定なんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "仮にココアさんが怪盗だったとしても、\\nそう簡単に盗まれたりはしません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ふっふっふ、それはどうかな？\\nラパンの名に賭けて、必ず盗んでみせる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "では、私の心より先に\\nお客さんの心を盗んできてもらえませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "そうすれば、お店に来るお客さんが\\nもっと増えてくれるかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ほほう、なるほど。\\nでは、チノちゃんの心を盗むために、\\nまずはお客さんたちの心を盗んでくるとしよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "え？　あの、ココアさん？\\n今のは冗談で――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……なんだ。\\nチラシ配りに戻っただけですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "チーノちゃん！\\nチラシ配り、終わったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "こっちもです。\\nちょうど終わりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "やっぱり怪盗ラパン効果かな。\\n小さな子がいると、その子の方から\\n声をかけてきてくれるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "その様子なら、お客さんたちの心は\\nしっかり盗めたみたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "もちろんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃーあー、次はチノちゃんの番！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "ですから、私はそう簡単に――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "はい、これ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "これは……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "ホットココアだよ。\\n缶のだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "家に帰れば自分で淹れられるのは\\nわかってるけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "今日はちょっと寒かったでしょ？\\nだから、少しでも体が温まればと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "あ、いらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "いえ、いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "……ココアさんは、そうやって\\nいつも心の隙をついてきてずるいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nどう？　チノちゃんの心、盗めたかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "知りません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

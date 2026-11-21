@@ -1,0 +1,213 @@
+{
+  "identity": "chino_c04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん、遅いなぁ。\\nテイッピーも心配だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "もう、夜遊びするような妹に\\n育てた覚えはないのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "（いや、別にまだそこまで遅くはないし、\\n　ココアが育てたわけではないじゃろ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "はっ！？\\nやっぱり、これも反抗期だから！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "不良野良うさぎたちと仲良くなって、\\nあんなことやこんなことをしちゃってるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "（チノに限って、それはないと思うがの）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ティッピー",
+          "original": "（それよりも、出かけた場所の方が問題じゃ。\\n　あれほど止めたのに、ほいほいと\\n　甘兎に行ってしまうとは……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "（こんなことなら、多少無理にでも\\n　ついていけばよかったわい）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "チノちゃん、クリスマスパーティーの\\n準備で色々忙しいと思うけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "なんだか最近、悩んでいたみたいだから\\nちょっと心配だなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "（……ココアも、脳天気なようで\\n　意外と見ておるんじゃな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "よし、ティッピー！\\nチノちゃんを探しに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "あ、チノちゃんっ！\\nおかえり～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "あ……。\\nココアさん、ティッピー、ただいまです。\\nでもどうして店の外にいるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "チノちゃんを待ってたんだよ。\\nもう、こんな時間まで何してたの？\\n心配したんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "それに、どうしてそんなに疲れてるの？\\n大丈夫？　何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "うっ……。\\nべ、別に、何でもないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nお姉ちゃんの目を見て、ちゃんと話して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "……きょ、今日は\\n１日中、外に出ていたので疲れただけです。\\nココアさんが心配するようなことはしていません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "でも、遅くなってしまってすみません。\\n寒いのに外で待たせてしまいました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ううん、それなら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ぎゅーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "わわっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "チノちゃんをモフモフすれば\\nすぐに暖かくなるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ティッピー",
+          "original": "（おおお、おいっ！　わしを抱いたままじゃぞ！\\n　潰れる～！！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "こ、ココアさん、やめてください。\\nティッピーが潰れてしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "ああ、そうだった！\\nごめんね、ティッピー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ティッピー",
+          "original": "（ま、まったく！\\n　いきなり何をするんじゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "ねー、チノちゃん？\\nもし私にお手伝いできることがあるのなら、\\n遠慮なく言ってね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "えっ……。\\nお手伝いって、別に私は何も……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "うん、だからね、手伝ってほしい時に\\n言ってくれたらいいよ。\\n私はいつでもチノちゃんの味方だからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "はい……。\\nありがとうございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ティッピー",
+          "original": "（……チノがここまで頑張っておるんじゃ。\\n　仕方ない、甘兎の件は\\n　しばらく目を瞑ってやるとするか）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

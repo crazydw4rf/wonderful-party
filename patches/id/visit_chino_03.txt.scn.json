@@ -1,0 +1,364 @@
+{
+  "identity": "visit_chino_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "いらっしゃいませ、千夜さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、どうしたの？\\nこの時間は仕事中だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "配達の帰りなの。\\n少し休憩しようと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そうか、なら温かいコーヒーを用意するよ。\\nちょっと待っててくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "嬉しいわ。\\n外はもう、だいぶ寒いし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "寒さに震えたらいつでもここに来てね。\\nラビットハウスはいつでも千夜ちゃんを\\n温めてあげるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そうね。\\nここに来ると心も体も温まるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "……あら？\\nチノちゃん、なんだか髪が乱れてない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "え？　そうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "お仕事してると、なかなか自分のことに\\n気が回らなくなっちゃうものよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "よければ、私がきれいにしてあげるわ。\\nちょうどくしも持っているから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nでは、お言葉に甘えて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "それじゃ……。\\nどう、チノちゃん。\\n髪がひっかかったりしてない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "ん……。\\n大丈夫です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんが千夜ちゃんに髪を梳かれて\\n　気持ちよさそうに……！\\n　このままじゃ、私の姉としての立場が！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ち、千夜ちゃん！\\nチノちゃんは私の妹なんだからね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "あら、ごめんねココアちゃん。\\nやきもちを焼かせるつもりはなかったのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "でも、チノちゃんがかわいいから\\n思わず夢中になっちゃったのは本当。\\nまるで子うさぎみたいだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "子うさぎ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "子うさぎかぁ、確かにそんな感じはするよな。\\nちなみにココアから見ると、\\nチノってどんなイメージだ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "子うさぎかぁ、確かにそんな感じはするよな。\\nちなみにココアから見ると、\\nチノってどんなイメージだ？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "うーん、子猫かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "クマかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "やっぱり、うさぎだよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、子猫かな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "子猫……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "普段はちょっとツンツンしてるけど\\nたまにかわいく甘えてくるところとか、\\n子猫っぽいなーって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "わ、私がいつココアさんに甘えたんですか！\\n適当なことを言わないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "子猫もいいわねえ。\\n今度、猫耳を持ってこようかしら。\\nチノちゃん、きっと似合うと思うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、私とリゼちゃんも猫耳つけて、\\n猫耳デーにしてもいいかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "わ、私が猫耳！？\\nいいよ、似合うわけないし！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "クマかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "クマですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それはむしろ、チノちゃんから\\n１番遠いイメージなような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうかな？\\nもふもふしてるし、来るべき時に向けて\\n知識を蓄えてる辺りがクマの冬眠っぽいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "うーん？\\nニュアンスはわかるけど、なんか違うだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "それに、クマってぬいぐるみならかわいいけど\\n実際はかなり危険な動物だぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "危険な女……！\\nそれは素敵な響きね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "ですが、私にはやっぱり合わないかと……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "やっぱり、うさぎだよ！\\nもふもふでかわいくて、抱きしめたら\\n幸せになれる世界一の生き物だからね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "抱きしめるのは遠慮してほしいのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら？\\nチノちゃん、赤くなってるわよ？\\n褒められて嬉しい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "べ、別に、いまのは\\n私を褒めたわけではないですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "まあ、ここはラビットハウスだしな。\\nその跡取りのチノがうさぎってのは\\nある意味、ピッタリだろ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それにしても……\\nチノちゃんの髪の毛、サラサラで気持ちいいわ。\\nそれに、いい匂いがするし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "多分、コーヒーの匂いだと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ふふ、こんなに素敵な髪だと\\n髪型を変えてみたくなっちゃうわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "いいね！\\n髪型を変えたチノちゃん、見てみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "なんでココアさんが乗り気なんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "それじゃ……\\n『蒼天に煌めく聖天使の美しき白翼盛り』\\nなんてどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "おおー！\\nチノちゃんの髪形がなんか荘厳な感じに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ちょっと見てみたい気がするな、その髪型。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "リゼさんまで！？\\nや、やめてください！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

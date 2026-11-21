@@ -1,0 +1,460 @@
+{
+  "identity": "syaro_b06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（目覚ましが鳴ってる……止めないと……。\\n　っていうか、起きないと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（なんだか……\\n　今日の目覚まし、妙にうるさいわね……。\\n　うるさすぎて頭が痛い……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "……あれ、っ、ごほごほごほごほっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（どうしたのかしら……体が重い……。\\n　なんだか喉もイガイガする……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（なにこれ……。\\n　体が熱いのに、なんで寒気が……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（やだ……もしかして、風邪？\\n　嘘でしょ、こんな忙しい時に……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（風邪薬、まだあったかしら？\\n　早く飲んで治さなくちゃ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（……だめ……体が動かない。\\n　どうしよう……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "シャロちゃーん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "（千夜……？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "おかしいわね。\\nまだ寝てるのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "……あら？\\n鍵が開いてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "シャロちゃーん、入るわよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "（入ってきた……？\\n　なんで……鍵は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "（……そういえば昨日、鍵をかけ忘れたかも。\\n　なんだか、だるかったから、\\n　帰ってきてすぐに寝ちゃったし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、おはよう。\\n鍵をかけ忘れるなんて無用心ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "あら？　まだ寝てるの？\\n目覚ましも鳴りっぱなしで……止めるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "千夜……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "おはよう、お寝坊さん。\\n遅刻しちゃうわ、早く起きて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "ごめん……無理っぽい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "まあ！\\nどうしたのシャロちゃん、顔が赤いわ！\\n汗もびっしょりで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "もしかして、風邪をひいちゃったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "そうみたい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "だったら、もっと早く\\n言ってくれたらよかったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "私だって、今朝、気がついたの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "そんなに急に悪くなるわけないわ。\\n何か、体の不調を感じなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "そういえば、昨日……\\n妙に体が熱くてダルかった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "やっぱり。\\n自覚症状があったのに、どうして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "ううん、今さら言っても仕方ないわね。\\n気づいてあげられなかった私も通い妻失格だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "……今は、そういうのにツッコむ余裕ないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "本当につらそうね。\\n薬は飲んだの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "まだ……。\\nっていうか、買い置きがないかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "うちから取ってくるわ。\\nそれと、薬を飲むのなら何かお腹に入れないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "ひとまず、おかゆを作ってくるわね。\\n心細いでしょうけど、それまで少し待ってて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "薬だけで大丈夫よ……。\\n千夜は学校があるでしょ？\\n遅刻しちゃうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "こんな状態のシャロちゃんを放って、\\n学校になんか行けないわ。\\n今日は休んで看病するから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "え……？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "シャロ",
+        "original": "え……？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "そうやって千夜はいつも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "休むなんてだめよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私のことなんてほっといて。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そうやって千夜はいつも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "いつも、なに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "いつも優しいから、甘えちゃうじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "甘えていいのよ。\\nシャロちゃんは、いつも１人で\\n頑張っちゃうんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "千夜……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "休むなんてだめよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら、どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "どうしてって、風邪を引いたのは私なんだから、\\n千夜が休む理由にはならないじゃない……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "シャロちゃんを看病したい。\\nそれで理由には充分よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そんな理由で\\n休ませてもらえるわけないでしょ？\\n怒られても知らないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "私はね、誰に怒られても\\nシャロちゃんの看病がしてあげたいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "な、何それ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "シャロちゃんは、私に看病されるのは嫌？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "そんなこと……ないけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "じゃあ、何も問題ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "……わかったわよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "私のことなんてほっといて。\\n風邪をひいたのは……自業自得なんだから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "……シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "めっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "調子が悪くて、気が滅入っているのはわかるわ。\\nでも、自分が悪いって思い込んじゃだめよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "風邪なんて誰でもひくものだし、\\nひいちゃった時は周りの人に頼っていいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "……本当に、いいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ええ。\\nむしろ、頼ってもらえなかったら\\nその方が悲しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "……うん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ、ちゃんと安静にしていてね。\\n急いでおかゆを作って、\\n薬とか必要な物を取ってくるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（……なんか、泣いちゃいそう。\\n　ホント……千夜ってば、なんでこういう時\\n　１番ほしい言葉をくれるのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

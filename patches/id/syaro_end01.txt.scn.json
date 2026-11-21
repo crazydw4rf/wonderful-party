@@ -1,0 +1,447 @@
+{
+  "identity": "syaro_end01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "うう……ううう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（あれ……もう朝……？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（なんだか体が重い……。\\n　昨日、クリスマスパーティーで\\n　夜遅くまで盛り上がってたせいかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（それとも……まさか、また風邪？\\n　気をつけてたつもりだったのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（うん？\\n　体が重いっていうか、\\n　重い物が体の上に乗ってる？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（なんなのよ、もう――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "って、千夜！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "すー……くー……。\\nんー……すー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ちょっと千夜、起きなさい！\\nなんでこんなところで寝てるのよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ああ……あんこがシャロちゃんに～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "どんな夢見てるのよ！？\\n起きなさいってば！　重いぃぃ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ん……？\\nあら、シャロちゃん……おはよう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "ええ、おはよう。\\nとりあえず、さっさと起きてくれない？\\nこれじゃ身動きが取れないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "でも……まだ眠くて……。\\nもうちょっとだけ、いいかしら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "よーくーなーいー！\\nおーきーろー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "……あら？\\nあらら……私ってば、どうしてここに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "それはこっちの台詞よー！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nやっと落ち着いたわ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "とりあえず、なんで私の部屋で寝てたのか\\n説明くらいはしなさい。\\nそれと、その格好の理由もね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "えーっとね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "言っとくけど、寝ぼけてた、なんて理由は\\n通じないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "まあ、さすがシャロちゃん。\\n私の考えを見抜いたのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "千夜のことだから\\n言いそうだなって思ったら、案の定！\\nちゃんと説明しなさいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "実はね、昨日、ココアちゃんから聞いたの。\\nココアちゃん、チノちゃんのために\\nサンタさんになるんですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "夜中にこっそりチノちゃんの部屋に行って、\\nプレゼントを置いてきてあげるんだって、\\n楽しそうに言ってたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "その話を聞いて、私もシャロちゃんの\\nサンタさんになってあげようって思ったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "ほら、看病をしてた時に部屋の鍵を借りて、\\nそのままになってたでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "それを使って、昨日、\\n夜遅く、ここに来たんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "枕元にプレゼントを置こうとしたらね、\\nシャロちゃんの寝顔がすごくかわいくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "……は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "それで、つい見とれちゃって、\\n気がついたらそのまま寝ちゃってたみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "へーえ……。\\nそんな理由で人の家に忍び込んだわけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "えー、でも本当にかわいかったのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "私が言ってるのはそこじゃないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "もう、そんなに怒らないで？\\nちゃんとプレゼントも用意してきたんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "プレゼント？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "はい、これ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "あ、ありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "どういたしまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "……開けてもいいわけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "ええ、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "え？　カード？\\nこのクリスマスカードがプレゼントなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "はずれ。\\nクリスマスカードじゃないのよ。\\nよく見て？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "……『新妻になってくれる券』？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "ええ、その券を使えば、\\n私がいつでもシャロちゃんの\\n新妻になってあげるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "……は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "最近、シャロちゃんにご飯を作ってあげたり、\\n看病をしてあげたり、色々していたでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "千夜",
+          "original": "そうしているうちに、私、気づいたの。\\nシャロちゃんのお世話をしてあげる幸せに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "千夜",
+          "original": "毎日ご飯を作ってあげたいし、\\n帰ってきた時、おかえりって言ってあげたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "シャロちゃんが望むなら、\\nお風呂で背中だって流してあげるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "シャロ",
+          "original": "な、な、何言ってるのよ、あんたは～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "千夜",
+          "original": "もう、シャロちゃんたら照れちゃって！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "シャロ",
+          "original": "照れてるんじゃなくて呆れてるのよ！\\nこんな券いらないから！　はい、返す！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "千夜",
+          "original": "え？　いいの？\\n有効期限なし、使用回数も無限なのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "千夜",
+          "original": "つまり、本当のプレゼントは私ってこと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "シャロ",
+          "original": "……あんた、酔っ払ったりしてないわよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "千夜",
+          "original": "シャロちゃんとは違うんだから、\\nカフェインで酔ったりはしないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "シャロ",
+          "original": "だったらなんなの、そのテンションは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "千夜",
+          "original": "いいじゃない。\\nせっかくのクリスマスなんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "シャロ",
+          "original": "クリスマス関係ないしっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "シャロ",
+          "original": "（ほんとにもう、千夜ときたら！\\n　マイペースにも程があるわ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "シャロ",
+          "original": "（でも、こんな千夜だから、\\n　私、ずっと一緒にいられるのかもしれない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "シャロ",
+          "original": "（甘えたり、助け合ったり、\\n　こんな風にくだらない言い合いをしたり……\\n　そういう関係は、正直、嫌いじゃない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "シャロ",
+          "original": "（これからもお互いに、持ちつ持たれつ\\n　過ごしていけたらいいわね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "シャロ",
+          "original": "（とはいえ――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "シャロ",
+          "original": "そういえば、さっき思ったんだけど。\\n千夜、ずいぶん重くなったんじゃない？\\n上に乗ってる時、すっごく苦しかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "千夜",
+          "original": "まあ、シャロちゃんたら失礼ね。\\n私、そんなに重くないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "シャロ",
+          "original": "そう？\\nでも最近、ほっぺの辺りがちょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "千夜",
+          "original": "ええ？　う、嘘でしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "70": {
+          "speaker": "シャロ",
+          "original": "……もちろん嘘。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "71": {
+          "speaker": "千夜",
+          "original": "もう、シャロちゃんのいじわるっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "72": {
+          "speaker": "シャロ",
+          "original": "ふふふんっ！\\nいつものお返しよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

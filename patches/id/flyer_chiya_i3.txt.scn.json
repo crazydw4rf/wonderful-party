@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_chiya_i3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あら？\\nそこに座っている人、何をしているのかしら。\\nあの大きな板を持っている人。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "きっと絵を描いてるんじゃないかな？\\nあの板、多分画板だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ああ、絵を描いているのね。\\n街のスケッチかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "真剣な顔で、一所懸命だね。\\n芸術家さんって感じだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ええ、ああいう趣味もいいわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "趣味かぁ。\\nそういえば、私の趣味ってなんだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "あら、パンを焼くことじゃないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うーん、実家では普通に焼いてたし\\n趣味って感じがしないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "私も、スケッチを趣味にしてみようかな。\\nなんだか楽しそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "まあ、ココアちゃんが絵を描くの？\\nそれは素敵ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ココアちゃんの絵って、どんな風なのかしらね？\\n描いたら、ぜひ見せてほしいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "う、うまく描けたらね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "そんなこと言わずに。\\nどんな絵でも見てみたいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、そんなに私の絵が見たいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "だって、ココアちゃんの目に映っている景色を\\n私も見られるってことでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "ココアちゃんから見たこの街って\\nどんな風なのか、とっても興味があるわ。\\nきっと、温かな風景なんでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そ、そうかなぁ。\\n　普通の絵になると思うんだけど。\\n　でも、千夜ちゃんが見たいのなら……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "じゃあ、何を描こうかな？\\n橋とか川とか建物とか、石畳の通りとか……\\nお花屋さんのある景色もいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "普通のおうちや図書館、\\n公園や広場もいいんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "いいお天気の日の道も、\\n曇った日の市場も、雨の日の石畳も……\\nこの街はいつだって絵になるもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "全部描いてみたいけど、うまく描けるかな？\\n千夜ちゃんの期待を裏切らないように\\n頑張ってみるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ええ、楽しみにしているわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,177 @@
+{
+  "identity": "chino_d05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "今日はクリスマスイブ！\\nバイトが終わったら、楽しいパーティーだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そうですが、まずは\\n今日の営業を乗り切らなければいけません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ。\\nきっと、限定メニュー目当てで来る人が\\nたくさんいるだろうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nそれはそれで、とっても嬉しいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "おっはよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "おはようございまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あれ？\\n２人とも、こんなに早くにどうしたの？\\nまだ開店時間じゃないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "マヤさん、メグさん、おはようございます。\\nクリスマスイブなのに、\\nお店の手伝いをお願いして、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "ううん、任せて！\\n今日はガンガン働くよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "私もお手伝い楽しいから、全然平気だよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\n今日はよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "なるほど。\\n今日は忙しくなるから、\\n２人にもヘルプをお願いしたんだね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "そういうこと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "今日はよろしくね、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "なら、これで全員集合だな。\\nでは開店前のブリーフィングを始めるぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "今日はクリスマスイブだ。\\n忙しくなるので、いつものメンバーに加えて\\nマヤ、メグも手伝ってくれる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "よろしく～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "頑張りまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ココアとチノはすでに知っているはずだが、\\n今日は限定メニューも取り扱う。\\nきちんと把握しておけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "限定メニュー？　それって何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "特製パンケーキだよ！\\nこっちに試作してみたのがあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "うわぁ～！　おいしそ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "なんかすごくテンション上がってきた～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "チラシ配りの成果もあり、ラビットハウスは\\n以前よりも知名度が上がっている。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "この限定メニューとの相乗効果で、\\n今日は特に多くのお客が訪れること確実だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "各員、気合いを入れて状況に対処せよ！\\nいいな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア＆マヤ＆メグ",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "い、いえっさー。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

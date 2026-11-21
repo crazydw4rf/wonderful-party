@@ -1,0 +1,574 @@
+{
+  "identity": "rize_b01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ありがとうございました。\\nまたのお越しをお待ちしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（はあ、今日もお客が多いな。\\n　チラシ配り、思った以上に効果があったのか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チノちゃん、オーダー！\\nカフェラテ２つ、お願いしまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "……あ！\\nあ、えっと、すみません。\\nもう１度お願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "カフェラテ２つだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "チノがオーダーを聞き逃すなんて珍しいな。\\n忙しくて疲れたのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "いえ、ちょうどメールが来て、\\nそちらに気を取られてしまいました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "仕事中にすみません。\\n千夜さんと、パーティーのことで\\nやり取りをしていまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ああ、そうなのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "はい、お互いの料理のレパートリーを出し合って、\\n作るものを決めたりしているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "チノちゃんね、電話で打ち合わせをしながら\\nノートに色々書き出したりしてて、\\nとっても熱心なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "別に、熱心というほどでは……\\n材料の共通化などの工夫で、できる限り\\n節約していこうとしているだけです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "へえ、充分すごいじゃないか。\\nやっぱり料理はチノと千夜に任せて正解だったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "でしょ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "だから、どうしてココアさんが自慢げなんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "それで？\\nそうやって自慢げにしているココアは、\\nパーティーの準備を始めているのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "もちろんだよ。\\nどんなクリスマスケーキがいいか、\\nみんなにリサーチしてるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "最初はね、自分で作ってみようかとも\\n思ったんだけど、もし失敗しちゃったら\\n大変だし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "せっかくのクリスマスにケーキなしなんて、\\n考えられないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "まあ、そうだな。\\nクリスマスの料理と言えば、\\nターキーとケーキって感じだもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "うん、だから、みんなに\\nどんなクリスマスケーキがいいか聞いて、\\n条件に合うものを探すことにしたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ということで！\\nリゼちゃんはどんなケーキがいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "うーん、急に聞かれてもなぁ。\\nちなみに、他のみんなは\\nどんなケーキがいいって言ってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "今のところはね、\\nオーソドックスなイチゴのケーキかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "でも、ブッシュ・ド・ノエルも捨てがたいし、\\n意外とクリスマスプディングもいいかもって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "なるほど。\\nまあ、その中なら私もイチゴのケーキかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "ふむふむ。\\nリゼちゃんはイチゴのケーキに１票、と。\\nこの調子だと、これで決まりかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "ということは、お店はあそこがいいかな？\\nあ、でも、あっちも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "（うんうん、みんな順調に\\n　準備を進めてるみたいだな。\\n　ますます当日が楽しみになってきた――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "（……ん？　待てよ？\\n　何かおかしくないか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "（ケーキはココアで料理はチノと千夜、\\n　飲み物はシャロ、飾り付けはみんなで用意）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "（場所はラビットハウスを提供してもらえるし、\\n　費用についてはみんなで分担）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "（……私は？\\n　私は当日まで、何をすればいいんだ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "（ど、どうして今まで気づかなかったんだ！？\\n　私のやるべき作業がないじゃないかっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "（私に何かできることは――）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（私に何かできることは――）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "そうだ、会場の警備役だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "味見役というのはどうだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "演奏役なんてどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（そうだ、会場の警備役だ！\\n　私にぴったりじゃないか！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（どんな悪漢が乱入してきても、\\n　私が華麗に撃退してみせるぞ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（って、そんな事態が起こるわけないだろう！\\n　落ち着け、落ち着くんだ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（味見役というのはどうだろう？\\n　ケーキも料理も飲み物も、\\n　私の舌で吟味して……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（って、私は何様のつもりだ！？\\n　そもそも、そんな役は必要ないじゃないか！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（演奏役なんてどうだ？\\n　クリスマスに合わせたムードのある曲を\\n　演奏するんだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（なんなら、演劇部の助っ人で鍛えた\\n　この喉を使って、歌ってもいい！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（……いや、よく考えてみたら\\n　そんなのＣＤで事足りるし、\\n　結局、当日まで出番がないじゃないか～！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（なんてことだ……。\\n　みんなに役割を分担することに気を取られて、\\n　自分のことをすっかり忘れていた）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（これじゃ、準備をみんなに\\n　押しつけただけじゃないか！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "リゼちゃーん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "うわっ！？　な、なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "急に黙り込んじゃって、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いや、その……\\n重大な問題に気づいてしまったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "重大な問題！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "その、クリスマスパーティーの\\n準備に関してなんだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "準備にですか？\\n落ち度があったようには思えませんが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "いや、その、みんなに役割を分担するのに\\n気を取られて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "私自身が、何も役割を受け持っていないことに、\\n今更、気づいたんだ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア＆チノ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "な～んだぁ！\\nリゼちゃんてば、大げさだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いや、大げさじゃないだろう。\\n自分から仕切り役を買って出ておいて、\\n準備をみんなに押し付けるなんて最悪じゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "押し付けられたなんて思ってないよ？\\nねえ、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "はい。\\nむしろ、テキパキと指示してもらえて\\nとても助かっています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "しかし……私だけ何もしていないんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "リゼちゃんは、みんなに指示を出してるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "指揮官として、みんなに指示を出す！\\nそれがリゼちゃんの仕事ってことで\\nいいんじゃないかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "私が……指揮官？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "私、映画とかで見たことあるけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "指揮官は、みんなが行動しやすいように\\n指示を出すのがお仕事で、\\n自分が行動する必要はないんだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "だからね、リゼちゃんはどっしり構えて、\\n私たちを見守ってくれたらオッケーだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "ココアさん、意外と真面目に\\n物事を考えたりもできるんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "わ、私はいつも真面目に考えてるよー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "リゼさん。\\n私もココアさんと同じ意見です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "リゼさんのおかげで、パーティーの準備が\\nスムーズに進んでいるんです。\\n何もしていないなんて言わないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "チノ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんとシャロちゃんも、\\nきっと同じように思ってるよ。\\nだから、そんなに気にすることないって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "むしろ、これからも\\nばりばり私たちに指示を出してね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "……あ。\\nココアさん、あちらのお客さんが\\nお帰りみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "はーい、レジに行ってきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "なら私は、テーブルを片付けてくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "（指揮官、か。\\n　普段なら、調子に乗ってあれこれ指示を\\n　飛ばしていたかもしれないが、今回はな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "（２人はああ言ってくれたが、\\n　私だけ何もしていないことに変わりはない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "リゼ",
+          "original": "（このままのうのうと\\n　指揮官役に収まるというのも気が引ける）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "（今からでも、私にできることを考えないと……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_rize_a1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ううーん……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ラビットハウスです。\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（むぅーん……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "……ん？　ココア、何してるんだ。\\nそんなところでうずくまってても\\nチラシはなくならないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、うん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "どうしたんだ？\\nまさか、ココアなのに悩み事か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "わ、私にだって悩み事くらいあるよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "えっ！？\\n本当に悩み事なのか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "わかった、話してみろ。\\n私でよければ力になるぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "それは……その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "遠慮なんてするな。\\nココアらしくもない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃんの中で\\n　私の評価ってどうなってるの！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ほら、言ってみろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "えっと……\\nリゼちゃん、制服でチラシ配りして大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "は？　大丈夫って何がだ？\\n今だって問題なく配ってたじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あのね、リゼちゃんの学校って\\nお嬢様学校だから、\\nこういうことして怒られたりしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "なんだ。\\nそんなことで悩んでたのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "大丈夫だよ、問題ない。\\nていうか、うちの学校に\\nどんなイメージ持ってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "……本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "本当だ。\\nとにかく、余計な心配はしなくていい。\\nだめだと思ったら自分で言うから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うん、絶対だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "ああ、絶対だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "ほら、さっさとチラシを配らないと\\nいつまでたってもラビットハウスに戻れないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "……でも心配してくれてありがとな、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

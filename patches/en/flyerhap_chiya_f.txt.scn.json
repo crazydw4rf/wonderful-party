@@ -1,0 +1,289 @@
+{
+  "identity": "flyerhap_chiya_f.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "こんにちは。\\nみなさんでチラシ配りですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、青山さん！\\nこんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "それは……サンタ風の衣装ですか。\\nかわいいですねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "今の私たちはサンタさんですから、\\n青山さんにもプレゼントを届けてあげますよ！\\nどんなプレゼントがいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "では……締め切りを延ばしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "いきなり生々しい！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "サンタに頼む前に仕事しろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "青山",
+          "original": "締め切りはやはり無理ですか。\\nいえ、わかっていましたが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えーっと、他にはないですか？\\n私たちに叶えられそうなことで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "いえ、こんなにかわいいみなさんの姿が\\nプレゼントのようなものです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "……そうだ。\\nアイディアを呼ぶために、みなさんのかわいさを\\n文章で表現してみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "それ、面白そう！\\n私たちもやろうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いいわね、楽しそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "自画自賛だろ、それ。\\n私には無理だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "私も遠慮したいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "私もです。\\nそれに、小説家の青山さんの前で\\n文章を披露するなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、私と千夜ちゃんだけ参加します！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "な、なんでありがとうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "では、さっそく。\\n私が表現するとしたら……うーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "できました。\\n『粒ぞろいの砂糖菓子のような、\\n　クリスマスの少女たち』でいかがでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "わあ～！\\nさすが、表現が上手いですね。\\nとってもスイートなイメージ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "私達、『粒ぞろいの砂糖菓子』\\nみたいなのね、ふふふ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "お気に召して頂けたようで嬉しいです。\\nでは、千夜さんはどう表現します？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "そうね……。\\nこうしてみんなを見ていると\\nかわいくて笑顔になれるから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "『微笑みを呼ぶ聖夜の使者』……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "微笑みを呼ぶ……！\\nうん、サンタさんって感じがするよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "それに、そこはかとなく華を感じさせます。\\nみなさんのかわいらしさにぴったりですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ふふふ、ありがとう。\\nさあ、次はココアちゃんの番ね。\\nどう表現するの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "むむむ～。\\n青山さんも千夜ちゃんもレベル高いから\\n緊張しちゃうなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "……よし！\\n『刹那の筋雲、聖なる紅のプリンセス』で\\nどうだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "まあ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おおっ、\\n　千夜ちゃんの琴線に触れたっぽいよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "素敵、素敵よココアちゃん！\\n『刹那の筋雲』って、衣装の\\nこの白いふわふわの縁取りのことね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "青山",
+          "original": "なるほど～。\\nよくわかりますね、千夜さん。\\n私はわかりませんでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんと私は以心伝心ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア＆千夜",
+          "original": "ねー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "いや、まず、サンタって\\nプリンセスじゃないよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "『聖なる紅のプリンセス』の『プリンセス』は、\\n『小公女』と書いて『プリンセス』って\\n読ませるとなおいいんじゃないかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "進化してる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "青山",
+          "original": "うふふ、楽しいですね。\\nついはしゃいでしまって、\\nすっかり気が晴れました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "青山",
+          "original": "明るいみなさんの様子に触れられて、\\nおかげさまで執筆も進みそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（わあ、青山さん、嬉しそう！\\n　役に立てたみたいでよかった）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

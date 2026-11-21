@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_syaro_d2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん。\\nこの辺り、人が減ってきたみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そうね。\\n別の場所に移動した方がいいかもしれないわ。\\nとりあえず、あっちに行ってみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "って、何見てるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うわあああ～。\\nもふもふ天国だぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "え！？\\nまさか、うさぎ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "……ああ、なんだ。\\nぬいぐるみショップじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "こんな所で油売ってる暇はないわよ。\\nチラシはまだ残ってるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はうううう～。\\nこの子猫、思った通りの\\nもふもふ具合、たまらないよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "こっちの犬のぬいぐるみも\\n柔らかくてふわふわだぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "もう、まだ仕事中でしょ？\\n本当にもふもふしたものには目がないんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ！\\nシャロちゃんにぴったりの子、見つけたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "ひっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\n見て、あんこそっくりだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "や、やめてよ！\\n近づけないで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ほらほら、この毛並み、無表情な顔、\\n動かないところもあんこそのものだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "い、い、嫌ぁぁ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "だめだよ、シャロちゃん！\\nうさぎに慣れる訓練しなきゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "嫌っ！\\nそれ以上近付けたら、舌をかむから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うーん、このあんこは絶対にかまないから\\n慣れるのにちょうどいいと思ったんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "うう……。\\nもしかして、面白がってるわけじゃないわよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "まさか！\\nシャロちゃんがうさぎに慣れるお手伝いだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "気持ちだけで充分だから！\\n私、違う場所でチラシ配るっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ああ、行っちゃった。\\n　あんことシャロちゃん、少しでも\\n　仲良くなれたらって思ったんだけどなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

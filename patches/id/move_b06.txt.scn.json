@@ -1,0 +1,440 @@
+{
+  "identity": "move_b06.txt.scn",
+  "scenes": {
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、どこにいるんだろ？\\n　市場に買い出しに来てるはずだよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あ、いた！\\n　フルーツ屋さんの前にいるの、チノちゃんだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\n買い出し、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうして買い出しのことを……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "さっき、ラビットハウスにいって\\nリゼちゃんに聞いたんだ。\\nこのフルーツを買いに来たの？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（やっぱり日曜日の市場は人が多いなあ。\\n　知ってる誰かがいたら声かけてみようかな。\\n　それで、一緒に回って楽しんで……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（え！？　チノちゃんがいる！\\n　今はラビットハウスで\\n　バイトの時間じゃないの？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チノちゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\nお買い物ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ううん、ちょっとぶらぶらしてたんだけど、\\nチノちゃんはどうしてここに？　バイトは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ちゃんとバイト中ですよ。\\n買い出しを頼まれたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そういうことか。\\nもしかして、今見てたフルーツを買いに来たの？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "いえ、見ていただけです。\\n買うべきものはまだ少し残っていますが、\\n時間は充分あるので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "じゃあ、私も一緒に見て回っていい？\\n１人でぶらぶらするのもつまんないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "いいですよ。\\nただし、はぐれないでくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "やだなぁ、子どもじゃあるまいし\\n迷子にはならないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……その妙な自信が不安なんですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、小麦粉売ってる！\\n新作パンを作るのに買っておいた方がいいかな？\\n看板メニューの開発もしたいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "看板メニューですか？\\nココアさんの作ったパンがありますよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そうなんだけど、新作も出さないと\\nお客さんが飽きちゃうかも――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ひゃっ！？\\nご、ごめんなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "やっちゃったぁ。\\n人が多すぎて、話しながら歩くのは危ないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "……あれ？　チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんがいない！\\n　もしかして……迷子になっちゃった！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（急いで探さないと！\\n　チノちゃん、きっと困ってる！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（急いで探さないと！\\n　チノちゃん、きっと困ってる！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "（周りの人に訊いてみよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（声を出してみなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（……この人ごみじゃ無理かな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（周りの人に訊いてみよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "すみません！　私の妹を見ませんでしたか？\\nこれくらいの身長で、思わずぎゅっと\\n抱きしめたくなるような子なんです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "女性Ａ",
+          "original": "は？　いえ、見てませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうですか、ありがとうございます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あの、私の妹を見ませんでした？\\nかわいくてふわふわで、私の幸せの元なんです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "女性Ｂ",
+          "original": "い、いえ、わかりませんけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ありがとうございます！\\nすみません、私の妹を見ませんでしたか！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "こ、ココアさん！\\nやめてください、そんな言い方……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nよかったぁ、どこに行っちゃったのかと思ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "違います、どこかに行っちゃったのは\\nココアさんです。\\nそれに、私は妹じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（声を出してみなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん！　チノちゃーーん！\\nどこに行ったのー！？　返事してー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……返事がない。\\n　私が気をつけてなかったから\\n　完ぺきに迷子になっちゃったんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（私、お姉ちゃんとして、\\n　ちゃんと妹を探さないと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃーーん！\\nどこに行ったのーーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ココアさんっ！\\nそんな大声、やめてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チノちゃん！！\\nよかった……。\\nどこ行ってたの？　心配したよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "それはこっちのセリフです。\\nいなくなったと思ったら、市場中に聞こえる\\n大声で叫んでるんですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "気持ちは嬉しいですが……もう少しやり方が……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……この人ごみじゃ無理かな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（待っててね、チノちゃん！\\n　今、迎えに行くから！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はうう……。\\n　チノちゃん、見つからない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すれ違っちゃったのかな？\\n　下手に動かないでじっとしてればよかったかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん、探しましたよ。\\n突然いなくなるから心配しました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nよかったぁ、\\nどこに行っちゃったのかと思ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "違います、ココアさんが\\n勝手にいなくなったんじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "もう……。\\nココアさん、あまり心配させないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ご、ごめんなさい……。\\nでも、見つかってよかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "こ、ココアさん！？\\nそんなに抱きしめないでください。\\n周りの人も見ていますし、はずかしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも、今、こうしたいの！\\n大事な妹がいなくなったら\\n心配するのがお姉ちゃんなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "もう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "大丈夫ですよ、ココアさん。\\nココアさんがいなくなっても、\\n私はすぐに見つけられます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それって姉妹愛？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "いいえ。\\nココアさんが大騒ぎするので\\nすぐに居場所を特定できますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "それに……ココアさんだって、\\n私が見つかるまで探してくれますよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "うん、もちろん！\\nだって私はチノちゃんのお姉ちゃんなんだからね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

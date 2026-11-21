@@ -1,0 +1,35 @@
+{
+  "identity": "mainloop.ks.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "プロローグをスキップしますか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "プロローグをスキップしますか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*tutorial": {
+          "original": "プロローグをスキップしない",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*tutorial_skip": {
+          "original": "プロローグをスキップする",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

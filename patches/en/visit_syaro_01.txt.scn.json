@@ -1,0 +1,400 @@
+{
+  "identity": "visit_syaro_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "こ、こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん！\\nいらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ん？　どうしたんだ？\\nなんか顔が引きつってないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "い、いえ、大丈夫です。\\nちょっとバイトで疲れちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そっか、あまり無理はするなよ。\\nゆっくりしていけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "あ、はい！\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "今日こそ、リゼ先輩に聞かないと。\\nでも……緊張する……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？\\nさっきからもじもじしてるけど平気？\\nトイレならあっちだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ち、違うわよっ！\\n私はただリゼ先輩に聞きたいことが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "私に？　なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "ああっ！？\\nえ、えっと……その……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "遠慮なんかいらないぞ。\\nなんでも聞いてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "は、はい！\\nじゃあ、その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "前に、演劇部の助っ人で、オペラ座の怪人の\\nクリスティーヌ役をやってましたよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "それで、その……それ以来、\\n付きまとわれたりとか、してませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ああ、そういえば最近、\\nよく付きまとってくるのがいるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "えええっ！？\\nやっぱりいるんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ああ、そういえばリゼちゃん、\\n　最近うさぎに懐かれてるって言ってたっけ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんはうさぎが苦手だから、\\n　うさぎと仲良くしてるリゼちゃんを\\n　どこかで見かけて心配になったのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "劇が評判になって、私のクラスでも\\n先輩のファンが増えたりしてるから\\n心配してたけど、案の定……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "あ、あの！\\nリゼ先輩は、そういうの嫌じゃないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "いや、まあ、別に……嫌ではないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "そそ、そそそ、それって、\\nリゼ先輩もその子たちのこと、\\nすすす、すす、好きってことですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "もちろん嫌いってことはない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "嫌いじゃない……そうなんだ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "あ、あの、じゃあ、\\nリゼ先輩の好みのタイプって\\nどういう感じなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "うーん、好みと言われてもなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "それじゃ、私が推理してみるよ。\\nリゼちゃんはね――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "それじゃ、私が推理してみるよ。\\nリゼちゃんはね――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "すべてを平等に愛してるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "ワイルドで格好いい子が好みだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "可憐でかわいい子が好きなんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "すべてを平等に愛してるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "す、すべて！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "特に嫌いなタイプとかはないからな。\\n来るものは拒まずって感じだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "来るものは拒まずなんて！\\nそ、そ、そんなのだめです～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "どうしてシャロがそんなに取り乱すんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ワイルドで格好いい子が好みだね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "確かに、そんなイメージはあるけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そうだな、ワイルドって言うか、\\nあまりすり寄ってこないアウトローで\\nクールなのもいいと思うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "かわいいうさぎに銃器とか持たせるのも\\nそれはそれで、ありだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ワイルドで格好いいキャラなんて\\n私には無理……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "可憐でかわいい子が好きなんだよ。\\n小さくて、上品で……そう、例えるのなら\\nシャロちゃんみたいな子！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "わ、私みたいな！？\\n何言ってるのよ、ココア！\\nリゼ先輩に失礼じゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "いや、でも、上品で大人しい子は実際好きだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "す、好き……！\\nリゼ先輩、ありがとうございますっ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "な、なんでシャロが礼を言うんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、こないだも\\n白くて小さい子に懐かれてたよね。\\n抱っこしてあげてたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あ、あれは、あいつが\\n抱いてほしそうに見てたからだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "だ、だ、だ、だ、抱いて！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "あいつ、すぐなめてくるんだよな。\\nあと、頭を撫でてやるとすごい喜ぶんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そ、そ、そんな……！\\nリゼ先輩、もうそんな深い仲に\\nなっている子が……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "うう……わかりました。\\n私はもう何も言いません。\\nどうか、末永く幸せになってくださいぃぃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "シャロ！？\\n無神経な話をしてすまない！\\nまさか、泣くほどうさぎが苦手だったなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "はい……。\\n私、泣くほどうさぎが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "えっ？　うさぎ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "私がうさぎに付きまとわれてる話で\\n落ち込んでたんじゃないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "え……。\\nじゃあ、今までのは全部、うさぎの話？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "あはは……よかったぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、何の話だと思ってたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "そ、そこには触れないでよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

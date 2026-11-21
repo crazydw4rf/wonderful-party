@@ -1,0 +1,454 @@
+{
+  "identity": "visit_mame_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "ちわ～っす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "お邪魔しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おお、やっとお客さんが来てくれたよ！\\nさあさあ、座って座って？\\nご注文は何にしますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "な、なんだ？\\n今日のココアはぐいぐい来るなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "悪いな、２人とも。\\n今日はやけに暇なんで、\\nココアのやつ、退屈で仕方なかったみたいなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "ああ、それでチノが\\nあんなことやってるわけか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "あっ！\\nチノちゃん、それ、数学の宿題？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はい。\\n暇なので、今のうちに\\n終わらせようと思っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "丁度いいや。\\n私たちもチノに便乗しようか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "うん！\\nチノちゃん、一緒に宿題しよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "はい、構いませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "みんな、頑張れ～！\\nお姉ちゃんが応援してるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "応援しているのなら、静かにお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "うーん……。\\n次の問題、難しいねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "どれどれ？\\nああ、その答えはマイナス３だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "お！\\nサンキュー、ココア！　助かったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\nそうやって答えを教えられたら勉強になりません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "えー、いいじゃん楽で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "でも、自分でちゃんとやらなきゃ\\nテストの時、解けなくなっちゃうよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "そうです。\\nココアさんも、答えがわかっても\\n言わないようにしてください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "そうです。\\nココアさんも、答えがわかっても\\n言わないようにしてください。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "本当にごめんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "つい言っちゃったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "そんなこと言うと、もう教えてあげないよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "本当にごめんね。\\nせっかく勉強してるのに邪魔しちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "ううん、謝ることないよ。\\nお手伝いしてもらえるのは嬉しいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ココアにも頼りになるところが\\nあるんだなーって思えるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え、えへへ～。\\nそうおだてても、もう答えは\\n教えてあげないんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "おい、ココア。\\nそう言いながら、次の問題を\\n解こうとしてるのはなんでだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "こ、これは、ただ、\\n困った時に、すぐ答えられるように\\n準備してるだけだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "なあココア、これの答えは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、それはねー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "ココアさん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "う、ううう～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "そんなに教えたいのか。\\n頼られて嬉しいんだな、きっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nちょっと待っててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、どうしたのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "つい言っちゃったんだ。\\nすぐに答えがわかったから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "じゃあ、そのついを\\nこれからも繰り返してくれよ。\\n楽できるし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "だめです、マヤさん。\\nココアさんも絶対に\\n答えを言わないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nちょっと待っててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、どうしたのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そんなこと言うと、もう教えてあげないよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "それでいいんだよ。\\nこういう時は、相手が教えを請うてくるまで\\n自力で頑張らせないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "リゼってスパルタ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そんなことないって。\\n聞いてくれたら、ちゃんと教えるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nちょっと待っててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、どうしたのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "また変なことを企んでないといいんですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\n勉強で頑張ってるみんなに、\\nデザートのサービスだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "うわぁ！\\nありがとう、ココアちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "やったね、ラッキー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ、ありがとうございます……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "答えは教えてあげられないけど、\\nこういう形でばっちりサポートするからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "じゃあ、そのデザートの代金は\\n当然、ココアが払うんだよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nわ、私が全部、払うの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "当たり前だろ？\\n店の商品なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あああ……。\\nこ、今月のお小遣いが～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "大丈夫です、ココアさん。\\nリゼさんの冗談ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ほ、本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ああ、冗談だよ。\\n本気にするとは思わなかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "はー、よかった！\\n今月お小遣いピンチだったから\\nどうしようかと思ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "今回は、私のサービスということに\\nしておきますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ありがとう、チノちゃん！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "……いいんです。\\nちょうどデザートが食べたくなっただけですし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ私が食べさせてあげるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "遠慮します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "ココア、邪魔するのもいい加減にしろよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_syaro_c2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "う～ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの、シャロちゃん？\\n悩み事だったら相談にのるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "大丈夫、そんなのじゃないわ。\\nただ、着物を着慣れてないせいかしら？\\nどうにも肩が凝っちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうなの？\\n肩、揉んであげようか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "って、なんで返事も聞かずに\\nにじり寄ってきてるのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "私が頼んで着てもらってるんだから、\\nその肩こりは私の責任だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ちゃんと責任を取って、\\nシャロちゃんの肩こりを撃退しなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "どういう理屈なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "さあさあ、力を抜いて～。\\nシャロちゃんの肩こりをすっきりさせちゃうよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "や、やめて！\\nくすぐったい！　くすぐったいから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "くすぐったいってことは\\n肩もみが効いてる証拠だね。\\nでは、さらに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "あはははっ。\\nやめて！　やめてったら～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "はいはい、お客さん、我慢してくださいね～。\\nしつこい肩こりも、ココアマッサージで\\nすっきり爽快ですよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "だ、誰が、お客なのよ！\\nあはっ、あははっ！\\nストップ！！　苦しい！！　あははっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "も、もういいからっ！\\n今度は私がココアの肩を揉んであげる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "え、いいよ。\\n悪いし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "いいから揉ませなさーい！\\nほら、くすぐったいでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ああ～、私も着物で肩が凝ってたのかな、\\nすごく気持ちいいよ～。\\nシャロちゃんも肩揉み、上手だねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "あ、あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "あ、そこそこ。\\nいいね、いいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "効いてない！？\\nこうなったら仕方ないわ……最後の手段よ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ええ～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ひゃあ！？\\nしゃ、シャロちゃん！\\nくすぐったって肩こりは治らないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ココアもくすぐったさを味わいなさーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "あはははっ！！\\nわ、私だって負けないよ！　そりゃー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "あははっ、やめて！\\nくすぐったいったら～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

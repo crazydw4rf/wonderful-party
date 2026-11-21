@@ -1,0 +1,259 @@
+{
+  "identity": "flyerhap_chino_j.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの、チノちゃん。\\n何か考え事？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "いえ、みなさん、かわいい服装なので……\\nこのまま演劇ができそうだなって思ってたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、確かに。\\n非日常って感じだもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ちょっとした劇ならできそうよね。\\nやってみたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "まあ、劇の衣装っぽいといえばそうだけど、\\nチノちゃんにしては突飛な発想ね。\\nまるでココアみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "まあ、一緒に暮らしてるんだから\\n似てきてもおかしくないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ううう……！\\nチノちゃんが私みたいなことを言うなんて！\\nこれはもう本物の姉妹ってことだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "本物の姉妹になった記念に演劇をやろうよ！\\n『劇団ラビットハウス』結成だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "なってません。\\nそれに、そんなことをしている暇が\\nどこにあるんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "脚本や大道具だってどうするんですか？\\nあるのはこの衣装だけなんですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "はうう……。\\n妹が冷たいよぉ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "だから、妹じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "でも、ちょっと想像するくらいならいいよね？\\nもし本当にやるのなら、みんな、どんな劇がいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "そうねぇ、どんな劇がいいかしらね？\\nうーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "言い出したココアは、どんなのをやりたいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "もちろん、童話だよ。\\nかわいいお話がやりたいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "童話なら、きっと楽しくできますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ホント！？\\nよかった、チノちゃんが喜んでくれるような\\n劇ができたらいいなって思ったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "……あ、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ひとくちに童話と言っても幅が広いな。\\nどの辺をやりたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "長靴をはいた猫がいいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "いいわね。\\n賢くてかわいい猫をチノちゃんが演じたら\\nきっと評判になるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "あ、でも、チノちゃんは\\n木の役をやるのが好きなんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "はい、そうです。\\n覚えてくれてたんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "あら、チノちゃん嬉しそう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "べ、別に、そんなことは……\\nココアさんの記憶力も捨てたものじゃないと\\n驚いたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんだもん、妹のことは\\nしっかり記憶してるんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "……言っておきますが、\\nやるなら動かない木ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "え？\\n木ってそもそも動かないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "青山",
+          "original": "あの～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "ひゃあっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "あら、青山さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "青山",
+          "original": "お話は聞かせて頂きました。\\n劇団が本格始動した際は、\\nこの青山ブルーマウンテンにぜひ脚本を――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ＆リゼ＆シャロ",
+          "original": "自分の仕事をしてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "青山",
+          "original": "あ、あらあら～？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "identity": "visit_chino_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あっ、シャロちゃん！\\nいらっしゃいませ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "もうバイトは終わったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "はい、今日は少し早く上がれたので、\\nちょっと寄ってみようかなーって。\\nご迷惑でしたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "いいや、大歓迎だよ。\\nさあ、座ってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "……あら？\\nチノちゃんは何してるの？\\n豆の量り売り？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "いえ、うちの\\nオリジナルブレンドを作ってるんです。\\n豆の配合が難しくて……緊張します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "オリジナルブレンド……。\\nそれって、ここの看板みたいなものよね。\\nブレンドってお店ごとにまったく違うし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そう！　コーヒーは奥が深いんだよ？\\nコーヒー豆にも色々特性があるからね。\\nどうブレンドするかで味も変わるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "なんでココアが誇らしげに解説してるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "ちなみに、今作ってるのは\\nチノちゃんが考えたブレンドなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "いえ、これはお店に昔からあるブレンドです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "へえ、お店に代々伝わるブレンドってことね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "でも、いずれはチノちゃんも\\n自分のオリジナルブレンドを\\n作らないといけないよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "は、はい。\\n一人前のバリスタになれたら、いずれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "いずれ、か。\\nチノは一体どんなコーヒーを作るんだろうな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "いずれ、か。\\nチノは一体どんなコーヒーを作るんだろうな。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "爽やかな酸味のあるコーヒーだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "気品ある香りのコーヒーかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "愛のこもったココアブレンド！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "きっと、爽やかな酸味のあるコーヒーだよ。\\nチノちゃんは、来てくれた人がすっきりした気分で\\n帰れるようなコーヒーを作ると思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "確かに、ここに立ち寄ってくれたお客さんに\\nそんな気持ちを提供できたら嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でしょ！？\\n私はお姉ちゃんだからね、チノちゃんのことは\\n何でもわかっちゃうんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……そうですか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "気品ある香りのコーヒーかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "気品、ですか？\\nどうしてそう思うんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって、チノちゃんが大きくなったら、\\n気品あふれる素敵な女の人になると思うから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "そ、そうですか。\\nありがとうございます。\\nその、期待に添えるように、努力します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おいおい、\\nなんだかお見合いみたいになってるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "な、何言ってるんですか。\\nそもそも、どうして姉妹でお見合いするんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "んんんっ！？\\n今、チノちゃん、私と姉妹だって言った？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ、えっと、その……\\nココアさんがいつも姉妹だと言ってるから\\nつられただけです、それだけですから！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "愛のこもったココアブレンド！\\nお姉ちゃんへの愛を込めて、\\nココアがブレンドしてあるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そんなコーヒーは作りません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お、お姉ちゃん想いのチノちゃんなら\\nきっと作ってくれると信じてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "作りません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "……チノちゃん、\\nあれは本気で呆れてる顔ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "それにめげないのがココアのすごいところだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……あっ！　そうだ！\\n未来のシャロちゃんのために、絶対に\\nマスターしなくちゃいけないブレンドがあるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "え？　私のため？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そう、私たちは作らなきゃいけないんだよ。\\nシャロちゃんのテンションを自在に操れるような\\nオリジナルブレンドを！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "いらないわよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "遠慮なんてしないでよ。\\nいつか、シャロちゃんが泣きたくなったり\\nした時には、うちのコーヒーを飲みに来ればいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ココアさん、作る前提で\\n勝手に話を進めないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えっ、作らないの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "作りません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ていうか、必要ないからっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

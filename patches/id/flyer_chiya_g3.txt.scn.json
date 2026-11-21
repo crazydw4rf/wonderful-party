@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_chiya_g3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はあ……。\\n少し疲れちゃったね、休憩する？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。\\nずっと立って配っていると\\nさすがに足が棒になってくるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あ、そうだわ。\\n今日は休憩用におやつを持ってきたのよ。\\n一緒に食べましょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "わあ、やったぁ！\\n何を持ってきてくれたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ふふふ……。\\nじゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "金平糖だぁ！\\nわー、瓶詰めできれい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "見た目もいいけれど、\\n疲れている時は甘いものが１番でしょ？\\nさあ、手を出して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ありがとう、千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "どういたしまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "金平糖って色もきれいだけど、\\nこの、ちっちゃくて\\nころころしてる形もきゅんってするよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "砂糖を熱であたためて、\\n長い時間をかけて転がしつづけて\\nこの形にするのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "作ってるところ、見てみたいなぁ。\\nお星様を作ってるみたいで\\nわくわくしそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そうね、金平糖はよく\\n星にたとえられたりもするわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そうだ、千夜ちゃん知ってる？\\n魔女は星屑を集めて魔法の薬にする、\\nっていう話があるんだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "まあ、素敵ね。\\n今の私たちにぴったりだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そうそう。\\nなにしろ、私たちは魔女だもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "じゃあ千夜ちゃん、あーんして？\\n魔女の薬をおすそわけだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "それでは、いただきます。\\n……あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "もともとは、千夜ちゃんから\\nもらったものだけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "ふふ、おいしい。\\nそれじゃ、ココアちゃんも食べて。\\nはい、あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "いただきまーす。\\n……あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "甘くておいしい！\\nほっとする味だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "星屑の力ももらったし、\\n残りのチラシ配りも頑張りましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "identity": "move_d04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日のお休みは\\n　思いっきり野良うさぎをもふもふするよっ！\\n　さて、うさぎはどこかな～？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？\\n　あそこにいるのはチノちゃん？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "野良うさぎ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "野良うさぎ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "お、おいで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "野良うさぎ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……あ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（野良うさぎ、逃げちゃった。\\n　チノちゃん、やっぱりティッピーや\\n　あんこ以外の動物が懐かないんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\n……もしかして見てましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ご、ごめんね。\\nそういうつもりじゃなかったんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "いいんですよ、私にはティッピーがいますし\\nそれで充分です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そう言ってるけど\\n　チノちゃん、寂しそうだよ……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（そう言ってるけど\\n　チノちゃん、寂しそうだよ……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私が抱きしめてあげる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "うさぎ、抱っこしてみる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ちょっと触ってみる？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私が抱きしめてあげる！\\n逃げちゃったうさぎの分、私がチノちゃんを\\nぎゅーってしてあげるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "どうしてココアさんが\\n私を抱きしめるんですか。\\nうさぎとココアさんは関係ないですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "大丈夫、お姉ちゃんは逃げないからね！\\nほら、ぎゅーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "大丈夫って何が――\\nちょっと、ココアさん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "まだまだ！　ぎゅーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "こ、ココアさん！\\n周りの人が見てますから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ぎゅーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "も、もういいです、充分ですよ。\\nそんなに抱きしめられると苦しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、ごめんね！\\n強すぎた？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……い、いえ、いいです。\\nもう、過ぎたことですし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うさぎ、抱っこしてみる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "だから、気にしなくていいです。\\nココアさんが責任を感じる必要はありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "責任なんかじゃないよ。\\nティッピーとあんこ以外に\\n抱っこできるうさぎを増やそうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はい、野良うさぎ確保！\\nチノちゃん、ここを持って、お尻を支えてみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "あ……う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、だめだよ。\\nそんな風に恐る恐る持ったら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "あっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "逃げちゃったね。\\nごめんね、無理矢理捕まえた私のせいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "いえ、いいんです。\\n本当に、ティッピーとあんこで充分満足ですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ちょっと触ってみる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "でも、私が近付いたら、\\nうさぎ、逃げちゃいますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、だから逃げないように\\n私が抱っこしてるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "野良うさぎさん、ちょっとじっとしててね？\\nほら、触ってみて、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ほら、この背中の辺りをそーっとね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……あ！\\nさ、触れました……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "よかったね、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい……！\\nありがとうございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "でも、ココアさんは\\n野良うさぎにもまったく警戒されませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うーん、これはもしや、\\n私がうさぎに近いということなのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "え？　それはちょっと違うような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうだ、なら私、\\nチノちゃんの、チノちゃんだけのうさぎになるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……わけがわかりません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "チノちゃんのうさぎになるには\\nどうすればいいかな？\\n私が頭に乗ったら重いよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "まずそこですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "よーし、だったら私をうさぎと思って\\n抱きしめていいよ！\\nもふもふはないけど、絶対逃げないから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "あの、ココアさん。\\n別にそんなことを\\nしてもらわなくてもいいですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "遠慮しないでいいんだよ。\\nほら、こっち来て？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "……わかりました。\\n抱きしめれば満足するんですね？\\nでは、失礼します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "……こ、こんな感じ、ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うんうん。\\nどうかな？　うさぎっぽい？\\nやっぱりもふもふがないと物足りない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "いえ、そんなことは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "じゃあ、ちょっとは\\nうさぎを抱っこしてる気分になれたかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……正直、よくわかりません。\\nでも……温かくて気持ちいいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n私、お姉ちゃんらしいことできたかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "え？\\nうさぎの代わりだったんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "う、うさぎのお姉ちゃんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "そんなに慌てなくても大丈夫です。\\nうさぎでもお姉ちゃんでも……\\nココアさんはココアさんですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

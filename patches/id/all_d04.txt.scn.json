@@ -1,0 +1,346 @@
+{
+  "identity": "all_d04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（ふう、思ったよりも順調に配れているわね。\\n　他のみんなはどうなのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（ん？　ココアの進行度がやけに低いわね。\\n　どうしたのかしら、あんなにはりきってたのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（……なんか心配だわ、連絡してみよう。\\n　ええっと、ココアの番号は――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "もしもし、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ココア？\\n全然配れてないみたいだけど、大丈夫なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……迷った。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "道に迷っちゃったよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "はあ！？\\n迷ったって、地図があるでしょ？\\nそれを見ながら進めば迷うはずないじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "そうなんだけど……\\n夜だから街の様子が全然違ってて、だから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ううう……\\nこれじゃ、みんなのサンタさんになれないよぉ。\\nシャロちゃん、助けて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "（まったく、世話が焼けるわね。\\n　どうアドバイスしたものかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "シャロ",
+        "original": "（まったく、世話が焼けるわね。\\n　どうアドバイスしたものかしら？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "「地図を回してはだめよ」",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "「ナビ通りに動きなさい」",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "「地図で確認しながら動きなさい」",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ココア、あんた、道を曲がるたびに\\nスマホの地図も回して見てるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nどうしてわかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "道に迷う人がよくやる間違いだからよ。\\nそれだと、自分の進む方向がわからなくなるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "とにかく、今いる場所から\\n目印になるものを見つけて、\\n地図の方角とあわせなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そうしたら、地図は回さずにそのまま使うこと！\\nいいわね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あんた、ナビに従わずに、\\nこっちが近道かも、とか\\nやってないでしょうね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "……やっちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "それじゃ、ナビの意味がないでしょ？\\nとにかくナビ通りに動きなさい。\\n自分の勘なんて当てにならないんだから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ココア、周りに住所が書いてあるものがない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "……あ！\\nあったよ、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "その場所がココアがいる場所。\\n地図で確認してみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……なるほど。\\n私がいるのは広場の近くなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そうよ。\\nこれからは、ちゃんと自分がいる位置を\\n地図で確認しながら動きなさい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "もう……。\\n電話してみてよかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "すっごく助かったよ。\\n心配してくれてありがとう、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "べ、別に、心配したってわけじゃないけど。\\nじゃ、私は自分の作業に戻るから。\\n何かあったら、すぐに連絡するのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん！\\nまたね、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（もう、ココアはやっぱりココアね。\\n　フォローするためにも、\\n　私の分を早く終わらせなきゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（あ……。\\n　そういえば、私たちのプレゼントって\\n　いつもらえるのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（リストに入ってたってことは、\\n　私たち自身で自分たちに届けるの？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（時間を超えてやってきた私が、\\n　未来の私にプレゼントをする――\\n　なんだかそれって、変な感じ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "（あ、でも、自分にじゃなくて\\n　リゼ先輩になら渡したいかも！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "（今は時間が止まってるから\\n　リゼ先輩の寝顔もじっくり見られるし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "きゃー！！\\nすみません、先輩！\\n私ったらいけない想像を～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "で、でも、そんな寝ている姿も素敵だと思います！\\nだから、私がぜひ先輩にプレゼントをっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "ひゃあっ！？\\nだ、だ、誰！？　ココア！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "も、もしもし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ティッピー",
+          "original": "わしじゃ。\\n１つ言い忘れておったことがある。\\nお前たちのプレゼントじゃが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "は、はい！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "特別にわしが配る予定じゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "えっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ティッピー",
+          "original": "わし自らプレゼントするから、\\n楽しみにしておくといい。\\nでは、残りも頑張ってくれ。頼んだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "わ、わかりました……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ううううう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "もう！　なんなのよ～！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

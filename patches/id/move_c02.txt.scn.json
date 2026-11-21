@@ -1,0 +1,320 @@
+{
+  "identity": "move_c02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（お昼休みを長めにもらったし、\\n　甘兎庵まできちゃった。\\n　千夜ちゃんはお仕事中かな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いらっしゃいませ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら、ココアちゃん。\\n制服のままどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お昼休み中なんだ。\\n休憩を長くもらっちゃったから\\n甘兎庵で一休みしようと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そうなの、来てくれて嬉しいわ。\\nさあ、こちらの席にどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うわあ、どれもおいしそう！\\n相変わらず素敵な名前のメニューだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ふふ、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "でも、一見さんだとわかってもらえないの。\\n指南書はお出ししているのだけど、\\n実物を見たらびっくりした、という人もいたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、それはこう考えるんだよ。\\n甘兎庵には、繰り返し来ることで\\nわかってくる本当のよさがあるって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "はっ……！\\nそうね、そうだわ！\\nさすがはココアちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "うーん、ラビットハウスにも\\nそういうリピーター向けの要素が必要かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "それなら、ラビットハウスさんのメニューも\\nこういうテイストにしてみたらどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うん、試しに考えてみようかな。\\nじゃあまず、コーヒー全体を\\n言い表すとしたら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "まずは苦い、かな。\\nあとは、黒い……豆……香ばしい……\\nカフェイン……チノちゃん……ティッピー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ココアちゃん？\\n途中からコーヒーじゃなくて\\nラビットハウスさんの連想になってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、しまった。\\n　つい……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "あ、それで１つ思いついたわ。\\n『聖なる乙女と聖獣の涙』なんて、どうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "あ、それで１つ思いついたわ。\\n『聖なる乙女と聖獣の涙』なんて、どうかしら？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "おお！　さすが千夜ちゃんだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "……うーん、ピンとこないかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "魔法のアイテムみたい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "おお！　さすが千夜ちゃんだね！\\nその発想、私にはできないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう。\\nココアちゃんに褒めてもらえると、嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "……あら？　でも、これも\\nコーヒーというよりもラビットハウスさんから\\n連想する言葉になってるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、そっか！\\nまずはコーヒーを表す言葉からだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\nついココアちゃんに釣られちゃったわ。\\nラビットハウスさんらしさは、それからよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……うーん、ピンとこないかも。\\nコーヒーって感じがどこにもないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "んー、確かにそうね。\\nついチノちゃんとティッピーについて\\n考えちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、でも、それはお店の名前にできそう！\\n『ラビットハウス、聖なる乙女と聖獣の涙を添えて』\\nって感じで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ココアちゃん？\\nそれじゃ、まるで料理の名前みたい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "魔法のアイテムみたい。\\nきっと、それを使うと\\n王子様にかけられた呪いが解けるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "まあ、それじゃ私は\\n魔法の薬を売る魔女なのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "魔女様～！\\nどうか、妹がデレてくれる薬をください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "よろしい、ではこの\\n『甘き心の真実、その結晶』をお持ちなさい。\\n必ずや貴方の想いが伝わるでしょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "なーんて。\\nうふふ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "う～ん……。\\n『チノちゃんが頑張って淹れたモカ』\\n『ティッピーが好きなキリマンジャロ』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "それだと、コーヒーではなくて\\n状況を説明しているだけね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ううー……。\\n　やっぱり、こういうのを考えるには\\n　文系の才能がないとだめなのかなぁ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "でも、ココアちゃんが一所懸命\\nおいしさを説明しようって\\n努力しているのは伝わってくるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ううん！\\n私の努力じゃなくて、\\nコーヒーのおいしさが伝わらなきゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、本気なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "本気なんだけど……結果がついてこないよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はあ……。\\nやっぱり、ラビットハウスのメニューは\\n今のままがいいのかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "よく考えてみたら、変えようとしても\\nまず最初にチノちゃんに却下されると思うし。\\nリゼちゃんも混乱を招くからって怒りそうだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "それは、確かにそうねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ラビットハウスの食器は\\n　シンプルイズベストって、\\n　前にチノちゃんが言ってたし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（メニューも同じく、シンプルイズベストが\\n　ラビットハウス流だよね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

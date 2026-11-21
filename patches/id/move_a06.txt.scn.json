@@ -1,0 +1,332 @@
+{
+  "identity": "move_a06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、青山さんだ。\\n　店員さんと何か話してる。\\n　お買い物かな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ、お話、終わったみたい。\\n　何も買わないのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "あら、ココアさん。\\nこんにちは、お買い物ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "こんにちは、青山さん。\\nお買い物じゃなくて、お散歩ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "お散歩ですか、いいですね。\\n私も取材がなければご一緒するのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、取材だったんですね。\\nそれで、さっきのお店で店員さんと話してたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "ええ、小説のヒントを探しているんです。\\nよかったらココアさんも取材させてくれませんか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "青山",
+        "original": "ええ、小説のヒントを探しているんです。\\nよかったらココアさんも取材させてくれませんか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ラビットハウスの秘密を暴く気ですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "いいですよ、なんでも聞いてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "じゃあ、私は青山さんを取材します。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "わ、私から辿って\\nラビットハウスの秘密を暴く気ですか！？\\n知って何をするつもりですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "あらあら、ココアさんは\\n面白いことを仰いますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "誰にも知られてはいけない秘密のある喫茶店……。\\nそこで働く、謎を守る３姉妹……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "とてもイメージが膨らみます。\\nどんな秘密でしょう？\\nどんな人物が喫茶店を尋ねてくるんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（青山さんがどんどん\\n　自分の世界に入っていってる！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "ありがとうございます、ココアさん。\\nおかげで新しいお話が書けそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "このイメージが逃げないうちに、\\n急いで原稿に向かわなくては。\\nでは、失礼します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、はい！\\nまたお店にも来てくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（私のヒントからどんなお話ができるのかな？\\n　楽しみにしていよう）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いいですよ、なんでも聞いてください。\\nきっと価値のある取材になりますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "価値ですか？\\nなぜでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "『街の国際バリスタ弁護士の半生』\\nという伝記のもとになりますからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "なるほど、ココアさんの過去を暴く本を\\n書けばいいのですね？\\nその発想はありませんでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、暴く！？\\nえーっと、あんまりはずかしいことは\\n書かないでもらえると……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "ええ、もちろん。\\nでは取材を始めますね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、私は青山さんを取材します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "私をですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "私、街の国際バリスタ弁護士をしながら\\n小説も書けたら素敵だなって思ってるんです。\\nだから、その準備で！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "ふふ、ココアさんは夢に溢れていますね。\\n私でよろしければ、\\nそのお手伝いをさせてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、まず、青山さんが私を取材してください。\\nそれで取材の手順を覚えますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "はい、では始めますね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "実はですね……\\nここのところ、お話のネタが降ってきそうな\\n感じはしているものの、つかみきれないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？\\n　取材って、何か質問されたりするのかと\\n　思ったんだけど、違うのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "手を伸ばすと、その分だけ\\nするりと遠のいてしまって……\\nでも、手を引っ込めるとまた近寄ってきて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "まるで逃げ水のよう。\\nココアさんは、そういう経験はありませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おおっ！　ついに質問が来た！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あります！　こんなパンが作りたいなーって\\nアイディアが降りてきても、\\nすぐにふっと消えちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それで、いつも、どうしてすぐに\\nメモしなかったんだろうって後悔するんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そういうアイディアって、\\nどこから来るんでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "きっと、神様からの贈り物です。\\n誰にも平等に与えられるけれど、\\n受け取ることができるかはその人次第。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "欲するよりも、受け取るために\\n心を研ぎ澄ませることが\\n大切なのかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おおー！　詩的だー！\\n　さすがプロの作家さんだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "でも、欲しいものは欲しいので\\n困ってしまいますね……。\\n今もこうして求めているわけですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "そうだ、求める……。\\nところで、ココアさん。\\n甘いものをお求めではないですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "甘いもの？\\n食べたいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "では、そちらのカフェで一休みしながら\\n続きをお話ししましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "でも、私、あまり役にたつような\\nお話をしてないんですけど、いいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "……バレてしまいましたか。\\nいえ、そういう設定にしておけば、編集さんに\\n見つかった時に言い訳ができるでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "おお、なるほど！\\n大人のやり方ですね。\\n勉強になります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "青山",
+          "original": "真似することは、\\nあまりおすすめしませんけど、ね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

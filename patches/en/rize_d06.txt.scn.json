@@ -1,0 +1,75 @@
+{
+  "identity": "rize_d06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（……よし、熱は引いたな。\\n　明日からはいつも通りの生活ができそうだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（だが、寝込んでいて\\n　数日を無駄にしてしまった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（みんなで行くはずだった飾り付けの買出しは、\\n　私が風邪をひいてる間にすんでしまったし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（まあ、それは仕方ない。\\n　私が治るのを待っていたら\\n　準備が進まなかったし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（何より、改めてみんなのスケジュールを\\n　合わせるのは難しかっただろう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（私が我慢することで\\n　準備がスムーズに進んだんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（その分、クリスマスパーティーを\\n　全力で楽しめばいいさ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "（そのためには、今日のうちに\\n　サンタの衣装を仕上げてしまわないとな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（それから、プレゼントの入手も急がないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "（やれやれ、病み上がりだというのに\\n　やることが山積みだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "（とはいえ、弱音なんて吐いてられない。\\n　クリスマス当日に向けて、\\n　改めて気合いを入れていくぞ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

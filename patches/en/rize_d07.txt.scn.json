@@ -1,0 +1,273 @@
+{
+  "identity": "rize_d07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（そして、残りの日々はあっという間に流れ、\\n　いよいよクリスマス当日――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ありがとうございました～。\\nまたのお越しをお待ちしてます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふう～。\\n最後のお客さんも無事に送り出せたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "うん、お疲れ様～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "いやぁ、我ながらよく働いたぜ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "マヤさん、メグさん、\\nお手伝いありがとうございました。\\nせっかくのクリスマスなのに、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "いいっていいって。\\n手伝い自体は、前から頼まれてたしさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "それに、パーティーの準備は任せっきりだったし、\\nこれくらいのことはしないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "もうっ！\\nマヤちゃんもメグちゃんも、いい子なんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ＆メグ",
+          "original": "ひゃあっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ココアさん、いきなり抱きついたら\\n危ないじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えへへ、ごめんごめん。\\nつい、感謝の気持ちがあふれちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "でも、今日は本当に忙しかったからね。\\nマヤちゃんとメグちゃんがいなかったら、\\nお店が回らなかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "確かに、さすがはクリスマスって感じだったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "限定パンケーキも、\\nいーっぱい注文があったもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "あの、マヤさんとメグさんはもちろんですが、\\nリゼさんにもお礼を言わせてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "えっ！？　私か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "リゼさんが的確に指示を出してくれたおかげで、\\n閉店時間まで、トラブルもなく乗り切れました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うん！\\nさすがは指揮官って感じだったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "そ、そうか！\\nまあ、その、店員として当然のことを\\nしたまでだが、礼は受け取っておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "さて！\\nそろそろパーティーの準備を始めないか？\\nすぐにシャロと千夜も来るだろうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "あ、そうだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ココア、ケーキの準備は大丈夫なのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "もちろん。\\nちゃんと買ってきてあるから、\\n準備ができて、みんなが揃ってから出すよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "わかった。\\nチノはどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "下ごしらえは先に済ませてあります。\\nあとは、千夜さんが来てから\\n本格的な仕上げをすれば問題ないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "マヤ",
+          "original": "ねえ、リゼ！\\n飾り付け、始めてもいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "ああ、もちろん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "よーし！\\nじゃあ、私、これやろっと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "メグ",
+          "original": "私も手伝うね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "……さてと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あれ？\\nリゼちゃん、どこ行くの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "ああ、倉庫に荷物が置いてあるから\\n取ってくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "はーい、行ってらっしゃーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "（よし、怪しまれていないな。\\n　この隙にサンタに変身だ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "……チノちゃん。\\nこれってチャンスじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "はい、この隙にやりましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "お待たせ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "遅くなってごめんなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、千夜ちゃん！\\n大丈夫だよ、ちょうど準備を始めたところだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "そう、よかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "用があって倉庫に行ってくるって。\\n今がチャンスだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "ええ、準備開始ね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

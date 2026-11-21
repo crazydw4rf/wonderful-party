@@ -1,0 +1,145 @@
+{
+  "identity": "flyer_syaro_b1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ラビットハウスの制服って\\n色違いで珍しいと思ってたけど、\\nまさか黄色まであったなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "従業員の人数以上に制服を用意してるなんて\\nずいぶんと準備がいいのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！　すごいでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "どうしてココアが得意になってるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "えへへ……。\\nラビットハウスを褒められると\\nなんだか嬉しくなっちゃうんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "それに私、この制服大好きだしね。\\nチノちゃんのお母さんの\\n優しい心が伝わってくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "チノちゃんのお母さんの？\\nどうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "この制服、チノちゃんのお母さん\\nお手製なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ええっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと、もしかしてこの制服、\\nすごく大事なものなんじゃない？\\n私なんかが着ていいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "大事なものだけど、\\nシャロちゃんが着るのがだめなわけないよ。\\nチノちゃんもいいって言ってるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "きっと、チノちゃんのお母さんも\\nチノちゃんのお友達に着てほしくて\\n作ったんだから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "チノちゃんの友達のシャロちゃんに着てもらえて、\\nとっても嬉しいはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "……そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\nだから、安心してね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "……うん。\\n安心した、かも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "で、でも、それ、\\nココアがいうことじゃないわ！\\nチノちゃんが言うべきよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nだって私はチノちゃんのお姉ちゃんなんだからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "違うでしょ？\\nもう、あとでちゃんと\\nチノちゃんに話しておかないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "でも、友達か。\\nふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

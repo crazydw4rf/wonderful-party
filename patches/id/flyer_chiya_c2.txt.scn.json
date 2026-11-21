@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_chiya_c2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "今日のココアちゃん、気合いが入っているわね。\\nいつもより動きがビシっとしてて、\\nなんだかかっこいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、もしかしたらあれのせいかも。\\n昨日、なんとなーくテレビをつけたら\\nちょうどアニメが流れて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "初めて見る番組だから\\n内容はよくわからないんだけど、\\nヒーローがかっこよかったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あ、それ、もしかして、\\nうちのお客さんが話してた番組かしら？\\n大人でも楽しめるんですってね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ヒーローが強くて優しい、\\nまさにヒーローって人物なんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、『ご町内の平和は私が守るのだ！！』\\nって、決め台詞を言ってるシーンが\\nすっごく決まってた！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "多分、今日の私がビシッとしてるのは\\nヒーローの影響だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "私、街の国際バリスタ弁護士として、\\nパンを焼きながら小説家の道を生きようかと\\n思ってたけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "正義の味方を\\n目指してみるのもいいかもしれないな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ココアちゃんの夢はいっぱいあるのねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "けど、さすがにヒーローは難しいかな？\\nまず残り４色のヒーローを探さないといけないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "え？　そこからなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ねえ！\\n千夜ちゃん、グリーンになってみない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "うーん、私にできるかしら？\\n甘兎を切り盛りしながらの、\\n２足のわらじになっちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんなら大丈夫だよ！\\n一緒にヒーロー、頑張ろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "ココアちゃんがそう言うなら、\\n考えてみようかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "……でもね、今のココアちゃんも\\n充分、ヒーローよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "え？\\n私、まだ変身してないし\\nヒーローとはほど遠いけど、どこが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "ふふふ、内緒。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "え～！？　気になるよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

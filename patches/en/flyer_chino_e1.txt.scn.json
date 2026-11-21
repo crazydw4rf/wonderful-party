@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_chino_e1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん？\\nチラシ配り、疲れちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "まだ大丈夫です。\\nただ、ちょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "こういう服を着る機会はなかなかないので\\nちゃんと着られているか不安で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nチノちゃん、よく似合ってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ココアさんは\\nいつもそう言うじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "だって本当のことだからね。\\nチノちゃんはどんな服も似合うし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……そ、そうですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "それにしても、やっぱり\\nこういうピシッとした服を着ると\\nなんだかシャンとした気分になるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "ああ、だからでしょうか？\\nココアさんがいつもよりしっかりして見えるのは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "やったぁ、チノちゃんに褒められちゃった！\\nそっか、私、しっかりして見えるんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ティッピー",
+          "original": "やれやれ。\\n見た目だけで、\\n中身はいつも通りのココアじゃのう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "服装を変えただけで\\n中身まで変わってしまったら、\\nそれはそれで困りますけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし！\\n　じゃあ、しっかりしてるところを\\n　もっと見せてあげないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "チノちゃん、残りのチラシはこれだけ？\\nそれ、私が全部配ってきてあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "え？　でも、まだココアさんの分だって\\n残ってるじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "大丈夫、お姉ちゃんに任せなさい。\\nってことで、いってきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "とんだお調子者じゃのう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "でも、ココアさんらしいとは思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "ココアさん、待ってください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "なんじゃ、チノも行くのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "せっかく２人で来ているのに、\\n任せっぱなしにするわけにはいきませんから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

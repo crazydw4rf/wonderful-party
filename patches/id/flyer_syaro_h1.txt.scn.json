@@ -1,0 +1,183 @@
+{
+  "identity": "flyer_syaro_h1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ま、まさか怪盗ラパンの格好だなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そう、今、私たちが着てるのは\\n　『怪盗ラパン』の衣装！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（『怪盗ラパン』は、今人気のアニメ。\\n　子ども向けだけど、すっごく面白いの。\\n　私やチノちゃんも大好きなんだけど……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、もしかして嫌？\\nラパン、嫌いなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "き、嫌いじゃないわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そっか、よかったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ただ、その……自分がこの衣装を着るなんて\\n思いもしなかったし。\\nなんでこの衣装なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ずばり！\\n１度、着てみたかったから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "そう……。\\nわかりやすい理由でなんだか安心したわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "シャロちゃんは？\\n着てみたくなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ま、まあ、私も……\\n着てみたくなくもなかったし……\\n別に、い、いいけどね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "でも、これは目立ちすぎっていうか……\\nなんだか違うっていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はずかしがることないよ。\\n張り切っていこう、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "どうしてココアはそう\\nいつもいつもためらいがないのよ。\\n不思議だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そうかな？　不思議？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "ふっ、不思議よ。\\n少しだけ……う、羨ましいくらいかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "シャロちゃんが私のこと\\n羨ましいって言った……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "なんでびっくりしてるのよ！\\n素直に受けとりなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ほ、ほら、おしゃべりはここまで！\\n早くチラシを配っちゃいましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "じゃあ、せっかく怪盗ラパンになったんだから\\nらしくいこっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "怪盗ラパンらしく？\\nどうやるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "さあ、これからチラシで\\n街の人の心を盗んじゃうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "それ、口に出して言っちゃったら\\n盗むの大変じゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ぎくっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "や、やだなあ！\\nこれは怪盗らしく犯行予告ってことだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "本当かしらねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

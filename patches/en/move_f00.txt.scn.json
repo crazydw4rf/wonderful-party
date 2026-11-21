@@ -1,0 +1,55 @@
+{
+  "identity": "move_f00.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日の午前中は、私もチノちゃんも\\n　リゼちゃんもバイトお休みで、代わりに\\n　おじさんと青山さんが入ってるんだよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（たまにはこんな日もあるんだ。\\n　それじゃ、午後まで何して過ごそうかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "choices": {
+        "choice_0": {
+          "original": "ラビットハウス",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "甘兎庵",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "フルール・ド・ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "自然公園",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "街角",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "市場",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

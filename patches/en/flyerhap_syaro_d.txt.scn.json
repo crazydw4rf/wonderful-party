@@ -1,0 +1,235 @@
+{
+  "identity": "flyerhap_syaro_d.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、遅いね。\\nもうチラシ配りの開始時間、過ぎてるのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "シャロはしっかりしてるし、\\n時間を間違えるということは\\n考えにくいんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "すみませーん！\\nお待たせしましたー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "シャロさん。\\n珍しく遅かったですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ごめんね。\\nちょっと、用意してたものがあって。\\nお店で出すクッキーの試作品なんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うわ～！\\n色んな形や色のクッキーがたくさん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "これはチョコチップね。\\nこっちは紅茶入り、こっちは眠気醒ましの\\nハーブが入ってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "他にもあるから、みんなに試食してもらって\\n意見を聞きたいの。\\n遠慮なく言って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、わかった。\\nじゃあ、いただきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "うん、どれもおいしいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ありがとうございます、先輩！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "んー、でも、もっと新しい、\\n斬新な発想が欲しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "……ココアはクッキーというジャンルに\\n何を求めてるわけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "でも、私もよく試作品をココアちゃんに\\n食べてもらっているのだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ココアちゃんの意見は結構、的を射ているの。\\nシャロちゃんも、ココアちゃんの意見を聞けば\\nいいものができるかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "そうなの？\\nじゃあ……ココアの思う斬新な発想って何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そうだなー、味はばっちりだから\\n見た目にもこだわって……\\nバラの花びらを乗せるとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ええっ！？\\nバラの香りとかじゃなくて、\\nバラの花びらをそのまま？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "食用のものがあるとは聞きますが……\\n確かに華やかなクッキーになりますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "お嬢様気分で、優雅なティータイムを\\n楽しめそうだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "無理！　バラっていくらになると思う？\\nクッキーに乗せるだけの分を\\n毎回買ってなんていられないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "そっかぁ。\\nせっかく、シャロちゃんのイメージぴったりな\\nアイディアだと思ったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "っていうか、私をお嬢様だと勘違いしてた時の\\nイメージをいつまで持ってるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "え？　お嬢様じゃなくても、\\nシャロちゃんの上品なオーラは\\n間違いないものだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "はい、上品さでは\\nシャロさんは誰にも負けていません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "そ、そう……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "え、えっと、とにかく、\\nいいアイディアだとは思うけど、\\n予算がそれを許してくれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "じゃあ、他に何かあるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "なあ、別に、今の方針を\\n変えなくてもいいんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "シャロのクッキーはそのままで充分おいしい。\\n無理に新しい要素をいれる必要はないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "ほら、このクッキーなんか\\nさっぱりしてて、私は好きだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "カモミールのクッキーですね。\\nはい、それは結構、自信作なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "ふふ、シャロちゃんたら本当に嬉しそう。\\n気に入ってもらえてよかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

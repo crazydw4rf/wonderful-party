@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_syaro_g2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん。\\n１つ、どうしても\\n聞きたいことがあるんだけど、いい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "どうしたの。\\n私に答えられることなら答えるけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あのね、シャロちゃんって、\\n勉強、得意なんだよね？\\n特待生なんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "まあ、一応ね。\\nそれがどうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ……トリック・オア・トリート！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "突然なんなの！？\\nお菓子ならないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ふっふっふ～！\\n勉強を教えないとイタズラしちゃうぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "じりじり迫ってこないでよ！\\nなんか怖い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "勉強を教えないとイタズラしちゃうぞ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "わ、わかったから！\\nストップ！　ストップー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "まったくもう。\\n勉強教えて欲しいなら、\\n素直に言えばいいじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えー？\\n千夜ちゃんはこうやったら喜んだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "千夜と一緒にしないで。\\nそれで？　どの教科が大変なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "実は、文系がまたピンチで……。\\n今度のテストで悪い点とったら確実に追試だよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "はいはい、わかったから泣かないの。\\nちゃんと教えてあげるわよ。\\n文系全般でいいのね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "おお……！\\nシャロちゃんが女神様に見える～！\\nははー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "極端なのよ、例えが。\\nでも、頼りにされたからには\\nちゃんと結果が出るように教えるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "途中で脱線はしないからね？\\n前の、千夜の家での勉強合宿みたいに\\n甘くはないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うん！\\nなるべく脱線しないように頑張るよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "なるべくじゃなくて\\n絶対しないようにできないの！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

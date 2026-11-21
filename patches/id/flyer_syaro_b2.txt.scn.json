@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_syaro_b2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえねえ、シャロちゃん！\\nいいこと教えてあげるね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "な、何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "シャロちゃんはカフェインで\\n酔っちゃうから知らないだろうけど、\\nコーヒー豆を生で食べてもおいしくないんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "突然、何を言い出すかと思ったら。\\n普通は生で食べようとしないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "まさか、食べたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "お、お客さんに出すものは、きちんと自分で\\n味を確かめておかないといけないんだよ？\\nそれが店員の務めだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "味を知っておかなきゃいけないのはわかってるわ。\\n私だって、フルールのお茶は全部飲んでるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "それで、ラビットハウスでは、\\n生のコーヒー豆をお客さんにお出しするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えーっと、それはそのー……出さないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "じゃあ、生のコーヒー豆を\\n食べても意味ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だって……お腹が空いて仕方なくて……\\nおいしそうに見えて……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "それでつい、コーヒー豆を\\n生のまま食べてしまったわけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、正解！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "だったら、素直にそう言いなさい。\\nもっともらしいことを言っても、\\nつまみ食いの理由にはならないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "うえーん、シャロちゃんが\\nチノちゃんと同じこと言う～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "チノちゃんにも言われたの？\\n本当にしっかりした妹よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "だよね。\\nチノちゃんは私の自慢の妹なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "……ココアが胸を張ってどうするのよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

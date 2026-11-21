@@ -1,0 +1,476 @@
+{
+  "identity": "move_a01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は午後からバイトだね。\\n　リゼちゃんもそうだし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（だから、今はチノちゃんとティッピーが\\n　お店を切り盛りしてるはず）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "よいしょ……よいしょ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、何してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうしてここにいるんですか？\\n午前中はお休みですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうなんだけど、\\nチノちゃんは大丈夫かなって気になって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\nティッピーもいますし、\\nココアさんに心配されるようなことはありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でも、今、大変そうにしてなかった？\\n何してたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "倉庫からコーヒー豆を運んでいたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そうだったんだ。\\nこれ、重くて大変だよね。\\n普通の女の子じゃ、小さい袋１つが精一杯だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい。\\nだから、あと何往復かしないといけません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "それは大変だね！\\n運ぶの手伝う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "いえ、１人でできますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うーん？\\nそうは見えなかったよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ほら、チノちゃん！\\n遠慮なんてしなくていいから、ね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "でも、ココアさんはお休みなんですから\\n手伝ってもらうのは悪いです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そんなの気にしなくていいよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "そんなの気にしなくていいよ！",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "お姉ちゃんにまかせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "助け合うのは大事なことだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "じゃ、次は私が倉庫に行くね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんにまかせて！\\n家族が助け合うのに理由なんていらないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "それは、確かにそうですね。\\n私も、父や祖父の役に立ちたいと\\nいつも思っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でしょ？\\nだから私たちのあいだに遠慮はなし！　ね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はい、それではお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "おおおっ！\\nチノちゃんが、私をお姉ちゃんだって\\n認めてくれた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そ、そうは言ってないです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "え～？\\nそういうことだと思うけどな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "それよりも、手伝ってくれるんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "助け合うのは大事なことだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "それはわかります。\\nでも、けじめも大切です。\\nお休みの時はきちんと休んでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うーん、けじめかぁ。\\n確かに必要だね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はい、公私はきちんとわけるべきです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でも、目の前で困っている人を\\n放っておくことなんてできないよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お願い、チノちゃん！\\nお手伝いさせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "お、お願いされても……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……わかりました。\\nそれでは、お手伝いしてください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃ、次は私が倉庫に行くね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\n何を勝手に決めてるんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって、こうしないと\\n手伝わせてくれないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "これは私の仕事なんです。\\nココアさんはお休みなんですから、\\n大人しくしていてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃんが大変そうにしているのに\\nじっとなんてしてられないよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "というわけで、手伝わせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……わかりました。\\nじゃあ、少しだけお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、まかせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "では、倉庫に入って右側に\\nいくつか袋が積んでありますから、\\nそれを運んできてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チノちゃん、持ってきたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……あれ？\\nココアさん、これじゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え？　言われたとおりに、\\n倉庫に入って右側のを持ってきたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "いえ、これは左側に置いてあったはずです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "おかしいなぁ。\\nこうやって、倉庫に入って右側でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "入ってそのまま右側です。\\nわざわざ、ドアの方に\\n向きを変えなくてもいいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ああ、そういうことか！\\nごめんね！　すぐに持ってくる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "あっ！\\nココアさん、足元！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "わっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "いったぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "ココアさん！\\n大丈夫ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "うん、平気。\\n自分で運んできた袋のこと、すっかり忘れてたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "急がなくていいですから、\\n気をつけて運んでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "よいしょ……と！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ふーっ！\\nこれで全部だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "はい、お疲れ様でした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "間違えたから時間かかっちゃったね。\\nあまり役に立てなかったかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\nわかっていたことですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あはは……。\\n　チノちゃんはやっぱり私にツンツンだなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？\\n　でもチノちゃん、なんだか嬉しそう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "ありがとうございました。\\nココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "うん！　どういたしまして！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

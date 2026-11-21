@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_chiya_h2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "う～ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの？　何か考え事？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、実はね、こういう格好になるのだから、\\nいい機会だと思って\\n怪盗という職業についてじっくり考えてみたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ほほう？　怪盗について？\\nどんなこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "まずね、怪盗って\\n正体を知られてはいけないでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "だから、世を忍ぶために\\n仮の姿を持っているはずよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "たとえば、夜に出かけても怪しまれないように\\nバーテンダーのお仕事をしている、とか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うーん、なるほど。\\nありそうだね、なんてったってバーだからね。\\n秘密の情報もやり取りしてるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "きっと、怪盗として登場するまで、\\nカウンターの中でお客さんの愚痴を\\nひたすら聞き続けているの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えっ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "華麗に盗むために、昼間は\\n現場の下調べをコツコツしているのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "下調べ……。\\n確かに重要だけど地味だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ええ、地味よ。\\nでも、地味で地道な努力がなければ、\\n怪盗なんてできやしないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "確実に逃げるために、\\n街の裏道にも詳しいはずよね。\\nひょっとしたら毎日毎日歩き回ってるのかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "でも、それじゃ、いつ寝てるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "問題はそこよ。\\n睡眠時間を確保するために、\\n秒刻みのスケジュールをこなしてるに違いないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そ、そうなの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "綿密な計画のために、毎日勉強もしてるはず。\\n怪盗になるには頭もよくなくちゃいけないんだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "それは大変だね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "毎日毎日、いっぱい勉強して、\\nバーテンダーのお仕事もして、怪盗で稼いでも\\n次の盗みの準備で消えてしまう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ええええー！？\\nそんなの世知辛いよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "怪盗は大変ね。\\nふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃん……。\\n　もうちょっと怪盗に夢を見させてよぅ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

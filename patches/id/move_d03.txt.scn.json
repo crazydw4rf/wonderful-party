@@ -1,0 +1,298 @@
+{
+  "identity": "move_d03.txt.scn",
+  "scenes": {
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんは外で仕事中だし、\\n　知ってる人は誰もいないよね……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ！　あそこにいるのって！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（フルールに来てみたけど……\\n　シャロちゃんはいないのか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、でも……知ってる人がいる！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "こんにちは、青山さん！\\n原稿ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "こんにちは、ココアさん。\\nええ、そのはずだったのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "……真っ白ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "少しでも環境を変えれば、と思って\\n今日はここへ来たんですが。\\nふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（大変そう……。\\n　せっかく会ったんだし、\\n　ここは力になってあげたいよね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（大変そう……。\\n　せっかく会ったんだし、\\n　ここは力になってあげたいよね）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私が代わりに書きます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "いったん、仕事のことは忘れましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "飲み物を替えてみたらどうでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私が代わりに書きます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "えっ！？\\nココアさんが書くのですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だめですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "だめと言いますか、そうなると、\\nそれはもうココアさんの作品に\\nなってしまうので……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、そっか！\\nすみません、勢いで言っちゃいました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "でも、ココアさんがもし物語を作り上げたら……\\nそれはどんなお話なんでしょうね。\\n想像ができるような、できないような。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "いつかそんな日が来たら、\\nぜひ、読ませてくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いったん、仕事のことは忘れましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "それは、大胆な意見ですね。\\nとはいえ、お仕事のことを完全に忘れるのは\\n難しいような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "他に集中できることをしてみましょう。\\nゲームはどうですか？\\nたとえばトランプとか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ジグソーパズルとか、ブロック崩しゲームとか、\\nすごろくとか、みんなでわいわい楽しめば\\n仕事なんて忘れちゃいますよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "わあ、リフレッシュできそう。\\nそうですね、時にはそんな時間を\\n持つべきですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "飲み物を替えてみたらどうでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "飲み物を？\\nそれは、味覚を刺激するということでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そう、そんな感じです！\\nちなみに、今飲んでいるのはなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "本日のおすすめのハーブティーですが……\\nもう少し刺激的なものを試すべきでしょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "刺激……。\\nレモン果汁１００パーセントのジュース？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "うっ……！\\n想像しただけで口の中が酸っぱくなります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "他には……ハラペーニョと赤唐辛子の\\nすりつぶしドリンク？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "ああっ！\\n想像しただけで涙が！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そのくらい刺激的なら、\\nきっと何かいいアイディアが\\n降ってきそうですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "はあ……。\\nなんだか、違う世界を\\n見てしまいそうな気もしますが。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "それにしても、ココアさんは\\n色々なことを考えつくんですね。\\nとってもユニークです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でも、青山さんの小説のネタは\\n思いついてあげられないんですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "いえ、こういった何気ない会話を\\nしてくださるだけでも充分です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "ここから何を生み出すかは、私次第。\\nこれが私の仕事であり、\\n望んで選んだ道なのですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "おおー……！\\nなんか格好いいです、青山さん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そ、そんな。\\nやめてください、照れてしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、やっぱり私も街の国際バリスタ\\n　弁護士としてパンを焼きながら\\n　小説家を目指してみようかな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "というわけなので、ココアさん。\\nよろしければもう少し、お話ししていきませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "はいっ！\\nいくらでも付き合っちゃいますよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

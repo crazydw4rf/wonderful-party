@@ -1,0 +1,127 @@
+{
+  "identity": "flyer_chiya_f1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "この服、かわいいよねぇ。\\n着てるだけでなんだか楽しくなってきちゃう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ちょっと早いけど、\\nこうして衣装を着るだけで\\n一気にクリスマス気分が盛り上がるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チラシを受け取ってくれた人も、\\nクリスマスはこのお店で過ごそう！\\nなんて、思ってくれるといいんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ラビットハウスもクリスマスの\\n飾りつけをするって、チノちゃんが言ってたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "もう、どんなツリーにするか決まっているの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "まだだよ。\\nこれから相談するところ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n甘兎庵とラビットハウス、合同で\\n街１番の大きなツリーにするのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "きっと、街じゅうの人が笑顔になれる\\n素敵なツリーになるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "それは素晴らしいわね。\\nでも私は、街で１番のものじゃなくても――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "来年も、そのまた先も、\\nココアちゃんたちと一緒に仲良く\\nクリスマスツリーを飾れたら、とても嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そんなの、当然じゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ツリーを飾る時だって、そうでない時だって、\\n私たちはずっと友達なんだから。\\n仲良くするのは当たり前だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "……ええ。\\nそうよね、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ねえ、クリスマスになったら\\nきっとイルミネーションもきれいだよね。\\n一緒に見に行こうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "いいわね。\\nみんなに声をかけて行きましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\nクリスマスの楽しみが１つ増えちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "さてと！\\nそうと決まったら、早くチラシ配り終えて\\nみんなのところへ戻らなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、そんなに焦らないで？\\nクリスマスは逃げないわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

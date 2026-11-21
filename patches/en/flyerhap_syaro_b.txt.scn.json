@@ -1,0 +1,301 @@
+{
+  "identity": "flyerhap_syaro_b.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "きゃっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "今、顔に何か落ちてきたような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あら？\\n私も顔に何か……もしかして雨かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "こんなに晴れているのにか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\nふ、降り出しました！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "まあ、狐の嫁入りね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "このくらいの降り方なら、\\n木陰にいれば濡れなさそうだな。\\nちょっと休憩して止むのを待つか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "私たちはいいですが、\\nこのままではチラシが濡れてしまいます。\\nどこかに持っていかないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ああ、そうだわ。\\n私、折りたたみ傘を持ってるの。\\nちょっと待ってね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "（千夜ちゃんは準備がいいなぁ。\\n　前にみんなで映画を見に行った時も、\\n　折りたたみ傘を持ってたよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "よかった、これでチラシは濡れませんね。\\nありがとうございます、千夜さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "いえいえ、役に立てて嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "うーん、思ったより降ってきたな。\\nかと言ってこの傘に全員入るのは無理だし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "ティッピー！？\\n傘を持ってきてくれたんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "頭の上に傘を乗っけてる！？\\n器用だな、毛玉！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ティッピー",
+          "original": "この程度、造作もないわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "助かりました、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ともかく、これで傘が２本か。\\n３人と２人で入れば\\nなんとか濡れずにすみそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "どういう組み合わせにしましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ん？　シャロちゃんがリゼちゃんを見てる？\\n　ふむふむ、なるほど――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、チノちゃん、一緒に入ろ？\\nリゼちゃんとシャロちゃんはそっちの傘でいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ええ、私はいいわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "もう……ココアってば変な気を利かせて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "いや、その組み合わせはやめとこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "ええっ！？\\nどうして……私とじゃ嫌ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "いや、身長が合わないだろ？\\nティッピーが持ってきてくれた大きい傘に私と千夜、\\nそれと１番小さいチノが入るのがいいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "じゃあ、私の折りたたみ傘には、\\nココアちゃんとシャロちゃんね。\\nそれでいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩の決めたことなら文句はないわ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "それじゃ、シャロちゃんは私と相合い傘だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "変な言い方しないでよ。\\nじゃ、私が傘を持つから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "ううん、私が持つよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "ちょっとココア。\\n２人で持つ必要なんてないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "でも、シャロちゃんだけに持たせるのも悪いから。\\nこの方が傘も安定するよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "……まあ、ココアがいいなら私はいいけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "わあ！\\nすごいよシャロちゃん、きれい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "え？　何が？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "街の景色だよ。\\n雨に濡れて、でもお日様にも照らされて\\nキラキラしてるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "……確かにきれい。\\nこの景色なんて何度も見てるはずなのに、\\nこんなにきれいだなんて、気付かなかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "シャロちゃんたちがうらやましいなぁ、\\nこんなきれいな景色の中で\\nずっと暮らしてきたなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "……それに気付かせてくれたのはココアじゃない。\\nココアがいなかったら見逃してたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "ココアといると、こういう些細で\\n忘れがちなことを思い出せるのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "ん？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "何でもないわ。\\n……教えてくれてありがとね、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,1090 @@
+{
+  "identity": "all_c02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "静かだねぇ。\\n街から音が消えちゃったみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "こんな時間に出歩く人もいないだろうしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "でも、風の音もしませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "本当に時間が止まっているのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "って、それよりも！\\nなんでパジャマのままで出てきてるのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、そうだった。\\nサンタさんのお手伝いだーって\\nわくわくが抑えられなくって、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ティッピー",
+          "original": "心意気はありがたいが、\\nそれでは格好がつかんな。\\n助手や、適当にあつらえてやってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "それでは、みなさんには\\nサンタさんにふさわしい姿になってもらいますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ、ぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "わっ！　服が替わった！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "これが、プレゼントを配る時の服？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "え？　これがですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "これはどう見ても……\\nプレゼントというかお菓子をねだる方だろ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "メリー・トリックオアトリート・クリスマース！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "混ざってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "ま、間違えました！\\nすみません、もう１度やりますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ、ぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "こ、これは……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "怪盗ラパン！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "おお、これはこれでいいね！\\nプレゼントをさっそうと届けに行くのに\\nぴったりだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "そうね、よそのお宅に\\nこっそりと忍び込むのは、怪盗も同じだものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "ちょっと待て！\\nプレゼントを配る怪盗なんて色々おかしいだろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "青山",
+          "original": "す、すみません。\\n今度こそ大丈夫です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "２度あることは３度あるって言うわよねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "余計なことを言うなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ、ぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "ほらー！　千夜のおばかー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "あらあら？\\n私のせいなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "しかも、なんでフルールの制服なのよ！\\nクリスマス関係ないし！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "でも、シャロちゃんは着慣れてるから、\\nお仕事をするのにはちょうどいいかもしれないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "だったら、私もいつもの甘兎の制服に\\nしてもらおうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "じゃあ、私たちはラビットハウスの制服？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "ま、待ってください。\\nそれじゃ、クリスマスが\\nどこかに行ってしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "今の私たちはサンタの代理であって、\\nいつものバイトじゃないんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "青山",
+          "original": "すみません、今度こそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "次は甘兎の制服かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "だから、余計なことを言うなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ、ぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "おお。\\nやっと、しっくりくる服になったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nわざとやってるのかと思ったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ティッピー",
+          "original": "すまんのう。\\nこれも、サンタの力が\\n低下している影響かもしれん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "青山",
+          "original": "いえ、私の力不足です。\\nまだ半人前なので……すみません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "助手",
+        "original": "いえ、私の力不足です。\\nまだ半人前なので……すみません。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ううん、これはこれですごいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "助手さんはまだこれからですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "他の服はないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ううん、これはこれですごいです！\\n助手さんは、色々なものが\\n呼び出せちゃうってことなんですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "確かに、この力を\\nちゃんとコントロールできるようになれば、\\n頼もしいでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "わしもそこには期待しておるのじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "まあ！\\n本当ですか、サンタさん。\\n私、そのご期待に応えられるよう努力します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "うむ、精進あるのみじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "頑張ってください！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "助手さんはまだこれからですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだ。\\n習熟のための反復は大切だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "その、失敗を恐れず魔法を使っていく姿勢を\\n忘れなければ、絶対に一人前になれるはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "はい、ありがとうございます。\\n立派なサンタさんになるため、精進しますね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "他の服はないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら？\\nココアちゃん、この服じゃ不満？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん、いいと思うんだけど……\\n他にどんな服を出せるのかなって気になって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "もし、ここで弁護士さんの服を\\n出してもらえたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "サンタさんに続いて、\\n街の国際バリスタ弁護士の夢に\\n１歩近づけるかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "服だけ着たって仕方ないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "弁護士さんの服ってなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "ええと……今はこの服でお願いしますね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "さて、時間はかかったが\\nこれで服装は問題ないのう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "ちなみに、この服はただの服ではないぞ？\\nどんな場所でも寒くないし、\\nどんなに働いても疲れない魔法の服なのじゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そういえば、全然寒くありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "この、ほんのり暖かいのって魔法だったのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "――はっ！\\nこの服があれば暖房料金を節約できる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "ああ、それは無理じゃ。\\nその服はサンタ専用じゃから、\\nクリスマスイブにしか魔法は発動せんわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "クリスマスイブ限定！？\\nそんな……１日しか使えないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "うむ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "そうなんだ……。\\n都合良くはいかないのね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "では、服はこれでいいとして、次ですね。\\nこれを持っていってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ん？　これって鍵？\\nこれを１人１つずつ持っていくの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "シックな鍵ですね。\\n童話に出てきそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ああ、もしかして、\\nプレゼントを保管している倉庫の鍵かしら？\\nそんな雰囲気がするわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "いいえ、これは、これから訪問するお宅の鍵です。\\n玄関は鍵がかかっていますから、\\nこれで開けてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "えええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ちょっと待て！　それは不法侵入だろう！\\nサンタと言えば、煙突から入るのが\\n正攻法じゃないのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "玄関を開けて、その家の人と\\nばったり会ったらどうするのよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "心配無用じゃ、今は時間が止まっておる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "あ、そういえばそうだったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "そうだとしても……抵抗があるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "でも、家に入らないと\\nプレゼントを配る仕事ができないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "それに、サンタさんは、私たちが悪いことを\\nしないってわかってるから、\\n鍵を貸してくれたんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "……なるほど。\\nこれは信頼の証でもあるんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "わかった。\\nでは、これでプレゼントを\\n届ける家にお邪魔するとして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "鍵が１つしかないのはどういうことだ？\\nこれじゃ、たくさんの家を回れないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "私たち５人で５軒のお宅を訪問するだけで\\nいいのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "でも、そのくらいなら、\\nわざわざ私たちに頼むのも変よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "青山",
+          "original": "ああ、すみません、説明不足でした。\\nそれは、どんな扉も開けてしまう\\n魔法の鍵なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "これ、魔法の鍵なんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "魔法って本当に便利なのねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ティッピー",
+          "original": "最近は煙突がない家ばかりに\\nなってしまったからのう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ティッピー",
+          "original": "それに煙突があったとしても、\\n屋根に登るのも一苦労で、面倒じゃしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "面倒？\\n手間を惜しむなんて、\\nサンタらしくないんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "でも、うちも煙突はないもの。\\nこれも時代の流れなのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ティッピー",
+          "original": "郷に入れば、というやつじゃな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "う～ん、煙突を使っての正攻法で\\n正面突破ができればよかったんだが、\\nまさか鍵を使って侵入とはなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "最近のサンタさんは意外と現実的なんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "生活様式も変わってしまったし、\\n仕方ないのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "でも、ここまで現実的になっちゃったら、\\nチノちゃん、幻滅してるんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "チノ",
+          "original": "サンタさんの服は、寒さに強くて、\\n疲れにくい魔法がかかっている……\\nただし、これはクリスマスイブ限定の力……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "えっ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "サンタさんは鍵を持っている……。\\n１本で、どんな家の玄関でも開けられる\\n魔法の鍵で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "メモを取ってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "きっと、今日のことを忘れないためね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "い、意外にたくましいわね。\\n心配しなくてもよかったみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "青山",
+          "original": "それでは、最後の仕上げにもう１つ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "青山",
+          "original": "はい、これを持っていってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "こ、これは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ＆リゼ",
+          "original": "スマホ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "千夜",
+          "original": "まあ！\\nこれ、クリスマスっぽくていいわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "それよりも先に言うことがあるだろう！\\nなんでサンタがスマホなんて持つんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "サンタさんの世界にも\\nＩＴ革命が起きてるんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "ココア、あんた意味わかんないまま\\n適当なこと言ってるでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "でも、実際にスマホは便利だものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "青山",
+          "original": "あの～？\\nそろそろ、このスマホについて\\n説明させて頂きたいのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "リゼ",
+          "original": "マイペースだな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "千夜",
+          "original": "なんだか、本物の青山さんみたいで\\n親しみが湧いてくるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "ココア",
+          "original": "それじゃ、これも１人１台ずつでいいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "青山",
+          "original": "はい、どうぞお持ちください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "ココア",
+          "original": "これがサンタさんのスマホかぁ。\\nえーっと、このアイコンは何かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "青山",
+          "original": "どうぞ、タッチして\\nアプリを起動してみてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "ココア",
+          "original": "あれっ？\\n画面に人の名前が出てきたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "チノ",
+          "original": "私のにも、たくさんの人の名前が並んでいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "千夜",
+          "original": "この人たちは何かしら？\\nお友達や知り合いではなさそうだけれど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "青山",
+          "original": "それは、プレゼントを渡す人の住所と\\n希望のプレゼントのリストです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "ティッピー",
+          "original": "これを使えば、素人のお前たちでも\\n間違えずに仕事ができるはずじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "リゼ",
+          "original": "なるほど、不慣れな私たちを\\nサポートしてくれるアプリなのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "千夜",
+          "original": "これは助かるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "シャロ",
+          "original": "確かに便利なんだけど、何だか夢が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "ココア",
+          "original": "ねえねえ、サンタさん！\\n魔法が使えるアプリはどれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "70": {
+          "speaker": "ティッピー",
+          "original": "そんなものはないわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "71": {
+          "speaker": "ココア",
+          "original": "え～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "72": {
+          "speaker": "シャロ",
+          "original": "もう充分に魔法のアイテムをもらってるじゃない。\\nこれ以上、何が欲しいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "73": {
+          "speaker": "青山",
+          "original": "あ、そうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "74": {
+          "speaker": "青山",
+          "original": "みなさん、このリストには\\n個人情報が含まれていますので、\\n取り扱いには注意してくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "75": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "76": {
+          "speaker": "シャロ",
+          "original": "だから、なんでいちいち細かいところが\\nリアルなの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "77": {
+          "speaker": "ティッピー",
+          "original": "時代の波には逆らえんでのう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "78": {
+          "speaker": "リゼ",
+          "original": "ああ、状況に合わせた適応力も、\\n戦場で生き残るのには必要だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "79": {
+          "speaker": "ティッピー",
+          "original": "うむ。\\nリゼはいいことを言う。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "80": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nん～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "81": {
+          "speaker": "チノ",
+          "original": "ココアさん、何をしてるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "82": {
+          "speaker": "ココア",
+          "original": "私の名前、このリストに載ってるのか気になって。\\nチノちゃんも気にならない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "83": {
+          "speaker": "チノ",
+          "original": "それは、確かに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "84": {
+          "speaker": "ティッピー",
+          "original": "ああ、もちろんチノの名前は載っておるぞ？\\nチノは、サンタがいると信じてくれていたからの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "85": {
+          "speaker": "チノ",
+          "original": "本当ですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "86": {
+          "speaker": "千夜",
+          "original": "ということは、私たちは信じていなかったから\\n載っていないのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "87": {
+          "speaker": "リゼ",
+          "original": "まあ、当然だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "88": {
+          "speaker": "ココア",
+          "original": "……あっ！\\nあったよ、私の名前！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "89": {
+          "speaker": "シャロ",
+          "original": "え？　なんでココアの名前が？\\nあんたも信じてなかったじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "90": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nサンタになりたいって夢が認められたのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "91": {
+          "speaker": "千夜",
+          "original": "あら、私の名前もあるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "92": {
+          "speaker": "リゼ",
+          "original": "私のもあるぞ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "93": {
+          "speaker": "チノ",
+          "original": "シャロさんの名前も、ちゃんとありますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "94": {
+          "speaker": "シャロ",
+          "original": "ええっ！？\\nなんで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "95": {
+          "speaker": "青山",
+          "original": "今回は特別です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "96": {
+          "speaker": "ティッピー",
+          "original": "わしらの代わりに、プレゼントを配る仕事を\\nしてもらうんじゃからの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "97": {
+          "speaker": "リゼ",
+          "original": "つまり、これは報酬というわけか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "98": {
+          "speaker": "ティッピー",
+          "original": "ささやかではあるがな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "99": {
+          "speaker": "ココア",
+          "original": "ううん、ささやかだなんて！\\nすっごく嬉しいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "100": {
+          "speaker": "シャロ",
+          "original": "ていうか、むしろ、信じてなかったのに\\nもらっちゃって申し訳ないというか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "101": {
+          "speaker": "ティッピー",
+          "original": "ふむ、そう思ってくれるのなら……\\nそうじゃな、その代わり、少しでも\\nサンタがいるということを広めてくれんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "102": {
+          "speaker": "千夜",
+          "original": "ええ、わかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "103": {
+          "speaker": "リゼ",
+          "original": "任せてくれ。\\n責任を持って、作戦を完了させる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "104": {
+          "speaker": "ティッピー",
+          "original": "よし、ではそろそろ出発じゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "105": {
+          "speaker": "青山",
+          "original": "みなさん、お気をつけて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "106": {
+          "speaker": "リゼ",
+          "original": "よぉし！\\nみんな、気合いを入れろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "107": {
+          "speaker": "千夜",
+          "original": "なんだか緊張してきたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "108": {
+          "speaker": "シャロ",
+          "original": "いつもみたいに、\\nバイトしてるんだって思えば怖くないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "109": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nオーダーをお客さんに運ぶように\\nプレゼントを届けよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "110": {
+          "speaker": "チノ",
+          "original": "ええ。\\nみんなで頑張りましょう、サンタさんとして。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

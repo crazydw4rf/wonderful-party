@@ -1,0 +1,199 @@
+{
+  "identity": "flyer_chino_a1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "さあ、チノちゃん！\\nこれからチラシ配りだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "それはわかってます。\\nでも――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "どうして制服なんですか？\\n何かの衣装を着るはずじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うん、いい質問だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあチノちゃん、考えてみて？\\n看護師さんの制服ってなにかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "質問を質問で返さないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "いいからいいから。\\nね？　答えてみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はあ……。\\n看護師さんの制服は、ナース服です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "正解！\\nじゃあね、メイドさんの制服は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "メイド服です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "今度も正解！\\nじゃあ、バリスタの制服は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "これといって決まっていませんが、\\nエプロンを身につけたりしますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うんうん！\\nじゃあね、コックさんの制服は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "ええと、コックコートでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そうそう！\\nでは、巫女さんの制服はなんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "それは、巫女服じゃないですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "それじゃ、次は――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "あの、これ、いつまで続けるんです？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あれ、もういいの？\\nチノちゃん、わかってくれた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "はあ……。\\n今までのでやり取りで\\n何を理解しろというんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "つまりね、職業には制服があるってこと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "制服……。\\n確かに私たちは学生ですから、これが制服ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "でも、それとコスプレに\\nなんの関係があるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "色々な職業の服を着るのが\\nコスプレなんだから、私たちが制服を着るのも\\n立派なコスプレなんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "いえ、違うと思いますけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "えー！？　違うの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "まったくゆかりのない職業の服を\\n着るから、コスプレなんです。\\n普段から身につけている服ではそうは言えません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\nじゃあ、さっそくチラシを配ってみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "コスプレして目立ってるから、\\nどんどん受け取ってもらえるはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "それは、難しいんじゃないでしょうか……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

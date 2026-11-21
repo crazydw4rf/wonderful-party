@@ -1,0 +1,357 @@
+{
+  "identity": "main_a02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うわわわわ～！\\n大変、大変だよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃーん！\\nま、待ってぇ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ごめん、千夜ちゃん！\\n今は待てないの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "だって、このままじゃ遅刻しちゃうよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そ、そんなこと、ないからっ！\\nだから、待って～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "待てないんだってば～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（どうしてこうなっちゃったの！？\\n　学校を出た時は余裕だと思ったのに\\n　もうバイトが始まる時間になってる！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（早くラビットハウスに行かないと！\\n　きっとチノちゃんが寂しがってるよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "こ、ココアちゃ～ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "チノちゃーん！\\nお姉ちゃんが今行くよー！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あっ！\\nココアちゃん、前！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "うわっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "きゃあ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "す、すみません！\\n急いでたので、ちゃんと前を見てなくて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "大丈夫か？\\nまったく、気をつけないとだめじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "って、あれ？　リゼちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ああ、私でよかったな。\\n鍛えてなきゃ、受け止めきれずに\\nお互い転んでたところだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "てへへ……。\\nありがとう、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃんは、ラビットハウスの\\n　もう１人のバイトさんです）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（普通の女子高生で、\\n　軍人のお父さんに色々と鍛えられるみたいです。\\n　でも、それって普通なのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "先輩……！\\nとっさに抱き止めちゃうなんて、素敵ですっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん。\\nリゼちゃんと一緒だったんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんは、リゼちゃんの後輩。\\n　そして『甘兎庵』のお隣に住んでいる\\n　千夜ちゃんの幼なじみです）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（生活のために色々なバイトをしていて、\\n　ハーブティーメインの喫茶店\\n　『フルール・ド・ラパン』でも働いてます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "それで、ココアは何で急いでるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "あっ！　そうだよ！\\nリゼちゃんも急がないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "は？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "だって、バイトに遅れちゃう！\\nていうか、もう始まってる時間だから\\n遅刻確定だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "いや、まだ余裕はあるだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "ないよー！\\nさっき、あっちのお店で見た時計だと\\nもうバイトが始まる時間だったもん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "なるほど、それで走ってたのね。\\nでもまだそんな時間じゃないはずよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "ああ。\\nほら、見てみろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そういって、リゼちゃんが見せてくれた\\n　携帯電話の時計は――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "あれ？　あれれ？\\nホントだ、まだ余裕だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "こ、ココア、ちゃん……。\\nやっと追いついた……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "あら、千夜じゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "ココアを追いかけてきたのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "そうなの。\\nココアちゃんに伝えたいことがあって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "伝えたいこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "あのね、ココアちゃんが見ていた時計だけど、\\n数日前から故障しているんですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "千夜",
+          "original": "だからね、ずーっと同じ時間を指したままなの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "ええ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "うわあああ～！　はずかしいよ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nこんな光景、前にも見た気がするわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "相変わらずね、ココアは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "リゼ",
+          "original": "なんていうか……古典的な展開だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "ごめんね、千夜ちゃん。\\n私の勘違いで無駄に走らせちゃったよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "千夜",
+          "original": "いいのよ、気にしないで。\\nココアちゃんの気持ちはわかるもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "まあ、せっかくだし、さっさと行くか。\\n早く行く分には問題ないしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "千夜",
+          "original": "それじゃ私たちも帰りましょうか、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "まだ帰らないわよ。\\n今日はフルールでバイトなの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア",
+          "original": "そっか。\\nお互いバイト頑張ろうね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "リゼ",
+          "original": "じゃあ、またな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "シャロ",
+          "original": "はいっ！　また明日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "千夜",
+          "original": "また明日ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "ココア",
+          "original": "ばいばーい、またねー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

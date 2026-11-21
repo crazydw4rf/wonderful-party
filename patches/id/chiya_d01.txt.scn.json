@@ -1,0 +1,690 @@
+{
+  "identity": "chiya_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "さあ、今日は待ちに待った宝探し！\\nもうテンション有頂天だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "今日は、絶対に宝物を見つけましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん！\\n今日ですべての謎に終止符を打つんだよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "おい、ココア？\\n楽しみなのはわかるけど、\\nはしゃぎすぎて途中でバテるなよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "まったく大丈夫じゃなさそうなんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "でも、こういう時のココアさんのバイタリティは\\n目を見張るものがあります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "確かに、そうね。\\nそういう素直なところ、\\nちょっとだけ羨ましいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "お宝もだけど、\\n私は千夜のお弁当も楽しみだな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "うふふっ、ありがとう。\\n今日はさらにおいしくできてると思うから\\n期待していてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "わ～い！\\nよーし、宝探し、頑張る～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "みんな、気合が入ってます。\\nこの分なら、今日は宝物を見つけられそうですよ、\\nおじいちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ティッピー",
+          "original": "わしには関係ないと言っとるわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "この辺りが、北斗七星でいうところの\\nミザールのある場所ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ここって、前に\\n　２枚目の地図を見つけた公園だよね。\\n　まさか戻ってくることになるなんて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "詳しい手がかりはないから、\\n手当たり次第に探してみるしかなさそうね。\\nココアちゃん、最初はどこを探しましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "詳しい手がかりはないから、\\n手当たり次第に探してみるしかなさそうね。\\nココアちゃん、最初はどこを探しましょうか。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "運動ができる広場の方を探そう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "まずは植え込みの中を探してみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "公園にいる野良うさぎの耳！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "運動ができる広場の方を探そう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あっちの方？\\n……あら、バレーボールを\\nしている人たちがいるわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そういえば、前、ココアちゃんと\\nバレーボールの練習をしたことがあったわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あの時は大変だったよねぇ。\\n２人で倒れちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "２人とも、脱線してないで早く探すわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "シャロちゃんはあの時、\\n気の抜けた服で来ちゃった上に、\\nカフェインで酔っ払っちゃったわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "千夜～っ！\\n思い出させないでよ、もう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "まずは植え込みの中を探してみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "物を隠す定番だな。\\n出だしとしては悪くない判断だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "でも、全部調べるとなると大変だよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "大丈夫だよ、全員で探せばすぐだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、数の利を活かして一気に探索するぞ。\\nみんな、私についてこい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "おーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "い、いつの間にかリゼちゃんが\\n隊長になっちゃってる～！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "公園にいる野良うさぎの耳！\\nここに隠されている可能性もあるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "う、う、う、うさぎの耳の中！？\\nそんな宝物、絶対いらない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "大丈夫です、そんなのあり得ませんから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "だよなぁ。\\nなんでうさぎの耳にお宝が隠されている、なんて\\n思うんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "だって、もふもふに宝物が隠されてたら\\nすごく素敵じゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "も、もふもふに宝物……！\\nそれは確かに素敵かもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "チノが感化されてる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ていうか、昔の地図に記された宝物が\\n生き物についてるわけないでしょ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、そっか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん……見当たらないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そうですね……。\\n次はどこを探しましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect2": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "そうですね……。\\n次はどこを探しましょうか。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0201": {
+          "original": "きっと木の根元に埋まってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0202": {
+          "original": "道の途中に落ちてるかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0203": {
+          "original": "ベンチの下とか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0201": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "きっと木の根元に埋まってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "それ、お宝っぽいじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "でも、前に地図を見つけた時も\\n木の根元に埋まってたわよね。\\n同じ方法では隠さないんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そう思わせておいて、実は！\\nなんてこともあるかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "確かに、ダミーを使って\\n本物の存在に目を向けにくくする手法もあるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、手分けして木の根元を掘ってみよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0202": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "道の途中に落ちてるかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "それは……\\nちょっと考えにくいんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん、真面目にやってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うう……。\\n私なりに真面目だったんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ああ、そんなに落ち込まないで。\\nココアちゃんの自由な発想は、\\nいつも助けになってるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん……！\\nありがとうっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0203": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ベンチの下とか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そういえば、以前、ベンチの下に\\n青山さんの万年筆が落ちていたことがありました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、青山さんにとっての宝物は\\nベンチの下で見つかったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy5": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それって、ちょっとしたジンクスね。\\n私たちが探している宝物も、\\nベンチの下にあったりして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "でも、昔から隠されていたわけですから\\n今回は違うと思いますが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、でも、ベンチの下の目立たない部分に\\nくっつけられたりしてたら気づかないかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そうね、ベンチの下をまじまじと覗く人は\\nあまりいないと思うし、一応探してみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_02_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、やっぱりない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "なあなあ、もうお昼だし\\n休憩してご飯食べない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "お前は宝探しに来たのか\\n弁当を食べに来たのか、いったいどっちなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "宝探しも千夜のお弁当も\\n同じくらい楽しみだから決められないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "うふふ、作る側としてはすごく嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "じゃあ、もう１か所だけ探してから\\nご飯にしましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "さんせーい！\\nじゃあ、最後はどこを探すんだ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect3": {
+      "select_prompt": {
+        "speaker": "マヤ",
+        "original": "さんせーい！\\nじゃあ、最後はどこを探すんだ？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0301": {
+          "original": "前回の地図が埋まっていたがわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0302": {
+          "original": "ここにはないのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0303": {
+          "original": "木の上を探そうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0301": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "前回の地図が埋まっていたがわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ミザールって２つの星が連なってるんだよね？\\nなら、前回ここで見つけた地図の近くに\\nあるのかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy6": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "確かに……！\\nすごいわココアちゃん、名推理ね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "確かに説得力があるな。\\nココアらしくもなく鋭いじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "『らしくもなく』って何！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "それで、前回見つけた木ってどこなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "えっと……んーと……どれだっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ええっと、確か広場の東の……あの木ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "では総員、探索開始！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "ら、らじゃー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0302": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ここにはないのかな？\\nこんなに探してるのに見つからないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうかもしれないわね……。\\nでも、もう少しだけ探してみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はい。\\n私も納得いくまで探したいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nじゃあ、もう少しここを探してみよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0303": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "木の上を探そうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy7": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "なるほど、上か。\\nそいつは盲点だった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "でも私、木登りなんてできないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "台を借りたりして、何とかやってみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そうね、頑張りましょう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_03_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、やっぱり見つからない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "じゃあ、いったん休憩ね。\\nお昼ご飯にしましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "待ってましたぁ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

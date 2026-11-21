@@ -1,0 +1,592 @@
+{
+  "identity": "syaro_c03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ん、んん……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（あれ、また夕方？\\n　寝るつもりなんてなかったのに。\\n　ベッドに横になって勉強してたせいかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（でも、起きて何かしてると\\n　千夜に怒られそうだし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（って、見られてるわけでもないのに\\n　何言ってるのかしらね、私）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "シャロちゃーん！\\n起きてる～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ひゃあっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（な、なんてタイミングで帰ってくるのよ～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ただいま、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "うん、朝よりも顔色がいいわ。\\nちゃんと寝ていてくれたのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "だって、千夜に怒られたくないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、ただいま～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n今日もお見舞いに来ちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "失礼します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "よかった、元気が出てきたみたいだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "……すみません、心配かけて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "そんな風に言うなよ。\\nお見舞いくらい、何度でも来るさ。\\n早く元気になってほしいからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "クリスマスパーティーまであと少しですし、\\nあまり無理はしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "（そうね、もうすぐなんだもの。\\n　やっぱり、これ以上、隠してちゃだめよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "あの……みんな……\\n私、みんなに言わなくちゃいけないことがあるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "え？\\nどうしたの、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "実はね、その……\\nクリスマスパーティーなんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ずっと黙ってたけど、\\nまだぜんぜん準備が進んでないの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "えっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "今まで黙ってて、本当にごめんなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "期末試験とかバイトがあって、\\nずっと遅れちゃってて、\\nでもなんとかしようとは思ってたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "こんな風に風邪ひいちゃって、\\nみんなにもたくさん心配と迷惑をかけちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "やり遂げたいって気持ちはあるんだけど、\\n風邪が治ってもクリスマスまでは\\nバイトの予定がいっぱい詰まってるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "これ以上、意地を張ってると、\\n準備が何もできないままパーティーの日が\\nきちゃうと思うから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "だから、今さらで本当に悪いとは\\n思うんだけど……パーティーのこと、\\nココアにお願いできないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "シャロちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "ねえ、シャロちゃん。\\n私たちね、みんなで話し合ってきたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "え？　話し合ったって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "それで決めたんだけど――\\n私たち、シャロちゃんのバイトの\\nお手伝いをしようと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "……はっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "もちろん、お金はいらないよ？\\n私たちはあくまでシャロちゃんを\\n手伝うだけで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと待ちなさい！\\n今の私の話、聞いてた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "うん。\\nパーティーの準備が進んでないんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "だったら、私たちが手伝えば、\\n準備のための時間をシャロちゃんに\\n作ってあげることができるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "え？　え？　ええ？\\nなんでそうなるの？　普通は逆でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "逆って？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "あてにならない私なんかほっといて、\\n他の人が準備を進めるのが自然ってこと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "でも、それじゃ、シャロちゃんの考えた\\nクリスマスパーティーを楽しめないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "私の考えたクリスマスパーティー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ココア",
+          "original": "うん！　シャロちゃんがパーティーの主催を\\n引き受けてくれてから、\\n私、ずっとわくわくしてたんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "そんなこと言われても、もう時間が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "リゼ",
+          "original": "ないなら作ればいい。\\n私たちがバイトを手伝ってさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "もちろん、パーティーの準備も手伝います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩……。\\nチノちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "みんな、すごく豪華なパーティーを\\n期待しているわけじゃないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "千夜",
+          "original": "ただ、シャロちゃんの思い描いている時間を\\n一緒に楽しみたいだけなのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "千夜……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア",
+          "original": "だからシャロちゃん、\\n私たちにシャロちゃんのお手伝いをさせて？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "だからシャロちゃん、\\n私たちにシャロちゃんのお手伝いをさせて？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "……わかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "私、どうしたらいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "そんなのだめよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "……わかったわ。\\nみんながそこまで言ってくれるなら、\\n私の方から、改めてお願いさせて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "みんな、私に力を貸してください！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、まかせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、大船に乗ったつもりでいろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "私もできる限り力になります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "もう１人で抱え込まないでね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "うん、ありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "でも、１つだけ約束してほしいの。\\nちゃんと自分の予定を優先させるって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "私が言うのもなんだけど、\\n無理するのはなしにして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ええ、わかっているわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "私、どうしたらいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "どうしたらって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "みんなの気持ちはありがたいわ。\\nでも、私は……みんなの期待を\\n裏切っちゃったのに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "裏切られたなんて思ってないよ！\\nまだ時間は残ってるもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そのために、私たちがお手伝いするんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "だから、シャロちゃん。\\nお願い。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "本当に……いいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "だめって言われても手伝うつもりだからね！\\nまた体調を崩すことになったら大変だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "わかったわ。\\nそこまで言ってくれるなら……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うんっ！　まかせて！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そんなのだめよ。\\nこれ以上、みんなに迷惑をかけられない――\\nううん、私が、迷惑をかけるのが嫌なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "これ以上、みんなに甘えたら\\n自分が情けないっていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "さんざん心配をかけておいて、\\nそんなの今さらだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ううっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "細かいことはいいのよ。\\n私たちが、シャロちゃんの力になりたいんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\n大人しく、私たちに手伝わせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "お、大人しくって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "もう心配も迷惑もかけちゃったんだから、\\nこのままかけ続けてもあまり変わらないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "な、何よ、それ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "観念して、私たちに手伝わせなさいってこと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "わかったわよ。\\nそこまで言われちゃったら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うんっ！　まかせて！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、そうと決まれば……\\nさっそく作戦会議だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

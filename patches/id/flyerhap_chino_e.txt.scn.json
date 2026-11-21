@@ -1,0 +1,415 @@
+{
+  "identity": "flyerhap_chino_e.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "全員で軍服を着るとかっこいいね～。\\nすごく絵になってると思うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "見た目だけだな。\\n軍人らしいことは何もしてないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "まあ、チラシ配りのために\\n衣装を変えてるだけですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "そもそも、軍人らしいことってなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "やっぱり、こう、鍛えたいよね。\\n軍人は心も体も徹底的に鍛えるんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いい心意気だ。\\nなんなら、親父から受けた訓練を\\n今度は私がみんなに叩き込んでやるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ちょ、ちょっと待って？\\nリゼちゃんのいう訓練ってどんな感じなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そうだな、まずは筋力トレーニングか。\\n腕立て、腹筋、背筋、懸垂だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "はううぅ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、それは千夜ちゃんには無理……\\nっていうか話を聞いただけで\\n体力がゼロになってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、もうちょっと\\n　お手軽に鍛えられることは――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……ん？\\nどうしたんですか、ココアさん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ねえ、リゼちゃん。\\n軍人にはバランス感覚も必要かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "ああ、もちろんだ。\\n足場が不安定な場所で戦うことだってあるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "じゃあ、ちょうどいい訓練があるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "へえ、どんな訓練なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\nティッピーでーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ティッピー",
+          "original": "なぬ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ティッピーを頭に乗せてバランスを取る！\\nチノちゃんは普通にやってるけど、\\nこれって実はかなり難しいと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "確かに訓練になるな。\\nしかも安全だし、誰にでもできる。\\nいいじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "よし、さっそくやってみよう。\\n頭に乗せて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "う、うわ、これ、バランス取りにくい！\\n落ちるっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ティッピー",
+          "original": "ぬわわわわわわっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "ティッピー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "キャッチ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "ココアさん、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "この毛玉を頭に固定するの、本当に難しいぞ。\\nできるのは、かなりのバランス感覚の持ち主だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "じゃあ、千夜ちゃんはどうかな。\\nお盆三刀流ができるんだから、やれるかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "じゃあ、挑戦してみるわね。\\nココアちゃん、頭の上に乗せてみてくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "はい、ティッピー。\\n今度は千夜ちゃんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ティッピー",
+          "original": "仕方ないのう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "じゃあ、乗っけるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "……はうっ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "重さに耐えきれず崩れ落ちた！？\\n体力ゼロにもほどがあるだろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "無理……もうだめ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "千夜は本気で体を鍛えた方がいいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ティッピー",
+          "original": "……わし、そんなに重い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "大丈夫です、千夜さんが特別なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "じゃあ、次！\\nシャロちゃん、いってみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "む、無理だから！\\nうさぎを乗せるなんて無理だから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ、ティッピーだもん。\\nあんこだって時々乗せてるじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "あれは勝手に乗ってるのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "はい、ティッピー。\\n大人しくしててね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "って、こら！　やめて！\\nうさぎはだめぇ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、そのへんにしてあげて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "リゼ",
+          "original": "シャロの場合、まず\\nうさぎ恐怖症克服の訓練だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "シャロ",
+          "original": "が、頑張りますぅ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし、次は私だね！\\n　チノちゃんにコツを聞いてみようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ココア",
+          "original": "チノちゃん、ティッピーを頭に乗せる\\nコツってある？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "チノ",
+          "original": "木になるんです。\\nふどーの心でゆったりと構えたら、\\nティッピーも安心して頭の上にいられるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふどーの心……。\\n　なんだかよくわかんないけど、\\n　心を落ち着けてじっとしてればいいのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（落ち着く、落ち着く、落ち着く……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "よし、じゃあ毛玉を乗せるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ティッピーが乗った……じっとしてる……\\n　でも、もふもふ……もふもふ……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "だめですココアさん、\\nぼんのーに心を奪われたら……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ティッピー",
+          "original": "ぬお～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "リゼ",
+          "original": "毛玉確保！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "あれ、落ちちゃった。\\n難しいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "リゼ",
+          "original": "ココアもだめか。\\n結局、乗せられたのはチノだけだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "千夜",
+          "original": "そういえばチノちゃん、\\nあんこも上手に頭に乗せられるのよね。\\nあんこも大人しくしているし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "シャロ",
+          "original": "うそ、あの凶暴うさぎが！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "ココア",
+          "original": "バランス感覚では、\\nリゼちゃんを抜いてチノちゃんが１番だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "リゼ",
+          "original": "ああ、大したもんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "チノ",
+          "original": "ティッピーとあんこの頭乗せなら任せてください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

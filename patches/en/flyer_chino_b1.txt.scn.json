@@ -1,0 +1,193 @@
+{
+  "identity": "flyer_chino_b1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "どうかしましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、ちょっとティッピーの様子が気になって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ティッピーですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ティッピー",
+          "original": "わしがなんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "もしかしてなんだけど、ティッピー、\\nお腹空いてるんじゃないかな？\\nなんだか、そういう顔してない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ええと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "別に腹など空いておらん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "――です。\\n心配いりません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "そうかな～。\\n私には、空いてるように見えるんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nじゃあこれを、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nティッピーの前でチラシを揺らして……\\n何がしたいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "お腹が空いてるなら食べるかと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "え……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ティッピー",
+          "original": "紙など食べんわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そもそも、紙を食べるのはヤギです。\\nいくら白くてもふもふだからといって、\\n一緒にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えー、でもー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あうっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "……ココアさん、\\n実は、自分がお腹が空いているから\\nそんな話をしてたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "違うよ。\\n本当に、ティッピーが\\nお腹空いて切なそうに見えたんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "あ、だけど、確かにちょっと\\n空いてきちゃったかな、てへへ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "まったく……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "あれ？\\n今、チノちゃんのお腹も……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "き、気のせいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "あはは、もういい時間だもんね。\\nじゃあ、残りのチラシをぱぱっと配って\\n急いで帰ろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "今のは気のせいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "うん、そういうことにしておいてあげる。\\nお腹が空いたのは私とティッピーってことで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ティッピー",
+          "original": "わしは空いておらんと言っとるわい！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

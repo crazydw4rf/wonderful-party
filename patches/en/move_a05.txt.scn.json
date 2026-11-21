@@ -1,0 +1,392 @@
+{
+  "identity": "move_a05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（どうしようかな？\\n　本屋さんに行こうかな？\\n　あ、でも、服を見るのもいいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……ん？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、リゼちゃんだ！\\n　こっちに気づいてないみたいだし、\\n　こっそり近づいておどかしちゃおうっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（抜き足、差し足、忍び足で……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "むっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　リゼちゃんが消えた！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "何者だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うひゃあ！？\\n撃たないで、撃たないで～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "なんだ、ココアか。\\n驚いたじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "驚いたのはこっちだよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でも、そうやって即座に\\nバッ！　って反応するの、格好いいね。\\nさすがはリゼちゃんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "私もそんなふうに格好よく\\nジャキン！　ってやってみたいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "そうか？\\nまあ、こいつを貸すのは危険だからだめだけど、\\n使い方ぐらいなら教えてやってもいいぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "いいの？　教えて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "よーし、私の知る全てを教えてやる！\\n当然厳しく行くぞ！　覚悟はいいか！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "よーし、私の知る全てを教えてやる！\\n当然厳しく行くぞ！　覚悟はいいか！？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "もちろん覚悟はできてるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "やさしくしてね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "気合いは充分だな、気に入った！\\nビシビシしごいてやるぞ！\\nこの訓練をクリアしたら、お前も一人前だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "イエッサー！\\nありがとうございます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "よーし、では始めるぞ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "もちろん覚悟はできてるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "本当だろうな？\\nちゃんとついてこれるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ついていくよ！\\nリゼちゃんみたいに格好よくなれるなら\\n頑張り抜いてみせるよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "その言葉を忘れるな！\\nこれから向かうのは地獄だからな！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "やさしくしてね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おい、やる気あるんだよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、あるよ？\\nあるんだけど……やる気だけじゃ\\nどうにもならないことって、あるよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "まあ、確かにな。\\nそれじゃ、ココアに合わせたやり方にしよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "じゃあ、まずハンドガンの持ち方からやるぞ。\\nほら、持ってみろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "これを、こう……真っ直ぐに構えて、\\n左手で手首を支える。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えーっと、こう持って、こう？\\nどう、できてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "腕が低い。\\n真っ直ぐに構えるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "んーと……このくらい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "今度は高すぎだな。\\nほら、後ろから支えてやるから感覚を掴むんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、うん。\\nこう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "肘はしっかり伸ばして、腕は真っ直ぐ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（わっ！？\\n　リゼちゃんの息が\\n　耳元にかかってくすぐったい！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "姿勢が悪い状態で撃っても当たることはない。\\nここはしっかりな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "う、うん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "そして、真っ直ぐ目標に向けて、撃つ！\\nわかったか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "く……くすぐったい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "え？　くすぐったい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ご、ごめん！\\nリゼちゃんが近くて、\\n息がくすぐったくて集中できないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "あっ！\\nすまん、夢中になって気がつかなかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あ、いい匂いがする！\\nこれってリゼちゃんから香ってくるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ねえねえ、リゼちゃん。\\nシャンプーは何を使ってるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "シャンプー？\\nこれは確か――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "って、なんだ？\\n周りの人たちがこっち見てる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "訓練を始めた頃からみんな見てたよ？\\nリゼちゃんが格好よすぎたのかもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "し、しまった……！\\n人目がある場所でやることじゃなかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "わ、私はもう行くから。\\nココアもここから離れた方がいいぞ。\\nじゃあな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "あ！　リゼちゃーん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すごい勢いで走っていっちゃった。\\n　何か急用でも思い出したのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

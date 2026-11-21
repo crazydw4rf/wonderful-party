@@ -1,0 +1,346 @@
+{
+  "identity": "chino_a08.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "おはようございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あっ！　おはよう、チノちゃん！\\nさあ、朝食ができてるから座って？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "えっ？\\nココアさんが作ってくれたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nすみません、昨日も夕飯を作ってもらったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "いいのいいの。\\n勝手にやったんだから気にしないで？\\nはい、まずは焼き立てのパンだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\n朝からパンを焼いてくれたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん。\\nチノちゃん、なんだか元気なかったから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "おいしいパンで、悩みを少しでも\\n軽くできたらって思って。\\nてへへ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "それと、こっちはオムレツだよ。\\n形は失敗しちゃったけど、味は大丈夫だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "あの、形も何も、ケチャップがかかりすぎていて\\n何が何だかわからないんですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nこれ、チノちゃんの顔を描いたんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "これが私ですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "最初は、ティッピーの絵にしようと\\n思ったんだけど、この方がチノちゃんも\\n喜んでくれるかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "（これは、どう見てもケチャップのかけすぎで\\n　ケチャップの味しかしなさそうですが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "（でも、ねぼすけのココアさんが\\n　わざわざ早起きして作ってくれたんですね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "さあ、チノちゃん。\\n冷めないうちにめしあがれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "はい、いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "（た、食べづらい……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "ココアさんは食べないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "食べるけど、まずは味の感想が聞きたいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "そ、そうですか。\\nじゃあ、パンから……あむっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "どうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "とても香りがよくて、ふかふかでおいしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "よかったぁ！\\nじゃあ、次はオムレツも食べてみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "中がとろとろです……！\\nこれ、チーズが入っているんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "うん、冷蔵庫にあったから一工夫してみたんだ。\\nチノちゃんがおいしいものを食べて\\n元気になってくれたら、私も嬉しいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "ココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "ココアさん……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "はい、確かに元気が出そうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "早起きさせて、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はい、確かに元気が出そうです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でしょ？\\n朝食はしっかり食べないと、\\n１日保たないって言うしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "栄養つけて、悩みも吹き飛ばして、\\n今日も頑張ろうね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "やだな～、そんなに真面目にお礼なんて\\n言わなくていいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "これは姉として当然のことをしてるだけだからね。\\nだから、じゃんじゃん頼ってもらっていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "早起きさせて、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "えっ？\\nどうして謝るの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "その、わざわざパンを焼くために\\nココアさんに早起きをさせてしまったので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "う、ううん、気にしないで！\\n今日は、その、ほら、\\nたまたま早く目が覚めちゃっただけだから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（ココアさんの気遣いに応えるためにも、\\n　パーティーは絶対、成功させなくちゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（だからこそ、ココアさんには相談できません。\\n　……ごめんなさい）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさんも早く食べないと遅刻しますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あっ、いっけない！\\nいだきまーす！\\nあむあむあむ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "そんなに急いで食べたら、喉に詰まりますよ。\\n牛乳を用意しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん！\\nありがとう、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

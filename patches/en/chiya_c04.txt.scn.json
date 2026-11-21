@@ -1,0 +1,328 @@
+{
+  "identity": "chiya_c04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日はどきどきの１日だったね。\\n　宝探しが一気に進んだよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ああ～っ！　興奮しちゃって眠れない！\\n　チノちゃんの部屋にお邪魔しちゃおうかな？\\n　それとも千夜ちゃんに電話してみようかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、千夜ちゃんからだ！\\n　やっぱり千夜ちゃんと私は\\n　通じあってるんだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "もしもし、千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、こんばんは。\\nごめんね、遅くに電話して。\\nなんだか興奮して、眠れなくなっちゃったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "私もだよ。\\nそれでね、今ちょうど千夜ちゃんに\\n電話しようかと思ってたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "そうだったの。\\nやっぱり私たち、波長が合うのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "えへへ、そうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "宝探し、上手くいきそうね。\\nみんなのおかげで一気に進展したわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "もしかしたら、本当に宝物が\\n見つかっちゃうかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "そうねぇ……。\\nでも、隠した人はどうして\\nこんな手の込んだ仕掛けをしたのかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "街中に７枚も地図を隠すなんて、\\n大変な手間よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うーん……。\\n宝探しを楽しんでもらいたかったのかな？\\nそんな、お茶目な人だったのかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そうだったのならいいけど、\\nもしかしたら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "もしかしたら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "よほど見つけてほしくないものが\\n隠されているのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "見つけてほしくないものを隠してるの？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "見つけてほしくないものを隠してるの？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "それってツンデレだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "そんなにすごい物なのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "なら、最初から隠さないんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "それってツンデレだね！\\n見つけてほしくないと思ってるのに\\n地図を残しちゃうなんて。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "うふふっ、そうね。\\nよほどのツンデレさんね。\\nもしくははずかしがり屋さんかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "見つけるなよ！　見つけるなよ！\\n絶対に見つけるなよ！　って言いながら\\n地図を用意するんだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それはツンデレっていうより\\n芸人さんのノリじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そんなにすごい物なのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そうかもしれないわね。\\n楽しみだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "むむむむ～、何が出てくるのかな？\\n金銀財宝とか？　国家機密とか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "地下迷宮の魔王なんて\\n掘り出しちゃったら大変ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それは絶対掘り当てちゃいけないよ～！\\n私たちのせいで世界が滅んじゃう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "なら、最初から隠さないんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ええ、そうなのよね。\\nそこが不可解だけれど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "何か深い意味があるのかも。\\nきっと、私たちにはわからない\\n意図が隠されているんでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うーん、宝物もだけど\\nその辺の事情も気になってくるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でも、本当に見つけてほしくないものだったら……\\n私たちが探し出しちゃって大丈夫なのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ううん、大丈夫よ。\\nきっと私の考えすぎだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それより、パーティーの飾りつけの準備も\\nそろそろ始めないといけないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そうだね。\\nせっかくだし、かわいらしくしたいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "窓にティッピー型の\\nスノースプレーを吹き付けたり、\\nきらきらライトアップさせたり。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "それも素敵ね。\\n私もね、みんなをびっくりさせるような\\n驚きの飾りつけをしたいと思ってるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "いいね、クリスマスサプライズとか\\n絶対思い出に残るよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "でしょう？\\nそれで、ちょっと聞きたいんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ラビットハウスさんって、\\n床をせり上げたり\\n天井を開いたりとかできるかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "一体どんなサプライズを仕掛けるつもりなの！？\\nラビットハウスにそんな変形機構は\\n備わってないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あら、残念。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あはは……。\\n千夜ちゃんの本気の恐ろしさを\\n垣間見た気がするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あっ……。\\nごめんなさい、すっかり話し込んじゃったわね。\\n今日はそろそろ寝ましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん。\\nそれじゃ、おやすみなさい千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "おやすみなさい、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

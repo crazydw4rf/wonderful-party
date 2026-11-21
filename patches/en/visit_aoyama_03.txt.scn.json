@@ -1,0 +1,444 @@
+{
+  "identity": "visit_aoyama_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おっ、シャロじゃないか。\\nそこの席に座ってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "あ、はいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、青山さん！\\nさあさあ、こちらの席にどうぞ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっとココア！\\n何で私と相席なのよ、他が空いてるじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え？　だめ？\\nせっかくなんだから、\\n色々おしゃべりしたいかと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "すみません。\\n相席、失礼しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "え、ええ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "この人、また変な目で\\n店員を見たりしてないでしょうね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "どうかしましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "えっ、い、いえ別に！\\nそういえば、今日はどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "今日も、いつものように\\n小説のアイディアになるものがないか探しています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "そっか、青山さんは小説家なんですよね。\\n文章を書くのって、やっぱり難しいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "そうですねぇ。\\n難しいと言えば難しいですが、\\n簡単と言えば簡単かもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "ど、どっちなの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "正直、自分ではよくわからないのです。\\n書いている時は意識しませんから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nじゃあ、よりよいお話を書くコツとか\\nあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "青山",
+          "original": "ん～、強いて言えば……観察でしょうか？\\n特に人間観察は、登場人物に深みを与えるために\\n最も重要なことだと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "そうなんですか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "青山",
+          "original": "じーっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "ひうっ！？\\nわ、私をすごい見てる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "青山",
+          "original": "今日、私と出会ってから、\\nシャロさんは３回髪をさわりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "青山",
+          "original": "そして、ココアさんはチノさんを３回呼びました。\\nリゼさんは、５回、ココアさんを\\nお盆で突っつきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "そこまで見てるんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "青山",
+          "original": "ええ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "こ、この人、本当は\\nストーカーなんじゃないの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "２人、盛り上がってるね～。\\n何の話をしてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "盛り上がってるかはわからないけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "青山さんは人間観察が得意で、あんたが\\nリゼ先輩に５回も怒られたところも\\n見てたんだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "えええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "えええっ！？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "よく見てますね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "まるで監視員みたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "見ているだけじゃだめですよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "よく見てますね！\\nそれに、見たこと全部、細かく覚えてるって\\nとてもすごいですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "いえ、そんなに誇れることではないですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "まあ、ココアは、ほんの少し前のことも\\nすぐに忘れるもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\nちゃんと覚えてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "じゃあ、さっき受けたオーダーは何だ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えっ？\\nえっと……なんだっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "正解はブルーマウンテンですね。\\n今、チノさんが作っています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "おお！　すごい、さらっと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "これは、ココアをクビにして\\n青山さんを雇った方がいいかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ええーっ！？　そんなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "クビになりたくないなら、ちゃんと働けよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "まるで監視員みたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "監視員って……プールや海にいる人？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そうそう！\\n高いところから、みんなの安全を見守ってるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、そっか。\\nだったら、青山さんも\\n私たちの安全を見守ってくれるんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そんなわけ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "はい、僭越ながら\\nみなさんを見守っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ええ！？\\nそ、それはストーカーじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ストーカーはあとをつけるでしょ？\\n青山さんはここで見守ってるだけだから\\n全然違うよー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "そういう問題！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "見ているだけじゃだめですよ！\\nちゃんと応援しないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "まあ、それは失礼しました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そうじゃないでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　違った？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ココアは気にならないの？\\n仕事してる間、ずっと見つめられてるのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "んー……気になるかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ！　あくびを何回したか、\\n数えられるのは困っちゃうな。\\nチノちゃんに怒られるよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ちゃんと真面目に働きなさい！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "やれやれ。\\n特技がもう少し仕事に繋がればいいのじゃが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "でも、ココアさんがちゃんと働いているかを\\n監視してもらえるなら大歓迎です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "あの観察眼、もしや探偵や刑事に\\n向いておるのかもしれんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "どうでしょうか。\\n青山さんのことですから、犯人を見つけても\\n取り逃がしてしまいそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ティッピー",
+          "original": "確かにそうじゃな。\\nそれこそ、物語の中で\\n活躍してもらうしかないのう、ほっほっほっ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

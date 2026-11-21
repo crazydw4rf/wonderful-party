@@ -1,0 +1,376 @@
+{
+  "identity": "syaro_d04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "シャロさん、\\n今日はよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "こちらこそよろしくね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "あの、ところで……\\nどうして、こんなテーブルが店内にあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "あれ？　聞いてない？\\n今日はクリスマスのイベントとして、\\nマジパン作りのパフォーマンスをするのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\nそ、そうだったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ごめんなさい。\\nてっきり、もう聞いてるんだと思ってたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "フルールでは、そういったイベントも\\nあるんですね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "嫌でもお客さんに注目されちゃうし、\\nはずかしいのなら、普通に接客だけにする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "いえ、やります。\\nシャロさんを手伝うために来ているんですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "で、ですが、お客さんに\\n満足してもらえるものになるかどうかが\\n不安です……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "で、ですが、お客さんに\\n満足してもらえるものになるかどうかが\\n不安です……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "チノちゃんならできるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "あくまでパフォーマンスよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ごめんね、こんな仕事で。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "チノちゃんならできるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そうでしょうか。\\n正直、自信がありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ううん、自信を持って。\\nだってチノちゃん、ボトルシップを\\n作るのが趣味なんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "あれって、すごく細かい作業で集中力がいるし\\n根気だって必要なはずよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "それと同じで、これも丁寧に\\n根気よくやれば大丈夫よ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "シャロさん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "わかりました。\\n私、頑張ってみます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ええ！\\nそれじゃ、始めましょ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あくまでパフォーマンスよ。\\nお客さんが作ってほしいものを\\n注文してきたりするわけじゃないから、大丈夫。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ですが、失敗したら\\nお店の評判に関わるのでは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そこまで重く考えなくていいわ。\\n失敗は失敗で、そこがかわいいって\\n意外にウケたりするから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "……そういうものなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "人の受け取り方は様々なんですね。\\n勉強になります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "まあ、そんな感じだから。\\n肩ひじ張らずに、適度に頑張りましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ごめんね、こんな仕事で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そ、そんな！\\nシャロさんが謝ることはないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "こちらこそ、すみません。\\nお手伝いすると言いながら情けないことを。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ううん、不安になるのは当然よ。\\n事前にちゃんと説明するべきだったわ。\\nごめんなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "で、ですから、謝る必要は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "……ふふっ！\\nそうね、謝り合っててキリがないわね、これ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "じゃあ、この話はここまで。\\nお仕事を始めましょ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "これって、なんだか粘土みたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ええ、粘土細工だと思って\\nやってみると気が楽かもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "それは確かに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ほら、こんなふうにすると\\n人形っぽく見えてくるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ええと……こんな感じですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "そうそう！\\n上手じゃない、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "あ……！\\nサンタさんになってきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "それで、次に帽子を作って……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "かぶせればいいんですね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "はい、できあがり、っと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "これは……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "初めて作ってみた感想はどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "思ったよりも楽しかったです。\\n自分で作ってみると、愛着も湧きますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "あの、シャロさん？\\nクリスマスパーティーの時、\\nケーキ、ありますよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "もちろん準備するけど、それがどうかした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そのケーキに、私がサンタさんを作って\\n乗せてみせたら、みんな驚くでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "それ、いいわね。\\nきっと驚くし、なにより喜ぶと思うわ。\\n特にココアが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "では、もしよければ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "ええ、マジパン作り、お願いするわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "は、はい……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

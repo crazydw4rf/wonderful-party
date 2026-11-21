@@ -1,0 +1,273 @@
+{
+  "identity": "rize_b05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（はあ……。\\n　相変わらず、やるべきことが思いつかない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（昨日の様子じゃ、ココアもチノも千夜も、\\n　私の手伝いなんて必要なさそうだった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（何より、みんな準備が楽しそうで……。\\n　私も何かしたいのに、このままでは……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（っと！\\n　しまった、考え事をして\\n　シャロを見失ってしまうところだった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（バイトに遅れると連絡してまで\\n　作りだした時間なんだ。\\n　１秒たりとも無駄にはできないぞ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "やっぱり、紅茶はあのお店で買うのがよさそうね。\\nでも、品揃えがよすぎて迷っちゃうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "あとはジュースと、\\nノンアルコールのシャンパンかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ココアが勘違いして、\\nお酒なんていけないんだーとか\\n言い出したりしそうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（……やっぱり、シャロも楽しそうだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "あとは……\\nそうね、カップやグラスも見ていこうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "大体は、ラビットハウスにある物で\\nいいでしょうけど、雰囲気に合わせた\\n特別な物も用意したいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "確か、この辺りにいいお店が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "あ、ここ、ここ！\\nどの品物もセンス抜群なのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "（さすがはシャロだな、こういう店を知ってるとは。\\n　私ならまず店探しからだし、そもそもセンスに\\n　自信がないし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "ほわあああ～。\\nこのグラス、透明感がたまらない……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "でも、クリスマスってイメージからすると\\nこっちかしらね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "ううっ！　高い！\\nこれ、アンティークものなのね。\\nさすがに予算が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "（何か迷ってるみたいだな。\\n　これはチャンスなんじゃないか？\\n　し、しかし、どうやって声をかければ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "仕方ないわ。\\n無駄遣いなんてできないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "（あっ！？　行ってしまう！\\n　こうなったら、どうにでもなれっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "しゃ、シャロ！\\nこんなところで奇遇だな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩！？\\nこ、こ、こんにちはっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "どうした？　何か探し物か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "はい。\\nクリスマスパーティーの準備で、ちょっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "お、そのグラスを見てたのか。\\nなかなかいい品物だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "先輩もそう思いますか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ああ。\\nきれいだし、クリスマスの雰囲気にも合ってるし、\\nパーティーに持ってこいだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "そうですよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "で、でも……これを人数分揃えようとすると、\\nちょっとお金がかかりすぎてしまうので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "なんだ、そんなことか。\\nだったら私が個人的に買うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "他にも何かあるなら一緒に買ってもいいぞ？\\n私に任せておけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "そんな、だめです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "え？　どうしてだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "だって、みんなで使う物なのに\\nリゼ先輩にだけ負担させるわけにはいきません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "それに、予算が限られている以上、\\nその中で無理なくやりくりするのが\\nこの仕事を任された私の役目ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "……そうか。\\n確かにそうだな、シャロの言う通りだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "ここで私がお金を出しても自己満足にしかならない。\\nむしろ、みんなに気を遣わせてしまうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "あ、あの、お気持ちはとっても嬉しいんですよ？\\nだけど、その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "ああ、わかってる。\\nすまないなシャロ、気を遣わせてばかりで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "あ、いえ、そんな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "あ、そ、そうだ！\\n飾り付けの買出しはみんなで行くんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "私、楽しみにしてますから。\\n出かける日が決まったら連絡くださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "そうだな、私も楽しみにしてるよ。\\n決まったらすぐに連絡するからな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

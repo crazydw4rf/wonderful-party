@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_chiya_f3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえねえ、千夜ちゃんって\\nこの街に住んで長いんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ええ、小さいころからずっと住んでるわ。\\nそれがどうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あのね、私、この街の冬ってよく知らないんだ。\\nどんな風なのかな？\\n今からすっごく楽しみで仕方なくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "んー……。\\n残念だけど、取り立てて\\n他と違ったところはないと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "寒くて、静かで、どこにでもある\\n普通の街の、普通の冬よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん、そんなことないよ。\\nこの街にあって、\\n他の街にはないものがあるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "あら、それって何？\\n聞いてもいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "聞かなきゃわからないかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "では、お教えしましょう！\\nこの街にはね、千夜ちゃんがいます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "それに、チノちゃん、\\nリゼちゃん、シャロちゃん――\\n他にも、この街で会ったみんながいてくれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "この街の冬をみんなで過ごせる。\\nこんな素敵な特別って、他にないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "……ふふふ。\\nええ、確かにそうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "私にとっても……\\n今年の冬は、ココアちゃんがいるんだものね。\\n特別でないはずがなかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "でしょ？\\nでも――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんが、私がいることを当たり前に\\n思ってくれてたのなら、\\nそれはそれで、すっごく嬉しいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "どんな冬になるんだろう？\\nみんなで何をしよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "そう考えるだけで、もう冬をやりとげた！\\nって、満足しちゃいそうになるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nそれは、さすがに気が早いんじゃないかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "そうだよね。\\nまだまだ、これからなんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "そうよ？\\n私だって、なんだかわくわくしてきたもの。\\n一緒に楽しみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "うん！\\n千夜ちゃんも、したいことあったら教えて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "ええ、わかったわ。\\nきっと、今までで１番楽しい冬になるわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

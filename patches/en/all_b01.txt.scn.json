@@ -1,0 +1,165 @@
+{
+  "identity": "all_b01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "――よし、みんな落ち着いたな？\\n状況を整理するぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "は、はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "私たちは、チノの家でお泊まり会をしていた。\\nこれはクリスマスパーティーに向けての\\n会議のためだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい、それは間違いないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "それで、シャロちゃんとチノちゃんが\\n寝てしまったからお開きにして、\\n私たちも寝たのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、みんなが寝たのは\\n確かに私の部屋だったよ。\\nだけど、目を覚ましてみたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ううっ！\\n風が冷たい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "このとおり、雪山の真っ直中だったわけか。\\n……まったく、何が何だかわからない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "困ったわねぇ。\\nみんな布団の中だったから何も持っていないし、\\nどこかに助けを求めることもできないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "時間もわからないし……。\\n私たち、どのくらい寝てたのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "まだかなり暗いから、\\n時間はそれほど経っていないと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "は、は……はっくしょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "だ、大丈夫……じゃないかも。\\n寒いよぉ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "パジャマでこんな場所にいるんだ、当然だな。\\nともかく、どこか暖を取れる場所を探そう。\\n洞窟なり山小屋なりを見つけて、そこに避難だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nこのままじっとしていても\\n救助が来るとは思えません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "でも、どうやって避難場所を見つけるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "みんなで協力し合うんだ。\\n大丈夫だよ、今までだって\\n力を合わせて色々こなしてきたじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "諦めさえしなければ活路は必ず見つかる！\\n私たちは１人じゃないんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "うんっ！\\nみんなで力を合わせて、頑張ろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "よし、では行くぞ！\\n私についてこい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

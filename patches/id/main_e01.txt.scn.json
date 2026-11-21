@@ -1,0 +1,21 @@
+{
+  "identity": "main_e01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（学校が終わったら、次はバイトだ。\\n　さあ、今日も頑張ろう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（お客さん、たくさん来てくれるといいな～）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

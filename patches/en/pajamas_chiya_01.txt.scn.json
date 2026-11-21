@@ -1,0 +1,235 @@
+{
+  "identity": "pajamas_chiya_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は、千夜ちゃんと一緒に寝ようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……静かだぁ。\\nみんな寝ちゃったみたいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃんはまだ眠れない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "眠れないって言うか……。\\n寝るのがもったいない感じ。\\nもうちょっと千夜ちゃんとお話したいなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ええ。\\n私も、ココアちゃんと話したいことが\\nいっぱいあるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "どんな話？\\nま、また怪談じゃないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "怪談でもいいのよ？\\nリクエストがあるならどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "い、いらないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日の千夜ちゃんは変なスイッチが\\n　入ってるような……ここは別の話を振って\\n　怪談から離れないと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n最近ね、珍しい色のうさぎを見つけたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "この街の野良うさぎ、\\nまだまだ見たことない子がいるみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "うさぎ……。\\nそうだわ、ココアちゃん、\\nあの話なら気に入ってくれるかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "え？　なになに、うさぎの話？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "この街にはね、呪われたうさぎがいるの。\\nみんなに好かれる愛くるしい顔とは正反対の、\\n血を見ることが何より好きなうさぎが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（え……？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "もちろん、昼間はその顔を隠している。\\nだけど、そう、今日みたいな夜になると――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ストップ、ストップ～！\\nうさぎの話のはずなのに、\\nどうして怪談になってるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "え？　かわいいうさぎの話よ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "呪われてるのをかわいいとは思えないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "話が進めば呪われた理由がわかるのに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "いい……絶対に怖いから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うう、前に聞いた切り裂きラビットの怪談も\\n思い出しちゃったよ。\\n眠れない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "じゃあ、安心して眠れる方法を教えてあげるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "え？　そんなのあるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、ちょっと手を貸して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "手を？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "こうして胸に手を当てると……感じないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "とくん、とくんって……心臓の音？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "そう。\\n心臓の音を聞くと心が落ち着くんですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うん、千夜ちゃんの心臓の音……\\n　何か安心するかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "どうかしら？\\n効果、ありそう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "うん……。\\nすごく落ち着いてきた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "こうしていると、誰かが側にいてくれるって\\n強く感じられるから\\n落ち着くのかもしれないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "ん……。\\n心がゆったりして……眠たくなって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "それなら、このまま寝てしまいましょ。\\nおやすみなさいココアちゃん、いい夢を。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんもいい夢見てね。\\nおやすみなさい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "大丈夫。\\nココアちゃんと一緒に寝るんだから、\\nいい夢に決まっているわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

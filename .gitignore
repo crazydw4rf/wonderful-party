@@ -223,3 +223,10 @@ __marimo__/
 .streamlit/secrets.toml
 
 assets
+
+# Project specific
+workspace/
+*.scn.m
+build/
+dist/
+

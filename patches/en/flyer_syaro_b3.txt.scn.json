@@ -1,0 +1,181 @@
+{
+  "identity": "flyer_syaro_b3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あれ？\\nあのお店って、シャロちゃんが前に\\nバイトしてたクレープ屋さんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ああ、そうね。\\n同じ屋台だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おおー、行列ができてる。\\n人気のお店なんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "……ん？\\n違うわ、あれって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あれれ？\\n列のお客さんが離れていっちゃった？\\n買わなくていいのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "人気だからじゃないのよ。\\n店員の手際が悪いから列ができてるんだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、そうなんだ。\\n新人さんなのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "多分そうね。\\n慣れないうちは段取りがわからなくて\\n焦っちゃうのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ああ、生地が焼けるのを見守ってないで、\\nその間にトッピングを出せばいいのに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "違うわ、イチゴは２段目！\\nそれじゃ生クリームがこぼれる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あああ、失敗しちゃったよ、\\nますますお客さんを待たせちゃう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "くう……！　見てられないわ！\\nココア、チラシ持ってて。\\nちょっと行ってくる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "え？　シャロちゃん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すごい、シャロちゃんがアドバイスしただけで\\n　お客さんの列がどんどん短くなった！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "ふう、もう大丈夫そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\n大活躍だったね！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "……え、ええ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あれ、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "私ったら、もうクレープ屋の\\nバイトじゃないのに余計なことを……。\\nお節介だったわよね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ちっとも余計じゃないよ！\\nあの店員さんだって感謝してたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "シャロちゃんはいつも真剣で、真面目で、\\n優しい頑張り屋さんで……\\nそれって素敵なことだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ココア……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "私の計画も手伝ってくれてるし、\\nすっごく、すっごく！　感謝してるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "べ、別に……手伝ってるのは\\nココアのためじゃなくてチノちゃんのためだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "だね。\\nチノちゃんのために頑張ろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "そうね、頑張りますか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "……ありがと、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

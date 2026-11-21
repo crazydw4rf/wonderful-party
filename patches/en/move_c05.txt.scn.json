@@ -1,0 +1,290 @@
+{
+  "identity": "move_c05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？\\n　青山さんだ、\\n　こんなところで何してるのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "ああ、かわいい。\\nそれにふかふか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "こんにちは、青山さん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "あら、ココアさん。\\nこんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、うさぎを触ってたんですね。\\nかわいいですね、この子。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "ええ……。\\n生き物と戯れると心が洗われます。\\nずっとこうしていたいです……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（青山さん、なんだか変？\\n　何かあったのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "青山さん、どうしたんですか？\\n元気がないみたいですけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "その……実は、追われていまして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えっ！　追われてる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（何かの事件に巻き込まれちゃったの？\\n　すごい、こんなスリリングなことが\\n　ホントにあるんだ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "じゃあ、うさぎと戯れてる場合じゃないですよ！\\n早く逃げなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "そうなのですが、うさぎの魅力には抗えず……。\\nああ、癒されます～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "だめですよ！\\nこうしている間にも、魔の手が迫ってきて……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "ですが、どうすれば逃げきれるのか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "私に任せてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "ココアさん、助けてくださるんですか？\\nでもどうやって……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "青山",
+        "original": "ココアさん、助けてくださるんですか？\\nでもどうやって……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私が悪の手からかくまいます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "私が代わりに戦います！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "それは……これから考えます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私が悪の手からかくまいます！\\nひとまずラビットハウスに行きましょう。\\nまずは、少し落ち着いた方がいいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "まあ、頼もしい。\\nですが……ご迷惑をおかけするのは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、そうだ、敵だって\\nいつも青山さんが行く場所は\\nチェックするはずですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "となると、変装して敵の目をごまかさないと。\\n私の服を貸します！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あと、サングラスをかけて帽子をかぶれば――\\nううん、帽子よりティッピーを乗せるのがいいかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "変装はともかく、ティッピーさんを\\n頭に乗せたら、とっても癒されそうですね。\\n想像しただけで少し元気が出てきます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私が代わりに戦います！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "気持ちはとても嬉しいですが、いけません。\\nココアさんを戦わせて、私だけ逃げるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "そう、これは……私の戦いなのですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "青山さんがそう言っても、私は助太刀します！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ええと、装備はバケツのふたと\\nバドミントンのラケット？\\nおたまの方が頑丈かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そんなに親身になってくださって……\\n少し元気が出てきました。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "それは……これから考えます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "いえ、無理に考えなくてもいいんです。\\nこれは……私が１人で戦い、解決しなくては\\nいけないことなのですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "で、でも、私、青山さんの力になりたいです。\\nこの街で出会った、大切な人なんですから。\\nだから、そんな寂しいことを言わないでください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "ココアさん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "ああ、その言葉だけで\\n私の心が温かいものでいっぱいになります。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "ありがとうございます、ココアさん。\\nこれで、立ち向かうだけの力を得た気がします。\\nどうか無事を祈っていてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そんな！？\\nだめですよ、まだ諦めちゃ！\\n勝ちましょう！　逃げきりましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "ココアさんは本当に優しいですね。\\nでも締め切りは、逃げきるのではなく\\n守るべきものですから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（え？　締め切り？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "では……またお会いしましょう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そっか、悪者に追われてるんじゃなくて\\n　締め切りに追われてたんだ……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

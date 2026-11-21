@@ -1,0 +1,298 @@
+{
+  "identity": "rize_b04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "リゼさん、どこに行ってたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あ、す、すまない。\\n仕事を放り出して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "いえ、何か用があったのなら構いません。\\n今は１人でも問題なかったので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そうか。\\nえっと……そのコーヒーはどこのお客さんだ？\\n私が持っていこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nでは、３番テーブルにお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（だめだ、仕事中に\\n　余計なことを考えているのはよくない。\\n　気持ちが焦るのは仕方ないが、今は集中だ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……！\\n千夜さんからメール……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "これは……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "（ん？　チノが何か困っているみたいだな。\\n　スマホを見ているが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "千夜さんは相変わらずですね。\\nとりあえず、料理の名前だということは\\nわかりますが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "（料理の名前？\\n　千夜からのメールみたいだし、いつもの調子で\\n　独創的な名前が送られてきたのか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "（パーティーの料理を一緒に作るのに、\\n　それはなかなか大変そうだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "（……ん？\\n　チノ、ノートを取り出して……\\n　何をする気なんだ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "ええと……『草原に星屑』だから、\\n恐らくサラダに何かをかけるということで……\\n以前の例から考えると……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "（解読している！？\\n　これまで千夜が挙げてきたメニュー名を参考に\\n　推測しているのか！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（解読している！？\\n　これまで千夜が挙げてきたメニュー名を参考に\\n　推測しているのか！？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "なんて推理力なんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "アドバイスした方がいいだろうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ノートを見てみたいな……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（なんて推理力なんだ！\\n　この様子なら任せておいて大丈夫だな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（相性はいいだろうと思っていたが、\\n　チノと千夜を組ませたのは正解だな。\\n　しかし、また何も手伝えないのか……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（何かアドバイスした方がいいだろうか？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（いや、やめておこう。\\n　あのノートより役に立てる自信は、正直ない）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（あのノートには、一体、どんなことが\\n　書かれているんだ？\\n　ちょっと見てみたいな……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（って、そんなことを気にしている場合じゃない。\\n　ともかく、あそこまでチノが頑張っているのに\\n　水を差すような真似はしたくないな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？\\nボーっとしてるけど、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "うわぁっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うわあっ！？\\nな、なんでそんなに驚くの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いや、なんでもない！　ちょっと気が抜けてて！\\n戦場で気を抜くとは、\\n私としたことが気が緩んでいるな！　すまん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ここは戦場なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ココアさん、休憩はもういいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、うん。\\nちょっと早いけど交替でいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "では、リゼさん。\\n次は私が休憩してもいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。\\nいいぞ、ゆっくりしてこい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nそれでは、休憩、頂きます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "（ふう……。\\n　チノの様子をうかがっていたのには\\n　気づかれなかったみたいだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "もしもし、千夜さんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "（……ん？\\n　チノが廊下で電話をしているのか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "メール、確認しました。\\n私も少し手伝えると思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……そうですね。\\nでは、必要な調味料も買出しで揃えましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……ええ、みんなで\\n飾り付けを買いに出かける時が\\nちょうどいいと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "……はい。\\n私も楽しみにしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

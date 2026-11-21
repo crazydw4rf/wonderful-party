@@ -1,0 +1,81 @@
+{
+  "identity": "all_d02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（さて、次にプレゼントを配るのは――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（お、マヤか！\\n　マヤもサンタの存在を信じているんだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（もし、私がサンタとしてプレゼントを\\n　届けに来たと知ったら、どんな顔をするだろう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（しかし、これは秘密の任務だ。\\n　残念だが、おいそれとサンタの正体を\\n　明かすわけにはいかないな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "……お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "勝手に入ってすまないな、マヤ。\\n悪いが、これも任務なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "さて、プレゼントはどこに……\\nおっと、さすがだな、\\nちゃんと靴下が用意してあるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "よし、プレゼントを入れたぞ。\\nサンタはちゃんとマヤの願いを叶えたからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "どうか、これからも、\\nその純粋な心のままサンタを信じ続けてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "それが、サンタを信じることを忘れていた\\n私からの願いだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "メリークリスマス、マヤ。\\nいい夢を見るんだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

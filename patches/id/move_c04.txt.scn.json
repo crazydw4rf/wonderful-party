@@ -1,0 +1,404 @@
+{
+  "identity": "move_c04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（長めのお昼休憩もらったから、\\n　気分転換に公園まで来たのはいいけど\\n　ちょっと寒いかな……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンをよろしくお願いしまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ココアじゃない。\\n制服ってことは、ココアもバイト中？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、お昼の休憩中なんだ。\\nさっきまで、リゼちゃんとフルールで\\nお茶してたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "えええええっ！\\nリゼ先輩がきてるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、もう帰っちゃったよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "くうう、チラシ配りなんて\\n引き受けるんじゃなかったわ。\\nリゼ先輩とお話しするチャンスが～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "な、なんでもない！\\nそれより、こっちは休憩じゃなくて\\n仕事中だから邪魔しないで。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、お昼の休憩なんだ。\\n気分転換しようと思って来てみたんだけど、\\nシャロちゃんはチラシ配り中？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ええ、見ての通りね。\\n仕事中だから邪魔しないでよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンをよろしくお願いしまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ねえ、シャロちゃん。\\n大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "大丈夫って、何が？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "なんだか、元気がないみたいだから。\\n笑顔にも力がないっていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "う……。\\nココアにもバレちゃうなんて、\\n私の愛想笑いにも限界があったのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "どうしたの？\\nもしかして、体調が悪いの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ううん、単に寒いだけ。\\n今日は妙に冷えるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nシャロちゃん、チラシ半分ちょうだい。\\n手伝うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "え？　なんでいきなり、そんな。\\n大体、ココアは今、休憩中でしょ？\\n人を手伝うより体を休めなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "大丈夫、今日のお休みは長いから\\nお手伝いしてからでも充分休めるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "それよりも、シャロちゃんが\\nこれ以上、寒い思いをしないように\\n早く配っちゃわないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "……あんたって、本当にお人好しね。\\nじゃあ、お願いしていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うん！　どーんと任せて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うーん。\\nチラシ、減らない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "寒いからかもしれないわね。\\nポケットに手を入れて歩いてる人、多いでしょ？\\nチラシを受け取るのに手を出すのが面倒なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（う～ん……。\\n　そうなると、配るのに何か工夫が必要だね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（う～ん……。\\n　そうなると、配るのに何か工夫が必要だね）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "オマケをつけるのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "自分を追い込んでみようよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "受け取らなきゃって思わせるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "オマケをつけるのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "は？　オマケ？\\n何のことよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チラシを受け取ってもらうための工夫だよ。\\nキャンディとか、ちょっとしたものを\\nおまけに付けたらいいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "確かに、それなら受け取ってもらえそうね。\\nココアにしてはまともな意見じゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ふふーん、たまにはいいこと言うって\\nよく言われるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "それ、褒めてないわよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "まあ、今すぐに\\n私の独断でやるわけにはいかないし、\\n今度、店長に提案してみるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "となると、今すぐにできることは……\\nいつもの笑顔で精一杯、だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "シャロちゃんがお店でお客さんを\\n出迎える時の、あの笑顔とポーズで行こう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "う……。\\nまたまともで真面目なことを。\\nでも、ココアの言う通りよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "自分を追い込んでみようよ！\\nその状態でチラシを配るの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "……は？　追い込む？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そう！\\n千夜ちゃんみたいに、火事場の馬鹿力が\\n出せるかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "千夜みたいにって言われても……\\nでも、確かに、寒いからって\\n甘えてるところはあるのかもしれないわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そうね、自分を追い込むのはともかく、\\nここで気合を入れ直して頑張ってみるわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "受け取らなきゃって思わせるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "どうやってよ。\\n言っておくけど、\\n人に迷惑をかけるようなのは却下だからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えーっとね、路上に座り込んで、\\n小刻みに震えて、近付いてきた人に――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシ……受け取ってください……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "どういうシチュエーションなのよ！\\n第一、それじゃ店のイメージが落ちるでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん、そっかぁ。\\nじゃあやっぱり、いつもの笑顔で\\n精一杯やるのが１番かな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "シャロちゃんがお店でお客さんを\\n出迎える時の、あの笑顔とポーズで行こう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "う……。\\nまたまともで真面目なことを。\\nでも、ココアの言う通りよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "よしっ！　笑顔とポーズ！\\n気合い入れて行くわよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンをよろしくお願いしま～す！\\nフルール・ド・ラパンでーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おお、いい感じだよ、シャロちゃん！\\nこれならすぐにチラシもなくなるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンでーす！\\nお待ちしてまーす！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

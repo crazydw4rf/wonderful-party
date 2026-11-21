@@ -1,0 +1,255 @@
+{
+  "identity": "chiya_a06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n千夜ちゃんの家に行くからバイトお休みするって\\nチノちゃんに連絡しなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "それは大切だわ。\\n今すぐに連絡した方がいいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、ちょっと待っててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "もしもし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、チノちゃん？\\nお姉ちゃんでーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "私に姉はいません。\\n間違い電話ですので切りますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "わー！　待って待って！\\n私だよ、ココアだよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "どうしたんですか？\\n何かありましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "実はね、千夜ちゃんのクリスマスパーティーの\\n準備を手伝うことになったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "そうなんですか。\\n確かに、千夜さんだけでは\\n大変かもしれないと思っていましたが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "それで、これから千夜ちゃんの家で\\n話し合いをしたいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だから、急なんだけど\\nバイトをお休みしてもいいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "わかりました。\\n自分勝手な理由でもありませんし、いいですよ。\\n頑張ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ありがとう、チノちゃん！\\n世界一のクリスマスにするから、\\n楽しみにしててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "はい。\\nでは失礼します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "大丈夫だって！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "よかった、ココアちゃんが怒られなくて。\\nでも、バイトを休ませちゃってごめんなさいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "気にしないで。\\n今日はリゼちゃんもいるし\\nティッピーもいるし、大丈夫だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "……あ。\\nそういえば、この公園……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ん？　どうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、覚えてる？\\n私たちが初めて出会ったのって、\\nこの公園だったわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "あっ！　そういえばそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "うさぎにようかんをあげてたら、\\nかわいい女の子が食いついちゃって\\nびっくりしたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "私もびっくりしちゃったよ。\\nうさぎにようかんなんて発想、\\nしたことなかったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "……ねえココアちゃん？\\n出会いって不思議だと思わない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "もし、ココアちゃんが\\n入学式を１日間違えていなければ、\\n私たちはここで出会っていなかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "もし私が、配達の帰りに寄り道をしようって\\n考えなければ、出会っていなかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "もしもあの時、ココアちゃんと\\n出会ってなかったら、私たち、\\nこんなに仲良くなっていなかったかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "いくつもの偶然が積み重なって、今がある。\\nだから出会いって不思議だと思うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "そうだね、考えてみると……\\n私と千夜ちゃんは、最初から\\n運命の糸で繋がっていたのかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "運命の糸……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "だったら、これからもずっと一緒ね。\\nなんといっても、運命が味方なんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "そうだよ？\\nどんなことがあっても、私と千夜ちゃんの\\nあいだの糸は切れたりしないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "ええ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "……あ！\\nつい長話しちゃったわね、行きましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "ココアちゃんにバイトを休ませておいて\\n進展がなかった、なんて、今度こそ切腹だわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "なんでそこまで切腹にこだわるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "行きましょう、ココアちゃん！\\n甘兎庵まで競走よ！　それっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "えっ！？\\n千夜ちゃん、走ったら体力が――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "ああっ！\\nわ、私、もうだめ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "早っ！？\\nしっかりして、千夜ちゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

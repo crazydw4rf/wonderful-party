@@ -1,0 +1,123 @@
+{
+  "identity": "syaro_b01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（はぁ～、やっと終わった。\\n　これでようやく期末試験も一段落ね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（自己採点をした感じ、\\n　大きな間違いもなかったし、これなら大丈夫）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（結果が出るまで安心はできないけど、\\n　これでひとまず、勉強に割く時間を減らして\\n　クリスマスのことに集中できる――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（わけだけど！\\n　どうしよう、結局、準備が\\n　まったく進んでないじゃない！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（みんなの気持ちに応えるって決めたのに、\\n　どうしてこうなっちゃったのかしら……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（いざって時は、みんなの力を\\n　借りられると思って気が緩んだのかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（いつの間にか、試験勉強とバイトを優先して、\\n　パーティーのことを後回しにしちゃってた）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（私、こんなにも時間の使い方が\\n　下手だったのね……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（本当にどうしよう。\\n　こんなこと、今さら、みんなに言えない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "（あれだけ心配してくれてたのに、\\n　準備が進んでないなんて知られたら\\n　きっと呆れられちゃうわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "（こうなったら、今日から全力で\\n　巻き返すしかないわね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "（今まで勉強に使ってた時間を、\\n　全部、パーティーの準備に充てたっていいわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "（ただ、やっぱりバイトが問題よね。\\n　今日もこれからフルールだし、\\n　明日からだって余裕ないし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "（本当に、今から巻き返せるかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "（とにかく、今はバイトに行かないと――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "っと！\\nやだ、こんな何もないところで\\nつまずくなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "（毎日、試験勉強で根を詰めてたから\\n　疲れてるのかしら？\\n　今日くらいは早く寝た方が……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "（ううん！\\n　そんなこと言ってられないわ、\\n　今までの遅れを取り戻さなくっちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

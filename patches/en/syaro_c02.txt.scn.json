@@ -1,0 +1,117 @@
+{
+  "identity": "syaro_c02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、おはよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おはよう、ココア。\\nチノもおはよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "おはようございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、昨日は帰ってから\\nちゃんとうがいと手洗いした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "当然だ。\\nこれで風邪をひいたりしたら、\\nシャロが気にするからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "シャロさん、早く治るといいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "心配いらないわ。\\n今朝はもう、だいぶ調子がいいみたいだったから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、千夜ちゃん！\\nおはよー！　待ってたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "おはよう、千夜。\\nシャロは元気になったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ええ、まだ少し熱があるようだったけど、\\nもう起きても平気みたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nよかったぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "ですが、シャロさんの性格を考えると、\\n治りかけなのにバイトに出かけてしまったり\\nするのでは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "そうなの。\\n釘は刺しておいたけど、\\nいつまで大人しくしてくれるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "無理して、ぶり返すようなことに\\nなってしまっては大変です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ねえ、みんな。\\nちょっと聞いてくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "どうしたの、ココアちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "実はね、私、考えついたことがあるんだ――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

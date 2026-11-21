@@ -1,0 +1,21 @@
+{
+  "identity": "shop.ks.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "ショップ画像データ構築用",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": null,
+          "original": "てすと",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,313 @@
+{
+  "identity": "flyerhap_syaro_g.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ねえ、せっかくかわいい服を着てるんだから\\nみんなで記念写真を撮らない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "賛成。\\n記念に残しておきたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そ、そうだな。\\n１枚くらいなら記念に、いいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "私もいいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "せ、先輩と写真……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "じゃあ、みんな、ここに並んで～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "……あら？\\n並ぶのはいいけれど、誰がシャッターを押すの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "はっ！\\nそういえばそうだった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "では、私がお引き受けしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "青山さん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "神出鬼没だな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "はい、みなさん、まずは１枚。\\n１たす１は～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "にー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "素晴らしい笑顔です。\\nでは次は、斜め４５度に体と顔を向けたあと\\n目線だけこちらにくださーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "指示が妙に具体的だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "まあまあ、かわいらしい姿ですねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "青山さん、ノリノリだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ふふ、被写体がいいからかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "それ、自分で言う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "では、今度はペアで、\\nより大きなポーズをつけて撮ってみましょうか。\\nまずはココアさんと――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、一緒に撮ろ？\\nさっきからはずかしがっちゃって\\n楽しめてない感じだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "本当にはずかしいのよ……。\\nだから私はもういいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "こういうのは吹っ切っちゃえば楽しくなるよ。\\nそれに、こんな機会、なかなかないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "かわいい服を着て、シャッターを押して\\nくれる人もいて、しかも友達と一緒なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "友達……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "そ、そうかしら。\\n別に今でなくても、ここでなくてもいいし、\\n服だってまた着ればいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ううん、違うよ。\\n今日という日は今日しかないよ。\\nだからこんなにも楽しいし、大切なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "……もう。\\nそんな当たり前のこと言われたら、\\n何も言い返せないじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "わかったわ、一緒に撮りましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\nじゃあ青山さん、お願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "青山",
+          "original": "お任せください。\\nそれでは改めまして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "青山",
+          "original": "ココアさん、シャロさん。\\nお２人の思う、お２人らしいポーズを\\n取ってみてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "ここで無茶振り！？\\nどうするの、ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "アドリブで行くしかないよ、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "青山",
+          "original": "じゃあ、いきますよー。\\nさん、はい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "ああ、もう！\\nこうなったらヤケよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "こ、こうよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "こうだー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "青山",
+          "original": "まあ……！\\nお２人とも、まったく同じポーズです。\\nまるで鏡合わせのよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "すっごーい！\\nまさかここでシンクロするなんて、奇跡だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "ええ、びっくりだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "って、これ、\\n私がココアと同じレベルだってこと？\\nそれはショック……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "ええー！　どういう意味！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "そんな……シャロちゃんとココアちゃんが\\nここまで通じ合っていたなんて。\\nこのままじゃ、親友の座を奪われてしまうわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "変な風に話をこじらすなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "青山",
+          "original": "ふふふ、これ、とってもいい写真ですね。\\n見ているだけで幸せになってしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

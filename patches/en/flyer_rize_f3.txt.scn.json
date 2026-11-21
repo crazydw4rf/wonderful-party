@@ -1,0 +1,145 @@
+{
+  "identity": "flyer_rize_f3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "今日はチラシを受け取ってくれる人が\\nたくさんいるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "本当だな。\\n休憩する暇もないくらいだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "それにしても、ずっと配りっぱなしで\\nさすがに暑くなってきたよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "（ちょっと服をばさばさしよう。\\n　少しは涼しくなるし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "お、おい、ココア！\\n何やってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "え？　暑いから服をばさばさばさって。\\nこうすると涼しくなるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "見ればわかる。\\nこんなところで、はしたないぞ？\\nそれに無防備すぎだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "でも、暑いよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "なら、少し服を持ち上げて\\n隙間から手であおぐようにして風を入れれば\\nマシになるだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "おお！\\nそっか、なるほど！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "まったく。\\nこんな格好なんだし、いつもより\\n人に見られてるって自覚しろよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "はーい。\\nなんだか、リゼちゃんって\\nいいお母さんになりそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "な、な、ない！　それはない！\\n私はそんなガラじゃない！\\nはずかしいことを言わないでくれ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あはは、リゼちゃんの顏が\\n　真っ赤になっちゃった。\\n　耳の先まで赤くなっちゃってる）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "いいか、ココアが子どもだから\\n私にそう言わせてるんだ！\\n反省しろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "はーい、おかーさん。\\n反省しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ほう……。\\n私を母と呼ぶのなら\\nびしびし鍛えさせてもらうが、いいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "じょ、冗談だよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "まったく、ココアのせいで\\n私まで暑くなってきたじゃないか。\\n早くチラシを配り終えて帰るぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふふふ～。\\n　照れてるリゼちゃん、かわいいな～）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

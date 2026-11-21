@@ -1,0 +1,171 @@
+{
+  "identity": "chino_c01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（今日は日曜日。\\n　バイトもお休みさせてもらったし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（マヤさんたちと話したように、\\n　千夜さんの所に行きましょう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（そして、ケーキの作り方を\\n　しっかり教えてもらって、今度こそ\\n　ちゃんとしたものを完成させなくては）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "チノ、今日はどこかに出かけるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい、すみませんが\\n今日もバイトはお休みします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "構わんが、こんなに早くから\\nどこに行くんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "甘兎庵の千夜さんにお会いしてきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "甘兎とな？\\n一体、何をしにいくのじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "では、おじいちゃんには話しておきますね。\\nココアさんたちには内緒ですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "なんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "実は、クリスマスパーティーの\\nおもてなしとして、手作りケーキを\\n振る舞いたいと考えたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "それで、昨日、マヤさんたちと\\n練習したんですが……失敗してしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "だから今日は、千夜さんに\\nケーキの作り方を指導してもらおうと思うんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ティッピー",
+          "original": "なっ！？　それはいかん！\\nあのばばあの孫に手習いなど！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "（そうです、甘兎庵とラビットハウスは、\\n　おじいちゃんの時代に\\n　張りあっていたんでしたね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "あの、おじいちゃん？\\n甘兎庵の――千夜さんのおばあさんと\\n何かあったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "むむ、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "ともかく！\\n甘兎の人間に教えを請うなど、ならん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "……なるほど。\\nよほど深い因縁があるんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "でも、それはそれ、これはこれです。\\nクリスマスパーティーのためですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "チノ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "（いくらおじいちゃんが相手でも\\n　ここは譲れません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "（クリスマスまで時間もないし、\\n　ここで立ち止まることはできないから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "では、行ってきます。\\nおじいちゃん、ラビットハウスを、\\n特にココアさんをよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ティッピー",
+          "original": "えっ！？\\nわし、留守番！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ティッピー",
+          "original": "こ、こらぁーっ！！\\n行ってはいかんぞ、チノー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

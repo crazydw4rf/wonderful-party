@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_syaro_j3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "この香りは～。\\nふああ～、たまらないよ～。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ああ、パンを焼いてる香りね。\\n近くにパン屋さんがあるのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はう～。\\nパンは匂いまでかわいいよぉ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "本当にいい香りだけど……かわいいって何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ねえシャロちゃん、知ってる？\\n焼き立てのパンって格別のおいしさなんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "前にみんなでパン作りをしたんだ。\\nおいしかったな～、またやりたいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "みんなって……ラビットハウスのみんなと？\\nということはリゼ先輩も作ったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、千夜ちゃんも一緒にね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あっ！　シャロちゃんを\\n仲間外れにしたわけじゃないんだよ？\\nその時はまだ会ってなかったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "そんなの気にしてないから。\\nでも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "もうちょっと早くココアたちと会ってたら、\\n先輩の手作りパンが食べられたの……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "えっ！？\\nな、何でもないわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "今度はシャロちゃんも一緒にパン作りをしない？\\n好きな材料を持ってきて、創作パンを作るの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "いいけど……\\n材料ってどんなものを持っていけばいいの？\\nジャムとかチーズかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "自分がおいしいって思うものならなんでもいいよ。\\n私は焼きうどんパンを作ったし、\\n千夜ちゃんは梅干パンだったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "……いまいち食欲をそそられないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "チノちゃんは焦げたおじいちゃんだった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "は！？　な、なにそれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "おじいちゃんの顔の形をしたパンだよ。\\nそれで、リゼちゃんはうさぎパン。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "うさぎパン！？\\nま、まさかリゼ先輩……そんなことないわよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "かわいいうさぎの形だったんだけど、\\nチョコで顔を描く時に失敗しちゃって\\n歌舞伎うさぎパンになったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "あ、ああ、そうよね。\\nうさぎパンと言ったらうさぎの形のパンよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "わ、私ったらなんて想像を……\\nリゼ先輩、ごめんなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "あの時も楽しかったけど、\\nシャロちゃんも一緒ならもっと楽しくなるよね。\\nああ、早くみんなでパン作りがしたいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "そうね。\\n私も楽しみだわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

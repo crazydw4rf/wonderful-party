@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_syaro_f2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "１束は配り終えたわね。\\nそっちはどう、ココア？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うう……。\\nまだ半分だよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "気持ちはわかるけど、\\n人前でそんなしょんぼり顔しないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ここでは、チラシを配ってる\\n私たちの顔がお店の顔になるんだからね？\\nいつでも笑顔、それが大切なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（いつでも笑顔か。\\n　確かに、シャロちゃんは――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "こちら、どうぞ！\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし、シャロちゃんに負けてらんない。\\n　もっと積極的に行かなきゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "どうぞ！　よろしく！　お願いしま――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "待った！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "今、足早に通った人に\\nチラシ押しつけようとしたでしょ。\\nそれは絶対やっちゃだめよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "でも、積極的に行かないと\\nチラシを受け取ってもらえないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "その熱意はいいことだけど、\\nここを歩いている人たちみんなが\\nお店に興味を持ってるわけじゃないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "それに、それぞれ都合や予定があるのよ。\\n第一、急いでいる時にチラシを押しつけられて、\\nお店にいい印象を持つと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "……うん、それはだめだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "私がココアよりチラシを配るのが早いのは、\\n人を見ているからよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "ココアも慣れれば、暇な人と\\nそうでない人の見分けくらい、簡単につくわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "す、すごいね、シャロちゃん！\\nお客さんの心理まで見抜いてるなんて、\\nチラシ配りのプロだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "そんな、大したことじゃないわよ。\\n相手の気持ちになって考えてるだけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\n私だって、急いでる時に\\nチラシを押しつけられたら困っちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、教えてくれてありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ど、どうしたしまして。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_chino_b3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "くしゅん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "心配いりません。\\nちょっと鼻がむずむずしただけです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "こんなことで嘘をついても仕方ないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……そうだね。\\nでも、本当に風邪をひいたら大変だし、\\n残りのチラシも早く配っちゃわないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、ねえチノちゃん。\\nちょっと手を貸してみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "私の手をですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うん。\\nそれで、この手をこうすると――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ティッピー",
+          "original": "ひいっ！？\\nち、ちべたいわい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あはは、チノちゃん、\\nこんな時までティッピーの気持ちになって\\n腹話術することないのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "いえ、あの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "こうやってティッピーをもふもふしてると\\n手が温かいでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "……そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "頭の上に乗せてないで、\\nだっこしてた方が温かくていいんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ティッピー",
+          "original": "こら、やめんか！\\nわしをカイロか何かと思っとるのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "わわっ！？\\nティッピー、そんなに暴れたら危ないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "はーなーせー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "ティッピー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ティッピー",
+          "original": "な、なんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "少しだけ、大人しくしていてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "むむぅ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "あの、ココアさんももふもふしていいですよ。\\nさっき私の手に触った時、\\nココアさんの手も冷たかったので……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "やったぁ。\\nじゃあ、遠慮なく～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ティッピー",
+          "original": "ひあっ！\\nち、ちべたい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "ティッピー、温かいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "はい、温かいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ティッピー",
+          "original": "わしは凍えてしまいそうじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

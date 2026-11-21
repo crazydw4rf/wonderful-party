@@ -1,0 +1,7032 @@
+{
+  "identity": "scenelist.scn",
+  "titles": {
+    "all_a01.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_0101": {
+      "original": "うーん、そっかぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*dummy2": {
+      "original": "うーん、そっかぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_0102": {
+      "original": "きっと大丈夫だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_0103": {
+      "original": "じゃあ、いっそのことキャンプしよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*dummy3": {
+      "original": "じゃあ、いっそのことキャンプしよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0101": {
+      "original": "実は、私も眠かったんだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*dummy2": {
+      "original": "実は、私も眠かったんだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0102": {
+      "original": "このまま寝かせてあげようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*dummy3": {
+      "original": "このまま寝かせてあげようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0103": {
+      "original": "コーヒー、淹れようか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0101": {
+      "original": "そうだよ！　これは敵の罠だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0102": {
+      "original": "これは夢だよね、うん。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*dummy2": {
+      "original": "これは夢だよね、うん。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0103": {
+      "original": "みんな、落ち着いて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*dummy3": {
+      "original": "みんな、落ち着いて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0101": {
+      "original": "あ、青山さんの腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*dummy2": {
+      "original": "あ、青山さんの腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0102": {
+      "original": "はい、私の腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*dummy3": {
+      "original": "はい、私の腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0103": {
+      "original": "（な、なんと言えば！？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0101": {
+      "original": "ううん、これはこれですごいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*dummy2": {
+      "original": "ううん、これはこれですごいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0102": {
+      "original": "助手さんはまだこれからですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*dummy3": {
+      "original": "助手さんはまだこれからですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0103": {
+      "original": "他の服はないんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0101": {
+      "original": "いいなぁ、トナカイ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*dummy2": {
+      "original": "いいなぁ、トナカイ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0102": {
+      "original": "便利になったんだねぇ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*dummy3": {
+      "original": "便利になったんだねぇ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0103": {
+      "original": "もうメールで送っちゃうのはどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*dummyselect2": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0201": {
+      "original": "不安だったら、お姉ちゃんと一緒に回る？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0202": {
+      "original": "競争しよっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*dummy4": {
+      "original": "競争しよっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0203": {
+      "original": "お互い、頑張ろうね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*dummy5": {
+      "original": "お互い、頑張ろうね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_02_join": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0101": {
+      "original": "「地図を回してはだめよ」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*dummy2": {
+      "original": "「地図を回してはだめよ」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0102": {
+      "original": "「ナビ通りに動きなさい」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0103": {
+      "original": "「地図で確認しながら動きなさい」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*dummy3": {
+      "original": "「地図で確認しながら動きなさい」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0101": {
+      "original": "別に相談なんてありません。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*dummy2": {
+      "original": "別に相談なんてありません。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0102": {
+      "original": "はい、実は……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0103": {
+      "original": "ココアさんに相談したら逆効果です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*dummy3": {
+      "original": "ココアさんに相談したら逆効果です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0101": {
+      "original": "遠慮しておきます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*dummy2": {
+      "original": "遠慮しておきます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0102": {
+      "original": "何だか不安なんですが。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0103": {
+      "original": "本当に困ったら相談します。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*dummy3": {
+      "original": "本当に困ったら相談します。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0101": {
+      "original": "はい、確かに元気が出そうです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*dummy2": {
+      "original": "はい、確かに元気が出そうです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0102": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*dummy3": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0103": {
+      "original": "早起きさせて、すみません。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0101": {
+      "original": "シャロさんを見習いたいと思いまして。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*dummy2": {
+      "original": "シャロさんを見習いたいと思いまして。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0102": {
+      "original": "べ、別に何でもありませんので。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0103": {
+      "original": "今は秘密です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*dummy3": {
+      "original": "今は秘密です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0101": {
+      "original": "定番のショートケーキです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0102": {
+      "original": "クリスマスらしくブッシュ・ド・ノエルを。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*dummy2": {
+      "original": "クリスマスらしくブッシュ・ド・ノエルを。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0103": {
+      "original": "フルーツケーキなんてどうでしょうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*dummy3": {
+      "original": "フルーツケーキなんてどうでしょうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0101": {
+      "original": "ココアさんの粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy2": {
+      "original": "ココアさんの粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0102": {
+      "original": "間を取って、中力粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0103": {
+      "original": "本の通り、薄力粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy3": {
+      "original": "本の通り、薄力粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummyselect2": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0201": {
+      "original": "では、もう少しだけ追加しましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy4": {
+      "original": "では、もう少しだけ追加しましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0202": {
+      "original": "本の通りにやりましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy5": {
+      "original": "本の通りにやりましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0203": {
+      "original": "何か追加しましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_02_join": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummyselect3": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0301": {
+      "original": "じっくりこんがりと焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy6": {
+      "original": "じっくりこんがりと焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0302": {
+      "original": "弱火でことこといきましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0303": {
+      "original": "適度に調整しながら焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*dummy7": {
+      "original": "適度に調整しながら焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_03_join": {
+      "original": "選択３合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0101": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*dummy2": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0102": {
+      "original": "まだ時間はあります。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*dummy3": {
+      "original": "まだ時間はあります。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0103": {
+      "original": "私には才能がないんですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0101": {
+      "original": "相談したいことがあるんです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*dummy2": {
+      "original": "相談したいことがあるんです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0102": {
+      "original": "…………。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*dummy3": {
+      "original": "…………。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0103": {
+      "original": "お、おかわりが……欲しいです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0101": {
+      "original": "でもやっぱり心配だよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*dummy2": {
+      "original": "でもやっぱり心配だよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0102": {
+      "original": "反抗期の妹は大変だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*dummy3": {
+      "original": "反抗期の妹は大変だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0103": {
+      "original": "そっとしておいた方がいいのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0101": {
+      "original": "チノちゃんに真相を聞かなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0102": {
+      "original": "少し様子を見てみよっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*dummy2": {
+      "original": "少し様子を見てみよっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0103": {
+      "original": "ま、まずは落ち着かなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*dummy3": {
+      "original": "ま、まずは落ち着かなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0101": {
+      "original": "本当は、私が食べたかったからなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*dummy2": {
+      "original": "本当は、私が食べたかったからなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0102": {
+      "original": "チノちゃん、気にしなくていいんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*dummy3": {
+      "original": "チノちゃん、気にしなくていいんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0103": {
+      "original": "わ、私にも作れそうなのを選んだだけだから！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0101": {
+      "original": "おいしい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*dummy2": {
+      "original": "おいしい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0102": {
+      "original": "むっ、むむむ！　これは！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0103": {
+      "original": "これは、チノちゃんらしい味だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*dummy3": {
+      "original": "これは、チノちゃんらしい味だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_ed01.txt#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_ed02.txt#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0101": {
+      "original": "じゃあ、少数精鋭でやろっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0102": {
+      "original": "街中のみんなを呼んじゃおうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*dummy2": {
+      "original": "街中のみんなを呼んじゃおうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0103": {
+      "original": "青山さんとマヤちゃんとメグちゃんと……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*dummy3": {
+      "original": "青山さんとマヤちゃんとメグちゃんと……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0101": {
+      "original": "（やっぱりケーキだね！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*dummy2": {
+      "original": "（やっぱりケーキだね！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0102": {
+      "original": "（そこは千夜ちゃんにお任せしよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0103": {
+      "original": "（美味しいパンを焼こう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*dummy3": {
+      "original": "（美味しいパンを焼こう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0101": {
+      "original": "いいね！　やろうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*dummy2": {
+      "original": "いいね！　やろうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0102": {
+      "original": "時間的に厳しくないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0103": {
+      "original": "千夜ちゃんがそう言うなら、やるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*dummy3": {
+      "original": "千夜ちゃんがそう言うなら、やるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0101": {
+      "original": "うーん、どうしよう……？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0102": {
+      "original": "うん、みんなで食べようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*dummy2": {
+      "original": "うん、みんなで食べようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0103": {
+      "original": "チノちゃんたちも誘っていい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*dummy3": {
+      "original": "チノちゃんたちも誘っていい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0101": {
+      "original": "ティッピーは鼻の調子が悪いのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*dummy2": {
+      "original": "ティッピーは鼻の調子が悪いのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0102": {
+      "original": "なんか、怪しい……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*dummy3": {
+      "original": "なんか、怪しい……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0103": {
+      "original": "気のせいじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0101": {
+      "original": "フランスの王様だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0102": {
+      "original": "星座の名前だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*dummy2": {
+      "original": "星座の名前だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0103": {
+      "original": "星座の一部だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*dummy3": {
+      "original": "星座の一部だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0101": {
+      "original": "それってツンデレだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*dummy2": {
+      "original": "それってツンデレだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0102": {
+      "original": "そんなにすごい物なのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*dummy3": {
+      "original": "そんなにすごい物なのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0103": {
+      "original": "なら、最初から隠さないんじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0101": {
+      "original": "運動ができる広場の方を探そう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy2": {
+      "original": "運動ができる広場の方を探そう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0102": {
+      "original": "まずは植え込みの中を探してみようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy3": {
+      "original": "まずは植え込みの中を探してみようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0103": {
+      "original": "公園にいる野良うさぎの耳！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummyselect2": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0201": {
+      "original": "きっと木の根元に埋まってるんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy4": {
+      "original": "きっと木の根元に埋まってるんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0202": {
+      "original": "道の途中に落ちてるかもしれないよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0203": {
+      "original": "ベンチの下とか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy5": {
+      "original": "ベンチの下とか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_02_join": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummyselect3": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0301": {
+      "original": "前回の地図が埋まっていたがわ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy6": {
+      "original": "前回の地図が埋まっていたがわ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0302": {
+      "original": "ここにはないのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0303": {
+      "original": "木の上を探そうよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*dummy7": {
+      "original": "木の上を探そうよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_03_join": {
+      "original": "選択３合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0101": {
+      "original": "噴水の中に宝物があるんだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0102": {
+      "original": "茂みの中は要チェックだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*dummy2": {
+      "original": "茂みの中は要チェックだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0103": {
+      "original": "……食休みしてもいい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*dummy3": {
+      "original": "……食休みしてもいい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*dummyselect2": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0201": {
+      "original": "噴水の柱に注目だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*dummy4": {
+      "original": "噴水の柱に注目だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0202": {
+      "original": "街灯に秘密があるのかもしれないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0203": {
+      "original": "あずまやの屋根の上は？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*dummy5": {
+      "original": "あずまやの屋根の上は？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_02_join": {
+      "original": "選択２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_ed01.txt#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "date.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_effect": {
+      "original": "日付演出",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_event": {
+      "original": "固定イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*dummy1": {
+      "original": "固定イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_coffee": {
+      "original": "喫茶店イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_chara": {
+      "original": "チラシ配りイベント＿キャラ選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_popularity_down": {
+      "original": "知名度ダウン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_chara_start": {
+      "original": "チラシ配りイベント＿キャラ選択＿開始",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_dress": {
+      "original": "チラシ配りイベント＿衣装選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*dummyselect1": {
+      "original": "チラシ配りイベント＿衣装選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*dummyselect2": {
+      "original": "チラシ配りイベント＿衣装選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_event": {
+      "original": "チラシ配りイベント＿開始",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_visit": {
+      "original": "訪問イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_end": {
+      "original": "平日終了挨拶（チラシ配り有）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_end_noflyer": {
+      "original": "平日終了挨拶（チラシ配り無）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*coffee_break": {
+      "original": "コーヒーブレイク",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino": {
+      "original": "チラシ配りイベント＿チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_A": {
+      "original": "チラシ配りイベント＿チノ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy1": {
+      "original": "チラシ配りイベント＿チノ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_B": {
+      "original": "チラシ配りイベント＿チノ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy2": {
+      "original": "チラシ配りイベント＿チノ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_C": {
+      "original": "チラシ配りイベント＿チノ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy3": {
+      "original": "チラシ配りイベント＿チノ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_D": {
+      "original": "チラシ配りイベント＿チノ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy4": {
+      "original": "チラシ配りイベント＿チノ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_E": {
+      "original": "チラシ配りイベント＿チノ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy5": {
+      "original": "チラシ配りイベント＿チノ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_F": {
+      "original": "チラシ配りイベント＿チノ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy6": {
+      "original": "チラシ配りイベント＿チノ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_G": {
+      "original": "チラシ配りイベント＿チノ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy7": {
+      "original": "チラシ配りイベント＿チノ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_H": {
+      "original": "チラシ配りイベント＿チノ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy8": {
+      "original": "チラシ配りイベント＿チノ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_I": {
+      "original": "チラシ配りイベント＿チノ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy9": {
+      "original": "チラシ配りイベント＿チノ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chino_J": {
+      "original": "チラシ配りイベント＿チノ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy10": {
+      "original": "チラシ配りイベント＿チノ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya": {
+      "original": "チラシ配りイベント＿千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_A": {
+      "original": "チラシ配りイベント＿千夜＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy11": {
+      "original": "チラシ配りイベント＿千夜＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_B": {
+      "original": "チラシ配りイベント＿千夜＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy12": {
+      "original": "チラシ配りイベント＿千夜＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_C": {
+      "original": "チラシ配りイベント＿千夜＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy13": {
+      "original": "チラシ配りイベント＿千夜＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_D": {
+      "original": "チラシ配りイベント＿千夜＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy14": {
+      "original": "チラシ配りイベント＿千夜＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_E": {
+      "original": "チラシ配りイベント＿千夜＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy15": {
+      "original": "チラシ配りイベント＿千夜＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_F": {
+      "original": "チラシ配りイベント＿千夜＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy16": {
+      "original": "チラシ配りイベント＿千夜＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_G": {
+      "original": "チラシ配りイベント＿千夜＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy17": {
+      "original": "チラシ配りイベント＿千夜＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_H": {
+      "original": "チラシ配りイベント＿千夜＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy18": {
+      "original": "チラシ配りイベント＿千夜＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_I": {
+      "original": "チラシ配りイベント＿千夜＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy19": {
+      "original": "チラシ配りイベント＿千夜＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_chiya_J": {
+      "original": "チラシ配りイベント＿千夜＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy20": {
+      "original": "チラシ配りイベント＿千夜＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize": {
+      "original": "チラシ配りイベント＿リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_A": {
+      "original": "チラシ配りイベント＿リゼ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy21": {
+      "original": "チラシ配りイベント＿リゼ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_B": {
+      "original": "チラシ配りイベント＿リゼ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy22": {
+      "original": "チラシ配りイベント＿リゼ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_C": {
+      "original": "チラシ配りイベント＿リゼ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy23": {
+      "original": "チラシ配りイベント＿リゼ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_D": {
+      "original": "チラシ配りイベント＿リゼ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy24": {
+      "original": "チラシ配りイベント＿リゼ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_E": {
+      "original": "チラシ配りイベント＿リゼ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy25": {
+      "original": "チラシ配りイベント＿リゼ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_F": {
+      "original": "チラシ配りイベント＿リゼ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy26": {
+      "original": "チラシ配りイベント＿リゼ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_G": {
+      "original": "チラシ配りイベント＿リゼ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy27": {
+      "original": "チラシ配りイベント＿リゼ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_H": {
+      "original": "チラシ配りイベント＿リゼ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy28": {
+      "original": "チラシ配りイベント＿リゼ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_I": {
+      "original": "チラシ配りイベント＿リゼ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy29": {
+      "original": "チラシ配りイベント＿リゼ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_rize_J": {
+      "original": "チラシ配りイベント＿リゼ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy30": {
+      "original": "チラシ配りイベント＿リゼ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro": {
+      "original": "チラシ配りイベント＿シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_A": {
+      "original": "チラシ配りイベント＿シャロ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy31": {
+      "original": "チラシ配りイベント＿シャロ＿制服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_B": {
+      "original": "チラシ配りイベント＿シャロ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy32": {
+      "original": "チラシ配りイベント＿シャロ＿ラビットハウス",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_C": {
+      "original": "チラシ配りイベント＿シャロ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy33": {
+      "original": "チラシ配りイベント＿シャロ＿甘兎庵",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_D": {
+      "original": "チラシ配りイベント＿シャロ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy34": {
+      "original": "チラシ配りイベント＿シャロ＿ラパン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_E": {
+      "original": "チラシ配りイベント＿シャロ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy35": {
+      "original": "チラシ配りイベント＿シャロ＿軍服",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_F": {
+      "original": "チラシ配りイベント＿シャロ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy36": {
+      "original": "チラシ配りイベント＿シャロ＿サンタ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_G": {
+      "original": "チラシ配りイベント＿シャロ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy37": {
+      "original": "チラシ配りイベント＿シャロ＿ハロウィン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_H": {
+      "original": "チラシ配りイベント＿シャロ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy38": {
+      "original": "チラシ配りイベント＿シャロ＿怪盗",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_I": {
+      "original": "チラシ配りイベント＿シャロ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy39": {
+      "original": "チラシ配りイベント＿シャロ＿バニー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*day_flyer_syaro_J": {
+      "original": "チラシ配りイベント＿シャロ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*dummy40": {
+      "original": "チラシ配りイベント＿シャロ＿バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chino_h1.txt#*branch_0101": {
+      "original": "着ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chino_h1.txt#*branch_0102": {
+      "original": "着ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chino_h1.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chino_h1.txt#*dummy2": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chiya_h1.txt#*branch_0101": {
+      "original": "着ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chiya_h1.txt#*branch_0102": {
+      "original": "着ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chiya_h1.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_chiya_h1.txt#*dummy2": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*branch_0101": {
+      "original": "着ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*dummy1": {
+      "original": "着ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*branch_0102": {
+      "original": "着ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*dummy2": {
+      "original": "着ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_rize_h1.txt#*dummy3": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_syaro_h1.txt#*branch_0101": {
+      "original": "着ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_syaro_h1.txt#*branch_0102": {
+      "original": "着ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_syaro_h1.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyer_syaro_h1.txt#*dummy2": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyerhap_chino_c.txt#*branch_0101": {
+      "original": "会っている",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyerhap_chino_c.txt#*branch_0102": {
+      "original": "会ってない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "flyerhap_chino_c.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*day_effect": {
+      "original": "日付演出",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move01": {
+      "original": "移動イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1114": {
+      "original": "１１月１４日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1115": {
+      "original": "１１月１５日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1121": {
+      "original": "１１月２１日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1122": {
+      "original": "１１月２２日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1128": {
+      "original": "１１月２８日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move1129": {
+      "original": "１１月２９日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*holiday_move_end": {
+      "original": "移動イベント終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama": {
+      "original": "パジャマパーティ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*dummy1": {
+      "original": "パジャマパーティ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_selecl": {
+      "original": "パジャマパーティ＿キャラ選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*dummyselect1": {
+      "original": "パジャマパーティ＿キャラ選択",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_chino": {
+      "original": "パジャマパーティ＿キャラ別＿チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_chiya": {
+      "original": "パジャマパーティ＿キャラ別＿千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_rize": {
+      "original": "パジャマパーティ＿キャラ別＿リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_syaro": {
+      "original": "パジャマパーティ＿キャラ別＿シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara": {
+      "original": "パジャマパーティ＿キャラ別",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*coffee_break": {
+      "original": "コーヒーブレイク",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0101": {
+      "original": "お姉ちゃんだから当然だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*dummy1": {
+      "original": "お姉ちゃんだから当然だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0102": {
+      "original": "いつも遅刻ばかりでごめんね？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0103": {
+      "original": "実は、時計を見間違えちゃったんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*dummy2": {
+      "original": "実は、時計を見間違えちゃったんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0101": {
+      "original": "ラビットハウスの開店記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*dummy1": {
+      "original": "ラビットハウスの開店記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0102": {
+      "original": "もふもふ記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*dummy2": {
+      "original": "もふもふ記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0103": {
+      "original": "妹記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0101": {
+      "original": "手作りボトルシップ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*dummy1": {
+      "original": "手作りボトルシップ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0102": {
+      "original": "新しいパズル？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*dummy2": {
+      "original": "新しいパズル？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0103": {
+      "original": "焼き立てのパン？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0101": {
+      "original": "まだ、これからだよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*dummy1": {
+      "original": "まだ、これからだよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*dummy2": {
+      "original": "まだ、これからだよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0102": {
+      "original": "何がいけなかったのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*dummy3": {
+      "original": "何がいけなかったのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*dummy4": {
+      "original": "何がいけなかったのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0103": {
+      "original": "他のやり方を考えた方がいいのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0101": {
+      "original": "私がちょっとだけお姉ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*dummy1": {
+      "original": "私がちょっとだけお姉ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*dummy2": {
+      "original": "私がちょっとだけお姉ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0102": {
+      "original": "２人とももう過ぎちゃってたんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0103": {
+      "original": "すごくそれっぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*dummy3": {
+      "original": "すごくそれっぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*dummy4": {
+      "original": "すごくそれっぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0101": {
+      "original": "チノちゃんの誕生日のためだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*dummy1": {
+      "original": "チノちゃんの誕生日のためだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*dummy2": {
+      "original": "チノちゃんの誕生日のためだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0102": {
+      "original": "何か大事な理由があったような気が……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*dummy3": {
+      "original": "何か大事な理由があったような気が……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*dummy4": {
+      "original": "何か大事な理由があったような気が……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0103": {
+      "original": "まあ、いっか！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0101": {
+      "original": "大丈夫です！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*dummy1": {
+      "original": "大丈夫です！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*dummy2": {
+      "original": "大丈夫です！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0102": {
+      "original": "言われてみれば少し寂しいかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0103": {
+      "original": "青山さんの考えすぎですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*dummy3": {
+      "original": "青山さんの考えすぎですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*dummy4": {
+      "original": "青山さんの考えすぎですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0101": {
+      "original": "べ、別に誕生日のことなんて関係ないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*dummy1": {
+      "original": "べ、別に誕生日のことなんて関係ないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0102": {
+      "original": "千夜ちゃん、あとはよろしく！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0103": {
+      "original": "気のせいって言ったら気のせいなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*dummy2": {
+      "original": "気のせいって言ったら気のせいなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0201": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0202": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_02_join": {
+      "original": "分岐２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0101": {
+      "original": "チノルートへのフラグがＯＮ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0102": {
+      "original": "リゼルートへのフラグがＯＮ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0103": {
+      "original": "千夜ルートへのフラグがＯＮ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0104": {
+      "original": "シャロルートへのフラグがＯＮ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0301": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0302": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_03_join": {
+      "original": "分岐３合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_0105": {
+      "original": "みんなでルートへのフラグがＯＮ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b07.txt#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0101": {
+      "original": "ラビットハウスの知名度が一定値以下",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0102": {
+      "original": "ラビットハウスの知名度が一定値以上",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0201": {
+      "original": "ラビットハウスの知名度が一定値以下",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0202": {
+      "original": "ラビットハウスの知名度が一定値以上",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_02_join": {
+      "original": "分岐文章２合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_01_join": {
+      "original": "分岐文章１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0301": {
+      "original": "見られたのが分岐１前まで",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0302": {
+      "original": "見られたのが分岐２前まで",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_0303": {
+      "original": "すべて見られた",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_c01.txt#*branch_03_join": {
+      "original": "分岐文章３合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*prologue": {
+      "original": "プロローグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*dummy1": {
+      "original": "プロローグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*dummyselect1": {
+      "original": "プロローグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*tutorial": {
+      "original": "チュートリアル",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*tutorial_skip": {
+      "original": "チュートリアルスキップ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*day_format": {
+      "original": "初期化",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*day_chk": {
+      "original": "日付カウント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*day_event": {
+      "original": "平日イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*holiday_event": {
+      "original": "休日イベント",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*birthday": {
+      "original": "チノの誕生日",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*chara_route": {
+      "original": "キャラルート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0101": {
+      "original": "お姉ちゃんにまかせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*dummy2": {
+      "original": "お姉ちゃんにまかせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0102": {
+      "original": "助け合うのは大事なことだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*dummy3": {
+      "original": "助け合うのは大事なことだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0103": {
+      "original": "じゃ、次は私が倉庫に行くね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0101": {
+      "original": "童話がいいんじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0102": {
+      "original": "和菓子なら古典かな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*dummy2": {
+      "original": "和菓子なら古典かな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0103": {
+      "original": "呪い、もとい、おまじない！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*dummy3": {
+      "original": "呪い、もとい、おまじない！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0101": {
+      "original": "こんな感じ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*dummy2": {
+      "original": "こんな感じ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0102": {
+      "original": "もう１回見せて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0103": {
+      "original": "プロだね、シャロちゃん！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*dummy3": {
+      "original": "プロだね、シャロちゃん！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0101": {
+      "original": "人間観察をしよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0102": {
+      "original": "ひなたぼっこはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0103": {
+      "original": "かくれんぼしよっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0101": {
+      "original": "イエッサー！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*dummy2": {
+      "original": "イエッサー！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0102": {
+      "original": "もちろん覚悟はできてるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*dummy3": {
+      "original": "もちろん覚悟はできてるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0103": {
+      "original": "やさしくしてね？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0101": {
+      "original": "ラビットハウスの秘密を暴く気ですか！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0102": {
+      "original": "いいですよ、なんでも聞いてください。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0103": {
+      "original": "じゃあ、私は青山さんを取材します。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*move_a06_end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0101": {
+      "original": "手でうさぎの耳を作るとか？！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*dummy2": {
+      "original": "手でうさぎの耳を作るとか？！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0102": {
+      "original": "もふもふになるとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*dummy3": {
+      "original": "もふもふになるとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0103": {
+      "original": "ぴょんぴょん跳ぶとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0101": {
+      "original": "じゃあ、お掃除手伝うよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*dummy2": {
+      "original": "じゃあ、お掃除手伝うよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0102": {
+      "original": "手を握って温めてあげる。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*dummy3": {
+      "original": "手を握って温めてあげる。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0103": {
+      "original": "手袋、持ってくる！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0101": {
+      "original": "頭、なでてあげるね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*dummy2": {
+      "original": "頭、なでてあげるね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0102": {
+      "original": "コーヒーを飲んでみよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0103": {
+      "original": "お店、手伝おうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*dummy3": {
+      "original": "お店、手伝おうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0101": {
+      "original": "尾行をするのならサングラスです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0102": {
+      "original": "もっとかわいい服を着ていればよかったなぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0103": {
+      "original": "私ってそんなにヒロインっぽいですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0101": {
+      "original": "かわいさが魅力のピンクかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0102": {
+      "original": "リーダーシップのあるレッドだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0103": {
+      "original": "クールなブルーでしょ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*dummy1": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*dummy2": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0101": {
+      "original": "（周りの人に訊いてみよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*dummy3": {
+      "original": "（周りの人に訊いてみよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0102": {
+      "original": "（声を出してみなくちゃ！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*dummy4": {
+      "original": "（声を出してみなくちゃ！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0103": {
+      "original": "（……この人ごみじゃ無理かな？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0101": {
+      "original": "ピクニックかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*dummy2": {
+      "original": "ピクニックかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0102": {
+      "original": "探検をしようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*dummy3": {
+      "original": "探検をしようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0103": {
+      "original": "森林浴なんてどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0101": {
+      "original": "おお！　さすが千夜ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*dummy2": {
+      "original": "おお！　さすが千夜ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0102": {
+      "original": "……うーん、ピンとこないかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0103": {
+      "original": "魔法のアイテムみたい。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*dummy3": {
+      "original": "魔法のアイテムみたい。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0101": {
+      "original": "このくらい、普通じゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*dummy2": {
+      "original": "このくらい、普通じゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0102": {
+      "original": "これも仕事だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*dummy3": {
+      "original": "これも仕事だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0103": {
+      "original": "私が嫌いなの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0101": {
+      "original": "オマケをつけるのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*dummy2": {
+      "original": "オマケをつけるのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0102": {
+      "original": "自分を追い込んでみようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*dummy3": {
+      "original": "自分を追い込んでみようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0103": {
+      "original": "受け取らなきゃって思わせるんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0101": {
+      "original": "私が悪の手からかくまいます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0102": {
+      "original": "私が代わりに戦います！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0103": {
+      "original": "それは……これから考えます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0101": {
+      "original": "もちろん笑顔だよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0102": {
+      "original": "きちんとした挨拶です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0103": {
+      "original": "ずばり、バランス感覚！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0101": {
+      "original": "ええっ！？　リゼちゃん、いなくなるの！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*dummy2": {
+      "original": "ええっ！？　リゼちゃん、いなくなるの！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0102": {
+      "original": "寂しいに決まってるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*dummy3": {
+      "original": "寂しいに決まってるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0103": {
+      "original": "私は大丈夫だよ、安心して。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0101": {
+      "original": "制服に着替えなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0102": {
+      "original": "メニューを覚えなきゃだめだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0103": {
+      "original": "今日は店じまいだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0101": {
+      "original": "私が代わりに書きます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0102": {
+      "original": "一旦、仕事のことは忘れましょう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0103": {
+      "original": "飲み物を替えてみたらどうでしょう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0101": {
+      "original": "私が抱きしめてあげる！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*dummy2": {
+      "original": "私が抱きしめてあげる！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0102": {
+      "original": "うさぎ、抱っこしてみる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0103": {
+      "original": "ちょっと触ってみる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*dummy3": {
+      "original": "ちょっと触ってみる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0101": {
+      "original": "このもふもふ具合がたまらないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0102": {
+      "original": "鳴き声が意外にかわいいんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*dummy2": {
+      "original": "鳴き声が意外にかわいいんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0103": {
+      "original": "口元と動きが最高～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*dummy3": {
+      "original": "口元と動きが最高～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0101": {
+      "original": "私よりも千夜ちゃんぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*dummy2": {
+      "original": "私よりも千夜ちゃんぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0102": {
+      "original": "えへへ、照れちゃうなー。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*dummy3": {
+      "original": "えへへ、照れちゃうなー。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0103": {
+      "original": "私、もっとクールじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0101": {
+      "original": "お願いだから何か手伝わせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*dummy2": {
+      "original": "お願いだから何か手伝わせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0102": {
+      "original": "じゃあ、勝手に仕事しちゃうから！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0103": {
+      "original": "お客さんが悲しむよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*dummy3": {
+      "original": "お客さんが悲しむよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0101": {
+      "original": "その分、運動しましょう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0102": {
+      "original": "我慢は体に毒ですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0103": {
+      "original": "青山さんはスリムだから大丈夫ですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0101": {
+      "original": "も、もちろんわかるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0102": {
+      "original": "ごめんね、わかんない……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0103": {
+      "original": "わかるような、わからないような？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0101": {
+      "original": "かわいくお団子にするのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*dummy2": {
+      "original": "かわいくお団子にするのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0102": {
+      "original": "後ろで縛ってスポーティに！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*dummy3": {
+      "original": "後ろで縛ってスポーティに！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0103": {
+      "original": "髪を下ろして大人っぽくするのはどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*dummyselect1": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0101": {
+      "original": "一緒に配達先を探すよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*dummy2": {
+      "original": "一緒に配達先を探すよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0102": {
+      "original": "荷物を持ってあげるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*dummy3": {
+      "original": "荷物を持ってあげるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0103": {
+      "original": "メモの間違いを検証しよう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0101": {
+      "original": "私の胸で泣いていいよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*dummy2": {
+      "original": "私の胸で泣いていいよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0102": {
+      "original": "別のものを買おう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0103": {
+      "original": "おごってあげるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*dummy3": {
+      "original": "おごってあげるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0101": {
+      "original": "どんな毎日だったら笑って過ごせますか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0102": {
+      "original": "青山さんも毎日、楽しそうですよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0103": {
+      "original": "何か悩みでもあるんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0101": {
+      "original": "私に任せなさい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*dummy2": {
+      "original": "私に任せなさい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0102": {
+      "original": "じゃあ、ヒントを出そっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*dummy3": {
+      "original": "じゃあ、ヒントを出そっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0103": {
+      "original": "だめだよ、自分でやらなきゃ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0101": {
+      "original": "誰も見てないから、平気だよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*dummy2": {
+      "original": "誰も見てないから、平気だよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0102": {
+      "original": "リゼちゃんならきっとこう言うよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*dummy3": {
+      "original": "リゼちゃんならきっとこう言うよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0103": {
+      "original": "じゃあ、全部食べる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0101": {
+      "original": "そう言わないで、繋いでください！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0102": {
+      "original": "そんなことを言う妹は、こうだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*dummy2": {
+      "original": "そんなことを言う妹は、こうだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0103": {
+      "original": "チノちゃんはツンデレだな～。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*dummy3": {
+      "original": "チノちゃんはツンデレだな～。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0101": {
+      "original": "（まずはメグちゃんを元気づけよう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0102": {
+      "original": "（私たちだけじゃ無理かな？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0103": {
+      "original": "（ここは新しい作戦を考えよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*dummy1": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0101": {
+      "original": "ここで自分の殻を破るんだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*dummy2": {
+      "original": "ここで自分の殻を破るんだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0102": {
+      "original": "訓練だと思って！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*dummy3": {
+      "original": "訓練だと思って！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0103": {
+      "original": "いいから私の胸に飛び込んで！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0101": {
+      "original": "せっかくだし、やろう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*dummy1": {
+      "original": "せっかくだし、やろう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0102": {
+      "original": "今日はやめとかない？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*dummy2": {
+      "original": "今日はやめとかない？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0103": {
+      "original": "どっちでもいいよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0101": {
+      "original": "（バレてるって教えてあげよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*dummy1": {
+      "original": "（バレてるって教えてあげよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0102": {
+      "original": "（勝負とは非情……！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*dummy2": {
+      "original": "（勝負とは非情……！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0103": {
+      "original": "（勝たせてあげようっと）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*pajamas_main_02_end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0101": {
+      "original": "これ、格好いい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*dummy1": {
+      "original": "これ、格好いい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0102": {
+      "original": "（あれ？　他にも何かついてる？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*dummy2": {
+      "original": "（あれ？　他にも何かついてる？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0103": {
+      "original": "これ、リゼちゃんのプレゼントだね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a01.txt#*branch_0101": {
+      "original": "見ている場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a01.txt#*branch_0102": {
+      "original": "見ていない場合",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a01.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_01": {
+      "original": "選択１",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0101": {
+      "original": "ココアは……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*dummy2": {
+      "original": "ココアは……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0102": {
+      "original": "チノはこれだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*dummy3": {
+      "original": "チノはこれだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0103": {
+      "original": "千夜にはこれをお願いしよう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*dummy4": {
+      "original": "千夜にはこれをお願いしよう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0104": {
+      "original": "これはシャロが適任だな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*dummy5": {
+      "original": "これはシャロが適任だな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*dummy6": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0101": {
+      "original": "私はシャロを信頼しているぞ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*dummy2": {
+      "original": "私はシャロを信頼しているぞ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0102": {
+      "original": "責めてるわけじゃないんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0103": {
+      "original": "そうネガティブに考えるな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*dummy3": {
+      "original": "そうネガティブに考えるな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0101": {
+      "original": "私に任せてくれ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*dummy2": {
+      "original": "私に任せてくれ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0102": {
+      "original": "ココアに任せるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*dummy3": {
+      "original": "ココアに任せるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0103": {
+      "original": "チノに任せてもいいか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0101": {
+      "original": "そうだ、会場の警備役だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*dummy2": {
+      "original": "そうだ、会場の警備役だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0102": {
+      "original": "味見役というのはどうだろう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0103": {
+      "original": "演奏役なんてどうだ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*dummy3": {
+      "original": "演奏役なんてどうだ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0101": {
+      "original": "これは、任せておくべきだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*dummy2": {
+      "original": "これは、任せておくべきだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0102": {
+      "original": "何かアドバイスをしてみるか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*dummy3": {
+      "original": "何かアドバイスをしてみるか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0103": {
+      "original": "ケーキの食べ歩きなんてうらやましいな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0101": {
+      "original": "なんて推理力なんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*dummy2": {
+      "original": "なんて推理力なんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0102": {
+      "original": "アドバイスした方がいいだろうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*dummy3": {
+      "original": "アドバイスした方がいいだろうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0103": {
+      "original": "ノートを見てみたいな……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0101": {
+      "original": "まあ、クリスマスだし、ありかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*dummy2": {
+      "original": "まあ、クリスマスだし、ありかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0102": {
+      "original": "うちはそういう店じゃない！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0103": {
+      "original": "私には似合わないからなぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*dummy3": {
+      "original": "私には似合わないからなぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0101": {
+      "original": "（まずは世間話を引き延ばそう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*dummy2": {
+      "original": "（まずは世間話を引き延ばそう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0102": {
+      "original": "（よし、さっそく聞き出すぞ！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0103": {
+      "original": "（さりげなく話を変えよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*dummy3": {
+      "original": "（さりげなく話を変えよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0101": {
+      "original": "（日常のことから聞いていこう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*dummy2": {
+      "original": "（日常のことから聞いていこう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*dummy3": {
+      "original": "（日常のことから聞いていこう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0102": {
+      "original": "（ストレートに聞こう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*dummy4": {
+      "original": "（ストレートに聞こう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0103": {
+      "original": "（別のことにかこつけて聞くか）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*branch_0101": {
+      "original": "通過している",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*branch_0102": {
+      "original": "通過していない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0101": {
+      "original": "じ、実は最近、よく怖い夢を見るんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*dummy2": {
+      "original": "じ、実は最近、よく怖い夢を見るんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*dummy3": {
+      "original": "じ、実は最近、よく怖い夢を見るんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0102": {
+      "original": "意匠に凝っているんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*dummy4": {
+      "original": "意匠に凝っているんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0103": {
+      "original": "聞き間違いじゃないか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*branch_0101": {
+      "original": "通過している",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*branch_0102": {
+      "original": "通過していない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*branch_01_join": {
+      "original": "分岐１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0101": {
+      "original": "それは……その……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*dummy2": {
+      "original": "それは……その……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0102": {
+      "original": "な、なんのことかしら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*dummy3": {
+      "original": "な、なんのことかしら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0103": {
+      "original": "千夜には関係ないでしょ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0101": {
+      "original": "もしかして、今の、聞いてた！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0102": {
+      "original": "なんでいるのよ！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*dummy2": {
+      "original": "なんでいるのよ！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0103": {
+      "original": "（ご、誤魔化さないと！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*dummy3": {
+      "original": "（ご、誤魔化さないと！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0101": {
+      "original": "悪いだなんて、そんなことないです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*dummy2": {
+      "original": "悪いだなんて、そんなことないです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0102": {
+      "original": "すごくいい匂いがしました！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0103": {
+      "original": "せ、先輩、ここを教えてください！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*dummy3": {
+      "original": "せ、先輩、ここを教えてください！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0101": {
+      "original": "私は、幸せ者ですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*dummy2": {
+      "original": "私は、幸せ者ですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0102": {
+      "original": "告白じゃなかったんですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0103": {
+      "original": "私って、そんなに頼りなく見えますか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*dummy3": {
+      "original": "私って、そんなに頼りなく見えますか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0101": {
+      "original": "……ありがと。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*dummy2": {
+      "original": "……ありがと。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0102": {
+      "original": "千夜はとぼけるのが下手ね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*dummy3": {
+      "original": "千夜はとぼけるのが下手ね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0103": {
+      "original": "受け取れない。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0101": {
+      "original": "とりあえず、一緒に出かけてみたら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*dummy2": {
+      "original": "とりあえず、一緒に出かけてみたら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0102": {
+      "original": "何か心当たりはないの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*dummy3": {
+      "original": "何か心当たりはないの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0103": {
+      "original": "やっぱり、素直に聞くのが１番よ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0101": {
+      "original": "そうやって千夜はいつも……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*dummy2": {
+      "original": "そうやって千夜はいつも……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0102": {
+      "original": "休むなんてだめよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*dummy3": {
+      "original": "休むなんてだめよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0103": {
+      "original": "私のことなんてほっといて。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0101": {
+      "original": "妻の役は私じゃなかった？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*dummy2": {
+      "original": "妻の役は私じゃなかった？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0102": {
+      "original": "そのフレーズ、気に入ったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0103": {
+      "original": "気遣いはありがたいんだけど……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*dummy3": {
+      "original": "気遣いはありがたいんだけど……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0101": {
+      "original": "……わかったわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*dummy2": {
+      "original": "……わかったわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0102": {
+      "original": "私、どうしたらいいの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*dummy3": {
+      "original": "私、どうしたらいいの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0103": {
+      "original": "そんなのだめよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0101": {
+      "original": "私、先輩のためなら身を引きます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*dummy2": {
+      "original": "私、先輩のためなら身を引きます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0102": {
+      "original": "引き受けるつもりなんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0103": {
+      "original": "私、どうすれば……",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*dummy3": {
+      "original": "私、どうすれば……",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0101": {
+      "original": "あ、あんたにしては気が利くわね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*dummy2": {
+      "original": "あ、あんたにしては気が利くわね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0102": {
+      "original": "気遣いは無用よ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*dummy3": {
+      "original": "気遣いは無用よ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0103": {
+      "original": "（ここはココアに合わせて……）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0101": {
+      "original": "チノちゃんならできるわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*dummy2": {
+      "original": "チノちゃんならできるわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0102": {
+      "original": "あくまでパフォーマンスよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*dummy3": {
+      "original": "あくまでパフォーマンスよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0103": {
+      "original": "ごめんね、こんな仕事で。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0101": {
+      "original": "それってもしかして……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*dummy2": {
+      "original": "それってもしかして……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0102": {
+      "original": "フルールで働きたかったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*dummy3": {
+      "original": "フルールで働きたかったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0103": {
+      "original": "ハーブに興味があったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*start": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummy1": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*shop": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*kigae": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect1": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect2": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*move": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect3": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*pajama": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect4": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*chk": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect5": {
+      "original": "テストスタート",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit": {
+      "original": "訪問テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_chino": {
+      "original": "訪問チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_chiya": {
+      "original": "訪問千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_rize": {
+      "original": "訪問リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_syaro": {
+      "original": "訪問シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_mayamegu": {
+      "original": "訪問マヤメグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_aoyama": {
+      "original": "訪問青山",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_none": {
+      "original": "起きない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*visit_end": {
+      "original": "起きない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*popularitycalc_test": {
+      "original": "知名度計算テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*freind_test": {
+      "original": "友情パワー分岐テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_test": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummyselect6": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0101": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0102": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0103": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0104": {
+      "original": "選択肢テスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*link_test": {
+      "original": "ティッピーのリンクテスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*se_test": {
+      "original": "ＳＥ待ちテスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*dummy2": {
+      "original": "ＳＥ待ちテスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*test": {
+      "original": "口パクテスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*backlogtest": {
+      "original": "バックログテスト",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*end_test": {
+      "original": "テスト終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_01.txt#*tutorial": {
+      "original": "チュートリアルを見る",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_01.txt#*tutorial_skip": {
+      "original": "チュートリアルを見ない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_01.txt#*tutorial_end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_02.txt#*tutorial": {
+      "original": "チュートリアルを見る",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_02.txt#*tutorial_skip": {
+      "original": "チュートリアルを見ない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_02.txt#*tutorial_end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_chino": {
+      "original": "チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy1": {
+      "original": "チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_chiya": {
+      "original": "千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy2": {
+      "original": "千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_rize": {
+      "original": "リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy3": {
+      "original": "リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_syaro": {
+      "original": "シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy4": {
+      "original": "シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_mayamegu": {
+      "original": "マヤ＆メグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy5": {
+      "original": "マヤ＆メグ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*visit_aoyama": {
+      "original": "青山",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*dummy6": {
+      "original": "青山",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit.ks#*end": {
+      "original": "終了",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0101": {
+      "original": "心機一転、ホラーを書いてみたらどうですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0102": {
+      "original": "爽快なアクションなんてどうですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*dummy1": {
+      "original": "爽快なアクションなんてどうですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0103": {
+      "original": "ラブストーリーとかいいかもしれませんよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0101": {
+      "original": "二つ名とか、なんかプロっぽい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*dummy1": {
+      "original": "二つ名とか、なんかプロっぽい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0102": {
+      "original": "私も自分で考えてみようかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0103": {
+      "original": "二つ名は考えるものじゃないですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*dummy2": {
+      "original": "二つ名は考えるものじゃないですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0101": {
+      "original": "よく見てますね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0102": {
+      "original": "まるで監視員みたいですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*dummy1": {
+      "original": "まるで監視員みたいですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0103": {
+      "original": "見ているだけじゃだめですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0101": {
+      "original": "トマトジュースで！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*dummy1": {
+      "original": "トマトジュースで！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0102": {
+      "original": "栗きんとんが食べたいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*dummy2": {
+      "original": "栗きんとんが食べたいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0103": {
+      "original": "なんでもいいです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0101": {
+      "original": "爽やかな酸味のあるコーヒーだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*dummy1": {
+      "original": "爽やかな酸味のあるコーヒーだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0102": {
+      "original": "気品ある香りのコーヒーかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*dummy2": {
+      "original": "気品ある香りのコーヒーかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0103": {
+      "original": "愛のこもったココアブレンド！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0101": {
+      "original": "うーん、子猫かな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*dummy1": {
+      "original": "うーん、子猫かな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0102": {
+      "original": "クマかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0103": {
+      "original": "やっぱり、うさぎだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*dummy2": {
+      "original": "やっぱり、うさぎだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0101": {
+      "original": "うん、多分カラスだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0102": {
+      "original": "違うよ、ラブアドベンチャーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*dummy1": {
+      "original": "違うよ、ラブアドベンチャーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0103": {
+      "original": "これは……自分磨きの旅に出たんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*dummy2": {
+      "original": "これは……自分磨きの旅に出たんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0101": {
+      "original": "も、もちろんやるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*dummy1": {
+      "original": "も、もちろんやるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0102": {
+      "original": "ごめんなさい……！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*dummy2": {
+      "original": "ごめんなさい……！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0103": {
+      "original": "２人ともひどいよ～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0101": {
+      "original": "第２形態のティッピーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*dummy1": {
+      "original": "第２形態のティッピーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0102": {
+      "original": "新種の羽うさぎだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0103": {
+      "original": "人工生命体だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*dummy2": {
+      "original": "人工生命体だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0101": {
+      "original": "本当にごめんね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*dummy1": {
+      "original": "本当にごめんね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0102": {
+      "original": "つい言っちゃったんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0103": {
+      "original": "そんなこと言うと、もう教えてあげないよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*dummy2": {
+      "original": "そんなこと言うと、もう教えてあげないよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0101": {
+      "original": "よろしくてよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0102": {
+      "original": "おーっほっほっほー！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0103": {
+      "original": "ごきげんよう",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*dummy1": {
+      "original": "ごきげんよう",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0101": {
+      "original": "じ、実は私、詩が得意なの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0102": {
+      "original": "千夜ちゃんにはかなわないよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*dummy1": {
+      "original": "千夜ちゃんにはかなわないよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0103": {
+      "original": "私も参加する！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0101": {
+      "original": "年上の色気があるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*dummy1": {
+      "original": "年上の色気があるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0102": {
+      "original": "軍人らしくてかっこいいよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0103": {
+      "original": "すごくかわいいよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*dummy2": {
+      "original": "すごくかわいいよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0101": {
+      "original": "特別レッスンってどんなことするの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*dummy1": {
+      "original": "特別レッスンってどんなことするの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0102": {
+      "original": "（ここはそっとしておこう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0103": {
+      "original": "間違いなく効果があるよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*dummy2": {
+      "original": "間違いなく効果があるよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0101": {
+      "original": "うん、すごく似合ってた。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*dummy1": {
+      "original": "うん、すごく似合ってた。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0102": {
+      "original": "もう一声、欲しかったかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0103": {
+      "original": "思わずドキッとしちゃったよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*dummy2": {
+      "original": "思わずドキッとしちゃったよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0101": {
+      "original": "すべてを平等に愛してるんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0102": {
+      "original": "ワイルドで格好いい子が好みだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*dummy1": {
+      "original": "ワイルドで格好いい子が好みだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0103": {
+      "original": "可憐でかわいい子が好きなんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*dummy2": {
+      "original": "可憐でかわいい子が好きなんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0101": {
+      "original": "リゼちゃんの方がおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*dummy1": {
+      "original": "リゼちゃんの方がおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0102": {
+      "original": "どっちもおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*dummy2": {
+      "original": "どっちもおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0103": {
+      "original": "シャロちゃんも飲んでみて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0101": {
+      "original": "コーヒーの少ないカフェ・オ・レを作るよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*dummy1": {
+      "original": "コーヒーの少ないカフェ・オ・レを作るよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0102": {
+      "original": "ブラックコーヒーから行こう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0103": {
+      "original": "（千夜ちゃんに確認しよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*dummy2": {
+      "original": "（千夜ちゃんに確認しよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_01_join": {
+      "original": "選択１合流",
+      "translation": "",
+      "status": "untranslated"
+    }
+  },
+  "choices": {
+    "all_a01.txt#*sel_0101": {
+      "original": "うーん、そっかぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_0102": {
+      "original": "きっと大丈夫だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a01.txt#*sel_0103": {
+      "original": "じゃあ、いっそのことキャンプしよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0101": {
+      "original": "実は、私も眠かったんだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0102": {
+      "original": "このまま寝かせてあげようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a05.txt#*sel_0103": {
+      "original": "コーヒー、淹れようか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0101": {
+      "original": "そうだよ！　これは敵の罠だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0102": {
+      "original": "これは夢だよね、うん。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_a06.txt#*sel_0103": {
+      "original": "みんな、落ち着いて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0101": {
+      "original": "あ、青山さんの腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0102": {
+      "original": "はい、私の腹話術です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_b04.txt#*sel_0103": {
+      "original": "（な、なんと言えば！？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0101": {
+      "original": "ううん、これはこれですごいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0102": {
+      "original": "助手さんはまだこれからですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_c02.txt#*sel_0103": {
+      "original": "他の服はないんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0101": {
+      "original": "いいなぁ、トナカイ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0102": {
+      "original": "便利になったんだねぇ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0103": {
+      "original": "もうメールで送っちゃうのはどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0201": {
+      "original": "不安だったら、お姉ちゃんと一緒に回る？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0202": {
+      "original": "競争しよっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d01.txt#*sel_0203": {
+      "original": "お互い、頑張ろうね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0101": {
+      "original": "「地図を回してはだめよ」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0102": {
+      "original": "「ナビ通りに動きなさい」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "all_d04.txt#*sel_0103": {
+      "original": "「地図で確認しながら動きなさい」",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0101": {
+      "original": "別に相談なんてありません。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0102": {
+      "original": "はい、実は……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a01.txt#*sel_0103": {
+      "original": "ココアさんに相談したら逆効果です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0101": {
+      "original": "遠慮しておきます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0102": {
+      "original": "何だか不安なんですが。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a02.txt#*sel_0103": {
+      "original": "本当に困ったら相談します。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0101": {
+      "original": "はい、確かに元気が出そうです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0102": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_a08.txt#*sel_0103": {
+      "original": "早起きさせて、すみません。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0101": {
+      "original": "シャロさんを見習いたいと思いまして。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0102": {
+      "original": "べ、別に何でもありませんので。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b02.txt#*sel_0103": {
+      "original": "今は秘密です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0101": {
+      "original": "定番のショートケーキです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0102": {
+      "original": "クリスマスらしくブッシュ・ド・ノエルを。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b04.txt#*sel_0103": {
+      "original": "フルーツケーキなんてどうでしょうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0101": {
+      "original": "ココアさんの粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0102": {
+      "original": "間を取って、中力粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0103": {
+      "original": "本の通り、薄力粉を使いましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0201": {
+      "original": "では、もう少しだけ追加しましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0202": {
+      "original": "本の通りにやりましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0203": {
+      "original": "何か追加しましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0301": {
+      "original": "じっくりこんがりと焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0302": {
+      "original": "弱火でことこといきましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b06.txt#*sel_0303": {
+      "original": "適度に調整しながら焼きましょう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0101": {
+      "original": "ありがとうございます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0102": {
+      "original": "まだ時間はあります。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_b07.txt#*sel_0103": {
+      "original": "私には才能がないんですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0101": {
+      "original": "相談したいことがあるんです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0102": {
+      "original": "…………。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c03.txt#*sel_0103": {
+      "original": "お、おかわりが……欲しいです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0101": {
+      "original": "でもやっぱり心配だよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0102": {
+      "original": "反抗期の妹は大変だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c05.txt#*sel_0103": {
+      "original": "そっとしておいた方がいいのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0101": {
+      "original": "チノちゃんに真相を聞かなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0102": {
+      "original": "少し様子を見てみよっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_c07.txt#*sel_0103": {
+      "original": "ま、まずは落ち着かなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0101": {
+      "original": "本当は、私が食べたかったからなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0102": {
+      "original": "チノちゃん、気にしなくていいんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d02.txt#*sel_0103": {
+      "original": "わ、私にも作れそうなのを選んだだけだから！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0101": {
+      "original": "おいしい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0102": {
+      "original": "むっ、むむむ！　これは！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chino_d09.txt#*sel_0103": {
+      "original": "これは、チノちゃんらしい味だね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0101": {
+      "original": "じゃあ、少数精鋭でやろっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0102": {
+      "original": "街中のみんなを呼んじゃおうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a02.txt#*sel_0103": {
+      "original": "青山さんとマヤちゃんとメグちゃんと……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0101": {
+      "original": "（やっぱりケーキだね！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0102": {
+      "original": "（そこは千夜ちゃんにお任せしよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a03.txt#*sel_0103": {
+      "original": "（おいしいパンを焼こう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0101": {
+      "original": "いいね！　やろうよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0102": {
+      "original": "時間的に厳しくないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_a08.txt#*sel_0103": {
+      "original": "千夜ちゃんがそう言うなら、やるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0101": {
+      "original": "うーん、どうしよう……？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0102": {
+      "original": "うん、みんなで食べようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b05.txt#*sel_0103": {
+      "original": "チノちゃんたちも誘っていい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0101": {
+      "original": "ティッピーは鼻の調子が悪いのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0102": {
+      "original": "なんか、怪しい……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_b07.txt#*sel_0103": {
+      "original": "気のせいじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0101": {
+      "original": "フランスの王様だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0102": {
+      "original": "星座の名前だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c02.txt#*sel_0103": {
+      "original": "星座の一部だよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0101": {
+      "original": "それってツンデレだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0102": {
+      "original": "そんなにすごい物なのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_c04.txt#*sel_0103": {
+      "original": "なら、最初から隠さないんじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0101": {
+      "original": "運動ができる広場の方を探そう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0102": {
+      "original": "まずは植え込みの中を探してみようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0103": {
+      "original": "公園にいる野良うさぎの耳！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0201": {
+      "original": "きっと木の根元に埋まってるんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0202": {
+      "original": "道の途中に落ちてるかもしれないよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0203": {
+      "original": "ベンチの下とか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0301": {
+      "original": "前回の地図が埋まっていたがわ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0302": {
+      "original": "ここにはないのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d01.txt#*sel_0303": {
+      "original": "木の上を探そうよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0101": {
+      "original": "噴水の中に宝物があるんだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0102": {
+      "original": "茂みの中は要チェックだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0103": {
+      "original": "……食休みしてもいい？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0201": {
+      "original": "噴水の柱に注目だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0202": {
+      "original": "街灯に秘密があるのかもしれないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "chiya_d03.txt#*sel_0203": {
+      "original": "あずまやの屋根の上は？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#": {
+      "original": "バレンタイン",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_flyer_popularity_down": {
+      "original": "Ｅ判定",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "day.ks#*day_end_noflyer": {
+      "original": "ゲームオーバー",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_chino": {
+      "original": "チノ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_chiya": {
+      "original": "千夜",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_rize": {
+      "original": "リゼ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "holiday.ks#*pajama_chara_syaro": {
+      "original": "シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0101": {
+      "original": "お姉ちゃんだから当然だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0102": {
+      "original": "いつも遅刻ばかりでごめんね？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a03.txt#*sel_0103": {
+      "original": "実は、時計を見間違えちゃったんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0101": {
+      "original": "ラビットハウスの開店記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0102": {
+      "original": "もふもふ記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a05.txt#*sel_0103": {
+      "original": "妹記念日！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0101": {
+      "original": "手作りボトルシップ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0102": {
+      "original": "新しいパズル？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_a07.txt#*sel_0103": {
+      "original": "焼き立てのパン？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0101": {
+      "original": "まだ、これからだよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0102": {
+      "original": "何がいけなかったのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b02.txt#*sel_0103": {
+      "original": "他のやり方を考えた方がいいのかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0101": {
+      "original": "私がちょっとだけお姉ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0102": {
+      "original": "２人とももう過ぎちゃってたんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b03.txt#*sel_0103": {
+      "original": "すごくそれっぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0101": {
+      "original": "チノちゃんの誕生日のためだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0102": {
+      "original": "何か大事な理由があったような気が……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b04.txt#*sel_0103": {
+      "original": "まあ、いっか！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0101": {
+      "original": "大丈夫です！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0102": {
+      "original": "言われてみれば少し寂しいかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b05.txt#*sel_0103": {
+      "original": "青山さんの考えすぎですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0101": {
+      "original": "べ、別に誕生日のことなんて関係ないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0102": {
+      "original": "千夜ちゃん、あとはよろしく！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "main_b06.txt#*sel_0103": {
+      "original": "気のせいって言ったら気のせいなの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*tutorial": {
+      "original": "プロローグをスキップしない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "mainloop.ks#*tutorial_skip": {
+      "original": "プロローグをスキップする",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0101": {
+      "original": "お姉ちゃんにまかせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0102": {
+      "original": "助け合うのは大事なことだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a01.txt#*sel_0103": {
+      "original": "じゃ、次は私が倉庫に行くね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0101": {
+      "original": "童話がいいんじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0102": {
+      "original": "和菓子なら古典かな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a02.txt#*sel_0103": {
+      "original": "呪い、もとい、おまじない！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0101": {
+      "original": "こんな感じ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0102": {
+      "original": "もう１回見せて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a03.txt#*sel_0103": {
+      "original": "プロだね、シャロちゃん！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0101": {
+      "original": "人間観察をしよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0102": {
+      "original": "ひなたぼっこはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a04.txt#*sel_0103": {
+      "original": "かくれんぼしよっか。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0101": {
+      "original": "イエッサー！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0102": {
+      "original": "もちろん覚悟はできてるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a05.txt#*sel_0103": {
+      "original": "やさしくしてね？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0101": {
+      "original": "ラビットハウスの秘密を暴く気ですか！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0102": {
+      "original": "いいですよ、なんでも聞いてください。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_a06.txt#*sel_0103": {
+      "original": "じゃあ、私は青山さんを取材します。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0101": {
+      "original": "手でうさぎの耳を作るとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0102": {
+      "original": "もふもふになるとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b01.txt#*sel_0103": {
+      "original": "ぴょんぴょん跳ぶとか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0101": {
+      "original": "じゃあ、お掃除手伝うよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0102": {
+      "original": "手を握って温めてあげる。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b02.txt#*sel_0103": {
+      "original": "手袋、持ってくる！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0101": {
+      "original": "頭、なでてあげるね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0102": {
+      "original": "コーヒーを飲んでみよう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b03.txt#*sel_0103": {
+      "original": "お店、手伝おうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0101": {
+      "original": "尾行をするのならサングラスです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0102": {
+      "original": "もっとかわいい服を着ていればよかったなぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b04.txt#*sel_0103": {
+      "original": "私ってそんなにヒロインっぽいですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0101": {
+      "original": "かわいさが魅力のピンクかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0102": {
+      "original": "リーダーシップのあるレッドだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b05.txt#*sel_0103": {
+      "original": "クールなブルーでしょ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0101": {
+      "original": "（周りの人に訊いてみよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0102": {
+      "original": "（声を出してみなくちゃ！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_b06.txt#*sel_0103": {
+      "original": "（……この人ごみじゃ無理かな？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0101": {
+      "original": "ピクニックかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0102": {
+      "original": "探検をしようよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c01.txt#*sel_0103": {
+      "original": "森林浴なんてどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0101": {
+      "original": "おお！　さすが千夜ちゃんだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0102": {
+      "original": "……うーん、ピンとこないかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c02.txt#*sel_0103": {
+      "original": "魔法のアイテムみたい。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0101": {
+      "original": "このくらい、普通じゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0102": {
+      "original": "これも仕事だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c03.txt#*sel_0103": {
+      "original": "私が嫌いなの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0101": {
+      "original": "オマケをつけるのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0102": {
+      "original": "自分を追い込んでみようよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c04.txt#*sel_0103": {
+      "original": "受け取らなきゃって思わせるんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0101": {
+      "original": "私が悪の手からかくまいます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0102": {
+      "original": "私が代わりに戦います！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c05.txt#*sel_0103": {
+      "original": "それは……これから考えます。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0101": {
+      "original": "もちろん笑顔だよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0102": {
+      "original": "きちんとした挨拶です。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_c06.txt#*sel_0103": {
+      "original": "ずばり、バランス感覚！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0101": {
+      "original": "ええっ！？　リゼちゃん、いなくなるの！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0102": {
+      "original": "寂しいに決まってるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d01.txt#*sel_0103": {
+      "original": "私は大丈夫だよ、安心して。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0101": {
+      "original": "制服に着替えなくちゃ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0102": {
+      "original": "メニューを覚えなきゃだめだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d02.txt#*sel_0103": {
+      "original": "今日は店じまいだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0101": {
+      "original": "私が代わりに書きます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0102": {
+      "original": "いったん、仕事のことは忘れましょう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d03.txt#*sel_0103": {
+      "original": "飲み物を替えてみたらどうでしょう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0101": {
+      "original": "私が抱きしめてあげる！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0102": {
+      "original": "うさぎ、抱っこしてみる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d04.txt#*sel_0103": {
+      "original": "ちょっと触ってみる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0101": {
+      "original": "このもふもふ具合がたまらないよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0102": {
+      "original": "鳴き声が意外にかわいいんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d05.txt#*sel_0103": {
+      "original": "口元と動きが最高～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0101": {
+      "original": "私よりも千夜ちゃんぽいね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0102": {
+      "original": "えへへ、照れちゃうなー。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_d06.txt#*sel_0103": {
+      "original": "私、もっとクールじゃないかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0101": {
+      "original": "お願いだから何か手伝わせて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0102": {
+      "original": "じゃあ、勝手に仕事しちゃうから！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e01.txt#*sel_0103": {
+      "original": "お客さんが悲しむよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0101": {
+      "original": "その分、運動しましょう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0102": {
+      "original": "我慢は体に毒ですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e02.txt#*sel_0103": {
+      "original": "青山さんはスリムだから大丈夫ですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0101": {
+      "original": "も、もちろんわかるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0102": {
+      "original": "ごめんね、わかんない……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e03.txt#*sel_0103": {
+      "original": "わかるような、わからないような？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0101": {
+      "original": "かわいくお団子にするのはどうかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0102": {
+      "original": "後ろで縛ってスポーティに！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e04.txt#*sel_0103": {
+      "original": "髪を下ろして大人っぽくするのはどう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0101": {
+      "original": "一緒に配達先を探すよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0102": {
+      "original": "荷物を持ってあげるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e05.txt#*sel_0103": {
+      "original": "メモの間違いを検証しよう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0101": {
+      "original": "私の胸で泣いていいよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0102": {
+      "original": "別のものを買おう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_e06.txt#*sel_0103": {
+      "original": "おごってあげるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f00.txt#": {
+      "original": "市場",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0101": {
+      "original": "どんな毎日だったら笑って過ごせますか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0102": {
+      "original": "青山さんも毎日、楽しそうですよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f01.txt#*sel_0103": {
+      "original": "何か悩みでもあるんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0101": {
+      "original": "私に任せなさい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0102": {
+      "original": "じゃあ、ヒントを出そっか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f02.txt#*sel_0103": {
+      "original": "だめだよ、自分でやらなきゃ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0101": {
+      "original": "誰も見てないから、平気だよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0102": {
+      "original": "リゼちゃんならきっとこう言うよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f03.txt#*sel_0103": {
+      "original": "じゃあ、全部食べる？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0101": {
+      "original": "そう言わないで、繋いでください！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0102": {
+      "original": "そんなことを言う妹は、こうだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f04.txt#*sel_0103": {
+      "original": "チノちゃんはツンデレだな～。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0101": {
+      "original": "（まずはメグちゃんを元気づけよう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0102": {
+      "original": "（私たちだけじゃ無理かな？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f05.txt#*sel_0103": {
+      "original": "（ここは新しい作戦を考えよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0101": {
+      "original": "ここで自分の殻を破るんだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0102": {
+      "original": "訓練だと思って！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "move_f06.txt#*sel_0103": {
+      "original": "いいから私の胸に飛び込んで！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0101": {
+      "original": "せっかくだし、やろう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0102": {
+      "original": "今日はやめとかない？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_01.txt#*sel_0103": {
+      "original": "どっちでもいいよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0101": {
+      "original": "（バレてるって教えてあげよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0102": {
+      "original": "（勝負とは非情……！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_02.txt#*sel_0103": {
+      "original": "（勝たせてあげようっと）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0101": {
+      "original": "これ、格好いい～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0102": {
+      "original": "（あれ？　他にも何かついてる？）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "pajamas_main_03.txt#*sel_0103": {
+      "original": "これ、リゼちゃんのプレゼントだね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0101": {
+      "original": "ココアは……",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0102": {
+      "original": "チノはこれだな",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0103": {
+      "original": "千夜にはこれをお願いしよう",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a02.txt#*sel_0104": {
+      "original": "これはシャロが適任だな",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0101": {
+      "original": "私はシャロを信頼しているぞ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0102": {
+      "original": "責めてるわけじゃないんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a03.txt#*sel_0103": {
+      "original": "そうネガティブに考えるな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0101": {
+      "original": "私に任せてくれ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0102": {
+      "original": "ココアに任せるよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_a05.txt#*sel_0103": {
+      "original": "チノに任せてもいいか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0101": {
+      "original": "そうだ、会場の警備役だ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0102": {
+      "original": "味見役というのはどうだろう？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b01.txt#*sel_0103": {
+      "original": "演奏役なんてどうだ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0101": {
+      "original": "これは、任せておくべきだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0102": {
+      "original": "何かアドバイスをしてみるか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b03.txt#*sel_0103": {
+      "original": "ケーキの食べ歩きなんてうらやましいな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0101": {
+      "original": "なんて推理力なんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0102": {
+      "original": "アドバイスした方がいいだろうか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_b04.txt#*sel_0103": {
+      "original": "ノートを見てみたいな……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0101": {
+      "original": "まあ、クリスマスだし、ありかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0102": {
+      "original": "うちはそういう店じゃない！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c01.txt#*sel_0103": {
+      "original": "私には似合わないからなぁ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0101": {
+      "original": "（まずは世間話を引き延ばそう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0102": {
+      "original": "（よし、さっそく聞き出すぞ！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_c04.txt#*sel_0103": {
+      "original": "（さりげなく話を変えよう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0101": {
+      "original": "（日常のことから聞いていこう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0102": {
+      "original": "（ストレートに聞こう）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d02.txt#*sel_0103": {
+      "original": "（別のことにかこつけて聞くか）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0101": {
+      "original": "じ、実は最近、よく怖い夢を見るんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0102": {
+      "original": "意匠に凝っているんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "rize_d03.txt#*sel_0103": {
+      "original": "聞き間違いじゃないか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0101": {
+      "original": "それは……その……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0102": {
+      "original": "な、なんのことかしら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a02.txt#*sel_0103": {
+      "original": "千夜には関係ないでしょ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0101": {
+      "original": "もしかして、今の、聞いてた！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0102": {
+      "original": "なんでいるのよ！？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a03.txt#*sel_0103": {
+      "original": "（ご、誤魔化さないと！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0101": {
+      "original": "悪いだなんて、そんなことないです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0102": {
+      "original": "すごくいい匂いがしました！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a05.txt#*sel_0103": {
+      "original": "せ、先輩、ここを教えてください！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0101": {
+      "original": "私は、幸せ者ですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0102": {
+      "original": "告白じゃなかったんですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_a06.txt#*sel_0103": {
+      "original": "私って、そんなに頼りなく見えますか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0101": {
+      "original": "……ありがと。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0102": {
+      "original": "千夜はとぼけるのが下手ね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b04.txt#*sel_0103": {
+      "original": "受け取れない。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0101": {
+      "original": "とりあえず、一緒に出かけてみたら？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0102": {
+      "original": "何か心当たりはないの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b05.txt#*sel_0103": {
+      "original": "やっぱり、素直に聞くのが１番よ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0101": {
+      "original": "そうやって千夜はいつも……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0102": {
+      "original": "休むなんてだめよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_b06.txt#*sel_0103": {
+      "original": "私のことなんてほっといて。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0101": {
+      "original": "妻の役は私じゃなかった？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0102": {
+      "original": "そのフレーズ、気に入ったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c01.txt#*sel_0103": {
+      "original": "気遣いはありがたいんだけど……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0101": {
+      "original": "……わかったわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0102": {
+      "original": "私、どうしたらいいの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_c03.txt#*sel_0103": {
+      "original": "そんなのだめよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0101": {
+      "original": "私、先輩のためなら身を引きます！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0102": {
+      "original": "引き受けるつもりなんですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d02.txt#*sel_0103": {
+      "original": "私、どうすれば……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0101": {
+      "original": "あ、あんたにしては気が利くわね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0102": {
+      "original": "気遣いは無用よ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d03.txt#*sel_0103": {
+      "original": "（ここはココアに合わせて……）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0101": {
+      "original": "チノちゃんならできるわ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0102": {
+      "original": "あくまでパフォーマンスよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d04.txt#*sel_0103": {
+      "original": "ごめんね、こんな仕事で。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0101": {
+      "original": "それってもしかして……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0102": {
+      "original": "フルールで働きたかったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "syaro_d05.txt#*sel_0103": {
+      "original": "ハーブに興味があったの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#": {
+      "original": "シャロ",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0101": {
+      "original": "ココアは……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0102": {
+      "original": "チノはこれだな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0103": {
+      "original": "千夜にはこれをお願いしよう。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "test.ks#*sel_0104": {
+      "original": "これはシャロが適任だな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_01.txt#*tutorial": {
+      "original": "チュートリアルを見る",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_01.txt#*tutorial_skip": {
+      "original": "チュートリアルを見ない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_02.txt#*tutorial": {
+      "original": "チュートリアルを見る",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "tutorial_02.txt#*tutorial_skip": {
+      "original": "チュートリアルを見ない",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0101": {
+      "original": "心機一転、ホラーを書いてみたらどうですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0102": {
+      "original": "爽快なアクションなんてどうですか？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_01.txt#*sel_0103": {
+      "original": "ラブストーリーとかいいかもしれませんよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0101": {
+      "original": "二つ名とか、なんかプロっぽい！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0102": {
+      "original": "私も自分で考えてみようかな。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_02.txt#*sel_0103": {
+      "original": "二つ名は考えるものじゃないですよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0101": {
+      "original": "よく見てますね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0102": {
+      "original": "まるで監視員みたいですね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_aoyama_03.txt#*sel_0103": {
+      "original": "見ているだけじゃだめですよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0101": {
+      "original": "トマトジュースで！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0102": {
+      "original": "栗きんとんが食べたいです！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_01.txt#*sel_0103": {
+      "original": "なんでもいいです。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0101": {
+      "original": "爽やかな酸味のあるコーヒーだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0102": {
+      "original": "気品ある香りのコーヒーかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_02.txt#*sel_0103": {
+      "original": "愛のこもったココアブレンド！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0101": {
+      "original": "うーん、子猫かな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0102": {
+      "original": "クマかな？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chino_03.txt#*sel_0103": {
+      "original": "やっぱり、うさぎだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0101": {
+      "original": "うん、多分カラスだよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0102": {
+      "original": "違うよ、ラブアドベンチャーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_01.txt#*sel_0103": {
+      "original": "これは……自分磨きの旅に出たんだ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0101": {
+      "original": "も、もちろんやるよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0102": {
+      "original": "ごめんなさい……！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_02.txt#*sel_0103": {
+      "original": "２人ともひどいよ～！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0101": {
+      "original": "第２形態のティッピーだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0102": {
+      "original": "新種の羽うさぎだよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_chiya_03.txt#*sel_0103": {
+      "original": "人工生命体だよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0101": {
+      "original": "本当にごめんね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0102": {
+      "original": "つい言っちゃったんだ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_01.txt#*sel_0103": {
+      "original": "そんなこと言うと、もう教えてあげないよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0101": {
+      "original": "よろしくてよ？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0102": {
+      "original": "おーっほっほっほっほ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_02.txt#*sel_0103": {
+      "original": "ごきげんよう",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0101": {
+      "original": "じ、実は私、詩が得意なの！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0102": {
+      "original": "千夜ちゃんにはかなわないよ……。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_mame_03.txt#*sel_0103": {
+      "original": "私も参加する！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0101": {
+      "original": "年上の色気があるね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0102": {
+      "original": "軍人らしくてかっこいいよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_01.txt#*sel_0103": {
+      "original": "すごくかわいいよね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0101": {
+      "original": "特別レッスンってどんなことするの？",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0102": {
+      "original": "（ここはそっとしておこう！）",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_02.txt#*sel_0103": {
+      "original": "間違いなく効果があるよね。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0101": {
+      "original": "うん、すごく似合ってた。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0102": {
+      "original": "もう一声、欲しかったかも。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_rize_03.txt#*sel_0103": {
+      "original": "思わずドキッとしちゃったよ！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0101": {
+      "original": "すべてを平等に愛してるんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0102": {
+      "original": "ワイルドで格好いい子が好みだね！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_01.txt#*sel_0103": {
+      "original": "可憐でかわいい子が好きなんだよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0101": {
+      "original": "リゼちゃんの方がおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0102": {
+      "original": "どっちもおいしかったよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_02.txt#*sel_0103": {
+      "original": "シャロちゃんも飲んでみて！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0101": {
+      "original": "コーヒーの少ないカフェ・オ・レを作るよ。",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0102": {
+      "original": "ブラックコーヒーから行こう！",
+      "translation": "",
+      "status": "untranslated"
+    },
+    "visit_syaro_03.txt#*sel_0103": {
+      "original": "（千夜ちゃんに確認しよう）",
+      "translation": "",
+      "status": "untranslated"
+    }
+  }
+}

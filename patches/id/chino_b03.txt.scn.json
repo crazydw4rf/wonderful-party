@@ -1,0 +1,147 @@
+{
+  "identity": "chino_b03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（結局、お小遣いが足りなくて\\n　プレゼントは買えそうにありません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（おもてなしを考えるのも\\n　また振り出しに戻った状態で……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（飾り付けは買えましたが、\\n　それだけじゃ、物足りません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（ここは、リゼさんが以前、お父さんへの\\n　プレゼントを買うためにバイトをしていたように、\\n　私も……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "（でも、ラビットハウスだけで\\n　手一杯なのに、他でバイトなんて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "（おもてなしって難しいですね。\\n　私もなんとか、みんなに\\n　癒しをプレゼントしたいのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "（あ！　そうです！\\n　プレゼントは買うだけじゃありません。\\n　手作りでも、気持ちを込めたものを贈れば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "（手作りだったら、お小遣いも足りそうですね。\\n　決めた、何か作りましょう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "（ええと、季節柄、編み物がいいでしょうか？\\n　手袋とかマフラーとか、\\n　普段から使ってもらえるもので……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "（あ……。\\n　だけど、今から人数分編むには時間が\\n　足りないような）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "（他に、私にできることと言えば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "（コーヒーには自信がありますが、\\n　クリスマスパーティーの間、ずっとコーヒーを\\n　淹れ続けるわけにはいきませんし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "（おもてなしって、一体、\\n　何をしたらいいんでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "（……考え込んでいても\\n　パーティーの準備は進みませんし、\\n　まずはできることから始めましょう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "（せっかく買ってきたんですから、\\n　まずは飾り付けの配置を紙にまとめて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "（このケーキの飾り付け、\\n　かわいいから、みんな気に入ってくれそうです。\\n　これはどこに――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "ああっ！　これ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "（ケーキ……！\\n　そうだ、手作りのクリスマスケーキなら\\n　きっとみんなに喜んでもらえます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "（クリスマスケーキで\\n　みんなをおもてなしできたら……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "（これしかありません！\\n　パーティーに向けて、\\n　クリスマスケーキを作りましょう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "identity": "move_b02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（う～、今日は寒いよ。\\n　カイロ持って外に出てきてよかったぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（こういう日は甘兎庵に行って、\\n　温かいお汁粉を食べよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あっ、千夜ちゃん発見！\\n千夜ちゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あら、ココアちゃん。\\nバイトはお休み？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、だから遊びに来たんだ。\\n忙しかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ううん、平気よ。\\n今、掃き掃除の途中だから\\n中でちょっと待っててくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "もう寒い季節になってきたのに、大変だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "入り口はお店の顔だもの。\\nちゃんとしなくちゃいけないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "偉いなぁ。\\nさすが千夜ちゃん、\\n将来の大手チェーン・甘兎の店主！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ふふ、それほどでも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ううっ！\\nそれにしても風が身に染みるね。\\n千夜ちゃん、コート着なくて大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "外にいるのは掃除の間だけだから。\\nでも、さすがに指先が冷え切ってるわ。\\nはあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃん、手が冷たいんだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（千夜ちゃん、手が冷たいんだ）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "じゃあ、お掃除手伝うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "手を握って温めてあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "手袋、持ってくる！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、お掃除手伝うよ。\\n早く終われば中で温まれるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "いいえ、ココアちゃんに\\nそんなことさせられないわ。\\nこれは私の仕事なんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "気にしないで。\\nつらそうな千夜ちゃんをほっとくなんて\\n私にはできないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……。\\n嬉しいわ、ありがとう。\\nじゃあ、今度ココアちゃんが困っていたら私の番ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、頼りにしてる！\\nあとね、私カイロ持ってるんだ。\\nよければこれ、使って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "まあ、ありがとう。\\nそれじゃ、使わせてもらうわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "手を握って温めてあげる。\\nはい、手をこっちに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あっ！？\\nこ、ココアちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うわ、冷たい！\\nこんな手で掃き掃除してたの？\\nつらかったよね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ちょっと待ってね、\\n手をこすれば摩擦熱で温かくなるから。\\nえい、えいえいっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……。\\nもう充分よ、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でも、まだまだ冷たいよ？\\nいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、もう全身ぽっかぽかよ。\\nココアちゃんのおかげで。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "手袋、持ってくる！\\nちょっと待ってて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "わざわざそんな。\\nいいのよ、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でも、すっごく寒そうだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "お掃除ならすぐに終わるわ。\\nそれにココアちゃん、\\nうちに遊びに来てくれたんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "今のココアちゃんはお客さんなんだから、\\n気にしなくていいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でも、気になるから！\\nすぐに取ってくるねー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "もう、ココアちゃんったら。\\n本当に優しいのね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう、助かったわ。\\nでも、今度はココアちゃんが寒そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？　寒くないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "でもココアちゃん、ほっぺが真っ赤よ？\\n私が温めてあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "温かーい……。\\nでも、千夜ちゃんの手が\\n冷たくなっちゃうんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "いいのよ。\\nそうしたら、またココアちゃんに\\n温めてもらうから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、何回でも温めてあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "じゃあ、私も何度だって温めるわ。\\n２人でそうしていれば、\\n寒さなんて忘れてしまえるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "おお、すごい！\\n私と千夜ちゃんが一緒にいれば\\n冬なんてへっちゃらってことだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ええ、北風にだって雪にだって負けないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あ、でも、雪には\\nちょっとだけ負けてあげてもいいかな。\\n積もってくれないと遊べないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あら、確かに。\\n今年の冬はどのくらい降るのかしらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "さて、それじゃ中に入りましょう。\\nココアちゃん、\\n熱い抹茶とお汁粉、どっちがいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "両方！\\nっていうのはだめ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "もちろん、いいわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\nえへへ、ありがとう千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

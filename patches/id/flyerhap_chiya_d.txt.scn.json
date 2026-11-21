@@ -1,0 +1,337 @@
+{
+  "identity": "flyerhap_chiya_d.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "わあ！\\nねえ、空！　見て！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "飛行機雲だよ！\\nすっごくきれい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "本当です！\\nこんなにくっきり見えるなんて珍しいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ああ、まるで筆で描いたみたいだな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そういえば――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "おばあちゃんが教えてくれたのだけど、\\n飛行機雲の形が崩れないあいだに\\n願いごとを言えたら、叶うんですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "それ、流れ星じゃないの？\\n相変わらず、あんたのおばあさんの知恵袋は\\nどっか間違ってるような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "でも、夢があっていいと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nよーし、私のお願いは……\\nもっともふもふに出会えますように！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "今までココアちゃんが出会ったもふもふは、\\nティッピー、あんこ、野良うさぎかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "全部うさぎじゃないの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うさぎのもふもふ感はすべてに勝るからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "それでもまだ、新しいもふもふが必要なのかしら。\\nココアちゃんは本当にもふもふが大好きなのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "欲望に忠実とも言いますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nでもやっぱり、この願い事は\\nあの立派な飛行機雲にはもったいないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（もっと、何か、本当に願うべきことは……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ココアさん、\\n急がないと飛行機雲が消えますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ま、待って待って！\\nえーと、えーと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そうだ！\\nみんなで、ずっと仲良く過ごせますように！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ＆リゼ＆千夜＆シャロ",
+          "original": "えっ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "よし、言えた！\\n飛行機雲が消える前に言えたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あ、でも……\\nお願いしなくても、これから\\nそうしていけばいいんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "……そうね、本当にそうだわ。\\nココアちゃんの言う通り。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "何かにお願いしなくても、私たち、\\nこうして仲良くなれたんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "でも、ココアちゃんがいなければ\\nここに５人、揃うことはなかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nココアさんが来なければ、千夜さんやシャロさんと\\n出会うこともなかったと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ココアが、ラビットハウスと\\n甘兎庵やフルール・ド・ラパンを繋いだんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ココアがいてくれたから、リゼ先輩と\\nこんな風に仲良くなれたのよね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "私たち、接点はあっても繋がっていなかった。\\n繋げてくれたのはココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "そうですけど……\\n言葉にすると、ちょっとはずかしいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、改めて言うと照れるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "そうですね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "って、ココア！\\nなんで空見てんのよ、\\n人にはずかしいこと言わせておいて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "えっ？\\nあ、ごめん、聞いてなかった。\\nもう１回言ってくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "言えるかっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "ふふっ！\\nココアちゃんは飛行機雲ね、って言ってたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "ん？\\nそれって、どういう意味？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "わからなくてもいいのよ。\\nココアちゃんはココアちゃんのままで\\nいてくれればいいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "え？　さっぱりわかんないけど……\\nみんなが楽しいならいっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "ところで、どうして空を見上げていたんですか？\\n飛行機雲はもう消えたのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "もう１回、出ないかなって。\\nそうすれば、みんなもお願いを言えるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "そんな簡単に出ないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "チノ",
+          "original": "あ、見えました！\\n飛行機雲です！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "ええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "みんな、お願い言わないと～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "なんとか言えましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "千夜",
+          "original": "願いごと、叶うといいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "絶対に叶うよ、大丈夫！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "しかし、大勢の前で\\n願い事を叫ぶって……考えてみると\\nかなりはずかしいことしてるな、私たち。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "す、過ぎたことは忘れましょう、先輩！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

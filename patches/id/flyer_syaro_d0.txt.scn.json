@@ -1,0 +1,55 @@
+{
+  "identity": "flyer_syaro_d0.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンでーす！\\nよろしくお願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ハーブティーのお店でーす。\\nおすすめのハーブをご案内しますので、\\nお気軽にどうぞ―！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "心も体も癒すお店でーす！\\nよろしくお願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

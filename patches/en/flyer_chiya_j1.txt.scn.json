@@ -1,0 +1,163 @@
+{
+  "identity": "flyer_chiya_j1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "このお洋服、かわいいわね。\\n特にこのベレー帽が素敵だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ベレー帽……。\\nベレー帽って言うと、\\n画家さんがかぶってるってイメージがあるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "確かに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "はっ！\\n画家……それよ、ココアちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　どれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "せっかくベレー帽をかぶっているのだから、\\n芸術を研究しましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（と、突然だ！？\\n　千夜ちゃんは形から入るタイプだからかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "でも、芸術の研究って\\n具体的にはなにをするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "そうねぇ。\\nどうしましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "……考えてなかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "芸術は考えちゃだめ！　感じるものなのよ！\\n世界には芸術があふれているのだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "はっ！？\\nなるほど、確かに……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "でも……これはいけないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "いけないって……チラシが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "そう。\\nこのチラシには芸術性が足りないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そうかな？\\nスペルも間違ってないし、要点がわかりやすくて\\nいいってリゼちゃんも言ってたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "わかりやすさだけじゃだめ。\\nそれじゃ、人の印象に残らないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "もっと絵を入れたり、\\nデザインに凝ったりしないと。\\nフルカラーにするのもいいかもしれないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "見ただけでこちらの熱意が伝わるような……\\nお店に行きたいって思えるような、\\nそんなチラシにしなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おお……！\\n　千夜ちゃんが燃えている！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "さあ、ココアちゃん！\\n今からチラシを作り直しましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "今から！？\\n配る時間がなくなっちゃうよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "時間よりも大切なものが、この世にはある！\\nそれが芸術なのよ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うわーん！\\n　誰か千夜ちゃんを止めて～！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

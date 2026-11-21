@@ -1,0 +1,21 @@
+{
+  "identity": "main_e04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日のお仕事はどんな感じかな？\\n　どんなお客さんが来てくれるのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（こういうワクワク、\\n　喫茶店のお仕事ならではだよ～）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

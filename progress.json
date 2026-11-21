@@ -1,0 +1,212 @@
+{
+  "en": {
+    "language": "en",
+    "language_name": "English",
+    "dialogues": {
+      "total": 17569,
+      "translated": 2,
+      "proofread": 2,
+      "machine_translated": 0,
+      "untranslated": 17567,
+      "percent_translated": 0.01,
+      "percent_proofread": 0.01
+    },
+    "choices": {
+      "total": 862,
+      "translated": 1
+    },
+    "prompts": {
+      "total": 131,
+      "translated": 0
+    },
+    "titles": {
+      "total": 1014,
+      "translated": 0
+    },
+    "routes": {
+      "all": {
+        "total_dialogues": 1318,
+        "proofread": 2,
+        "mtl": 0,
+        "untranslated": 1316
+      },
+      "chino": {
+        "total_dialogues": 1594,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1594
+      },
+      "chiya": {
+        "total_dialogues": 1491,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1491
+      },
+      "other": {
+        "total_dialogues": 101,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 101
+      },
+      "flyer": {
+        "total_dialogues": 3659,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 3659
+      },
+      "flyerhap": {
+        "total_dialogues": 1821,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1821
+      },
+      "main": {
+        "total_dialogues": 1053,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1053
+      },
+      "move": {
+        "total_dialogues": 1886,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1886
+      },
+      "pajamas": {
+        "total_dialogues": 630,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 630
+      },
+      "rize": {
+        "total_dialogues": 1425,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1425
+      },
+      "syaro": {
+        "total_dialogues": 1524,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1524
+      },
+      "tutorial": {
+        "total_dialogues": 49,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 49
+      },
+      "visit": {
+        "total_dialogues": 1018,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1018
+      }
+    }
+  },
+  "id": {
+    "language": "id",
+    "language_name": "Bahasa Indonesia",
+    "dialogues": {
+      "total": 17569,
+      "translated": 0,
+      "proofread": 0,
+      "machine_translated": 0,
+      "untranslated": 17569,
+      "percent_translated": 0.0,
+      "percent_proofread": 0.0
+    },
+    "choices": {
+      "total": 862,
+      "translated": 0
+    },
+    "prompts": {
+      "total": 131,
+      "translated": 0
+    },
+    "titles": {
+      "total": 1014,
+      "translated": 0
+    },
+    "routes": {
+      "all": {
+        "total_dialogues": 1318,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1318
+      },
+      "chino": {
+        "total_dialogues": 1594,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1594
+      },
+      "chiya": {
+        "total_dialogues": 1491,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1491
+      },
+      "other": {
+        "total_dialogues": 101,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 101
+      },
+      "flyer": {
+        "total_dialogues": 3659,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 3659
+      },
+      "flyerhap": {
+        "total_dialogues": 1821,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1821
+      },
+      "main": {
+        "total_dialogues": 1053,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1053
+      },
+      "move": {
+        "total_dialogues": 1886,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1886
+      },
+      "pajamas": {
+        "total_dialogues": 630,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 630
+      },
+      "rize": {
+        "total_dialogues": 1425,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1425
+      },
+      "syaro": {
+        "total_dialogues": 1524,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1524
+      },
+      "tutorial": {
+        "total_dialogues": 49,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 49
+      },
+      "visit": {
+        "total_dialogues": 1018,
+        "proofread": 0,
+        "mtl": 0,
+        "untranslated": 1018
+      }
+    }
+  }
+}

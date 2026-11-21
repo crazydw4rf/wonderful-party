@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_rize_b2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ラビットハウスをよろしくお願いしまーす。\\nコーヒーともふもふに癒される\\nラビットハウスでーす。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "なあココア、ちょっといいか？\\nチラシ配りとして、それはどうかと思うぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はっ！？\\nやっぱりコーヒーより\\nもふもふ押しがよかったかな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いや、そもそももふもふは売りじゃないし。\\n私が言いたいのは、声が小さいってことだ。\\nそれじゃ、何を配ってるかわからないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうかな？\\n普通の大きさだと思うけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "普通じゃだめだ。\\nチラシ配りなんだから、\\nより大きい声でアピールしないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "アピール！　そっか！\\n声は大きければ大きいほどいいんだね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、声が聞こえさえすれば\\n多少は店のアピールになるだろうしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "なるほど～。\\nよし、じゃあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ラビットハウスをよろしくお願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "まだ小さい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ラビットハウスをよろしくお願いしまーす！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "よし、よくなってきたぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ラビットハウスを！！\\nよろしくお願いしまーす！！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いいぞ、その調子で続けろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "よろしくお願いしまーす！！！\\nラビットハウスでーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ラビットハウスを！\\nよろしくお願いします！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ら、ラビット……ハウスを……\\nよろしく……お願いします……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ぜぇ……ぜぇ……。\\nぜぇ……ぜぇ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "もう声が出ないよぉ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "大声を出すだけじゃ……。\\nチラシは……なくならないんだな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "というより……\\nみんな、私たちを避けてたよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "そうだな……避けてたな……。\\nもしかして……うるさすぎたのか……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "はあ……。\\nこんな時、チノがいれば止めてくれたのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "チノちゃんのツッコミがないと……\\n私たち、だめなんだね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ああ、ツッコミの大事さを思い知った……。\\nちょっと休んだら……普通に配ろう……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

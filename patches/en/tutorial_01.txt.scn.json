@@ -1,0 +1,111 @@
+{
+  "identity": "tutorial_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "ゲームのチュートリアルを見ますか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "ゲームのチュートリアルを見ますか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*tutorial": {
+          "original": "チュートリアルを見る",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*tutorial_skip": {
+          "original": "チュートリアルを見ない",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*tutorial": {
+      "texts": {
+        "0": {
+          "speaker": "タカヒロ",
+          "original": "さて、それではゲームの説明をしておこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "タカヒロ",
+          "original": "このゲームは、君がココア君になって、\\n友人達と仲良く日々を過ごすゲームだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "タカヒロ",
+          "original": "文章選択の内容や\\n休日のおでかけ先で出会うことで、\\nチノやリゼ君達の「親密度」がＵＰする。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": null,
+          "original": "（チノの誕生日のあと、親密度が星９つ以上の\\n　キャラクターストーリーに移行するように\\n　なっています）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": null,
+          "original": "（ただし、キャラクターストーリーには\\n　優先度が存在します）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": null,
+          "original": "（チノ、リゼ、千夜、シャロの順に\\n　優先度がありますのでご注意ください）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": null,
+          "original": "（キャラクターストーリーでは\\n　「親密度」に代わり、「友情度」が\\n　ＵＰしていくようになります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": null,
+          "original": "（「友情度」の状態によって\\n　エンディングが変化します）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "タカヒロ",
+          "original": "また、ラビットハウスでのバイトぶりによっては\\n特定のキャラクターストーリーではなく――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "「みんなで過ごすストーリー」に\\n移行することもできるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "タカヒロ",
+          "original": "詳しくは、ラビットハウスでのバイトの時に\\n説明しよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "タカヒロ",
+          "original": "では、ココア君、チノをよろしく。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

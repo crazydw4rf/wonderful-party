@@ -1,0 +1,610 @@
+{
+  "identity": "pajamas_main_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こうしてみんな一緒に\\nお泊まりするのも久しぶりね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "と言うより、泊まろうと思って泊まるのは\\n初めてなんじゃない？\\nあの時は大雨が降ってたからだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "さあ、今夜は寝かせないよ！\\nいっぱい遊ぼうね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "おいおい、遊びじゃないだろ。\\nこれは作戦会議も兼ねているんだ、\\n気を引き締めていけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "でも、まだチラシ配りを始めたばかりで\\nみんな感覚も掴めてないと思うの。\\nだから、あまり堅くなるのもよくないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "私も……緊張してしまって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "確かに、チノちゃんだけじゃなくて\\nみんな緊張してたとは思うけど、\\n特に問題はなかったわよ。あとは慣れだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "本当ですか？\\nシャロさんにそう言ってもらえると安心できます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "そうだな、\\nなにしろチラシ配りの大先輩だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "そんな、リゼ先輩に先輩と呼ばれるなんて……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "それじゃ、今日は\\nチラシ配りの疲れを癒すための\\nお泊まり会って感じなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "では、もう寝ますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "え、そんなのもったいないよ！\\nせっかくみんないるんだよ？\\n寝てる場合じゃないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "おいおい、明日もあるんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "でも、確かに、みんないるのに早寝するのは\\nちょっともったいないかなー、なんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "私も……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "寝ないのはよくないけれど、\\nちょっぴり夜更かしはしたくなるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "さあさあ、残るはリゼちゃんだけだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "わ、私だって、少し夜更かしをするぐらいで\\nうるさく言ったりはしないぞ。\\nこういう息抜きは大切だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "では、ゲームでもしますか？\\nマヤさんとメグさんが泊まりに来た時に遊んだ\\nボードゲームがありますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "それも楽しそうだけど……\\n私ね、したいことがあるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "う……。\\n嫌な予感が。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あのね、せっかくみんな集まったんだから……\\n怪談話をしたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "やっぱり！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "怪談は……ええっと、どうだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "ココアちゃんは怪談話に反対？\\n喜んでくれると思ったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "その、千夜ちゃんの怪談は\\nちょっと怖すぎるから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "わ、私は別にいいぞ？\\nただの怪談話に怖がるような歳でもないしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "わ、私は絶対反対！\\n先輩、どっちでもいいのなら\\nこっちに票を、お願いします！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "そう言うことなら仕方ないな！\\nああ、私はシャロの味方だ。\\n怪談話にも反対だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "じゃあ、チノちゃんはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "私は賛成です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "えええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "まさかの賛成だと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "私、怪談話がうまくできるようになりたいんです。\\nだから千夜さんのを聞いて勉強します。\\n千夜さんの怪談は本当に怖いですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "任せて！\\nとびっきり怖い怪談話を披露するわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "ああああ……張り切っちゃった……。\\nこれはまずい流れ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "これで反対が２人、賛成が２人。\\nとなると、怪談話をするかどうかは\\nココアちゃん次第ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？\\n　いつの間にか私、そんな重要な役に！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "ココア、反対よね？\\nまた眠れなくなるような話をされたいの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えっと……どっちにしよう？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（えっと……どっちにしよう？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "せっかくだし、やろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "今日はやめとかない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "どっちでもいいよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "せっかくだし、やろう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃんならそう言ってくれると\\n思ってたわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "これで怪談をマスターして、\\nマヤさんとメグさんをあっと言わせてみせます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "なるほど、そういうことだったんだ。\\n千夜ちゃん、チノちゃんのためにも\\n極上のやつを一丁頼むよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あいよ、任せておきな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ココア～！\\nうーらーぎーりーもーのー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "諦めろ、シャロ。\\n多数決じゃ仕方がない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "うう～。\\n私の味方はリゼ先輩だけですっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "今日はやめとかない？\\n怖がって余計に疲れちゃいそうだし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そうよね、反対よね！！\\n千夜、これで３対２よ！　怪談はなし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そう、残念。\\nチノちゃん、怪談話はなしですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そんな……ココアさんが\\n賛成してくれさえいれば……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ううっ……。\\n　チノちゃんが、まるで\\n　捨てられたうさぎのような瞳で私を見てる！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "耐えて！　耐えるのよ、ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ココアさん、だめですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "い、いいに決まってるよっ！\\nやろうよ、怪談！　ね、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ああ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "まあ、そうなるよな。\\nココアがチノに勝てるわけない。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "どっちでもいいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おいおい、それじゃ決まらないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "どっちでもいいなら\\n反対ってことでいいわよねぇ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさん、お願いです。\\n私、怪談をマスターしたいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "賛成！　賛成します！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "即答！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "チノにお願いされちゃ、ああなるさ。\\n諦めろ、シャロ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "そんなぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ……\\n私の、とっておきの話を披露するわね。\\nこれは実際に、この街であった事件らしいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……ごくり。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "街外れの家に、\\n女性が１人で暮らしていたの――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "コト、コト、コト……って\\n小さな足音が聞こえてきて……\\n小さいけれど、なぜか近くだってことはわかるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "な、なんでわかるのよぉ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "あ、足音で距離を測るのは常識だぞ？\\n私だってできる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ああ、とっても近い！\\nすぐそこ、そう、すぐ後ろに……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "嫌あぁ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ひいいっ！？\\nシャロちゃん、びっくりさせないで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "もう嫌～！\\n私、先に寝るから！！　おやすみなさいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "おい、シャロ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "いくらリゼ先輩の言うことでも聞けません！\\n私はもう布団から出ませんから！\\nお日様が昇って明るくなるまで絶対出ませんから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あらあら、そこまで\\n怖がらせるつもりはなかったのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "いえ、すごく怖かったです。\\nお話の内容もですが、\\n話し方がすごく勉強になりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ここからが本番よ？\\nえーっと、どこまで話したかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "すぐ後ろで足音がしたところです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "あ、あのさ、もう遅い時間だし\\n続きはまた今度でいいんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nちょっと眠くなってきちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "そう？\\nなら、今日はここまでにしましょうか。\\n続きはまた今度ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "はい、期待しています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "よし、じゃあ電気を消すぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はあ、千夜ちゃんの怪談は本当に怖いよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すぐ後ろでする足音……\\n　振り向いたら何がいたのかな？\\n　う、うさぎだったらいいな！　なんて！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ああー、なんだか今になって\\n　じわじわ怖くなってきたよ～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（１人じゃ眠れないかも。\\n　誰かと一緒に寝ようかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

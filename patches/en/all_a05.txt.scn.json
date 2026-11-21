@@ -1,0 +1,586 @@
+{
+  "identity": "all_a05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "さてと！\\nお風呂にも入ったし、\\nいよいよトランプ大会の始まりだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そうじゃないでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん……。\\n今日はクリスマスパーティーの\\n内容を決めるためのお泊まり会ですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "わ、わかってるよ？\\nでも、またお泊まり会ができるって思うと\\nつい嬉しくなっちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "トランプはやるべきことを全てやったあとにな。\\nそれじゃ、さっそく話し合いをしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "あの、リゼさん。\\nあらかじめ議題をまとめてみたのですが、\\nお役に立ちますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "おおっ！\\nチノちゃん、えらいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ありがとう、助かるよ。\\n漫然と話していると話が脱線するからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい、特にココアさんが、\\nさっきのように遊ぼうと言い出して\\n会議を迷走させると思ったので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "いやぁ、それほどでも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "褒めてないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "チノちゃん、ココアちゃんのことを\\nフォローしてあげてるのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "べ、別に、フォローなんてつもりは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "じゃあ、せっかくだし\\nチノが議長として話を進めてくれるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "あ、はい。\\nわかりました。\\nまず、パーティーの会場ですが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "――では、みんなの意見を取り入れた\\n最後の案で進めることに決定します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "異議なーし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "うん、チノもなかなかやるな。\\nみんなの案のいいところを\\nきっちりまとめられてるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "いえ、そんな。\\nどのアイディアもとてもよかったので、\\n使わないのはもったいないと思っただけで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "ええと……予算に関しては、\\nとりあえず前もってお金を集めて、\\nそこから使っていく、という形にしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "お金の管理は、リゼさんにお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "任せてくれ。\\nみんなの大切なお金だ、\\n１円たりとも無駄にしないさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ねえねえ、計算だったら私もできるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "ココアさんには、他の重要なお仕事を\\nお願いしたいと思っているので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "重要なお仕事？\\nうん、わかった。\\nお姉ちゃんに任せなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "チノちゃん、\\nココアの操縦が上手くなったわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "うふふふ。\\nホント、仲良しさんよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "……仲良しってくくりでいいのかしらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "では、次の件ですが――\\nお料理の分担は、さっき千夜さんが言った感じで\\n進めましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "ええ、わかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "それで、次は――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "うんうん。\\nこうしてパーティーの内容が\\n決まっていくのも楽しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "チノちゃんのおかげよ。\\n年下とは思えないくらいにしっかりしているもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "それは……\\nココアさんに鍛えられましたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "そんな～、鍛えたなんて～。\\nまあ、私が教えることなんて\\nほとんどなかったんだけどね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "だから、褒めてないわよ。\\nまったく、これじゃ\\nどっちが姉だかわからないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんは私だよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "歳のことだけを言ってるんじゃないわ。\\nチノちゃんを見習って、少しは姉らしくしなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "なんでー！？\\n私、こんなに立派なお姉ちゃんなのに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "ええ、チノちゃんはココアちゃんの背中を見て\\nちゃんと成長しているわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "うん、だよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "反面教師として、だけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "うーん……。\\n飾り付けは、それぞれのイメージがあって\\nなかなか話がまとまらないねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "そうね、色々と意見が出たけれど……\\n誰のアイディアがいいかしら。\\nシャロちゃんはどう思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "……えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "あ、うーん……\\n私も、リゼ先輩と同じで……\\n小物をたくさん飾るのがいいかなって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "リゼ",
+          "original": "シャロ、大丈夫か？\\nかなり眠そうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "すみません……話し合いの最中に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "千夜",
+          "original": "無理しちゃだめよ。\\nバイトで疲れがたまっているんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "大丈夫……。\\nちょっと……油断しただけだから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "でも、明日もバイトがあるんでしょう？\\nシャロちゃんは先に休んでいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "シャロ",
+          "original": "だめよ……。\\nクリスマスパーティー……みんなで準備するって\\n決めたんだから……頑張……る……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "くー……すー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、寝ちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "リゼ",
+          "original": "お疲れ様、シャロ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "千夜",
+          "original": "はい、この毛布を掛けてあげて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "あれ？\\nねえ、チノちゃんも寝ちゃってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "チノ",
+          "original": "すー……すー……すー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "千夜",
+          "original": "チノちゃんも、今日のお泊まり会のために\\n色々頑張ってくれたんだものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（チノちゃん……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "実は、私も眠かったんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "このまま寝かせてあげようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "コーヒー、淹れようか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "実は、私も眠かったんだよね。\\nだから今日はもう寝ちゃおうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あら、ココアちゃんもそうだったのね。\\n私もなの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "議論に熱中してて気づかなかったが、\\n結構いい時間になってたんだな。\\n確かに、もう寝た方がよさそうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、優しいのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えっ？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ううん、なんでもない。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "このまま寝かせてあげようよ。\\n疲れてるところを起こすのも悪いし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。\\n残りは飾り付けの件だけだから、\\n次の機会にしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ふふーん、チノちゃんの寝顔はいつもかわいいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "シャロちゃんも、\\nいつもと違う無邪気な顔しているわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "そうなのか？\\n確かにちょっと笑っているような気が\\nしなくもないが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "リゼちゃんの寝顔はどうなのかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "わ、私か！？\\n普通だ、かわいくなんかない普通の寝顔だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え～、そうなのかな～？\\n見たいなぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "み、見ても楽しくなんかないぞ？\\nいや、私はココアよりもあとに寝るから\\n見せやしないがな！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "コーヒー、淹れようか？\\n眠気覚ましになるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "こ、ココアちゃん？\\n寝てる２人に飲ませるつもりじゃないわよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そんなことしないよ！？\\n私たちのためだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "まさか、残ったメンバーで\\nトランプをしようとか思ってないよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ぎくっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "思ってたのか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "私、１回ぐらいだったら付き合ってもいいわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "本当に！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "悪いが、私は寝るぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えー？\\nうーん、２人だけじゃつまんないし\\n私たちも寝よっか、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ、布団を敷いて２人を寝かせましょ。\\n起こさないように注意しながらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

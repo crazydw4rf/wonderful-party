@@ -1,0 +1,55 @@
+{
+  "identity": "flyer_chiya_h4.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "甘味処、甘兎庵です。\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "お抹茶からスイーツまで取りそろえています。\\nぜひ、お立ち寄りくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "和の心でおもてなしします。\\nどうぞ、お気軽に。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

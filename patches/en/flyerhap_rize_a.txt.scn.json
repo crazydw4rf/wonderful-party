@@ -1,0 +1,271 @@
+{
+  "identity": "flyerhap_rize_a.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、せっかくだし、みんなでやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ラビットハウスでーす！\\nよろしくお願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ど、どうぞ～。\\nぜひ、来てください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うんうん！\\nなかなか様になってるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は、マヤちゃんとメグちゃんが\\n　チラシ配りのお手伝いに来てくれたんだよね。\\n　妹たちが頑張ってくれて、お姉ちゃん嬉しい！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "こうしてチマメ隊が揃って\\nチラシ配りしてると、なんか微笑ましいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "もー！\\nだから、チマメはやだって言ってるじゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そういえば、チマメ隊の名付け親って\\nリゼちゃんなんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "別に、名付けたってほどじゃないけどな。\\nまとめて呼んだだけだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "まさか、私までひとくくりにされるとは\\n思いませんでしたが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "ねー、この際だから言うけどさ、\\nチマメ以外の名前にしてくれよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "そんなに嫌なのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩がせっかく名付けてくれたのに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "嫌って言うか、なんだか痛々しい感じだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "そうそう！\\nだからさ、みんなで新しいチーム名を\\n考えてくれよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "新しいチーム名かぁ。\\nうーん……じゃあ、ノヤグ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "ええ？\\nそれってどういう意味？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "チノちゃんの『ノ』、マヤちゃんの『ヤ』、\\nメグちゃんの『グ』、まとめて『ノヤグ』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "まとめて言ってるのには変わんねーじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "むむー、じゃあ……『ラビット戦隊』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "戦隊！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "戦隊なのに３人しかいないし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ツッコむところ、そこでいいのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、そうだよ！\\n名付けって言ったら千夜ちゃんだよね。\\n何かいい案ないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "うーん、そうねぇ。\\nチノちゃんたちを言い表すとしたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "創生の絆背負いし３つ星……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "なんて、どうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "長いよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "３つ星ってレストランですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "メグ",
+          "original": "私たち、そんなにおいしそうなのかなぁ？\\nマメだから？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "あー、もういいや！\\nチマメのままにする！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "え？　いいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "マヤ",
+          "original": "まあ、ちょっと痛々しいけど\\n言いやすいし覚えやすいしさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "メグ",
+          "original": "それに、実は結構、愛着あるのかも。\\n言われ慣れてきてるからかなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nこの名前を背負っていく覚悟はできています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "そんなに大げさなことなのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "で、でも、まあ、少しでもそう思って\\nもらえてるのなら、名付け親としては嬉しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "先輩に命名してもらえるとか……\\nちょっと羨ましい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "あら、それじゃ、私とシャロちゃんのコンビにも\\n名前を付けてもらいましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "い、いらないわよっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

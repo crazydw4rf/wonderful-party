@@ -1,0 +1,217 @@
+{
+  "identity": "flyer_syaro_g3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あふ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、大丈夫？\\n足下がフラフラしてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "大丈夫よ。\\n仕事モードに入れば、しゃんとできるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも顔色も悪いし……\\nもしかして寝てないんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ちゃんと寝てるわ。\\nただ、ここしばらくバイト続きだったから\\n疲れが抜けきってないのかもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "だめだよ、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ふえっ？！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "今のシャロちゃん、すごく疲れて見えたよ？\\n無理してるでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "してないわ。\\n今から仕事モードに入るから\\n気合い入れ直して――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はい、ここのベンチに座るっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "きゃっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "だ、だめでしょ、仕事しなきゃ。\\nこんな所に座ってたら、チラシ配りが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "それは私がやるよ。\\nシャロちゃんは休憩してて。\\n私がシャロちゃんの分もチラシ配るから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "でも……私だけ座って\\n楽な思いをしてるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "なっ、何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "シャロちゃんの今日のお仕事は、休憩。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "今のシャロちゃんを見たら、\\nチノちゃんも千夜ちゃんもリゼちゃんも、\\nみんな、そう言うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "……えへへっ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "え？\\nなんなのよ、急に笑って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "シャロちゃんって、\\nいつも気を張ってきっちりお仕事してるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "でも、こういう風になっちゃう時も\\nあるんだなーって思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "で、それを見られたのがなんだか嬉しいの。\\n変かな？　私だけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "へ、変よ。\\nなんで喜ぶの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "うーん、なんでだろね？\\n新しいシャロちゃんを見せてもらえて、\\n知っていけるのが嬉しいのかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "もっともっとシャロちゃんのことを知って、\\nもっともっと仲良くなっていきたいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "ココア……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "じゃあ、ここで温かいものを飲んで\\nゆっくりしてて。\\n私はチラシ配ってくるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "……そうね。\\n休ませてもらうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "その……ありがと、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "どういたしまして。\\n明日には、元気なシャロちゃんに戻ってね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "……うん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,121 @@
+{
+  "identity": "flyer_rize_j2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえねえ、リゼちゃん。\\nここ、ジョギングしてる人が多いんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、ここで配ってると邪魔かもな。\\nそれに走ってる人にチラシは渡せないし\\n場所を変えるとするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "せっかく気持ちよさそうに走ってるのを\\n邪魔するなんて、できないだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうだね、夢中になってるのに邪魔したら\\n怒られちゃうかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "しかし、本当に気持ちよさそうだなぁ。\\nなんだか私もひとっ走りしたくなってきた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "よし！\\nココア、私たちも走りながら配ってみないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ただ配ってるだけじゃなく、\\nこういう時にも訓練をしないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "走りながらチラシ配り……。\\nそれは新しいね、すごく目立てていいかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "さあ、そうと決まれば、\\nさっそく走りながら配るぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あ、リゼちゃん、待って～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "はぁ、はぁ……。\\nもうだめ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ココア！？\\nどうしたんだ？　大丈夫か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "も、もう……走れないよ……。\\n走りながらチラシ配りとか……\\n普通の女の子には……む、無理みたい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "そ、そうだな！\\n普通の女の子には無理だよな。\\n私も疲れたと思ってたところなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "リゼちゃんも無理しちゃだめだよ？\\nゆっくり配ろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ああ、そうしようか！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

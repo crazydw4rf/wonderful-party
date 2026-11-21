@@ -1,0 +1,127 @@
+{
+  "identity": "flyer_rize_j1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "見てリゼちゃん、\\nもうチラシがなくなりそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "本当だ。\\n今日は減りが早いな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\nやっぱりチラシ配りには\\nコスプレが欠かせないってことだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "うん、まあ……そうなのかもなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "どうしたの？\\nなんだか納得できないって感じだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いや、その……\\nコスプレの効果は認めてはいるんだ。\\n現にチラシがなくなってるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "だが、その……\\nこういう衣装で気を引くのは\\n喫茶店の宣伝としては邪道じゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "邪道なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "喫茶店なら、メニューや雰囲気で\\nお客を呼ぶべきだろう。\\nこれじゃまるで衣装を餌につってるみたいで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ふっ……。\\n甘いよ、リゼちゃん。\\n時には邪道を行くことも必要、それが今なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ってセリフ、よく映画なんかで見るよね。\\n　意味はよくわかんないけど、\\n　格好いいから１度言ってみたかったんだ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "は……！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "なるほど、確かにそうだ。\\n戦場はきれいごとだけじゃ渡っていけない。\\n時には邪道も必要だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ん？　う、うんうん？\\nそうだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ココアに教えられるとはな。\\nありがとう、目がさめたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "よし！\\n残りもさっさと配ってしまおう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よくわからないけど、リゼちゃんが燃えてる？\\n　そっか、きっと私の格好いい台詞で\\n　やる気が出たんだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし！\\n　私も負けずに、頑張ろうっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

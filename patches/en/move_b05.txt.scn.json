@@ -1,0 +1,320 @@
+{
+  "identity": "move_b05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "ココアちゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "おーい、ココア～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　この声は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "おーっす、ココア！\\nこんなところで何してるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "メグちゃん、マヤちゃん。\\n休みだからゆっくりしてるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "それにしても……２人はいつも一緒なんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "ふふーん、私とメグは一心同体だからな。\\nこれでチノがいれば無敵だぞ？\\n３人揃えば、きっと悪とも戦える！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "うんうん。\\nこの街を狙う悪の組織から、平和を守るんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nまさかチマメ隊が\\nこの街の平和を守っていたなんて……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ねえ、私も仲間に入れて。\\n妹たちだけに任せておくなんてできないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "うーん、ココアじゃ\\nあんまり頼りにならなさそうだけど、\\n入れてあげてもいいかな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "やったー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "メグ",
+          "original": "ココアちゃんが入って４人だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "ん？　４人？\\n４人はちょっと中途半端じゃね？\\nやっぱり戦隊は５人だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "じゃあ、あと１人誰かを探して来ないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "戦隊をやるなら、私、ホワイトがいいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "私はブラック！\\nちょっと影があって、実は１番強いみたいな\\nポジションがいい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "じゃあ、私は……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "じゃあ、私は……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "かわいさが魅力のピンクかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "リーダーシップのあるレッドだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "クールなブルーでしょ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "かわいさが魅力のピンクかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "うん、ココアちゃんはピンクって感じ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "かわいいかどうかは置いといて、だけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あっ！\\nかわいさならやっぱりチノちゃんが１番だから\\nピンクはチノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "んー、チノはピンクって感じじゃないよな。\\nブルーが似合うんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "そうかも。\\nチノちゃんはクールだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リーダーシップのあるレッドだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "リーダーシップ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "あ、あるんじゃないかな？\\nココアちゃん、私たちをいつも引っ張ってくれるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でしょー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "でも、ココアちゃんは\\nあまりレッドって感じがしないかも。\\nもっとかわいい色かなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "つか、レッドをやってもらうならリゼじゃね？\\n強そうだし、作戦とかも\\nきっちり立ててくれそうだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うっ！\\n確かにリゼちゃんには敵わないかも……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "クールなブルーでしょ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "ココアちゃんが……ブルー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "あはははは！\\nココアにブルーだけはありえねー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\n私だって結構クールなところ、あるんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "そうなんだ、全然知らなかったよ～。\\nどんなところがクールなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ええっと、その……\\nどこかな？　私のクールなところって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "私に訊くなよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "はあ、やっぱりココアはクールじゃないな。\\nそれにブルー枠はやっぱりチノだよ、\\nだからココアには渡せない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うーん、確かにチノちゃんはブルーが似合うよね。\\nならお姉ちゃんらしく、ブルーは妹に譲るよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "あ、ねえ、イエローはどうかな？\\n明るい色だし、ココアちゃんに似合いそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "イエローもいいかも！\\nココア特製カレーパンを作って、\\nみんなのお腹をサポートするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "イエローってやっぱりカレーなんだ！？\\nていうか、ココア、それでいいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "だって、お腹が空いたら戦えないよ？\\n戦隊のみんなを支える頼りになるポジション、\\nイエローほどおいしい役はないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "……まあ、ココアがいいならいいけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

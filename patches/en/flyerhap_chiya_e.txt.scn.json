@@ -1,0 +1,217 @@
+{
+  "identity": "flyerhap_chiya_e.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あふ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん？\\n眠そうだけど、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\n最近寝付きが悪くて、睡眠不足気味なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "眠れないとつらいですよね。\\n少し休んでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "無理しないで、家に帰って寝たらどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "それがね、お布団に入ると眠気が消えちゃうの。\\nそんなことを繰り返していて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うーん。\\n千夜ちゃんがぐっすり眠れる方法、何かないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "３人寄れば文殊の知恵、ですね。\\nこちらは４人いますから\\nきっといいアイディアが浮かびます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "みんな……。\\nありがとう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "眠れない時はアロマを焚くといいわよ。\\nラベンダーの香りは眠気を誘うから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "アロマじゃなくても、\\nラベンダーのドライフラワーを部屋に飾っても\\nよく眠れるようになるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ラベンダーの香り……。\\nなるほど、試してみるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "他には、考えることもできなくなるくらい\\nみっちり運動すれば、嫌でも眠れるんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "それって、眠るって言うより\\n気絶じゃないかしら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "じゃあ、ティッピーはどう？\\nティッピーをもふもふしていれば\\n間違いなく眠れるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "ココアさん！\\nティッピーを勝手に\\n安眠グッズにしないでください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "それに、もふもふで眠れるのは\\nココアさんだけですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nそんなことないよ、もふもふに触れば\\nそれだけで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "想像しただけで……眠くなってきた……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "あんたが寝てどうするのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "だから、ティッピーは安眠グッズじゃありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "そっかー。\\nじゃあ、何か別の――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "……あれ？\\n千夜ちゃん、寝てる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "いつの間に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "え、えっと、どうしよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "そのままにしてあげて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだな。\\nせっかく眠れたんだ、そっとしておこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "チラシ配りは私たちに任せてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "うん、わかった。\\n千夜ちゃんが起きるまでここにいるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "千夜のこと頼んだわよ、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "うん、頼まれたよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

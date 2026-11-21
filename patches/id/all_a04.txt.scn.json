@@ -1,0 +1,387 @@
+{
+  "identity": "all_a04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そして、約束の土曜日！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（お泊まりの前にみんなで集まって、\\n　夕飯の買い出しをしてから\\n　ラビットハウスに戻ってきました――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あらあら。\\n思った以上に買い込んでしまったけれど\\n大丈夫かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "平気平気、何とかなるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "日持ちがするものは、\\nこのままチノの家に置いていったり\\n各自が持ち帰ってもいいしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "遅れちゃってごめんなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん！\\n気にしなくていいよ、遅くまでバイトお疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "お疲れ様です、シャロさん。\\n忙しいのにお呼びして、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "えっ？　あ、いいのよ、そんな。\\nお泊まり会は嫌いじゃないし。\\nそれに、リゼ先輩ともたくさんお話しできるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "よーし！\\nじゃあ、さっそく夕飯作りを始めよーう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "まだ作ってないの？\\nそのわりに、おいしそうな匂いがしてるけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "あ……。\\nそ、それは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\n今、温めているこの大きなお鍋の中身――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "じゃじゃーん！\\nこのシチューが、\\n今日のメインディッシュなのです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "まあ！\\nこれは、とってもおいしそうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ふふーん！\\nでしょ？　期待してね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "あんたがいばってどうするのよ。\\nこれはチノちゃんが準備してくれたんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nな、なんで知ってるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "見ていればわかるぞ、それくらい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "そうよね。\\nココアにこんなおいしそうなもの、\\n作れるはずないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ちょ、ちょっと待って！\\n私も手伝ったんだよー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ホントに？\\nお鍋をかき混ぜた、とか、\\nその程度じゃないでしょうね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "いえ、本当です。\\nこれは私とココアさんで作りました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ほらね？\\nお姉ちゃんと妹が仲良く作った\\n特製シチューなんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "違います、姉と妹じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "そこは間髪入れずに否定なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ほらほら、ココアもチノも、\\nおしゃべりしてると\\nいつまでたっても夕飯にありつけないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "ひゃっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "あれ？\\n今、お腹が鳴ったのは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "わ、悪かったわね！\\nバイトが忙しくて、\\nお昼ご飯食べるタイミングがなかったの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "あらあら、そうなの？\\nじゃあ、シャロちゃんがダウンする前に\\n急いで作りましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "みんな席に着いたか？\\nよし、それじゃ、食べるとするか。\\nいただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア＆チノ＆千夜＆シャロ",
+          "original": "いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "んんっ！！\\nこれ、シチューのお肉がとろとろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "昨日の晩から煮込んでましたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "手間がかかってるのね。\\nその分、とてもおいしいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "でしょでしょ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "……私はチノちゃんに言ってるのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "チノ",
+          "original": "いえ、焦がさないように\\nココアさんが見張っていてくれた\\nおかげですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "あら、そうなの？\\nココア、地味に貢献してたのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "もう、途中でつまみ食いしたくなって\\n大変だったよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "チノちゃん、柔らかく煮込みたい時は\\n圧力鍋を使うと便利よ？\\n時間の短縮にもなるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "圧力鍋ですか。\\n使うのが難しいと聞きますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "きちんと使い方を守っていれば大丈夫。\\n今度、機会があったら教えてあげましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "あ、ありがとうございます！\\nぜひ、お願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "うん、うまい。\\nココアのパンもシチューによく合ってるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "えへへ、実はさっき焼いたばかりなんだ。\\nお代わりもたくさんあるから、\\nじゃんじゃん食べてね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "ホントにおいしい……。\\nパンもシチューも食べる手が止まらないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "リゼ",
+          "original": "シャロ、デザートもあるから食べすぎるなよ？\\n千夜が差し入れにアイスクリームを\\n持ってきてくれたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "え？　そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "ええ、前から食べたかったお店のものなの。\\nおいしいって評判なのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "私も聞いたことがあるお店です。\\n食べるのが楽しみです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "えへへ～、今日の夕飯はデザートまで揃ってて、\\nまるでお店に出てくるコース料理みたいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア",
+          "original": "はあ～、デザートもおいしかったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "千夜",
+          "original": "とっても贅沢な夕食だったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "リゼ",
+          "original": "お腹もいっぱいだしな。\\nチノのシチュー、とてもおいしかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "チノ",
+          "original": "いえ、お粗末様でした。\\n満足してもらえたのなら嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、大丈夫？\\nさっきから黙ったままだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "シャロ",
+          "original": "ちょっと、苦しくて……食べすぎたかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "ココア",
+          "original": "えへへ～、そんなにおいしかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "シャロ",
+          "original": "う、うるさいわね。\\n……確かにおいしかったわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "ココア",
+          "original": "ふぁ～……。\\nお腹いっぱい食べたら\\n何だか眠くなってきちゃったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと！？\\nこれから片付けて話し合いでしょ！？\\nしっかりしなさいったら～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

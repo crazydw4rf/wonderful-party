@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_chino_i2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえチノちゃん！\\nこの服って、\\nカジノのディーラーさんぽくないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……いきなりですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チノちゃんを見てたら思ったの。\\nカジノにこういう格好の人がいるなーって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "カジノ、行ったことがあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ううん。\\nドラマとか映画で見たことあるだけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "カジノって、なんかかっこいいよね。\\n裏社会の情報とか取引してそうで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさんは、バーやカジノに\\nどういうイメージを持っているんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "でも、そういうのを抜きにしても、\\nルーレットとかやってみたいなーって思うよ？\\nボールを回すのとか面白そうだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……賭ける側じゃないんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "てへへ……。\\nそういうのって私、多分苦手だし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そうだ！\\nラビットハウスでポーカーとか\\nできるようにしたらどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "お客さんが増えるかもしれないし、\\n私もディーラーをやれて一挙両得かも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "それはもはや喫茶店じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "えー、いいアイディアだと思ったんだけどなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "じゃあ、チノちゃん、\\n今夜一緒にポーカーやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "はい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "お店でやるわけじゃないし、いいでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "それは構いませんけど……\\n２人で楽しむのなら神経衰弱がいいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うん！\\nじゃあ神経衰弱ね。\\nふふ、夜が楽しみだな～。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

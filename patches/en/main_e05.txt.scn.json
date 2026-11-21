@@ -1,0 +1,21 @@
+{
+  "identity": "main_e05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（んー、今日はちょっと疲れてるかも。\\n　授業が大変だったから……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（でも大丈夫、チノちゃんをもふもふすれば\\n　あっという間に元気になれちゃうもんね！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,229 @@
+{
+  "identity": "flyerhap_syaro_j.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あれ？　青山さんだ。\\nカフェから出てきたところだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "え？\\nさっき、あっちのカフェから\\n出てきたのを見たんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "カフェのはしごですか。\\nコーヒーの飲み比べでもしているんでしょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "作業場所を求めて、\\nさまよってるんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "……あら、みなさん。\\nチラシ配りですか、お疲れ様です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "こんにちは、青山さん。\\n青山さんは何してるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "今日は、スイーツ食べ歩きをしているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "食べ歩き？\\n太っちゃいません？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "私たちと違って座り仕事だから、\\n普段のカロリー燃焼量も少なそうだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "はうっ、それはわかっているのですが……\\n連載しているグルメコラムの取材も兼ねて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "仕事なんですか。\\nそれは、大変なような羨ましいような。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そうだ！\\nだったら、私たちと一緒にチラシ配りで\\n動いてみたらどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "それはいいですね。\\nチラシ配りの経験は執筆にも活かせそうですし、\\nぜひ、参加させてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "さて……。\\nうまく配れるでしょうか？\\nどきどきします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "あの……どうぞ……これを……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "あー……。\\nまあ、初めてだし、こうなるよな。\\nコツをアドバイスしてやるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "じゃあ、私が。\\n１番経験が多いですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "青山さん。\\nチラシ配りは初めてですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "はい……。\\nどうしましょう、誰も受け取ってくださいません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "まず、声を大きくして、\\nはきはきとしゃべることを意識してみてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "こっちがはずかしがると向こうも照れちゃうから、\\n当然の顔で渡すと案外上手くいくんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "青山",
+          "original": "なるほど……。\\n他には何かあるんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "他には――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "今のシャロちゃん、先生みたいだね。\\nテキパキしててわかりやすいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、面倒見がいいのよ。\\n困っている人をほっとけないのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "青山",
+          "original": "どうぞ、素敵なご案内です。\\nよろしければ目を通してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "へえ、いつの間にかすっかり慣れてるじゃないか。\\nシャロのアドバイスが効いたんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "いえ、そんな。\\n私はちょっと教えただけですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "青山",
+          "original": "喫茶店ラビットハウスです。\\n素敵な時間をお約束する喫茶店です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "青山",
+          "original": "そんな時間のお供には、ぜひ、\\nうさぎになったバリスタの物語をどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "って、自分の本の宣伝までしてる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "慣れってすごいですね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "あの商魂は見習いたいわね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

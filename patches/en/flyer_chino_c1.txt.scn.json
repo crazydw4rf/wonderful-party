@@ -1,0 +1,199 @@
+{
+  "identity": "flyer_chino_c1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえチノちゃん、せっかく着物を着てるんだから\\n言葉遣いとか仕草もそれっぽくしてみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "こう、両手を前で重ねて立って、\\nゆっくりおじぎをしてみたりとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん、やろうと思えば\\nそういう上品な仕草もできたんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それってどういう意味！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ、すみません。\\n普段のココアさんからは想像できないくらい\\n様になっていたので、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "へへ～、そう？\\nそんなによかった？\\nお姉ちゃんって呼びたくなっちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "なりません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "そもそも褒めておらんしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "じゃあ、ほら！\\nチノちゃんもやってみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "私もですか？\\nええと……こんな感じでいいんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "上手上手。\\nおしとやかなチノちゃんもかわいい～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "そ、そろそろチラシ配りに戻りますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "あ、そうだね。\\nえっと、じゃあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ラビットハウスどすえ。\\nよろしおす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "な、なんですか、その言葉遣いは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あれ？　何かおかしかった？\\nこういう格好をした人が、\\nそういうしゃべり方してるのを見たことあるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "それはかなり極端な状況だと思うんですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ねえ、試しにチノちゃんも言ってみてよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "どうして私が！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "チノちゃんが言うのを見てたら、\\nどこがおかしかったのかわかるかもしれないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "別に、そんなこと、確認しなくても……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "１回だけでいいから、ね？\\nお願い。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "うう……。\\nじゃあ、１回だけですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "ラビットハウス……どすえ。\\nよろしおす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "チノちゃん、かわいいっ！\\nねえねえ、もう１回言ってみて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "嫌です。\\n１回だけという約束です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "ほら、チラシ配りに戻りますよ。\\nおかしな言葉遣いはしないで、\\n普通にやってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

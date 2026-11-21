@@ -1,0 +1,171 @@
+{
+  "identity": "rize_b02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（結局、何も思いつかないまま\\n　こんな時間になってしまった。\\n　何をしているんだろうな、私は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（これまで順調だと思っていた、\\n　そんな自分に腹が立ってくるほどだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（……ええい！\\n　ぐだぐだ考えていても仕方ない！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "なあ、ワイルドギース。\\n私に何ができると思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "主な役割はすでに分担してしまっているし、\\n今さら別の役割を考えるのもなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "なら、みんなの手伝いをするのが妥当か？\\nしかし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだ！\\nクリスマスといえば七面鳥だ！\\nとびきりの七面鳥を私が捕まえてくるのはどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "みんな驚くぞ？\\nそこで私が手際よく七面鳥をさばいてみせて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "いや、だめか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "加工された肉をさばくならともかく、\\nわざわざしめるところを見せたりしたら\\n人によってはトラウマものだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "そもそも、下処理をする手間を考えたら\\n店で出来合いのものを買った方がいい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "なら他には……何かクリスマスっぽいこと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "クリスマスツリーを用意するのはどうだろう？\\n立派なもみの木を探してきて、\\nラビットハウスに飾るんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いや、もみの木を調達するツテがないな。\\nそれに、あまり大きな物を探してきても\\n置き場がない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "そもそも、クリスマスツリーくらい\\nラビットハウスでも用意しているはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "なら、他には……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "……だめだ、何も思いつかない。\\n本当に何をすればいいんだろうな、\\nワイルドギース。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "お前が口をきけたら、何かアドバイスを\\nもらえるかもしれないのになぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "って、何をメルヘンなことを言ってるんだ、私は！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "だが今は猫の手も、\\nいや、うさぎの手でも借りたい気分だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "ワイルドギース、何か言ってくれないか？\\n頼む、私に力を貸してくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "う、うわああ～！\\n何をはずかしいマネをしているんだ私はぁぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "わ、我ながら、完全に追い詰められてるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "……これ以上、考えても仕方ない。\\n明日、ココアやチノの様子を見て、\\n何か手伝えることがあるか探ってみよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "それじゃ、今日のところはさっさと寝て、\\n明日に向けて英気を養うとするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "おやすみ、ワイルドギース。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

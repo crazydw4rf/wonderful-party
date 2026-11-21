@@ -1,0 +1,241 @@
+{
+  "identity": "flyerhap_syaro_e.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ん～……んん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ネクタイって、つけ慣れてないから\\nちゃんとできてるか心配で気になって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃんやシャロちゃんの制服は\\nネクタイだよね。\\n毎日、大変じゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "まあ、最初のうちはな。\\n慣れれば意識しなくても結べるようになるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そうですね、私も慣れました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うーん、やっぱり違和感があるからやり直すよ。\\n１度、解こうっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えーと……こうして、こうだったよね。\\nこうくぐらせて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ココアちゃん！？\\n蝶ネクタイのようになってるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ネクタイを結ぶだけなのに、\\nなんでそう面白いことになっちゃうわけ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、ヘルプ！\\nヘルプミー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "仕方ないわね。\\nまず、この絡まったのをほどいて……\\nじゃあ、始めるわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "しっかり見てなさいよ？\\nほら、ここをこうして、こうして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "……あれ？　うまくいかない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ああ、自分のを結ぶのと\\n他人のを結ぶのは勝手が違うよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、ファイトだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "声援はいいから、じっとしてなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "これがこっちで、えっと……\\n自分のネクタイだとこうしてこうなるから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "これが逆で、ここを通す……。\\nあれ？　上下も逆になるのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？\\n難しいならいいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "いいの、やらせて。\\n中途半端にするのは趣味じゃないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "シャロさん、すごく真剣ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "シャロはそういう性格なんだよ。\\n１度始めたら、最後までやり通さなければ\\n気がすまないんだろうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "まだネクタイを結ぶのになれてないけれど、\\nどうしても旦那さんに結んであげたい\\n新妻のようね……初々しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "せせせ、先輩の前で何を言い出すの！\\nやめてー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "落ち着いて！\\n僕は君のそんな不器用さも愛してるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "なんで旦那さんを演じてるのよ、あんたは！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "なんとなく、ノリ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ああ、もう、黙ってなさい！\\nでないとギュッと締めるわよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "うっ……はいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、すっごい！\\nちゃんとできてるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "はあ、思ったより手こずったわ。\\nここまで付き合わせて悪かったわね、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "ううん、そんな。\\nこっちこそ、結んでくれてありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、知ってる？\\nネクタイを結んであげる時は、相手の後ろに\\n回ってやると簡単にできるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "そ、それを早く言いなさいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

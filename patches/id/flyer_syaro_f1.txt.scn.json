@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_syaro_f1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はーい、チラシをどうぞ。\\n今度、お母さんと一緒に遊びに来てね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、待ってるよ。\\nじゃあね、バイバーイ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "……へえ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ん？　シャロちゃん、どうしたの？\\nもしかして今の渡し方、まずかったかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "違うわ。\\nむしろ、今のは満点でしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "満点！？\\nやったぁ、満点なんて嬉しい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "でも、どの辺が満点だったの？\\n特別なこと、したつもりなかったんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "特別じゃなくて……\\nココアって子どもの扱い方が上手いのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そうなの？\\n普通だと思うけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "普通にできることがまずすごいわ。\\n子どもの扱いって難しいのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "今、こんな衣装を着てるし、\\nあの子にはココアがサンタに\\n見えたかもしれないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ホントに！？\\n私、サンタさんに向いてるってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "え！？\\nな、なんでそんなに食いつくのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "私ね、サンタさんになるのも夢だったんだ。\\n寝ている間にこっそり部屋に侵入して\\n夢を運ぶのって素敵だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "その言い方だと怖い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "でも、他にも夢があるし……\\nできるなら全部叶えたいんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ねえシャロちゃん、街の国際バリスタ弁護士を\\nやりながら、パンを焼いて、\\n小説書いて、サンタさんってできるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "なんでそこまで『街の国際』にこだわるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "でもまあ、サンタの仕事は年に１回だから\\nなんとかできるかもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "んー……でもね、昔からわからなくて。\\nサンタさんって、どうやって就職するのかな。\\nどこに履歴書を送ればいいんだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "……妙に現実的な悩みね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、心当たりない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "あるわけないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

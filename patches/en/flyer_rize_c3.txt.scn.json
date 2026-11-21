@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_rize_c3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえ、リゼちゃん。\\n着物って言えば、やっぱり羽子板だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "は？　突然どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、こういう格好をしてるから\\nそれっぽいことをしてみたいなって思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "着物と言えば羽子板とかコマまわしだよね。\\nあと凧揚げ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それ、着物というよりはお正月じゃないか？\\n着物といえばお正月って発想はわかるけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nあ、折り紙もいいかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、それは\\n着物の大和撫子の遊びっぽいかもしれないな。\\nでもココア、折り方わかるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "えーっと……\\n確か、鶴は、こうしてこうして……こう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "……箱に見えるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あれ？　鶴を作ってたはずなのに！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "途中までは今ので正しいんじゃないか？\\nここから……こうして、こうだったろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "おお！　鶴だ！\\nリゼちゃん、すごーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "べ、別に大したことじゃない。\\nココアだって、途中まではちゃんとできてただろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "よーし、私だって！\\nこれをこうして、こうで……んん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "……風船だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "こ、今度こそ！\\nこうして、こうして……\\nこうで、こうで……えーっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "できたぁ！\\nねえリゼちゃん、これって鶴だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ああ、立派な鶴だな。\\nなかなか上手いじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\nこれで私も立派なヤマトナデシコ！　だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "はいはい、そうだな。\\nじゃ、そろそろチラシ配りを――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ああー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "つい、うっかり……\\nチラシを折ってしまった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "えーっと、これ、上手に折れたし、\\nこのまま配っちゃだめかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "さすがにそれはだめだろ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "だよね……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

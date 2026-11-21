@@ -1,0 +1,382 @@
+{
+  "identity": "move_e03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日はハーブティでリラックスして、\\n　日頃の疲れを取っちゃおっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんと楽しく\\n　おしゃべりできるかもしれないしね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？\\n　シャロちゃん、いない？　今日はお休みかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "あっれぇ？　ココアじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、こんにちは～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "マヤちゃん、メグちゃん！\\n今日はここでお茶してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ふふーん、ただのお茶じゃないぞ？\\nノマドだよ、ノ・マ・ド！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ノマド？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "こうやって、自分の家以外で\\nお仕事とかお勉強することを、\\nノマドって言うんだって～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "へえ～、なんだか大人っぽいね！\\n２人とも、やるなぁ。\\nけど、どうしてわざわざノマドしてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "宿題がいっぱい出ちゃったから、\\n集中して終わらせちゃおうと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そうなんだ、でも宿題なら\\nラビットハウスでやったらどうかな？\\nチノちゃんも同じ宿題が出てるんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "そうなんだけど……ラビットハウスはちょっとさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ええ～！？\\nマヤちゃん、もしかしてラビットハウスが嫌い！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "マヤ",
+          "original": "嫌いじゃないけど、\\nラビットハウスにはチノがいるじゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "まさか……\\n２人、チノちゃんとケンカしてるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "そんなのだめ！\\nケンカしたっていいことないよ。\\nお願いだから仲直りして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "違う違う！\\nケンカなんかしてないって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "ただ、チノちゃんのお仕事の邪魔を\\nしたくないだけだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "え？　きっと、２人なら\\n勉強してても邪魔になんかならないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "いや、だってさ、チノの仕事中に\\nその側で私たちが宿題やるのって、\\nやっぱり……なあ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "あとね、こうやって私たちが先にやっておけば\\n教えてあげることもできるかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "２人とも友達想いだ……！\\nお姉ちゃん、感動して涙が出てくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "って、泣いてる場合じゃないね。\\nそういうことなら私にも一肌脱がせて？\\nわからないところ、教えてあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "ホント？\\nじゃあ、教えてもらっちゃおうっと。\\nえーっとね、宿題は社会なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（え？　社会は……まあまあ、かな？\\n　国語とか古典じゃなくてよかった……かも？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "メグ",
+          "original": "あのね、ここで詰まってるの。\\nココアちゃん、答えわかる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……ううう、これ……わかんない！\\n　ど、どうしよう！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（……ううう、これ……わかんない！\\n　ど、どうしよう！？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "も、もちろんわかるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "ごめんね、わかんない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "わかるような、わからないような？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "も、もちろんわかるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ん～？　本当か～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ねえココアちゃん、答えは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "……教えられません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ええ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ほ、ほら、社会は暗記科目だからね？\\n私が教えても意味ないの。\\n自分で調べて覚えないとだめだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "ああ、そっか。\\nうん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "んなこと言って、\\n本当はわからないだけじゃないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そそそ、そそそそそ、そんなことないよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ごめんね、わかんない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "えー？\\n正直だなぁ、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ココアちゃんも社会苦手なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "社会っていうか、文系がちょっと苦手で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "それじゃ、教えてもらえないね。\\nどうしよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、でもね、苦手だからこそ\\n勉強方法は知ってるんだ。\\nそれを教えるのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "あ、教えてほしいかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "そうだな、やり方を教わって\\n自分たちで頑張ってみるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "わかるような、わからないような？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "え？　どっち？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ちょっと教科書、借りるね。\\nえーっとね、答えは覚えてないんだけど\\n確かこのあたりに書いてあったような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "あ、あった！\\nこれだろ、答え。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、すごーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えへヘ、私も同じところでつまずいてたからね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "よーし、じゃあ\\n頑張って進めちゃおう、マヤちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "おう！\\nココアも、もうちょっと付き合ってくれるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "もちろんだよ！\\n頑張って、２人とも。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

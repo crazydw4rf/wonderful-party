@@ -1,0 +1,255 @@
+{
+  "identity": "chiya_d02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "ごっはん、ごっはん～！\\n千夜のお弁当、楽しみだな。\\nもう腹ペコだし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "私もペコペコ～。\\nお腹と背中がくっついちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "みんな、すっかりお腹空いてるみたいね。\\nそう思って……\\nはい！　今日も重箱のお弁当を作ってきたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "わあ～！　さすが千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "す、すごいです！\\nこんな豪華なお弁当……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "見た目だけじゃなくて味も最高なんだぜ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "私たち、この前も食べたもんね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "どうしてお前たちが誇らしげなんだよ。\\nこれを作ったのは千夜だろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ううん、私だけじゃないの。\\nシャロちゃんも手伝ってくれたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ち、ちょっと千夜！？\\nそれは言わない約束でしょ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "シャロちゃんも？\\nさすが幼なじみ、仲良しさんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "違うわよ。\\n私はただ、１人でこんな大人数のお弁当を\\n作るのは大変だろうって思っただけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うん、そう思って手伝いに行ってあげてるのが、\\n仲良しの証拠だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "も、もう！\\nだから、そういうんじゃないって\\n言ってるでしょ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、すごく早起きして来てくれたの。\\nリゼちゃんに手作りの肉じゃがを\\n食べさせるんだって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと千夜！\\n言うな、ばか～っ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "でも、こんなに立派な弁当があるなら\\n私のはいらなかったかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "えっ！？\\nリゼ先輩、何か作ってきてくれたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ああ、人数が人数だし、もしかしたら\\n千夜のだけじゃ足りないかと思って、\\nサンドイッチを作ってきたんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩の手作りサンドイッチ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "余ったら持って帰るから、\\n無理して食べなくてもいいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "いえ！　お腹が破裂してもいただきますっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "そこまでしなくていい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "私もお菓子を持ってきたよ！\\n疲れた時には甘いものを補充しないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "……メグ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "メグ",
+          "original": "うん。\\nせーの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "マヤ＆メグ",
+          "original": "じゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "ああっ！　お菓子！？\\nしかも、すごくおいしそうなチョコレート！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "私とメグで買ってきたんだ。\\n２人で市場を見て回ったんだぜ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "メグ",
+          "original": "前はすっかりごちそうになっちゃったから、\\nそのお礼をしようと思ったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "そんなに気を遣わなくてもよかったのに。\\nでも、ありがとう、２人とも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "あ、あの、すみません。\\n私だけ何も用意してなくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "いいのよ、気にしないで。\\nチノちゃんには、キッチンのことを\\n頼んでもらったり、色々と苦労かけてるもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "ですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "ご飯は私が用意するって言ったんだから、\\n甘えちゃっていいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "メグとマヤは前回のお礼みたいだし、\\n私やココアも勝手に持ってきただけだ。\\n本当に、気にしなくていいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "……はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "マヤ",
+          "original": "ねえねえ、それより早く食べようよ！\\nお腹空きすぎて死んじゃう～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "こんなご馳走を目の前にしておあずけなんて\\nもはや拷問と言っていいよ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "そうね。\\nそれじゃ、めしあがれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "みんな",
+          "original": "いただきます！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,332 @@
+{
+  "identity": "move_e01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん、お仕事の調子はどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "わ！？　お店の中がすごいことになってるよ？\\n洗い物も積んだままで、食器もテーブルの上に\\n置きっ放し？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "さっきまで、お客さんの波が来ていたんです。\\n今は落ち着きましたから、急いで片付けます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "１人で大丈夫？\\n私、手伝おうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\nココアさん、今日はバイト、お休みなんですから\\nちゃんと休んでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも……こんなの、放っておけないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "これくらいなら問題ありません。\\n気になるのなら、外でゆっくりしてきてください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "これくらいなら問題ありません。\\n気になるのなら、外でゆっくりしてきてください。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "お願いだから何か手伝わせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "じゃあ、勝手に仕事しちゃうから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "お客さんが悲しむよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お願いだから何か手伝わせて！\\n何でもするよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……ココアさん、\\nそんなにお仕事が好きなんですか？\\nその割には、たまにサボってますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お仕事が好きっていうか、\\nラビットハウスが好きなんだよ。\\nこの街での、私の家なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そんな場所がこうなってるのは悲しいよ。\\nだから放ってはおけないの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……！\\nココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "では、お願いします。\\nすみません、お休みの日に。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "気にしない気にしない。\\nさあ、気合い入れて頑張るよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、勝手に仕事しちゃうから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そんな……。\\nココアさん、困ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "困る必要ないよ。\\n私のことは空気だと思って気にしないで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、でも、ちょっとは気にして欲しいかな？\\nチノちゃんに無視されるのはつらいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……私にどうしろと言うんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "それにね、お店の中が散らかってたら\\n新しく来るお客さん、嬉しくないと思うよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ね？\\nだから、手伝わせて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……はい。\\nでは、よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お客さんが悲しむよ？\\n初めて来たお客さんは\\n入る気がなくなっちゃうだろうし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リピーターのお客さんだったら、\\n何かあったのかって心配しちゃうかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "なによりね、散らかったお店を見て\\nとっても悲しむと思う。\\n私だって、入った時ちょっと悲しかったよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "お客さんに悲しい思いをさせないように\\nするのだって、私やリゼちゃん、\\nチノちゃんの大事なお仕事だよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……はい。\\nココアさんの言うとおりですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ってことで、手伝ってもいいよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "よろしくお願いします。\\nでも、すみません、お休みの日に。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "いいのいいの！\\nじゃあ、まずは洗い物からだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "よーし、これでピカピカだね。\\nお客さんに気持ちよく入ってもらえるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "本当にすみません、手伝わせてしまって。\\nそれだけじゃなくて、今日は……\\nココアさんに大事なことを教わった気がします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさんは、お客さんの立場になって\\n考えろと言いたかったんですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "私、意地になって、１人でなんでもしようとして、\\nお客さんが来た時のことを考えていませんでした。\\n……反省します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　何のこと？\\n私、何か言ったっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "覚えてないんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "覚えてないわけじゃなくて、\\nどのことなのかなって。\\nね、教えてくれない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……もういいです。\\n今言ったことは忘れてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えー！？　気になるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "いいんです。\\nその代わり、私がココアさんの言ったこと、\\nずっと覚えてますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "それに、覚えてなくても、\\n同じことがあったら、ココアさんは\\nきっとまた同じ言葉を私にくれますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nうーん、じゃあいいのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "はい。\\n気にする必要ありませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,223 @@
+{
+  "identity": "flyerhap_rize_g.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、せっかくだし、みんなでやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ねえ、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ん？　どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あのね、ふと思ったんだけど、\\nジャック・オー・ランタンにらめっこって\\nやってみたくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "は？　なんだそれは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "みんなで色々な顔の\\nジャック・オー・ランタンを作って、\\n見せ合ってにらめっこするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "……また唐突に何か言いだしたわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "あら、私も考えたことがあるわよ？\\nジャック・オー・ランタンに色々な表情をさせて\\n飾ったら、もっと華やかになるかもって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "さすが千夜ちゃん！\\n私たち、発想が似てるんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "だって親友だものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "確かに、似た者同士は間違いないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "けどまあ、ジャック・オー・ランタンに\\n色々な表情をさせるのは、\\n見ていて楽しいかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でしょ？\\n今度、みんなで色んな顔の\\nジャック・オー・ランタンを作ってみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "ですが、もうハロウィン本番の季節は\\n過ぎてしまいましたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あ、そっか。\\nじゃあ、来年だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "来年？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん。\\n来年の今頃だって、みんな一緒にいるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ええ、そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "きっと、ずっと一緒だものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "えへへー、楽しみだな～。\\nじゃあ、せっかくだしコンテストにしようよ。\\n毎日、その日１番の顔を決めて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "また、それに勝てるような顔をした\\nジャック・オー・ランタンを作って競うんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "それで、作ったランタンは\\nラビットハウスにずらっと並べておこう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "えっ？　な、並べるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "それは怖い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "怖いかな？\\nお店に来た人も、面白い顔のランタンを\\n見て楽しい気持ちになれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "いいわねぇ。\\n笑顔でいっぱいの喫茶店になるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ランタンの笑顔でいっぱいになりそうだが。\\nそれに、カボチャに囲まれていたら\\n落ち着いてコーヒーが楽しめないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "それ以前に、ラビットハウスが\\n妙なお店と勘違いされそうなのでだめです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "ええー！？\\nじゃあ、ジャック・オー・ランタンたちは\\nどこに行けばいいの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "店の外に飾るくらいで我慢しろ。\\nなあチノ、それならいいだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "そうですね。\\n外に飾るのならいいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\n早く来年のハロウィンが来ないかな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ホント気が早いわね、ココアは。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

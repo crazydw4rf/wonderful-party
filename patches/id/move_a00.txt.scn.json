@@ -1,0 +1,49 @@
+{
+  "identity": "move_a00.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日のバイトは午後からだね。\\n　じゃあ、午前中はちょっとお出かけしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "choices": {
+        "choice_0": {
+          "original": "ラビットハウス",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "甘兎庵",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "フルール・ド・ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "自然公園",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "街角",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "市場",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

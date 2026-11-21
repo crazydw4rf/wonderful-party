@@ -1,0 +1,406 @@
+{
+  "identity": "chino_d02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、限定メニューか？\\n今年は特製パンケーキにしたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "パンケーキですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん！\\nクリームやフルーツをたくさん使った\\n３段重ねのパンケーキなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "前にリゼちゃんと試作を作って、\\n写真を撮っておいたんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はい、こんな感じ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "これは……！\\nすごく、おいしそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "でっしょ～？\\nこれなら絶対に、街中で評判になるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "あの……このメニューは\\nいつの間に決まったのでしょうか？\\n私、限定メニューのことを忘れていて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nそ、それは……\\nほら、なんだかチノちゃん、最近忙しそうだしね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "たまたま、チノちゃんが留守にしていた時に\\nそういう話になって、その場の勢いというか\\nノリで決めちゃったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "……そうだったんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あっ……！\\nち、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "すまない、勝手に決めてしまって。\\nやっぱりチノにも相談するべきだったよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "いえ、怒っているわけではありません。\\n最近、お店を空けることが多くて\\n迷惑をかけているのに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "限定メニューまで考えてもらって……\\nこちらこそ、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "チノ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんが落ち込んでる……！\\n　ここはフォローしなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（チノちゃんが落ち込んでる……！\\n　ここはフォローしなくちゃ！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "本当は、私が食べたかったからなの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "チノちゃん、気にしなくていいんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "わ、私にも作れそうなのを選んだだけだから！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "本当は、私が食べたかったからなの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "最近、パンケーキ食べ放題のお店が流行ってるし、\\n私も食べてみたいなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "こら、ココア。\\n限定メニューはお客さんに出すものであって、\\nお前が食べるものじゃないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "……あ！　そうだった！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ふふっ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あっ！　チノちゃんが笑った！？\\nも、もう１回！　ちゃんと見てなかったよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ど、どうして見たがるんですか。\\n私は見世物じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "でも、その……ありがとうございます。\\nココアさん、リゼさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん、気にしなくていいんだよ。\\n決めるのもすごく楽しかったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "確かに、お前は楽しそうだったな。\\nあれがいい、これもいいって言いたい放題で、\\n私はそれを押さえるのに一苦労だったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "やっぱり、ココアのコントロールには\\nチノが必須だな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "お手数おかけしました、リゼさん。\\n今度、何かお礼を用意しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ええええ～！？\\nわ、私の扱い、ひどいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "まあ、そんなわけで\\n迷惑だなんてこれっぽっちも思ってないし、\\n本当に気にするなよ、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "わ、私にも作れそうなのを選んだだけだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "まあ、パンって言い出さなくてよかったよ。\\nこのままじゃ、ラビットハウスが\\nパン屋になりかねないからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "確かに……私も同じことを思いました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それも考えたんだけど、\\nさすがにチノちゃんに怒られるかなーって思って。\\nてへへ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさんにも自制心があったんですね。\\n偉いです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "褒められてる気がしないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "いや、そもそも褒めてないしな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "まあ、そんなわけで\\n迷惑だなんてこれっぽっちも思ってないし、\\n本当に気にするなよ、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "とにかくだ、せっかくのクリスマスだし\\n盛り上げていこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "バイトが終わったら、\\nクリスマスパーティーもあるしね！\\nチノちゃんのケーキも楽しみで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ココア！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "むむむ、むむ、む、むむ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……何をしてるんですか？\\n急に口を塞いで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いやぁ、なんでもないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そ、そうそう！\\n最近、リゼちゃんと私のあいだで\\n口隠しごっこが流行ってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……変な遊びですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "だって、チノちゃんが\\n最近かまってくれないし、ケーキ作り――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "だからお前はっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "むむむむーっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "そんなに楽しいんですか、その遊び。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、まあ、それなりにな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "おおっと、お客さんだ！\\nさーて、今日もしっかり働くぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "はい、頑張りましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

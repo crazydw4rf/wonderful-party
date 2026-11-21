@@ -1,0 +1,241 @@
+{
+  "identity": "flyerhap_syaro_f.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "お、おい、ココア？\\nさっきからこっちを見てるけど、なんなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あれ？　伝わってない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "伝えるって、何もしゃべってないじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うん、だから目で話してたの。\\nアイコンタクトだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "喫茶店で働くのにはアイコンタクトも重要だよね。\\n目と目で通じ合えれば、注文を通すのも早いし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "マヤさんとメグさんの以心伝心ですね。\\nあんな風に通じあえたら、\\n仕事の効率も上がると思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "言葉なしで通じあうのなら\\nハンドシグナルを――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "いえ、リゼさんの教えてくれるハンドシグナルは\\n使う機会がないので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "じゃあ、やっぱりアイコンタクトか？\\n試しにやってみるか。\\nまずは……そうだな、シャロと会話してみよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ええっ！？\\nど、どうして私と……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あれ、嫌だったか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そんな！　嫌だなんて！\\nただ、どうして同じバイト先のココアや\\nチノちゃんじゃないのかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "だって、かわいい後輩だもんね。\\n私がチノちゃんを選ぶように、\\nリゼちゃんはシャロちゃんを選んだんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "え……！\\nココアにとってのチノちゃんみたいに、\\nリゼ先輩が私のことを……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "わ、私！　リゼ先輩になら\\nもふもふされても構いません！\\n大歓迎ですっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "い、いや、そういうココア的な\\nスキンシップしたいとか、\\nそういうわけじゃないんだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "でも、そうだな、かわいい後輩だから\\n意思疎通ができると思って選んだんだ。\\nどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "は、はい！\\n私なんかでよければ、いつでもお相手します！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "でも、最初からアイコンタクトだけで\\n意思疎通は難しいだろうし、\\nボディランゲージと合わせてやってみるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "シャロちゃんとリゼちゃんは仲良しだもの。\\nそれなら充分、通じると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "じゃあ、アイコンタクト実験スタート！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "（よし……。\\n　シャロ、クリスマスの予定は何だ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "（え？　千夜のおばあさんの好きな食べ物？\\n　さっぱりわかんない……\\n　とりあえず、ようかんかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "（まだ未定？　決まっていない？\\n　じゃあ、クリスマスプレゼントは\\n　何が欲しいんだ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "（バイトはキツくないか、って言ってる？\\n　リゼ先輩、心配してくれてるのかな。\\n　とりあえず、大丈夫です！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "（射撃訓練場に行きたい？\\n　だったら、うちの使用人をつけてやろうか？\\n　私が案内してもいいし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "（……クリスマスパーティー、かしら？\\n　それのダンスの相手を聞いてる？\\n　ダンスの相手はいません、リゼ先輩は……！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "（ふむ、サバイバル能力も身につけたいのか。\\n　じゃあ、トレーニング付き合ってやるよ、と）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "（ええっ！？　私の身長が足りない！？\\n　それに胸ももっと大きくならないと\\n　ドレスのサイズが合わないって……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "私……私……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "あっ、だめだよシャロちゃん！\\n言葉にしちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "私、サンタに成長するように頼んできます！\\n捜さないでー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "待て、シャロ！\\n体を鍛えるのなら、\\nサンタじゃなくて私に任せろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nどんな会話をしてたの！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

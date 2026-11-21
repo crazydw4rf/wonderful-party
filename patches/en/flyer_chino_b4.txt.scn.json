@@ -1,0 +1,55 @@
+{
+  "identity": "flyer_chino_b4.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "喫茶店ラビットハウスです。\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "コーヒーには自信があります。\\nぜひ、お立ち寄りください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "あの、チラシをどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

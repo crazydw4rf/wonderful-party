@@ -1,0 +1,363 @@
+{
+  "identity": "chiya_b03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "地図によると、\\n宝箱はこのあたりにあるみたいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "街中に出ちゃったけど、\\nこんなところに本当にあるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "逆に、こういう場所の方が\\nいいのかもしれないわ。\\n隠せるような場所がたくさんあるでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そっか、確かに。\\n物陰とか植え込みとかもあるしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "でも、そうなると……少し心配ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "え？　心配って何が？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "他の人が隠したシストの宝箱を\\n見つけてしまうかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "私たちも、それで宝物を見つけたと\\n勘違いしてしまったら困るわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、それは大丈夫だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "え？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "さっきの宝箱ね、外側に\\nうさぎの刻印が付いてたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "そうだったの？\\nやだ、私、全然気づかなかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "そんなに大きい刻印じゃなかったからね。\\n私も、たまたま気がついたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "それでね、次の宝箱にも\\nきっと同じ刻印があると思うんだ。\\nそれを目印に探せばいいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "やるわね、ココアちゃん。\\n頼りになる相棒だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ふふふ～、千夜ちゃんにばかり頼っている\\n私じゃないんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "メグ",
+          "original": "……あっ！\\nココアちゃんだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "あれ、千夜もいるんじゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "こんにちは～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "マヤちゃん、メグちゃん。\\nこんにちは！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "なんかさっきから\\n妙にきょろきょろしてるけど、何してんの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ふふ、実はね、宝探しをしているの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "宝探し？\\nもしかしてシストですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ううん、そうじゃないの。\\nクリスマスのために、スペシャルメニューの\\nレシピを探してるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "それってもしかして、チノが誘ってくれた\\nラビットハウスのクリスマスパーティーの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "ええ、そうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "メグ",
+          "original": "そうなんだぁ。\\nでも、どうしてレシピを探すことに\\nなったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "実はね、千夜ちゃんのおうちのレシピノートに\\n謎の宝の地図が挟まってたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "もしかしたら、その宝物って\\n秘密のレシピなのかもしれないでしょ？\\nだから、クリスマスに備えて２人で探してるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "マヤ",
+          "original": "いいな、それ！\\nすっげー楽しそう！\\nねえねえ、私たちも一緒にやっていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "もちろん大歓迎よ。\\n大勢で探した方が見つけやすいものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "やったぁ！\\n宝探し隊結成だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "じゃあさ、せっかくだし\\n宝探し隊のかっこいい名前を考えようぜ。\\nリゼには、いつもチマメ隊とか呼ばれてるしさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "そういうことなら私に任せてっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（これは……千夜ちゃんの魂に火がついた！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "４人で行動するんだから\\n４にまつわる言葉がいいわね……。\\nそれに加えて宝探しで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "これね！　完成したわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "メグ",
+          "original": "どんな名前なんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "名付けて……『四神を抱く探索者たち』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "マヤ",
+          "original": "ししん？\\nそれって何だ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "中国の神話の、４つの方角を司る霊獣のことよ。\\n青龍、朱雀、白虎、玄武って\\n聞いたことがあるんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "メグ",
+          "original": "わあ、かっこいい～！\\n選ばれた冒険者って感じだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "マヤ",
+          "original": "冒険者どころじゃないな、もはや伝説の勇者だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "うふふっ、気に入ってもらえて嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "はいはーい！　私も名前考えたよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "ココアちゃんも？\\nどんな名前なのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんとマヤちゃんとメグちゃんの\\n名前の頭文字をとって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "チマメ隊ｆｅａｔ．ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "マヤ",
+          "original": "いつもと変わってねーじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "ふっふっふ～、チマメ隊の呪縛からは\\n逃れられない運命なんだよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "でも、その名前だと\\nココアちゃんだけ別チームみたいに\\nなっちゃってるけど、いいのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "えっ……！\\nな、仲間外れはやだ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "メグ",
+          "original": "でも、言ったのココアちゃんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "マヤ",
+          "original": "きっと、響きが格好いいから、とか\\nそんな理由でつけたんだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "……な、名前は置いておこう！\\nそれより宝探しを頑張ろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "マヤ",
+          "original": "あはは！　ごまかしてるし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "メグ",
+          "original": "でも、早く宝探しをするのには賛成～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "千夜",
+          "original": "そうね。\\nそれじゃ、さっそく手分けして探しましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "マヤ",
+          "original": "クリスマスのご馳走のためでもあるし、\\n頑張るぜー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

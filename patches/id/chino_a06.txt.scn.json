@@ -1,0 +1,189 @@
+{
+  "identity": "chino_a06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（洗い物はこれでいいですね。\\n　あとはコーヒーカップを拭いてしまえば\\n　片付けは終わりで……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "タカヒロ",
+          "original": "チノ、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "タカヒロ",
+          "original": "そろそろ夕飯の時間だから上がりなさい。\\n残りはやっておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい、よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……あ、そうだ。\\nお父さん、おじいちゃん、\\n相談したいことがあります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "ん？　なんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "タカヒロ",
+          "original": "どうしたんだい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "実は、ココアさんやリゼさんたちと\\nここでクリスマスパーティーをすることに\\nなったのですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "タカヒロ",
+          "original": "ああ、聞いているよ。\\nチノが準備するんだろう？\\n店のことは気にしないで、存分に楽しみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "はい、ありがとうございます。\\n実はその準備のことで相談が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "タカヒロ",
+          "original": "準備のこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "その、どんなパーティーをすればいいか\\n迷っているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "今日、マヤさんとメグさんに\\n聞いてみたのですが、２人とも、みんなで\\nわいわいするものだと言っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "私は、今まで家族としか\\nクリスマスパーティーをしたことが\\nなかったので、よくわからないのですが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "本当に、それだけでいいんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "タカヒロ",
+          "original": "……なるほど。\\n確かに、お友達の言うとおり、\\nかしこまる必要はないと思う。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "タカヒロ",
+          "original": "みんなで集まり、会話を楽しみ、\\n食事を楽しむだけで充分だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "タカヒロ",
+          "original": "もちろんパーティーには\\n他にも色々な楽しみ方がある。\\nチノなりに、みんなとの心躍る時間を作ればいい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "私なりの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "タカヒロ",
+          "original": "もし、思い描くパーティーに\\n必要なものがあるのなら、\\n用意するから遠慮なく言いなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "チノちゃん。\\n夕飯の準備できたけど、お片付け、終わった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "あ、はい。\\nあとは父がやってくれるそうなので、\\n今、行きます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "おじさん、ありがとうございます。\\nバーのお仕事、頑張ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "タカヒロ",
+          "original": "ああ。\\nそれじゃ、２人ともお疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "お疲れ様です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "ティッピーもお仕事頑張ってね～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "タカヒロ",
+          "original": "ふっ……。\\nココア君が来てくれたおかげで、\\nこの家もすっかり賑やかになったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "タカヒロ",
+          "original": "チノも笑顔が多くなったし、\\n今年は楽しいクリスマスになりそうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ティッピー",
+          "original": "わしゃ、静かな方が好きだったんじゃがの。\\nしかしまあ、今の喧噪も悪くないな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

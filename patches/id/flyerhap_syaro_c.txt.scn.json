@@ -1,0 +1,193 @@
+{
+  "identity": "flyerhap_syaro_c.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ねえ、千夜ちゃん。\\nこういう着物と浴衣って、どう違うの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "んー、簡単に言うとね、浴衣は着物の１種で、\\n素肌に直接着るものを指すのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "へえ、そうなんだ～。\\n着物もいいけど、浴衣も着てみたいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "夏になったら、みんなで浴衣を着て\\n遊びに行こうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "夏はずいぶん先ですけど……\\nいいですね、楽しそうです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "……はっ！\\nということはリゼ先輩も浴衣を！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "みんなが着るなら、もちろん私も着るさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "せ、先輩の浴衣姿……！\\nほああああ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "……なんで赤くなってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、浴衣が好きなんだね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "あの、遊びに行くのなら\\nマヤさんとメグさんも誘いたいです。\\nいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、もちろんいいさ。\\n人数は多い方が盛り上がるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ねえ、せっかくだから、\\n遠出して温泉街に、なんてどう？\\n浴衣と言えば湯上がりだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "確かに、それは風流だなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "風流と言えば……私、お祭りに行きたい！\\n花火を見て、屋台巡りをして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "私、わたあめが食べたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "私は金魚すくいね。\\n涼しげでいいもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "屋台と言えば射的だな。\\n日頃の訓練を試せるいい機会だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "私は……大きな打ち上げ花火もいいけど、\\n手持ちの花火もやりたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "いいね！\\nヘビ花火も面白いし、\\nねずみ花火もどきどきするよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "ココアさんらしいチョイスです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "うーん、行きたいところや\\nやりたいことが多くて困っちゃうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "こうなったら、もう全部行こう！\\n思いつくことぜーんぶ、みんなでやろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ああ、いいぞ。\\nいっぺんには無理だけど、\\n夏は何度もくるんだからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ええ、そうよね。\\nこれから何度も、一緒に夏を過ごしましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "楽しそうだけど……旅費が……。\\n今からコツコツ貯めないと……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

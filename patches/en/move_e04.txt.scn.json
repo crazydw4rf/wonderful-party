@@ -1,0 +1,374 @@
+{
+  "identity": "move_e04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふう、今日もいい天気。\\n　こんな日に１人なんて、\\n　なんだかもったいないかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あっ！\\n　あそこにいるのはリゼちゃんだ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "うーん……ああいうのも\\n似合わないこともない……と思うんだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（なんか、もじもじしてる？\\n　リゼちゃん、どうしたんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\n何してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "何者だ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "う、うわぁあ！\\nわ、わ、わ、私だよ！　ココアだよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ココアか。\\nいきなりなんだ、驚いたじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "お、お、驚いたのはこっちだよ！\\nモデルガンってわかってても怖いんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "はあ……。\\nところで、リゼちゃん、何を見てたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "は！？\\nいや、なんでもないぞ、別に何も見てない！\\nぼーっとしてただけだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そうかな？\\n　リゼちゃん、確か向こうを見てたけど……\\n　女の子たちが遊んでるだけで……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "わあ、あの子たちの髪型、凝ってるね。\\nみんなすごくかわいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "そ、そうだな！\\nまあ、うん、あの子たちには\\n似合ってるんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "いいな～。\\n私もリゼちゃんみたいに髪が長かったら、\\nあんな風にしてみるのになぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "べ、べべべ、別に私は、\\nああいう髪型をしたいとか\\n思ってたんじゃないからな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "……ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "あ、しまった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "そっか、リゼちゃん、\\nああいう髪型してみたかったんだね！\\nいいよいいよ、絶対に合うよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "だから、別にしたいなんて思ってないと\\n言ったじゃないか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "えー？\\nリゼちゃんがしたくなくても、\\n私はかわいい髪型にしたリゼちゃんが見たいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？\\nココアが見たいなら、まあ……\\n少しぐらいは試してみてもいいけどな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "やったぁ！　どんな髪型を試してもらおうかな？\\nリゼちゃんは髪サラサラだし、かわいいし、\\nどんなのも似合いそうで悩んじゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "一体、どんな髪型を考えてるんだ？\\n変なのはお断りだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "一体、どんな髪型を考えてるんだ？\\n変なのはお断りだぞ？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "かわいくお団子にするのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "後ろで縛ってスポーティに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "髪を下ろして大人っぽくするのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "かわいくお団子にするのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "お団子か。\\nそれなら、運動する時なんかにやるけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふっふっふ、甘いよリゼちゃん。\\n単純にまとめるだけがお団子じゃないよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "な、何！？\\nお団子にも色々あるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "丸いのもあるし、平べったくするのもあるし、\\nまとめたところから髪を垂らすのもかわいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ！　ねえねえ、お団子を尖らせて\\n猫耳みたいにするのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ね、猫耳はやりすぎだろう！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、そうだね、ラビットハウスなんだから\\n猫耳じゃなくてうさ耳にしなくちゃ。\\nこう、にょーんと長くして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いや、もうそれお団子じゃないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ま、まあ、うさ耳はともかくだな？\\nお団子にも色々あるわけか。\\nうん、悪くはなさそうだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "後ろで縛ってスポーティに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "つまりポニーテールか？\\nそれは普通だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "基本はポニーテールだけど、\\nシンプルなだけに色々バリエーションを\\nつけられるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そうか、言われてみればそうだな。\\nシンプルなだけに、アレンジやアクセサリーが\\n映えるってことか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "サイドの髪を細いみつあみにして１本にしたり、\\nおしゃれなバレッタを使って留めたり、\\nカラフルなシュシュをつけてもいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "髪を下ろして大人っぽくするのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "下ろすのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、前にロゼさんっていう、\\nリゼちゃんにちょっと似た人と会ったんだ。\\nその人と同じ髪型なら、絶対に似合うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "へ、へえ～、私に似た人かぁ。\\nそうかぁ、そんな人がいるのかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、でも、大人っぽくするなら\\n髪型だけじゃなくて服にもこだわりたいね。\\n大人っぽい感じの服も用意しなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "おいおい。\\nなんで話を大きくしてるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "というわけで、さっそくやってみよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "今からは無理だろ。\\nここには鏡もくしもないんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、今度、ラビットハウスで試してみようよ。\\nかわいいヘアアクセサリー、\\nいっぱい用意しておくから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "か、かわいいヘアアクセサリーかぁ。\\nまあ、その、暇があったら\\nつきあってやってもいいぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "やったね！\\n楽しみだな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "あくまで、暇があったらだからな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

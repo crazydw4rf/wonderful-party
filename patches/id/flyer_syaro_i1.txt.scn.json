@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_syaro_i1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "うう～……",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "こういう衣装ははずかしいのよ。\\n慣れないっていうか、ああもう、緊張する～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nうさ耳はフルール・ド・ラパンで\\n慣れてるのかと思ってた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "フルールの制服はこれとは全然違うでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えー？　そうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "全然違うじゃない！\\nあっちはスカートがあるし、\\nこっちは脚が出てるし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そっかー。\\nでも、大丈夫だよ、\\n素材を殺さず大胆不敵な味付けになってるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "え……？\\n素材？　何が？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ねえ、意味がわからないけど、\\nそれってもしかしてフォローなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "フォローっていうか、心から言ってるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "どこがなのよ。\\n『大胆不敵な味付け』って、\\n遠回しにまずいって言ってるじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "違うよ。\\n未知の宝を探して大海原へ、\\n大航海時代の幕開けって感じだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "ますます意味がわかんないわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "えーっとね、つまり、\\nまだ見ぬ世界に到達してるってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "私に聞くなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "んー、じゃあ他の言葉にすると……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "お願いだから、私にもわかるように表現して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "素材の持ち味を包み込む……\\nつまり、ジャムを包むパン生地のような\\nかわいさがあるんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "だから、私にもわかるように話しなさいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うーん、人がわかり合うのは難しいねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "人っていうか、\\nココアとわかり合うのが、じゃないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "ああ、もういいわ。\\n早くチラシを配るわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うん。\\nシャロちゃんももう大丈夫そうだし、\\n張り切って配ろうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "はっ……！\\nそういえば、いつの間にか緊張がほぐれてる。\\nココアのおかげ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

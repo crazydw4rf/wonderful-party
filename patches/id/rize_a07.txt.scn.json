@@ -1,0 +1,279 @@
+{
+  "identity": "rize_a07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "みんな、お待たせ。\\nごめんね、お風呂が気持ちよくて\\nついゆっくりしちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\nみんなが泊まりに来ているんですから、\\n少しは気を遣ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "いいのよ。\\nお風呂ではゆっくりしたくなるものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "さあ、ココアちゃん。\\nこれをどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　ホットミルク？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……ココアさんが遅いから、\\nぬるくなってしまいましたが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "チノちゃんがみんなに淹れてきてくれたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ココアが遅いから、せっかく温めたのに\\n冷めちゃうって気にしてたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そうだったんだ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "こ、ココアさんはついでです。\\n私は、家主として\\n千夜さんたちをもてなしただけですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でもありがと、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "は、はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "さてと、みんな風呂に入って\\nすっきりしたところで、\\n本来の目的を果たすとするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "この前、メールで送ったのと同じ内容を\\nプリントアウトしてきたから、改めて見てくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "場所や時間、各自の役割分担、\\n他にも問題があるようなら言ってほしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "うーん、大丈夫じゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "はい、特に問題はないように思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そうねぇ、役割分担も\\nそれぞれに合っていると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "私も、リゼ先輩の案のままでいいと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "わかった。\\nみんな、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "そうなると……\\n他に決めなくちゃいけないのは、\\nパーティーに使う予算をどうするかだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "みんなで出し合うとして、\\nどれくらいの額に収めるかだが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "あの、そのことなのですが。\\n父が少し負担していいと言っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "え！？\\nいや、しかし、ただでさえ\\n店を貸してもらうのに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "これは、リゼさんやココアさんが\\n普段からちゃんと働いてくれていることへの\\nボーナスみたいなもので――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "だから遠慮しないでほしい、だそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "うーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "わかった。\\nなら、ありがたく厚意を受け取らせてもらうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "さすが、チノちゃんのお父さんだね。\\nさりげない気遣いがダンディで格好いいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "とりあえず、具体的な予算については\\nみんなに簡単な見積もりを\\n立ててもらってからになるとして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "これで、話し合うことが\\nもうなくなってしまったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "じゃあ作戦会議はおしまい？\\nみんな、お疲れ様～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "お疲れ様でした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "すんなり終わってよかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "さすがはリゼ先輩の仕切りです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "いや、しかし、こんなにあっさり\\n終わってしまって本当にいいのか？\\n特に議論もなかったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "それだけ、リゼちゃんが\\nきちんと準備してきたってことじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？\\nまあ、私にかかれば\\nこれくらいのことは雑作もないさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "じゃーあー、作戦会議は終わったし、\\nここからはいつも通りのお泊まり会ってことで\\nいいよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "そういうことなら、せっかくだし怪談でもする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "なんでそうなるのよ！？\\n怪談するっていうなら、私、もう寝るから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "寝ちゃだめ！\\n夜はまだこれからだよ！？\\nトランプしようよ、トランプ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "以前、父から勧められたボードゲームもあります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "よーし！\\nじゃあ、今夜は眠くなるまで遊び倒すか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア＆チノ＆千夜＆シャロ",
+          "original": "おー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

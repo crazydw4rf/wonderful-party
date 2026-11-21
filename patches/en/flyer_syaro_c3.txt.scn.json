@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_syaro_c3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえ、シャロちゃん。\\n千夜ちゃんって、いつ頃から\\nこの制服を着て甘兎を手伝ってたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "……いつからだったかしら？\\nはっきりとは覚えてないけど、ずいぶん前からね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ずいぶん前からかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "シャロちゃんは、ずっと前から\\n千夜ちゃんと一緒なんだよね。\\n幼なじみって、ちょっとうらやましいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そんなにいいものじゃないわよ？\\n昔のこととか、いつもからかわれて大変よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "それも友情の証だよ。\\n昔からの絆とか、すごく素敵だと思うし。\\nいいなぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "そうだわ。\\nココアは、この街に\\n昔からの知り合いなんていないんだった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "当たり前のことなんだけど、\\nなじみすぎてて時々忘れちゃうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あっ！\\nあの野良うさぎ、かわいい～。\\nおいで、おいで～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "あ、あの……ココア？\\nもし寂しくなることがあったら……\\n私たちにもっと甘えてもいいんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ふわ～、もふもふ！\\nこの子の毛、柔らかい～。\\nティッピーの手触りにも負けてないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "聞いてない！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あ、ごめんね。\\nこの子がかわいくて、つい。\\nシャロちゃんも撫でる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "や、やめて、近づけないで～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "こんなにかわいいのに。\\nえへへ、やっぱり私、この街に来てよかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "うさぎがたくさんいるから？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "それもあるけど、\\nシャロちゃんや千夜ちゃん、リゼちゃんや\\nチノちゃんたちに会えたことが１番かな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "みんなと一緒にいられて、すごく楽しいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "そ、そう……よかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "私もココアがこの街に来てくれて……嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

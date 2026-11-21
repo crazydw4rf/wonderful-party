@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_rize_e3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "今日はすごいな。\\nもうチラシがなくなったぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "チラシをもらいに\\nここまで来たって感じの人もいたし……\\nしかし、なんでわざわざ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、メグちゃんたちに聞いたんだけどね、\\nリゼちゃんの軍服姿が評判になってるんだって。\\nだからじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "え？　そうなのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん。\\nすっごくかっこよくて、まるで本の世界から\\n抜け出してきたみたいって言われてるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "へ、へえ……。\\nうん、まあ、役に立てて嬉しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "なんだろうな、\\n私って浮いてるみたいだからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "こういうチラシ配りだと、悪目立ちして\\n上手く行かないんじゃないかと思ってて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "でも、こんな私でも\\n少しは役に立てるんだなぁって\\nちょっと嬉しくなったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "少しなんてことないよ、リゼちゃんは\\nいつだって私たちのことを助けてくれるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "……そうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うん！\\nリゼちゃんは、私やチノちゃんが\\n持ってないものをいっぱい持ってるもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "リゼちゃんがいなかったら、ラビットハウスは\\n成り立たないって言ってもいいくらいだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "それは……いくら何でも大げさじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\nチノちゃんだって、\\nリゼちゃんを頼りにしてるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "もちろん、お姉ちゃんである私だって\\n同じくらい頼りにされてるけどね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "いや、どうだろう？\\n案外ココアはいなくても大丈夫って\\n思われてそうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "えええええー！\\nそんなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "嘘だよ、嘘。\\nココアだってラビットハウスの大事な一員だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ああ、よかったぁ！\\n３人でこそのラビットハウスだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "ああ。\\n……なんだか目から鱗が落ちた気分だ。\\nすっきりしたよ、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

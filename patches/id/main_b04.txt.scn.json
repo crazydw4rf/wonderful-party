@@ -1,0 +1,348 @@
+{
+  "identity": "main_b04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ごめんね、遅くなっちゃった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、来たか。\\nバイトの時間ギリギリだぞ？\\n何してたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "それが、帰り道でかわいい野良うさぎを\\n見かけちゃて、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさん、\\n今日もチラシ配りをするんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、うん！\\nほら、今日配る分のチラシの準備もばっちりだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "相変わらず張り切ってるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えへへ……。\\n思ってた以上にチラシ配りが楽しくって、\\nなんだかハマっちゃいそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "それは、チラシ配りが楽しいというより、\\nコスプレを楽しんでるだけじゃないですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うーん……。\\n確かにそれは否定できないかも。\\n色々な服を着られて楽しいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ま、まあ、そういう気持ちはわからなくもないな。\\nかわいい――じゃなくて、普段と違う服は\\n着るだけでテンションが上がるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "だよね！\\nチラシ配りが終わっても、\\nこのままコスプレを続けていきたいな、なんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "……って、あれ？\\nそういえば、私、\\nなんでチラシ配りをしてるんだっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ＆リゼ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えーっと……何のためだっけ？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（えーっと……何のためだっけ？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "チノちゃんの誕生日のためだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "何か大事な理由があったような気が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "まあ、いっか！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あ！　チノちゃんの誕生日のためだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "さすがに目的は忘れてなかったみたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そこまでだったらどうしようかと思ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "って、ああ！？　違うよ！\\nチノちゃんはぜんぜん！　まったく！\\n関係ないんだよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なあ、もうバレバレなんだから\\nその設定は必要ないんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "大丈夫です、リゼさん。\\n私は何も聞いてませんでしたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "せっかく、ココアさんが\\n頑張ってくれてるんですから、\\n無駄にしたくないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "……チノはチノで、結構ココアに甘いよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "そ、そんなことありませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "え？　私がどうかした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "なんでもありません！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "何か大事な理由があったような気が……。\\nうーん……",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "お、おい、まさか本気で忘れてるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "わ、忘れてないよ！\\nちゃんと思い出した！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "思い出したって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そうだった。\\nチノちゃんの――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "じゃなくて！\\nえ、えっと、実験のために始めたんだったね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "おいおい、しっかりしてくれよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんらしいと言えばらしいですが。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "まあ、いっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "まあいっかじゃないだろ！\\n１番大事なことを忘れてどうするんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ！　思い出した！\\nチノちゃんのため――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃなくて！\\nコスプレチラシ配り作戦の実験を\\nしてるんだったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そうだよ。\\nまったく、言い出した本人が何してるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あっ、お客さんだ。\\nいらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "いらっしゃいませ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "ココアめ、手段が目的になりかけておるぞ。\\n目先のことに夢中になりすぎじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "でも、楽しそうです。\\n私も……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ティッピー",
+          "original": "チノも楽しいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……かもしれません。\\nそれに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "私の誕生日をきっかけに、みなさんが楽しいって\\n思える時間が生まれていて嬉しいって……\\nそう思うんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "……そうか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

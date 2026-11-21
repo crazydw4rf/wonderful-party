@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_chiya_b2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こうしてラビットハウスさんの\\n制服を着ていると……\\nティッピーを頭に乗せてみたくなっちゃうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "やっぱりラビットハウスさんといえば\\nティッピーだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "……と言うことは、ティッピーは\\nやっぱりコーヒーが好きなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "好きなんじゃないかな？\\nコーヒー占いもできるくらいだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "まあ、ティッピーが占いをするの？\\nすごいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "まあ、私に比べると的中率は低いけどね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ふふ、やっぱりコーヒーが好きなのね。\\nうちのあんこだって和菓子が好きだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "……そういえば、\\nティッピーは何を食べてるのかな？\\nご飯を食べているとこ、見たことないかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "……ココアちゃん。\\nクリオネって知ってるかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "え？　うん、知ってるよ？\\n流氷の妖精って言われてる、白くて\\nひらひらしてる、かわいい生き物だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あのクリオネってね、\\nご飯を食べる時には口から――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ぐわっ！　っと触手を出して\\n獲物を捕らえるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nそ、そうなの……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ティッピーも、実はそんな感じで\\nご飯を食べたりして……ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "まさか、そんな……。\\n普通に食べると思うよ？\\n見たことないけど、多分。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "普通？\\nじゃ、やっぱり触手を出して食べるのね。\\nあんこもそうだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ええええええ！？\\nあんこってそんな風にご飯食べるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "も、も、もしかしてティッピーも？\\nチノちゃん知ってるのかな？\\n知らなかったらどうしよう……なんて言えば！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "冗談よ。\\nティッピー、うちのお店で栗ようかんを\\n食べたことあるけど、普通だったもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nよかったぁ、チノちゃんが悲しまずにすむよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "identity": "pajamas_syaro_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は、シャロちゃんのお布団に\\n　お邪魔しちゃうぞ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そういえば……\\nココアって寝相悪かったわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、いつの間にか\\nベッドから床に移動してたりするんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "それでよく起きないわね。\\n私のこと、蹴飛ばしたりしないでよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "約束はできないかなぁ、てへへ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "でも、どうしてそんなに\\n寝相が悪いのかしらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん、実は前にちょっと\\n考えたことがあるんだけどね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "もし、何も考えないで、夢も見ないで寝てたら\\n多分動くことってないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "つまり、私はたくさん夢を見てるんだよ！\\nだからすっごい動いちゃったりするんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ～、私って夢多き乙女なんだね。\\n確かによく言われるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "意味が違うでしょ、意味が。\\n普段言われてるのは、\\n将来の夢が多すぎってことよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "それにしても、ずいぶん激しい夢を見てるのね。\\nベッドから落ちるほどだなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うーん、もしかしたら夢の中で\\n歌って踊ってるのかもしれない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "はっ！　もしかして私、\\n街の国際バリスタ弁護士をしながら、パンを焼いて\\nミュージカル女優も目指すべきなのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "だから、なんで全部やろうとするのよ！\\nもうちょっとやりたいことを絞り込みなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "えー、だって全部やりたいんだもん。\\nじゃあ、今夜も歌って踊る夢を見て\\nミュージカル女優に１歩近づくよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "近づかなくていい！\\n私の安眠を邪魔しないように、大人しく寝て！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あ、そうだ。\\nじゃあこうしようよ、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "２人で手を繋いで寝るの。\\nそれで、私が動きそうになったら押さえて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "ええ？\\n意味あるの、それ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "手を繋いでいれば、\\n隣に誰かが寝てるって意識して\\n寝相が悪くならないよ、きっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃあシャロちゃん、よろしくね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと、勝手に何やってるのよ！\\n大体、手を繋いだままじゃ眠れないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "大丈夫、大丈夫。\\nおやすみなさい、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっとココア～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "すー……くー……。\\nすー……くー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "なんで１人さっさと寝てるのよ。\\nしかも、手を繋いだまま離そうとしないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "シャロちゃん……メロンパン焼けたよぉ……。\\nお腹いっぱい食べてね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "もう……。\\nどんな夢を見てるのかしらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "あーあ、今夜はこのまま寝るしかないじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "たまにはこんな夜もいいか。\\nたまには、だけど。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

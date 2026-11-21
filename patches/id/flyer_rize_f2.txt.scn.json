@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_rize_f2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？　リゼちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（どうしたんだろう？\\n　リゼちゃん、あんなところで\\n　ずっとしゃがみこんだままで……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？　写真？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "わっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、ごめんね！\\n驚かせちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "い、いや、いいんだ。\\nチラシ配りをサボってたのはこっちだからな。\\nすまん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ねえ、リゼちゃん\\n何の写真撮ってたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "えっ！\\nま、まあ、つまらないものだ。\\n気にしなくていい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "見せて見せて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "だから、つまらないものだって\\n言ってるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "つまらなくてもいいよ～！\\n見せてほしいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "仕方ないやつだな。\\n見せてもいいけど笑うなよ？\\n……ほら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うわぁ、かっわいい～！\\n野良うさぎの写真だぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ああ、かわいいだろ？\\n他にもあるから見てみるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん、見たい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ほら、これが親子のうさぎだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あはは、仲良しさんだね。\\n一緒に葉っぱをかじってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "子うさぎだけの写真なら、\\nまだ、こっちにたくさんあるぞ。\\nこれと……これと、ああ、これも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ふわわわ～！\\nこのうさぎ、どの子も\\n思わず触りたくなっちゃうかわいさだぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "だろう？\\nこの瞬間を捉えるのがなかなか大変なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "こんなに写真が上手なら、\\nリゼちゃんは将来カメラマンに\\nなれちゃうかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "カメラマンかぁ、それもいいな。\\nカメラ片手に街から街へ、なんて\\nロマンがありそうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "うん、世界中を飛び回る\\n立派な戦場カメラマンになれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "おい、どうして戦場なんだ！\\nうさぎを撮るのとまったく関係ないだろう！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "あ、ごめんごめん。\\nなんとなく戦場かなって思っちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "今度、リゼちゃんが撮ったうさぎの写真を\\nラビットハウスに飾るのもいいかもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "さ、さすがにそれははずかしいな。\\nプロでもないんだし、遠慮しとくよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

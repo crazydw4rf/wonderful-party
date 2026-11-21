@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_rize_h2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ラビットハウスです……。\\nお願いしまーす……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？\\nどうしたの？　もしかして眠い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "い、いや！　そんなことはない！\\n戦場で居眠りしたら命がないからな、\\nコンディションはいつも整えておかなければ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ふわぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "無理することないよ。\\nこの時間って眠くなるもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、実は昨日の夜――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "はっ！！\\nもしかしてリゼちゃん、\\n二重生活をしてるせいで眠いの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "は？　二重生活？　どういうことだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "リゼちゃんがそんなに眠いのは、\\n夕べ、怪盗として活動してたからなんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "おいおい、何を言い出すかと思ったら。\\nそんなことあるわけないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "その否定が怪しい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "あのなぁ、眠いのは昨日の夜、\\nつい本に夢中になって夜更かししたからだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ははーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "ん？　なんだその目は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん、そうだよね。\\n秘密なんだよね。\\n怪盗なのを明かしたら面白くないもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "はあ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "だから言わないんだよね。\\nうんうん、わかってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "なにもわかってないだろ……。\\nなんで理解したつもりになってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "はっ！　怪盗でもあるってことは……\\nリゼちゃんって軍人で企業スパイで\\n怪盗だったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "設定盛りすぎだろ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "はあ……。\\nココアと話してたらすっかり目が覚めたよ。\\nさっさとチラシ配りをすませよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん……。\\n　リゼちゃん、本当は何重生活してるんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

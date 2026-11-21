@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_chiya_a1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "制服を着て一緒にお仕事をする日が来るなんて\\n思わなかったね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ええ。\\nなんだかくすぐったいような変な気持ちね。\\nでも、とっても楽しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "私も楽しいよ！\\nこうして制服でお仕事してると、\\n課外授業みたいだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "課外授業……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そうなのね、これは\\n社会の厳しさを学ぶための授業だったのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えっ！？　そうだったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "でも、社会の厳しさを学ぶ課外授業を\\n受けられるのなら、将来安定間違いなしだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "それに、千夜ちゃんと一緒の課外授業だったら\\n何回受けたって平気だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "そう、よかった。\\n落第したら何度もこの授業を\\n受けなきゃいけないんだから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "そのくらいの気持ちでいた方が\\nいいかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ええ！？\\nこの授業、落第があるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "もちろんよ。\\n厳しさを学ぶ授業なんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "社会は、私たちが思っている以上に\\n困難に満ちあふれているんだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ココアちゃん！\\n２人で一緒に、社会の荒波を\\n乗り越えていきましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん！\\n１人じゃ無理でも、私たち２人が協力すれば\\nきっと乗り越えられるはずだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "じゃあ、まずはこの課外授業で\\nちゃんと合格点を取らないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "……でも、この授業って\\n何をどうやったら点をもらえるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "まず最低ラインは、このチラシを\\nすべて配り終えることだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "それが最低ライン！？\\nま、まだまだあるよー！？\\n急いで配らなきゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ラビットハウスです！\\nよろしくお願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "ふふ、ココアちゃんが燃えてるわね。\\n私も頑張らないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "どうぞ、もらってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "よろしくお願いしまーす！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

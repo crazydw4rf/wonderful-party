@@ -1,0 +1,713 @@
+{
+  "identity": "all_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "さてと！\\nこの街は広いし、みんなで\\n手分けして配った方がいいよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ええ、その方が効率がいいわね。\\nそういえば、移動方法はどうするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、そうだよ！\\nサンタさん、トナカイはどこにいるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "む？　トナカイか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "私、トナカイにソリを\\n曳かせたことなんてないんだが、できるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "きっと、トナカイにソリを曳かせるための\\n便利な魔法があるんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "トナカイも操るなんて……！\\nやっぱりサンタさんはすごいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "いや、その……トナカイは使わんのじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\nトナカイ、いないんですか？\\nでは、どうやってプレゼントを……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ティッピー",
+          "original": "徒歩で配ってもらう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "徒歩なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ティッピー",
+          "original": "安心せい。\\nさっきも言ったが、その服には\\nどんなに働いても疲れない魔法がかかっておる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "それってつまり、\\n私たちに街中を走り回れってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ティッピー",
+          "original": "そういうことじゃな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nなんだか行き当たりばったりね。\\nツッコむのも疲れてきた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "なるほど！\\nこれは長距離行軍訓練なんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩が目を輝かせてる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "でも、たくさんのプレゼントを持って\\n歩くとなると、ちょっと自信が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "私も心配になってきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ！\\n持てなかったら自転車を使えばいいんだよ。\\n荷物も乗せられるしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "トナカイのソリの代わりに自転車ですか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "というか、肝心のプレゼントはどこだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ティッピー",
+          "original": "プレゼントは、お前たちに渡したスマホから\\n取り出せるようになっておる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ティッピー",
+          "original": "所定の場所で、アプリの\\nプレゼントボタンを押せば、\\nその子の欲しがる物が出てくる仕組みじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "そ、そうなんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "すごいのねぇ、魔法。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "青山",
+          "original": "今の形を確立するには、\\nクラウド技術とネットワークによる\\n技術革新が必要不可欠でしたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "充分に発達した科学技術は\\n魔法と見分けがつかない、と言われているが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "科学と魔法を組み合わせるなんて\\nどこにも真似ができないし、\\nやはりサンタはすごいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "トナカイで運んでいたのが\\nスマホで代用されているとは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ティッピー",
+          "original": "そう、昔はトナカイにプレゼントを積んで\\n運んでいたから、結構大変だったんじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "サンタ",
+        "original": "そう、昔はトナカイにプレゼントを積んで\\n運んでいたから、結構大変だったんじゃ……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "いいなぁ、トナカイ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "便利になったんだねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "もうメールで送っちゃうのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いいなぁ、トナカイ。\\n私もやってみたかったなぁ。\\n大変かもしれないけど楽しそうだし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "確かに苦労が多かったが、\\nその分、やり遂げた時の嬉しさも\\n並々ならんものじゃったわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "あの、もうトナカイを使うことはないんですか？\\nやっぱりサンタさんは、\\nトナカイのソリに乗っているイメージが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "ああ、安心せい。\\n今でもトナカイを導入している地域もあるぞ？\\nイメージを守るのも大切じゃからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "本当ですか！\\nよかった……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "便利になったんだねぇ。\\n科学万能って感じだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "伝統を受け継ぎつつも、\\n少しずつハイテクを取り入れて\\n効率よくしていかんとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "企業努力は、サンタさんであっても一緒なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "サンタが企業努力って表現……どうなのかしら？\\n現実的すぎない？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ここまで便利にできるんだったら、\\nもうメールで送っちゃうのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "それはいかん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "確かに、メールでプレゼントを届けられたら\\n簡単かもしれん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "しかし、それこそ、サンタの存在を\\n危うくしてしまう危険をはらんでおる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　どういうこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "ココアよ。\\nお前も、見知らぬアドレスから送られてきた\\nメールを開封しようとは思わんじゃろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "はっ！　確かに！\\n迷惑メールだと思っちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "それでプレゼントを受け取ってもらえず、\\nあまつさえサンタの存在を否定されては\\n大ごとではないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "それに……\\nメールでは、プレゼントをもらった\\n気持ちになれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "プレゼントで膨らんだ靴下を見た時の感激は、\\nこれからもなくならないでほしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "うむうむ。\\nその通りじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "おお、そうじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "プレゼントを配っている最中に\\n何か困ったことがあったら、\\nスマホで連絡をするといいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あっ！\\nホントだ、アドレス帳に\\nサンタさんとみんなが登録されてる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "この番号で、それぞれのスマホに通じるのね。\\nこれなら手分けして配っていても安心だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "地図アプリもありますので、活用してくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "おお、これは便利だな。\\nそれじゃ、この地図を参考にしながら\\nみんなの分担を決めよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "とりあえず、街を５つのブロックにわけて……\\n配る件数は体力とフットワークに合わせて\\n分担する方針でいいか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "はい、リゼ先輩にお任せします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "よーし、じゃあノルマを最初に決めておこう。\\nそれが終わったら私に報告してくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "誰かの作業に遅れが出ている場合は、\\nみんなでフォローだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ええ、わかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "何か、今の段階で質問や疑問はあるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "んー、こんな夜中に出歩くことがないから\\n道を間違えないか心配ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "そこは、地図をたびたびチェックしながら\\nやっていくしかないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "私は、知らない人の家に入ることが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "それは私も同じだが、\\n任務として割り切るつもりだ。\\nシャロもその気概で頼む。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "私は……\\nええと、不安はありますが、頑張ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、本当に大丈夫かな？\\n　時間が止まっているとはいえ、夜に１人で……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、チノちゃん、サンタさんに会えて\\n　本当に嬉しそうだったし、\\n　プレゼント配りだってやりたいよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect2": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "ねえ、チノちゃん――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0201": {
+          "original": "不安だったら、お姉ちゃんと一緒に回る？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0202": {
+          "original": "競争しよっか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0203": {
+          "original": "お互い、頑張ろうね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0201": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "不安だったら、お姉ちゃんと一緒に回る？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "いいえ、大丈夫です。\\nサンタさんのお手伝い、立派にやり遂げます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そっか。\\nじゃあ、お互いに頑張ろうね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そんなこと言って、実は\\nココアの方が不安だったんじゃないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\nただ、姉として、チノちゃんが\\nこんな夜中に街中を駆け巡るのが心配なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "大丈夫だ。\\n危険そうなところは私が担当する。\\nもしもの時には銃もあるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "リゼちゃん、頼もしいわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "無理はしないでくださいね、先輩。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "まあ、時間も止まっているし、危険はないさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ティッピー",
+          "original": "うむ、そうじゃな。\\nわしもお前たちを危険な目にあわせるつもりはない。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0202": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "競争しよっか？\\nどっちがプレゼントを多く配れるか勝負だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "へえ、それは面白そうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "となると、１番少ない人が罰ゲームかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "この街は私の方が詳しいはずですから、\\nココアさんは不利ですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、強気だねぇ。\\nでも、お姉ちゃんの持つお姉ちゃんパワーに\\n妹が勝てるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "その根拠のない自信と謎のパワーはなんなの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "あの、やる気があるのは嬉しいのですが、\\n急いで配って間違えたりすると大変ですので\\n競争はちょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、そっか！\\nはーい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0203": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お互い、頑張ろうね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "は、はい、頑張ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、やっぱり緊張してる。\\n　ここはお姉ちゃんとして、さり気なく\\n　緊張をほぐしてあげなくちゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あれ～？\\nチノちゃん、もしかして緊張してる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そ、そんなことはありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、そうだよね。\\nだって憧れのサンタさんになれたんだもん。\\n嬉しいって気持ちの方が強いよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy5": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……はい！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_02_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "よーし、それじゃ、始めよう。\\nこれはみんなでやるって決めたことなんだ。\\n助け合って、必ず成し遂げよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア＆チノ＆千夜＆シャロ",
+          "original": "おーっ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "では、作戦開始だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "頼んだぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "みなさん、お気を付けて。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

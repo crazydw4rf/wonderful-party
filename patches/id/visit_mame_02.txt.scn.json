@@ -1,0 +1,456 @@
+{
+  "identity": "visit_mame_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "こんにちはー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "マヤさん、メグさん。\\nどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "暇だったから、お店の売り上げに\\n貢献しようと思ってさ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えーっ！\\nお姉ちゃんに会いに来てくれたんじゃないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そんなわけないだろ？\\nほら、水をどうぞ。\\nいつも来てくれてありがとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "ありがとうございまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "はー。\\nやっぱ、リゼはいつ見ても格好いいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "マヤちゃん、女の人に格好いいじゃ失礼だよ。\\nリゼさんはお嬢様なんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "あ、そうだった。\\nリゼはお嬢様学校に通ってるんだもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "ねえねえ、リゼの学校って\\nごきげんよう症候群なんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "は？　なんだそれは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "だから、ごきげんようで\\n全部の会話が通じるってやつ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "えーっ！？\\nそうなの、リゼちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "いや、違うって。\\nそれじゃ、まるで暗号じゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん！\\nいらっしゃいませ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "あー！\\nもう１人のお嬢様が来た！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "ごきげんよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "ごきげんよう、シャロさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ええ？　な、何？　何事なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "聞いてみたいな～。\\nシャロの、お嬢様っぽいごきげんようを。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "メグ",
+          "original": "ぜひぜひ、見せてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "いきなりなんで！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ＆メグ",
+          "original": "おねがーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "シャロ。\\nすまないが、ちょっとやってみせてくれないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "あ、はい！　わかりました！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "こほん。\\nこうでいいのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "ごきげんよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "おおー！　本物だぁ！\\nやっぱりシャロはお嬢様なんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "うん、そうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（これは……\\n　妹たちの関心が私よりもシャロちゃんに！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "ねえねえ！\\n私もやってみようか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "マヤ",
+          "original": "やっぱり、お嬢様学校に通ってると\\n普段からお嬢様っぽい雰囲気がにじみ出るんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "メグ",
+          "original": "ポーズも決まってたし、\\nこれは持って生まれた気品みたいなもの\\nなんだろうね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "そんな……別に私は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "むぅぅ！\\n私だってお嬢様っぽいことできるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "マヤ",
+          "original": "え？　ココアもか？\\nじゃあ見せてよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "マヤ",
+        "original": "え？　ココアもか？\\nじゃあ見せてよ。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "よろしくてよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "おーっほっほっほっほ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ごきげんよう",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "よろしくてよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "おお！　なんかそれっぽいな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ココアちゃんも\\nそういう風にするとお嬢様みたいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ふふーん、でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "でもー、やっぱシャロには敵わないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えーっ！？\\n頑張ってポーズつけてみたのに。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "おーっほっほっほっほ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……それ、何の真似ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふふん、今のお嬢様っぽくなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "な、なんだか違うような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そんなー！？\\nお嬢様って言ったら高笑いじゃないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そんな人、見たことないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ごきげんよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "おー！\\nココアもやるじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "まあ、そのまま、\\nおしとやかにしていることができたらね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "で、できるよ！　それぐらい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "わたくしはお嬢様ですから。\\nほほほ、今日はお暑うございますですわー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "あー……。\\nさっそく、ボロが出てきた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "あははは！\\nやっぱココアはココアだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "でも、そういうココアちゃんが\\n私はいいと思うよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そう？\\nえへへ～、褒められちゃった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "褒めてるのではなく、フォローでは？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あのねぇ、ココア。\\nそんなとってつけた台詞だけで\\nお嬢様って言われるわけないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "じゃあ、シャロちゃん！\\nお嬢様らしくするコツ、教えて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そう言われても、これは生き抜くために\\n身につけた処世術みたいなものだから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そこを何とか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\nシャロさんを困らせてないで\\nそろそろ仕事に戻ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "はーい。\\nそれじゃメグちゃんにマヤちゃん、\\nそれにシャロちゃんも、ご注文をどうぞ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

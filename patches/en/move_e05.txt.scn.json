@@ -1,0 +1,352 @@
+{
+  "identity": "move_e05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "よいしょ、よいしょ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんだ！\\n　甘兎庵にいないと思ったら\\n　外でお仕事してたんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、大きな荷物を持って何してるんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　千夜ちゃんだ。\\n　大きな荷物を持って、何してるんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "はあ……。\\n困ったわ、どうしようかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\n何してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あら、ココアちゃん。\\n実はね、お菓子の配達の途中なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そうなんだ！\\n引き止めちゃってごめんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ううん、いいの。\\nでも、その配達なんだけど……困っちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ん？　何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "お届け先の住所をメモしてきたのだけど、\\n書き間違えたみたいで\\n目的のお家が見当たらないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "仕方がないから、いったん戻って\\n確認しようかと思ってたんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "その荷物を持って甘兎庵まで戻って\\nまた届けに行くって、すごく疲れちゃいそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "そうなの、実はもうくたくたで……\\nココアちゃんが来てくれて助かったわ。\\nあのね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、もう安心だよ。\\n私が千夜ちゃんを助けてあげるからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "え？　え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（友達として、困っている千夜ちゃんを\\n　このままにはできないよ。\\n　なんとかして助けてあげなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（友達として、困っている千夜ちゃんを\\n　このままにはできないよ。\\n　なんとかして助けてあげなくちゃ！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "一緒に配達先を探すよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "荷物を持ってあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "メモの間違いを検証しよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "一緒に配達先を探すよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "一緒に？\\nでも、そこまでしてくれることはないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "遠慮なんていらないよ。\\n親友の力になれるなら、それだけで嬉しいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "荷物、半分持つよ。\\n貸して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "っと！\\n結構重いね、これを１人で持ってたら\\nくたくたにもなるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ええ。\\nでも、ココアちゃんのおかげで\\n疲れが吹き飛んだわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "荷物を持ってあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "でも、これ、結構重いの。\\n大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nこれでも、コーヒー豆を運んだりして\\n鍛えてるんだから。えいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "う、うわぁ！　本当に重い！？\\nこれって和菓子なんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ええ、栗羊羹がぎっしり詰まってるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "よくここまで持ってこられたね。\\nじゃあ、ここからは私が運んであげるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "助かるわ、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "メモの間違いを検証しよう。\\nじっくり見てみたら、どこを書き間違えたのか\\nわかるかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ほら、この住所の数字、\\n１ってなってるけど、７と書き間違えたとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "確かに、書き間違えやすい数字よね。\\nでも７だったとしても、その住所に\\n当てはまる場所はないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あれ？\\nじゃあ、こっちの６を９と書き間違えたとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "それはちょっと、無理がないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん、そっか。\\nけど簡単には諦めないよ！\\n必ず正しい住所を推理してみせるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ありがとうココアちゃん。\\nその気持ち、とっても嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "でも、本当にそこまでしてくれなくていいの。\\n少しの間、ここで荷物を見ていてくれるだけで\\n充分だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "それはお安い御用だけど、\\n千夜ちゃんはどうするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "甘兎に電話して、\\nおばあちゃんに正しい住所を確認するわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　それでわかるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ええ、お届け先はおばあちゃんのお友達だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えええ～！\\nそうだったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\nココアちゃんが一所懸命になってくれているのが\\n嬉しくて、言い出せなかったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ココアちゃんは本当に優しいのね。\\n私、とっても嬉しかった。\\nありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ、お礼なんていいよ。\\n友達なんだから当然だよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

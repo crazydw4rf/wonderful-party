@@ -1,0 +1,426 @@
+{
+  "identity": "main_b05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "いらっしゃいませ、青山さん！\\nお好きな席にどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "はい、それでは遠慮なく。\\nところで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "チノちゃんのお誕生日まで、\\nあと１週間くらいですよね？\\n準備はどうでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "安心してください、順調に進んでますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そうですか。\\nそれはよかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\n立ち話をしてないで、席に案内してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はーい！\\nでは青山さん、改めてお席へどうぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "お待たせしました。\\nブレンドコーヒーです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "ありがとうございます。\\nあの、ところで、今日も\\nチラシ配りに出かけるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "はい、そろそろ出かけようと思ってたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "そうですか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ん？　チラシ配りがどうかしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "い、いえ、大したことではないんです。\\nただ、少し寂しいと言いますか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "寂しい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "……最近、みなさんが\\n外に出ていることが多いので――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "ラビットハウスに\\n３人が揃っていることが減って、\\nふっと、寂しく思ってしまうことがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "みなさんは……\\nそんな風に感じたりはしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "青山",
+        "original": "みなさんは……\\nそんな風に感じたりはしませんか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "大丈夫です！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "言われてみれば少し寂しいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "青山さんの考えすぎですよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "大丈夫です！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "別々のところで働いてる時だって、\\nラビットハウスの一員だってことを\\n忘れたりはしないし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そういう気持ちはみんな一緒だと思うから、\\n少しも寂しくなんてありません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさん……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ココアの言う通りだな。\\nそもそも、チラシ配り自体、\\nラビットハウスのためにやってることなんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\nだめだよ、秘密にしないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "おっと！\\nああ、あくまで実験だったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "お見逸れしました。\\nみなさんの絆は、私が思っている以上に\\n強固なものなのですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "絆っていうか……まあ、そんなものかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でもやっぱり、この制服で、\\nこうしてお店にいる時が\\n１番落ち着くっていうのは間違いないかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ね！　チノちゃん、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はい、そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、それが１番気楽だからな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "言われてみれば少し寂しいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そうか？　チラシ配り自体、\\nそんなに長い時間やってるわけじゃないし、\\n私はあまり気にならないけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "私もリゼさんと同感です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えー、でも、こんなふうに\\n３人でおしゃべりできないし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "仕事中なんですから、\\n無駄なおしゃべりはしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そんなこと言って、チノちゃんだって\\nお客さんがいない時は結構自由にしてるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさんは、お客さんの前でも自由すぎます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "青山さんの考えすぎですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "……そうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって、チラシ配りは\\nそんなに長い時間やってるわけじゃないし、\\n私たちは気にしてませんから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "まあ、これが半日とか丸々１日とかだったら\\n話は別だろうけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ～！\\nリゼちゃん、私たちと離れ離れになると\\n寂しいんだね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "じゃ、じゃあ、ココアは違うっていうのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？\\nチノちゃんとリゼちゃんと離れ離れ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そ、そんなのやだよー！\\nチノちゃん、私は絶対にチノちゃんを\\n離したりしないから安心して！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ちょっ！？\\nココアさん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "こーら！\\nココア、急に抱きついたら危ないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……大丈夫ですよ、ココアさん。\\n私は急にいなくなったりしませんから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あ、お客さんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "リゼさん、対応をお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、任せとけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさんは、\\nテーブルの小物の点検と補充をしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はーい。\\nそれじゃ青山さん、\\nゆっくりしていってくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "チノ、オーダー。\\nマンデリンとケーキだ。\\nケーキは私が準備するよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "チノちゃん、点検終わったら洗い物しようか？\\nお皿が溜まってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "はい、お願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "青山",
+          "original": "……ふふふ。\\nやっぱり、ラビットハウスは\\nみなさんが揃っている時の雰囲気が１番ですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

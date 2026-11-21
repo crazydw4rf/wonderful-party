@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_chiya_g2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "まだまだ、街には\\nハロウィンの空気が残ってるよね。\\nカボチャ色をした商品もよく見かけるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ねえ、千夜ちゃんのところでも\\nハロウィンは何か出したの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "そうねぇ、ハロウィンに限らず\\n秋の味覚を取り入れた新作は\\nいくつか出していくつもりよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "サツマイモとか、他にも旬の甘いものが\\nたくさんあるけれど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "やっぱり、冬も見越して\\nカボチャを使ったメニューを\\n推していった方がいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "……カボチャようかん、なんていいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "いいね、それ。\\nとってもおいしそう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんの作った栗ようかん、\\nすっごくおいしかったから、\\nカボチャようかんも期待しちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nお店で出すと決まったわけじゃないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えーっ、そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "でも、ココアちゃんが\\nそんなに期待してくれるなら\\n検討するのもいいかもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "やった！\\nおこづかい用意して待ってる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "カボチャって、色も温かくてかわいいけど\\n食べてもほくほく甘くて、完ぺきに近いよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "あの丸っこい形だって\\nかわいらしくていいものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "じゃあ、形から入るために\\nカボチャの被り物も作りましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "えっ！？　……ええーっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "まさか……千夜ちゃん？\\n頭だけカボチャをかぶって接客するとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そうよ？\\nきっとかわいいと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "怖いよ～！\\nそれはすっごく怖いと思うよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "……そうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんは不思議そうだけど、\\n　やっぱり頭だけカボチャは怖いよね？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（力の入れどころを間違っちゃうのが\\n　千夜ちゃんらしいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

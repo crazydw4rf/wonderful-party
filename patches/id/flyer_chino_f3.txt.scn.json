@@ -1,0 +1,211 @@
+{
+  "identity": "flyer_chino_f3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "おーっしまいっと♪\\nやっぱりサンタさんはみんなに人気だね、\\nチラシ、すぐになくなっちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、そういえば……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そういえば？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ううん！\\nなんでもないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そんな風に言われたら余計気になります。\\n何を言いかけたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えーと……うーんと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チノちゃんのところには、\\n毎年、サンタさん、来てる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はあ……。\\n来ていると言えば来ていますが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "もしかして、私がサンタさんを\\n信じているか確認したいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "な、何言ってるの？\\n信じるも何も、サンタさんはいるに決まってるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "……気を遣ってもらっていることはわかりました。\\nでも大丈夫です、それくらいはもう知っています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そ、そうなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ただ、本当にいないとは限らないので\\n念のため靴下は毎年、用意していますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "ね、念のためですよ。\\n念のため、一応、です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（へえ～、念のため、かぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "なんですが、その顔は？\\n子どもっぽいとでも思ってるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ううん、そんなことないよ。\\nだってサンタさんは本当にいるからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "本物のサンタさんは、\\n世界中の子どもたちにプレゼントを\\n配らなくちゃいけなくて忙しいもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "だから、毎年必ず本物のサンタさんから\\nプレゼントをもらうのは難しいけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "でも、今年は大丈夫！\\n絶対にチノちゃんのところに来てくれるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "だって、チノちゃんは\\nこんなにいい子なんだもん。\\nプレゼントをあげたくなっちゃうに決まってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "そ、そうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うん！\\nだから、今年も忘れずに靴下を用意しておいてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "……はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "えへへ。\\nクリスマスが楽しみだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "よい子のところに来てくれるのなら、\\nきっとココアさんのところにだって\\n来てくれますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "え？　何か言った？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "残りのチラシを配ってくると言っただけです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "ああ、待って。\\nそれなら私も手伝うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "……ありがとうございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

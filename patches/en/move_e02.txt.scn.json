@@ -1,0 +1,364 @@
+{
+  "identity": "move_e02.txt.scn",
+  "scenes": {
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんは外で仕事中だけど\\n　甘兎庵で一休みしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "こんにちは！\\n千夜ちゃん、遊びに来たよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？　千夜ちゃん、いない？\\n　今日はバイトじゃないのかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "あら、ココアさん。\\nよければ、席、ご一緒しませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "青山さん！\\nそれじゃ、失礼しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "今日は、原稿用紙を広げてないんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "ええ、今日は違うんです。\\n散歩をしていたら少し疲れてしまって、\\n糖分を補給しにきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "ここの甘味はとてもおいしくて、\\n気持ちもリフレッシュしますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "わかります！\\n甘兎庵の甘味って魔法がかかってる\\nみたいですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "魔法……。\\nもし、その魔法でカロリーも\\nなかったことにできたのなら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そ、それは全国の乙女共通の悩み！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "寒天はローカロリーですよね。\\nでも、このコクのある黒蜜を\\nたっぷりからめて食べる快感といったら……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "抹茶のアイスクリームも、\\nバニラのアイスクリームも、\\nとても舌触りがなめらかで幸せの味で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "青山",
+          "original": "そしてなんといっても、こしあんが絶品です。\\nはあ、おいしかった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（気になる気になるといいつつ、\\n　ぺろりと食べちゃったよ。\\n　やっぱり青山さんも大人とはいえ女の子なんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "ああ、幸せ……。\\n甘兎庵のあんみつは、もはや芸術品ですね。\\n他のメニューも食べたくなってしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "これは、どんなおいしさのひと皿でしょうか。\\nこちらのメニューもどんなものか気になります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "注文してみようかしら……。\\nああ、でも、これ以上カロリーを摂っては……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "食べたい……でも……食べない方が……。\\nああ、どうすれば……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "青山",
+        "original": "食べたい……でも……食べない方が……。\\nああ、どうすれば……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "その分、運動しましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "我慢は体に毒ですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "青山さんはスリムだから大丈夫ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "その分、運動しましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "ですが、私は運動があまり得意ではないのです。\\n困りました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "大丈夫です、得意かどうかじゃなくて\\n運動量が大事なんですから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "はっ……！\\nそう言われてみればそうですね！\\nココアさん、なんて的確な……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "我慢は体に毒ですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "そうでしょうか？\\nカロリーを摂りすぎる方が\\n毒かと思っていたのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "我慢してるとストレスがたまるでしょう？\\nあとで反動が出て、\\n逆に食べすぎちゃったりしたら大変ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "そ、それは……！\\n確かに、あり得ます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ですよね！　私だって、もふもふを我慢したら\\n反動でティッピーを手放せないくらいに\\nなっちゃいますよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そうなると、きっとチノさんと\\nティッピーさんの取り合いで\\nケンカになってしまいますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そ、そんなことになったら大変だ～！\\nほら、やっぱり我慢はよくないですよ、青山さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "ええ、そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "青山さんはスリムだから大丈夫ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "ほ、本当ですか？　私、スリムでしょうか。\\nココアさんのようなかわいい方に\\n褒められると、とても嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "でも、ここで食べたら、せっかく\\n褒められた体型が崩れてしまうことに。\\nそれは悲しいですね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はっ、食べるのをすすめるつもりが\\n　逆効果に……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "い、今のは、少し食べたくらいじゃ\\n変わらないくらいにスリムだから大丈夫、\\nってことですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そうですか、ありがとうございます。\\nそれなら食べても大丈夫ですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "ココアさんは、本当に優しい方ですね。\\n人の気持ちを軽くしてくださる天才だと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "て、天才？\\nそんなことないですよ、\\n私、立派なことなんて言えないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "いえいえ、何気ない言葉こそが、\\n人の心を動かすものなのですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "では、せっかくなので注文してみますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "これは……！\\n目にも楽しく気高く尊い、\\nつまりとってもおいしそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "そうだ。\\nココアさん、半分こしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え？　いいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "注文するに至ったのは、\\nココアさんの励ましのおかげです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "ぜひ一緒に、おいしいスイーツを食べる幸せを\\nかみしめましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "わーい！　これ、とっても\\nおいしそうだなって思ってたんです。\\nそれじゃ遠慮なく、いただきます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "はあ、おいし～い！\\nありがとうございます、青山さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "いいえ、こちらこそ助かります。\\n実は、半分こすれば摂取カロリーも\\n半分になる、という目論見もありまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はうっ！？\\n　こ、この人、意外に策士！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、私もおいしいスイーツが\\n　食べられてよかったし、\\n　めでたしめでたしでいっか）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

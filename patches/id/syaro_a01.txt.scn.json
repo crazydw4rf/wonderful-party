@@ -1,0 +1,213 @@
+{
+  "identity": "syaro_a01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（はぁ～、どうしよう。\\n　勢いで引き受けちゃったけど……\\n　パーティーの主催なんてやったことないのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（主催ってことは、パーティーで\\n　やることを考えなくちゃいけないのよね。\\n　そのための準備だってしないといけないし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（って、悩んでても仕方ないわ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（せっかくリゼ先輩と一緒に\\n　クリスマスを過ごせるんだから、\\n　絶対に楽しいパーティーにしてみせるっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（そのためには、まずスケジュールの確認を――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（あー、やっぱり。\\n　わかってたことだけど、クリスマスまで\\n　バイトで予定が埋まっちゃってる）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（この時期は時給がいいし、\\n　フルールだけじゃなくて他のバイトも\\n　入れられるだけ入れたつもりではいたけど……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（まさか、こんなにびっしりだったなんて）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（いつパーティーの準備をすれば……。\\n　もうすぐ期末試験だってあるのに――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "期末試験！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "（そうよ！\\n　すっかり忘れてたけど、\\n　もうすぐ期末試験があるじゃない！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "（し、試験勉強は一夜漬けでなんとか……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "（だめだわ、それでもし低い点数なんか\\n　取っちゃったら、特待生としての立場が！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "（第一、試験がどうにかなったとしても、\\n　バイトで予定が埋まってることに\\n　変わりないじゃない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "（準備の時間なんてどうやって作れば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "（そもそも、どんな準備をすればいいの？\\n　まさか大福にろうそくなんてわけには\\n　いかないわよね？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "（やっぱり、今からでも\\n　断った方がいいのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "（でも先輩が……\\n　ううん、みんなが楽しみにしてるパーティーを\\n　盛り上げたいって気持ちは嘘じゃないし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "（メール？\\n　こんな時間に誰から……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "『夜遅くにすまない。\\n　寝ていたか？　それとも\\n　パーティーのことを考えていたのかな？』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "『まさか、シャロがパーティーの主催に\\n　名乗り出るとは思わなかったよ』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "『何かしてみたいことがあるのか？\\n　手伝えることがあったら、なんでも言ってくれ。\\n　必ず力になるよ』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "『さっきも言ったことだけど、\\n　それを改めて伝えておきたかっただけだ。\\n　パーティー、楽しみにしてるよ。おやすみ』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "（返事しなくちゃ……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "任せてください。\\n必ず期待に応えるパーティーにしてみせます。\\n……これで、送信っと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "（先輩、優しい言葉をありがとうございます。\\n　おかげで少し落ち着きました）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "（そうよ、こういう時こそ冷静にならないと。\\n　慌てたって状況は変わらないんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "（やるべきことを１つずつ\\n　順番にこなしていけば、きっとどうにかなる）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "（それじゃ……\\n　今日のところは、もう寝た方がいいわね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "（パーティーの具体的なイメージは浮かんでないし、\\n　こんな気分のまま勉強をしても頭に入らないもの。\\n　今夜はしっかり休んで、明日にそなえましょ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "それじゃ……先輩、おやすみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

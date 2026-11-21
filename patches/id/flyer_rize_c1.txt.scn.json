@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_rize_c1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "やっぱりコスプレだと\\nチラシの減り方が違うね、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あれ？　リゼちゃん？\\nどこに行ったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "リゼちゃーん！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ここだ。\\nそんなに大声出さなくても聞こえてるぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ここってどこ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あ、いた！\\nなんでそんなところに隠れてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "さっきから、誰かに見られてる気がするんだ。\\nこれは……もしかしたら\\nどこかのスパイかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "スパイ！？\\nリゼちゃん、どんな事件に\\n巻きこまれちゃったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ほら、あそこを歩いている学生。\\nこっちを見ていったぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "しかし、スパイにしてはあからさますぎる。\\nもしかして……何かの警告か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nスパイとか警告とかかっこいいけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "単に、着物が珍しいから\\n見られてるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "あ……。\\nそうか、今、着物を着ていたんだったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "甘兎庵に行けば珍しくないけど、\\n街中じゃやっぱり見かけないもん。\\n私だって、着物着てる人が歩いてたら見ちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "なるほど。\\nさすがに考えすぎだったか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でもそれって、\\nリゼちゃんが隠れたくなっちゃうほど\\n注目を集めてるってことだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だったらコスプレ作戦大成功だよ！\\nやったね、リゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。\\n作戦成功は喜ばしいことだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "でも、この視線に慣れるまでは苦労しそうだ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

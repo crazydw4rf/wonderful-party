@@ -1,0 +1,307 @@
+{
+  "identity": "flyerhap_chino_i.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "……うーん。\\nココアちゃん、ごめんなさい。\\n私、ちょっと休んでくるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あれ、疲れちゃった？\\n休憩だったらみんなでしようか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "私もそれがいいと思います。\\nみなさん、休憩にしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ん？　もうか？\\n少し早くないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\n私が休みたいって言ったの。\\nちょっと胸が苦しくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "胸が！？\\n大丈夫なのか？\\n病院に行った方がいいんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ううん、ちょっと緩めれば楽になると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "緩めるって……\\nああ……そういうことね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ねえリゼちゃん、どういうことかな？\\n千夜ちゃん、大変な病気だったりしないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "こういうのはデリケートな問題だからな。\\n無闇に訊くのもまずいだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "大丈夫です先輩、心配しなくていいですよ。\\n一時的なものなので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "まあ、シャロが言うなら大丈夫なんだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "はあ、楽になった。\\nちょっぴり合ってないのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "……ああ、そういうことなんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "チノちゃん。\\n先輩とココアにはわからないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "持てる者の余裕ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ＆チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "どうした、シャロ。\\nチノも浮かない顔して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "なんでもありませんから。\\n気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "はい、成長促進について考えていただけです。\\nもっと大きくなるためには\\nどうしたらいいのか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、身長のことで悩んでいるのかな？\\n　小さいチノちゃん、かわいいのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（けど、大きくなりたいって気持ちはわかるよ。\\n　ここはお姉ちゃんとして、\\n　いいアドバイスをしてあげないと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\n大きくなるためには、\\nやっぱりバランスの取れた食事が大切だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ああ、基本は大事だ。\\nしっかり食べて栄養を取る。\\nそれが１番だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "栄養……。\\nやっぱり牛乳でしょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "牛乳もいいけど、\\n好き嫌いなくなんでも食べるのが大切だな。\\nセロリもしっかり食べるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "……けど、きちんと食べても\\n即効性はないですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "さすがに、すぐに大きくなるってのは無理だろ。\\n栄養の他にも、適度な運動なんかも重要だしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "ウォーキングでも、毎日こつこつ続ければ\\nそのうち体ができあがっていくものさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "でも、千夜は運動苦手なのよね。\\nおかしいわ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "千夜さんはどう思いますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "そうねぇ、私も\\n栄養をちゃんと取っているからだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "和菓子の材料でも、きなことか\\n栄養豊富なものがあるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "きなこ牛乳にしたら飲みやすいし、栄養満点よ。\\n初めは黒蜜を少し入れるといいわ。\\nこれも、毎日こつこつね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "やっぱり毎日こつこつ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "そう！\\nすぐに効果があるものなんてないのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "シャロさん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "千里の道も一歩からよ！\\n一緒に頑張りましょ、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "はい、頑張ります！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "いいな～！\\nねえ、私も仲間に入れて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "チノ",
+          "original": "ココアさんはだめです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "そう、ココアは仲間じゃないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "どうして仲間じゃないの！？\\nどうして～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "リゼ",
+          "original": "なあ、一体なんの仲間なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "うーん、よくわからないわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

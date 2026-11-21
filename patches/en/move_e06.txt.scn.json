@@ -1,0 +1,332 @@
+{
+  "identity": "move_e06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（市場はいつも活気があって楽しいな。\\n　歩いてるだけでウキウキしちゃうよ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、シャロちゃんがいる！\\n　フルールの制服じゃないし、\\n　今日はバイトお休みなんだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、どうしたんだろ？\\n　すごく暗い顔してる？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nどうしたの？\\nそんな暗い顔をしていたら幸せが逃げちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "それはため息をついたらじゃなかった？\\nまあ、今、ものすごく\\nため息をつきたい気分だけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（地面の上に落ちたアイスクリーム。\\n　シャロちゃんの手には\\n　アイスクリームのコーンだけ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ここから導き出される答えは……１つ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "アイスクリーム、落としちゃったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "そうよ。\\nすごくおいしそうだったから、\\n思い切って買ったのに、こんなことになるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nたまの贅沢も、私には許されないのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "節約を忘れて、アイスクリームなんか\\n買うから罰が当たったんだわ。\\n私はずっと節約だけしてればいいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（暗い、暗いすぎるよ！\\n　こんなのシャロちゃんらしくない！\\n　何とかして元気付けてあげたい！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（暗い、暗いすぎるよ！\\n　こんなのシャロちゃんらしくない！\\n　何とかして元気付けてあげたい！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私の胸で泣いていいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "別のものを買おう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "おごってあげるよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\n私の胸で泣いていいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "はっ？\\n急に何を言い出してるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "悲しい時は、思いっきり泣いていいの。\\n強がる必要はないんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "べ、別に、泣くほど悲しいわけじゃないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そんなこと言って、\\n顔で笑って心で泣いてるんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "だから、平気だって言ってるでしょ？\\n大丈夫よ……今、本当に平気になったから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "別のものを買おう！\\n今日はアイスと相性が悪かったんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "これ以上、無駄遣いはできないわ。\\nこれは自分の不注意が招いたことなんだから、\\n戒めとして受け止めないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "シャロちゃん……！\\nな、なんて立派なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そんな立派なシャロちゃんには、\\n私がアイスを買ってあげよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "え？　そんな、いいわよ。\\nおごってもらう理由がないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あるよ？\\nそれでシャロちゃんが笑顔になれば\\n私が嬉しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "おごってあげるよ！\\nアイスクリーム１つで\\nシャロちゃんに笑顔が戻るなら、いくらでも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "必要ないわ。\\n自分の不注意で落としたのを\\nココアに買い直してもらうなんて、変じゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "けど、こんな悲しい事件を\\n放っておくわけにはいかないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "……気持ちは嬉しいわ。\\nでも、やっぱりココアにおごってもらうのは\\n違うと思うの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "子どもじゃないんだから、\\nアイスクリームぐらいでそんな落ち込まないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "それに、ココアが私以上に\\n残念がってるのをみたら、\\n何かスッキリしちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "だって、妙に大げさだったから。\\nなんだかばかばかしくなっちゃったわ。\\nふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃん、笑った。\\n　本当にもう大丈夫みたいだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "さて、汚しちゃったから掃除しないと。\\nどこかで掃除道具を借りて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "きゃああ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ど、どうしたの、シャロちゃん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "う、うさぎが！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あ、野良うさぎがアイスクリームなめてる。\\nかわいいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "うさぎってアイスクリーム食べるのね。\\nミルクアイスだから、うさぎが食べても\\n平気だとは思うけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "苦手なのにうさぎのことを心配するなんて、\\nシャロちゃんは優しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "これは今夜あたり、うさぎが\\nシャロちゃんの家に恩返しに来るかもしれないよ？\\n今日、アイスをいただいたうさぎです、って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "や、やめて！！\\nそれはもういらないものだから\\n恩返しなんて必要ないのよ！？　いいわね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（野良うさぎに言ってるけど、\\n　通じてるのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

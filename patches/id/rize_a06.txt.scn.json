@@ -1,0 +1,339 @@
+{
+  "identity": "rize_a06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（そして、約束の週末は\\n　あっという間にやってきた――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "こんばんは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "いらっしゃーい！\\n待ってたよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "こんばんは、シャロさん、千夜さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "チノちゃん、今日もお世話になるわね。\\nこれ、お土産の和菓子。ご家族で食べて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "すみません、気を遣っていただいて。\\n父も喜ぶと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "あれ？\\n先輩、何してるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、夕飯の準備をしてるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "えええっ！？\\nせ、先輩が作ってくださってるんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "リゼちゃんだけじゃないよ？\\nみんなでやってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "シャロも千夜も、夕飯はまだだよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "はい、もちろんです！\\nもうお腹ぺこぺこですっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ああ……いい香り。\\nこれはカレーね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ああ、家庭でもできる軍隊式カレーだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "軍隊式？\\nそれって普通のカレーと何が違うのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "いい質問だ！\\nこの軍隊式というのはだな――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "リゼちゃ～ん、その話はさっき聞いたよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "かなり長々と聞かされましたね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "そ、そんなに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "でも、私はぜひ、聞きたいですっ！\\n先輩のお話なら１日中でも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "そんなにしゃべったら私の体力が持たないぞ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あ、えっと、その話はあとで聞くとして、\\n今はココアちゃんたちのお手伝いをしましょうね",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "それじゃ、ココアちゃん。\\n何をすればいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "えーっと、お料理やお皿を\\nテーブルに運んでくれる？\\nカレー以外はもうできてるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "わかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "なんだかすごいわね。\\nサラダも盛り付けが凝ってて、\\nまるでお店で出す料理みたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "でしょ～？\\nそれ、チノちゃんが盛り付けたんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "どうしてココアが自慢気なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "あら、このパン、焼き立てね。\\nココアちゃんが焼いたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "うん！\\nカレーっていったらライスやナンだと\\n思うかもしれないけど、パンだって合うんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "まあ、カレーパンがあるくらいだものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "チノちゃん、\\nマリネはこの大皿のままでいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "はい、好みもあるので\\n取りわけられた方がいいと思いますし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "よし、カレーもできあがったぞ！\\n盛り付けるから皿を持ってきてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "その役目、私がっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "あ、私、自分のは自分でやる～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "だめだ。\\nそうやって、にんじんをよけるつもりなんだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "ぎくっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "まったく。\\n子どもじゃないんだから好き嫌いするな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "子どもでいいから許して～、お母さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "なぁっ！？\\nだ、だ、誰がお母さんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "ココアさん、リゼさんの邪魔をするくらいなら\\n座っていてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "待ってよ、チノちゃん。\\nチノちゃんのお皿からも\\nにんじん抜いてあげるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "そ、そういうことなら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "あー、もういい。\\nカレーの盛り付けは私がやる。\\nシャロ、皿はそこに置いてテーブルの方を頼む。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "チノちゃん、スプーンはどこかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "あ、今、持っていきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "……よし！\\nこれで全部用意できたよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "カレーも準備できたぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "すごいです……！\\nなんだか、パーティーみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "リゼ",
+          "original": "クリスマス本番はもっと豪華になるさ。\\nその作戦会議のために、まずは腹ごしらえだ。\\nそれじゃ、食べよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア",
+          "original": "はーい！\\nいっただっきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "チノ＆千夜＆シャロ＆リゼ",
+          "original": "いただきます！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

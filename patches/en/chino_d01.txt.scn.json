@@ -1,0 +1,171 @@
+{
+  "identity": "chino_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "おはようございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "おはよう、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "タカヒロ",
+          "original": "おはよう。\\n今、朝食の支度をしているから\\n少し待ってなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……あの、お父さん。\\n聞きたいことがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "タカヒロ",
+          "original": "ん？　なんだい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "今年のクリスマスは、\\n私がお店の飾り付けをやってもいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "タカヒロ",
+          "original": "ああ、問題ないよ。\\nチノに考えがあるなら任せる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "なんだ、ずいぶんと嬉しそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "そ、そんなことは……あるかもです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "タカヒロ",
+          "original": "ああ、そうだ。\\nこっちもチノに言っておくことがあったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "え？　なんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "タカヒロ",
+          "original": "今年のクリスマス限定メニューなんだが、\\n何を作るか、ココア君たちが決めてくれたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……あっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "（し、しまった！\\n　ケーキ作りに夢中になっていたせいで、\\n　限定メニューのことをすっかり忘れてました！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "（うちはいつも、クリスマスに\\n　限定のメニューを出してるのに……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "す、すみません。\\nすっかり忘れてしまって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "タカヒロ",
+          "original": "気にしなくていい。\\nココア君も、自分で考えてみたいって\\n乗り気だったしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "タカヒロ",
+          "original": "メニューの内容は、\\nあとでココア君に聞くといい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "あ、はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "（ココアさんはパンを焼くのが得意だし、\\n　もしかして限定のパンでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "（ココアさんのパンはどれもおいしいから、\\n　限定メニューとして出しても\\n　大丈夫そうですが――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "（このままじゃ、うちがパン屋さんと\\n　誤解されそうですね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "あれ？\\nその肝心のココアさんは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ティッピー",
+          "original": "まだ起きてこんわい。\\nそろそろ起こしに行った方がよさそうじゃな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "わかりました。\\nちょっと行ってきますね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

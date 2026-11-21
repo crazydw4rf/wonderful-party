@@ -1,0 +1,412 @@
+{
+  "identity": "syaro_a02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（ん……。\\n　目覚ましが鳴ってる……起きないと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（寝る前まで、あんなに悩んでたのに\\n　意外にぐっすり眠れたわね。\\n　ふふっ、リゼ先輩のメールのおかげかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（でも、今日からは、\\n　こんなにのんびりはしてられないのよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（本格的にパーティーのことを考えなくちゃ\\n　いけないし、バイトはもちろん\\n　試験勉強だって――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（そう、やるって決めたんだから\\n　しっかりしないと。\\n　とりあえず、顔を洗って朝食を――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ああっ！\\nそうだ、朝食、買ってない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（昨日の帰りは、パーティーのことで\\n　頭がいっぱいだったから、\\n　夕方のセールのこと、すっかり忘れてた！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（どうしよう？\\n　何か残り物、あったかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "シャロちゃ～ん、起きてる～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "（え？　千夜？\\n　朝からどうしたのかしら）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "おはよう、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "おはよ、千夜。\\nどうしたのよ、朝から。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "実はね、シャロちゃんに\\n朝食を持ってきてあげたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "朝食！？　本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ええ。\\nでも、食べる前に顔を洗ったら？\\nパジャマのままだし、起きたばかりなんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "わ、わかってるわよ！\\nちょっと待ってて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "慌てなくても朝食は逃げないからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "うう～……。\\nもう、からかわないでよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "それじゃ、いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "はい、めしあがれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "もぐもぐ……。\\nうん、おいしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ふふ、ありがとう。\\n時間に余裕はあるから、\\nゆっくり落ち着いて食べてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "ほら、お茶も用意してきたの。\\nどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ありがと……。\\nそれにしても、なんでこんなに\\nタイミングがいいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "タイミングって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "だから……まるで私が朝食の用意を\\n忘れてるって知ってたみたいに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "ええ、そうよ、知ってたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、昨日の帰りに\\n夕方のセールで買い物していくの\\n忘れてたでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "き、気がついてたなら言いなさいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\nでも、こうして朝のうちに話したいことが\\nあったから、ちょうどいいと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "え？　話したいこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "シャロちゃん。\\nクリスマスパーティーの件だけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "シャロちゃんのことだから、\\nクリスマスまでバイトでスケジュールが\\n埋まってるんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "それなのに、パーティーの主催を\\n引き受けたりして、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "それなのに、パーティーの主催を\\n引き受けたりして、大丈夫？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "それは……その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "な、なんのことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "千夜には関係ないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "それは……その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "やっぱり大丈夫じゃないのね、その様子じゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そ、そんなことないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ただ、バイトが忙しいっていうのは本当で、\\n期末試験のこともすっかり忘れてて、\\n大変じゃないって言ったら嘘になるっていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "でも、大丈夫だから。\\n自分でやるって決めたことだし、心配しないで。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そう。\\nシャロちゃんがそう言うなら信じるわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "な、なんのことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nシャロちゃんはとぼけるのが下手ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "べ、別に、とぼけてるわけじゃないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "じゃあ、本当に大丈夫なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そういう態度は、\\n認めてるのも同然じゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "でも、いいわ。\\nシャロちゃんにも\\n考えがあってのことなんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "千夜には関係ないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "私もパーティーに出席するんだから、\\n関係はあるんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "うっ……それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\nこういう言い方はずるかったわね。\\nでも少し心配で、聞いておきたかったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "心配なんて……いらないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "そう。\\nなら、これ以上は何も聞かないことにするわね。\\nただし……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "無理はしないでね。\\n私に手伝えることがあるのなら、\\n遠慮なく言って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "今日みたいに、朝食の用意くらいなら\\nいつでもしてあげるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（……もう、そんな風に優しくされちゃったら\\n　頑張るしかないじゃない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ありがと、千夜。\\n私、最高のクリスマスパーティーを\\n開いてみせるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ええ、楽しみにしてるわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

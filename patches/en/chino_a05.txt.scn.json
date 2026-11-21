@@ -1,0 +1,189 @@
+{
+  "identity": "chino_a05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（そして放課後――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（寄り道した公園で、２人に\\n　ラビットハウスのクリスマスパーティーのこと、\\n　その準備を引き受けたこと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（そして、どんなパーティーにすればいいか\\n　悩んでいることを話しましたが……\\n　上手く説明できたでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ふ～ん、なるほど～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "そうだったんだぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい……。\\nそこで、お２人に何か意見を頂けないかと\\n思いまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "あのさ、チノ。\\nそんな重く考えなくてもいいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "え？　重い……ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "うん、かしこまっちゃってるって\\n言ったらいいのかな？\\nそこまで難しく考えなくてもいいと思うよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "クリスマスパーティーって、料理があって\\nケーキ食べて、プレゼントもらって……\\nそんな風にみんなでわいわいするものじゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "そうだね。\\nみんなで集まるだけでも充分楽しいもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "あの、本当にそれだけでいいんでしょうか？\\n私、クリスマスパーティーは\\nもっと特別なものだと思っていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "え？　なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "だって、クリスマスは、世界中の人たちが\\nまったく同じ気持ちを共有するんですから。\\nとてもすごいことだと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "んー、そう言われてみると\\nそうかもしれないなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "でもさ、さっきメグも言ったけど、\\nみんなが一緒にいるってのも\\nすごく特別だって、私は思うんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "私も～。\\nだってね、去年と違って、チノちゃんとか\\nココアちゃんとかと一緒に過ごせるんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "確かに……そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "だろ？\\nまあ贅沢言えば、そこにおいしいご馳走とか\\nケーキがあれば最高だな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "（おいしいご馳走ですか。\\n　ふむふむ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "あとね、ラビットハウスが\\nかわいく飾り付けられてたら楽しいねぇ。\\nツリーなんかもあったりして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "なるほど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "マヤ",
+          "original": "って、チノ、わざわざメモしてるのかよ！\\n真面目だなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "お２人からの貴重な意見ですから、\\n無駄にはできません。\\n忘れないようにメモして整理しておかないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "メグ",
+          "original": "えへへへ……。\\nそう言ってもらえると、なんだか嬉しいかも。\\n私たち、チノちゃんの役に立ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "もちろんです。\\nとても助かります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "マヤ",
+          "original": "よーっし！\\nじゃあ、テレビで見た\\nクリスマスパーティーの話なんかもする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "メグ",
+          "original": "あ、私も、お友達から聞いた\\nパーティーの話、しよっかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "はい！\\nぜひ、参考にお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

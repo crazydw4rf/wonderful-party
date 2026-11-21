@@ -1,0 +1,289 @@
+{
+  "identity": "flyerhap_chiya_c.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こんなことじゃだめよね。\\n今は仕事に集中しなくちゃいけないのに……\\nでも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん？\\nどうしたの、手が止まってるけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あっ！\\nごめんなさい、ちょっと考え事をしていて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "困った顔してたけど、もしかして悩み事？\\nなんでも相談にのるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "それは、その……気にしないで。\\n小さなことで、相談するほどじゃないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ううん、悩みに大きいとか小さいとかない。\\n千夜ちゃんにとっては、\\nどんなことだって大きな悩みのはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "だから、一緒に考えさせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "何を悩んでいるのか知らないけど、水くさいぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "相談もしてもらえないのは、\\nその、ちょっと、寂しいって言うか……\\nむ、無理にとは言わないけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "私も、もしかしたら\\nお役に立てるかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "みんな……ありがとう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "それで、何を悩んでるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ええ……。\\n実はね、こしあんとつぶあん、\\nどちらが強いのか気になりだして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "……は？　こしあん？　つぶあん？\\nそれってあんこの？\\nそんなことで悩んでたの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ちょ、ちょっと待ってくれ！\\n話についていけないんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "私もです。\\nやっぱりお役に立てそうにありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "うーん、こしあんとつぶあんの勝負か。\\nこれは和菓子界の根本を揺るがす大問題だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "ええ、そうでしょう？\\n１度気にしてしまうと、もう頭から離れなくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "話についていってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "さすがココア……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ねえ、みんなはどっちが強いと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "そう言われてもな……。\\nまあ、相談にのるって約束したし、\\nとにかく考えてみるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい、努力はしてみるべきですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "じゃあ、まずは、\\nそれぞれの強いところを考えてみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "つぶあん……。\\nあんになっても主張するつぶには\\n力強さを感じるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "うーん……？\\nわかるような、わからないような。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "それに対して、こしあんには\\nスマートなしなやかさがあるわね。\\n間違いなく技巧派だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "こしあんがスマート？\\nえーっと……つぶあんよりカロリーが\\n少ないってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "力のつぶあん、技のこしあん。\\nねえ、ココアちゃんはつぶあんとこしあんが\\n戦ったらどちらが勝つと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "あんこが戦う機会はないと思うんですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（これは難しい問題だね。\\n　こしあん、つぶあん、どちらが強いか。\\n　う～ん……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "どっちもおいしい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "答えになってないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "えー、でも、どっちも比べられないぐらい\\nおいしいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "今考えているのは\\nおいしさじゃなくて強さです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "いいえ！\\nすばらしいわ、ココアちゃん！\\nそうよね、争いは何も生まないのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "うん、そうだよ。\\nあんこはおいしさで勝負しないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "ごめんね、私、間違っていたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "なんで勝手に納得してるのよ～！\\nこっちが真面目に考えてあげてたのに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "なんていうか、ココアも千夜も自由だよな。\\nあの発想の柔軟さは真似できないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "はい。\\nまあ、真似したいかと言うと微妙なところですが。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

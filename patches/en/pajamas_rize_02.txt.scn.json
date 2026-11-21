@@ -1,0 +1,181 @@
+{
+  "identity": "pajamas_rize_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんと一緒に寝ようかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "トランプ、面白かったね！\\nまだどきどきが残ってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、楽しかったけど……\\nチノだけじゃなく、ココアも顔に出すぎだったな。\\nどこにジョーカーがあるか、わかりやすすぎだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "私も顔に出てたの！？\\nそ、そんなことないよ！？　出てないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いーや、出てた。\\nこの頬がぷくーっと膨れたりしてたな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "おお！？\\nこれは……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ん？　どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "いや、思いの外ぷにぷにで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "これ、なんだか楽しいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "り、リゼちゃん！\\nそんなにしたら、くすぐったいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "あ、悪い。\\n手触りがよくて、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "チノちゃんにもつんつんされてないのに！\\nリゼちゃんに先にされちゃうなんて……\\nひどいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "お、おい！\\n変な言い方をするな、はずかしい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "じゃあ、リゼちゃんもつんつんさせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "どうしてそうなる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "だって、リゼちゃんばっかずるいよ。\\nそれでおあいこだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "わ、わかった！\\nまあ、つんつんするぐらいなら構わないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "じゃあ、失礼しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "うっ！\\n結構、くすぐったいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "これは……！\\nうん、リゼちゃんの気持ちがわかった。\\nなんだか楽しいね、これ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "だろ？\\nまあ、私の頬は、ココアほど\\nぷにぷにしてないと思うけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そんなことないよ。\\nいやぁ、リゼちゃんも\\nなかなかのものをお持ちですな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "なんだ、その言い方。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "このままだと\\n朝までぷにぷにしちゃいそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "朝までか！？\\nさすがにそれは、頬がすり切れてしまうだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "じゃあ……我慢して、つんつん中止！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "リゼちゃんのほっぺたを守るために、もう寝るね。\\nおやすみなさい、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "おやすみ、ココア。\\n私の頬を守ってくれてありがとな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

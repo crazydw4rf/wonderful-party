@@ -1,0 +1,171 @@
+{
+  "identity": "chino_a10.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "では、ここにしましょうか。\\nベンチに座って、ゆっくりお話をしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "すみません、気を遣っていただいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "いいえ。\\n私に相談してくれるなんて、嬉しいです。\\n力になれるといいのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あの……実は、今度のクリスマスに\\nラビットハウスでココアさんたちと\\nパーティーを開くんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "まあ、それは素敵ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "その準備を私がやることになっているのですが、\\nどんなパーティーにしたらいいか決まらなくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "それで、みんなに聞いてみたんです。\\nですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "私が知っているクリスマスパーティーの\\nイメージと、みんなのものは違うようで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "私は、心静かに過ごすものだと思っていましたが、\\nみんなは、盛り上がるものだというんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "チノさんは、みなさんの答えに\\n納得していないのですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "いえ、そうではなく、\\n今まで私が経験してきたことと違っていたので\\n戸惑っているというか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "何が正しいのか、\\nわからなくなってしまったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "ん～。\\nチノさんとしては、みなさんが楽しめる\\nクリスマスパーティーをしたいのですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "はい、もちろんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "でしたら、そんなに\\n難しく考えなくてもいいんですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……やっぱり、私は\\n難しく考えすぎなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "ええ、少しだけ。\\nもちろん、その真面目さは\\nチノさんの素晴らしいところです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "これは、私個人の考えですが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "青山",
+          "original": "心静かに過ごすものであっても、\\n盛り上がって賑やかに過ごすものであっても、\\nパーティーに必要なものは同じ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "青山",
+          "original": "そう、特別なパーティーにしなくても、\\nおもてなしの心があれば充分です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "おもてなしの心、ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "青山",
+          "original": "ええ、どんな形でも、\\nおもてなしの心を持って準備すれば\\n必ず相手に伝わります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "青山",
+          "original": "『みんなが楽しめる\\n　クリスマスパーティーをしたい』\\nその気持ちを込めて準備すれば、きっと大丈夫。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "青山",
+          "original": "だから、どんな形のパーティーでも\\nいいと思いますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "（おもてなしの心。\\n　それは考えたことがありませんでした）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "（何か、とっても大きなヒントを\\n　もらえた気がします……！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

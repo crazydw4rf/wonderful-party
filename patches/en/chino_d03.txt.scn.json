@@ -1,0 +1,213 @@
+{
+  "identity": "chino_d03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "最後に、この部分にクリームを――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "チノちゃん、頑張って！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "いよいよね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "……完成、です！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ああ……！\\nやったわね、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "うん、いい出来映えだわ。\\n見た目もこれならばっちりね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "（ついにクリスマスケーキが完成……。\\n　なんだか、信じられない気分です）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "（ここまで来るのに\\n　長かったような短かったような……。\\n　とにかく、クリスマスに間に合ってよかった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "おめでとう、チノちゃん。\\n今までよく頑張ったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "いいえ、私１人で完成させることは\\nできませんでした。\\nこれもすべて、お２人のおかげです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "今までご協力いただいて、\\n本当にありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ううん、そんなことないわ。\\n私、洋菓子は得意じゃなかったし、\\nチノちゃんと一緒に勉強させてもらったもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "私も、これで味見役から解放ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "すみません。\\nシャロさんにまで、無理を言って\\nお付き合いしていただいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "ううん、いいのよ。\\nでも、最初は驚いたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "千夜がメールで『緊急事態なの、助けて！』\\nなんて送ってきて何事かと思ったら、\\nケーキの試作品がお出迎えなんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "本当に助かったわ、シャロちゃん。\\nわがままを聞いてくれてありがとう",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "ま、まあ……食費も浮いたし構わないけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "それに、チノちゃんとも\\nますます仲良くなれたものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "ちょっ！？\\nは、はずかしいこと言わないでよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "わ、私も……！\\nその、憧れのシャロさんと\\n一緒に過ごせて楽しかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "そ、そうなの？\\nうん、私も……楽しかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あらあら。\\n２人の仲むつまじさに、私、妬けちゃう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "千夜～！\\nからかわないでってば～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "そうでした、シャロさん。\\nクリスマスの予定は大丈夫でしょうか？\\nバイト、忙しいんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "そうね、クリスマス当日も\\nバイトが入ってるけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "でも、このケーキが待ってるって思えば、\\nどんな仕事だってさっさと終わらせられるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "シャロさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "いっぱい働いたあとだったら、\\nケーキもすごくおいしいと思うしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "お仕事、頑張ってください。\\nラビットハウスで待ってますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ええ。\\nチノちゃんも、当日は大変だと思うけど頑張って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "はい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "ふふふふ、本当にパーティーが楽しみね。\\nもう待ちきれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "（私も……。\\n　ココアさんがどんな顔するか……\\n　ちょっとだけ、楽しみです）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,602 @@
+{
+  "identity": "rize_d03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（よし、シャロの欲しいものも聞き出せたぞ。\\n　これで残るは千夜だけだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（なるべく自然に話を持っていかないと。\\n　千夜はココアと違って鋭いからな。\\n　下手を打てば気づかれてしまう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "いらっしゃいませ、リゼちゃん。\\n待ってたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、急に悪かったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "いいえ、構わないわ。\\nクリスマスパーティーの打ち合わせなのよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そうだ。\\n仕事中にすまない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "気にしないで。\\nこの時間は、まだそこまで混まないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "さあ、こちらの席にどうぞ。\\n今、温かいお茶を持ってくるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "はい、お待たせ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "でも、わざわざうちまで来なくても、\\nメールか電話でよかったんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "予算に関してだからな。\\nこういうのは細かい数字の話になるし、\\n直接会って話した方がいいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ほら、予算表もまとめてきた。\\nこれを見ながら話すのが１番早いだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ああ、なるほど。\\n確かに会って話すのが正解みたいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "じゃあ、さっそくだけど確認してみてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "ええと……そうねぇ……。みんな節約しようと\\n考えてるみたい。でも、あまり出し惜しむと\\nパーティーが寂しくなるから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "うん、この予算表にある通りで\\n大丈夫じゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "そうか、よかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "リゼちゃんも大変ね。\\nこうして、みんなの間を\\n取り持たなくちゃいけないんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "いや、千夜たちこそ大変だろう？\\n私なんて楽なものだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "そうでもないわよ？\\n私に限って言えば、チノちゃんと\\nおしゃべりする機会が増えて嬉しいくらい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ところで、用事は終わっちゃったけど\\n少しくらいはゆっくりしていけるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ああ、千夜が大丈夫なら、もう少しくらいはな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "じゃあ、甘味持ってくるわね。\\n煌めく三宝珠でいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "……それ、なんだったっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "と、まあ、そんなわけでさ。\\nまたチノが呆れてしまって、ココアが\\n機嫌を直そうと大騒ぎして大変だったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "まあ、ココアちゃんったら。\\n本当に、ラビットハウスさんは\\n毎日が楽しそうねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "（……どうしよう。\\n　さっきからたわいもない話ばかりで、\\n　本題を切り出すタイミングがつかめない！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "これなら、クリスマスパーティーも\\nきっと盛り上がりそうねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、そうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "うちもね、たまに仲のよさそうなお友達同士が\\nクリスマスのプレゼント交換のお話を\\nしていたりするの。微笑ましいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "そ、そうか、プレゼントか！\\n千夜も何か欲しい物があったりするのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "あ、いや、別に深い意味はないんだ！\\nただ興味があったというか、そんな感じでな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "うーん、そうねぇ。\\n欲しいもの……あると言えばあるけれど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "そうか、あるのか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "ええ、最近出たばかりの詩集よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "よく読んでいる作家さんの新作なんだけど、\\n今回は写真集も兼ねていて豪華なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "なるほど、詩集と写真集のセットか。\\nちなみにどんな内容なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "写真集はね、着物のよさをさらに引き出そう、\\nという内容なの。着こなしのすすめや、かんざしや\\n帯留めといった小物の使いこなしも載っているのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "（よし、これだけ情報があれば\\n　タイトルを聞かなくても調べられそうだな。\\n　なんとか目的達成――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "リゼ",
+          "original": "ふわぁっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "まあ、大きなあくび。\\nもしかして昨日、夜更かししたのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "ま、まあ、そんなところだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "（目的を達成して気が緩んだのか？\\n　いかん、こんなことでは\\n　千夜に勘づかれてしまう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "千夜",
+          "original": "じゃ、玉露を淹れてくるわね。\\n玉露って、実はコーヒーよりも目が覚めるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "リゼ",
+          "original": "へえ、そうなのか。\\nだったら、これからのために\\n買っていくのもいいかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "千夜",
+          "original": "あら、眠気覚ましが必要なほど、\\nこれからも夜更かしをする予定があるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "ああ、これからしばらく衣装を――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "（って！？\\n　しまったぁ！　つい口がすべって！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "千夜",
+          "original": "いしょう？　それって服のこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "リゼ",
+          "original": "（ま、まずい！\\n　ここはなんとかして誤魔化さないと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（ま、まずい！\\n　ここはなんとかして誤魔化さないと！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "じ、実は最近、よく怖い夢を見るんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "意匠に凝っているんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "聞き間違いじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "じ、実は最近、よく怖い夢を見るんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "まあ、怖い夢？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そのせいで夜中に目が覚めるし、\\n寝直そうとしてもなかなか寝付けなくて、\\nどうにも寝不足気味なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ねえ、それってどんな夢？\\n目が覚めちゃうくらいの怖い夢なんて、\\nすごく気になるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "リゼちゃん、ぜひ聞かせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "え？\\nいや、あの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（千夜は怪談が好きだし、これで話をそらせると\\n　予想した通りになったが――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ねえ、どんな怖い夢なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（これは、何か話さないと\\n　帰してもらえない流れか！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "え、ええと……毎回、同じわけじゃないんだが、\\nこの前は、銃撃戦が繰り広げられている中に\\n武器を持たずに放り出される夢を見たな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ああ、なるほど。\\nお化けとかじゃなくて、現実的に怖い夢なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "他には？\\n毎回同じじゃないってことは\\n色々あるのよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "他には……その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "あ、ああ！\\nそろそろ行かないと、\\nバイトの時間に遅れてしまうなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "すまない、千夜。\\nこの話はまた今度な。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "そう……。\\n残念だけど仕方ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "長居して悪かった。\\nそれじゃ、またな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "いいのよ、気にしないで。\\nまたいつでも来てちょうだいね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "意匠に凝っているんだ！\\n服ではなくて、趣向の方だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "え？　どういうことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ほら、私が演劇部の助っ人をしたことは\\n覚えているだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "今回は、その……\\n直接の出演でなく、\\n演出面のアイディアを求められたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それで色々と考えて、\\nつい夜更かしをしてしまってなぁ。\\nあ、あはははは……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そうだったの。\\n大変ねぇ、リゼちゃんも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（よしっ！\\n　どうにか誤魔化せたみたいだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "聞き間違いじゃないか？\\n私は衣装なんて言ってないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうかしら？\\nはっきり、衣装って聞こえたのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そんなことを言った覚えはない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "うーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そうね、きっと私の聞き間違いだわ。\\nごめんなさい、変なことを言って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "い、いや、気にするな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（……これは、誤魔化せてないな。\\n　だが、千夜がこう言ってくれてるし\\n　好意に甘えさせてもらおう）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "じゃあ、そろそろバイトに行くよ。\\n長居して悪かったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "いいのよ、気にしないで。\\nまたゆっくりしたくなったら、\\nいつでも来てちょうだいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、それじゃ、またな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "……リゼちゃん、もしかして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ううん、言うのはヤボよね。\\nふふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

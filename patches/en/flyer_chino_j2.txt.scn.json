@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chino_j2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はう、疲れたぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "何か飲み物でも買ってきましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん。\\n大丈夫――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、わたあめ、食べたいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……わたあめですか？\\nいきなりですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ほら、あそこの雲。\\nふわふわでわたあめみたいに見えたから、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "本当ですね。\\n真っ白くてふわふわです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ふああ……。\\nもふもふしたら気持ちよさそう……。\\nしかも甘いわたあめで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ココアさん、よだれが出てます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はっ！\\nいけない、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "大体、わたあめをもふもふしたら\\nべとべとになってしまいますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ん？\\n甘くて白くてもふもふ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "そうだ！\\nねえチノちゃん、\\n私、新メニューを思いついたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "わたあめを出す喫茶店はありませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そうじゃなくって、\\nウィンナーコーヒーのクリームを\\nティッピーみたいな形に盛り付けるの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "なるほど。\\nそれはかわいらしいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "ですが、ティッピーのもふもふ感を出そうとすると、\\nクリームの量が多すぎるかもしれませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "クリームの量が多いのは嬉しいんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "そういう人もいますが、\\nクリームはあくまでアクセントです。\\nコーヒーとのバランスを考えないといけません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そっかー。\\nいいアイディアだと思ったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "いえ、アイディア自体は面白いと思うので\\n改良案を考えてみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "おお！\\nもしうまくいったら、私の考えたメニューが\\nラビットハウスに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "そうと決まれば、休憩は終わりにして\\n急いでチラシを配っちゃおう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "ここであれこれ考えてるより、\\nお店に戻って実際に作ってみた方が\\nいいところとか悪いところがわかるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "はい。\\n残りのチラシ配り、早くすませてしまいましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

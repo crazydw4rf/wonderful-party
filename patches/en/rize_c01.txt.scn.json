@@ -1,0 +1,616 @@
+{
+  "identity": "rize_c01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（今日はバイトが休みだし、\\n　気分転換にこうして散歩をしているが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（だめだな、クリスマスパーティーのことが\\n　頭から離れない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（何か手伝えることか、新しい役割を\\n　思いつけばいいんだが――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（こうして、クリスマスの準備が進んでいる\\n　街を見ていても、何も思い浮かばないなんてな。\\n　本当にもう、私にできることはないんだろうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（ん？　この声は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスでーす。\\nクリスマスには、限定メニューも用意してまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ココア！？\\nこんな所で何をしてるんだ？\\nしかもそんな格好で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、リゼちゃん。\\n何ってチラシ配りだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "チラシ配りって、それはもう終わっただろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、うん。\\nチノちゃんの誕生日までの\\nつもりだったんだけどね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "でも最近、お客さんが増えてきた\\n感じがするでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ああ、確かにそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "もちろん、それがチラシ配りだけの\\nおかげじゃないってことはわかってるけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "少しでも効果があったなら、\\nやめちゃうのはもったいないかなーと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "だから、これからも\\n時々やろうと考えてたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "クリスマス限定メニューのことを\\n聞いちゃったから、これはすぐにでもやるべきだ！\\nってことで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "なるほどな。\\nよし、そういうことなら私も手伝うぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "でもリゼちゃん、今日はお休みだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "そうだけど、こんな所を見かけて\\n黙ってるわけにはいかないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "それに、ココアが表に出ているということは、\\nラビットハウスには今、チノしかいないんだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "さっさとチラシ配りを終わらせて戻らないと、\\nチノが大変じゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "あ、そこは大丈夫だよ。\\nおじさんがお手伝いしてくれてるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "それに、お休みの日はちゃんと休むべきだって、\\nいつもチノちゃんに言われるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "それは……まあ、確かにそうだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "だから私１人で大丈夫だよ。\\nチラシ、急いで配ってすぐに戻るから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "それに、これからクリスマスに向けて\\nどんどん忙しくなっていくんだから、\\n休める時はちゃんと休んで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "（……忙しくなっていく、か）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "（ココアたちは、バイトに加えて\\n　パーティーの準備もあるわけで……\\n　間違いなく忙しいだろう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "（だが、バイト以外、\\n　なんの役割もない今の私は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？　どうかしたの？\\nなんだか難しい顔してるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "あ、いや、その――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "青山",
+          "original": "まあ、かわいらしいサンタさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "あ、青山さん。\\nこんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "青山",
+          "original": "こんにちは、ココアさん、リゼさん。\\nお２人でチラシ配りですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "チラシ配りは私だけですよ。\\nリゼちゃんは、今日、お休みなので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "青山",
+          "original": "そう言われてみれば、\\nサンタさんなのはココアさんだけですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "青山",
+          "original": "あら？\\nこのチラシ、以前に配っていたものと違いますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "おお、さすが目の付け所が違いますね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "実は、ラビットハウスで\\nクリスマス限定メニューを出すので、\\nそのお知らせをしてるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "青山",
+          "original": "クリスマス限定メニューですか。\\n私にも１枚、いただけますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "もちろんですよ。\\nはい、どうぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "青山",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "青山",
+          "original": "ええと、なになに……\\nクリスマス限定、特製パンケーキですか。\\nこれは、ぜひ、いただいてみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "青山",
+          "original": "あ、そうだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "青山",
+          "original": "クリスマスに向けて忙しくなりますよね？\\nせっかくだから、いただくついでに\\nお手伝いもさせてもらおうかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "リゼ",
+          "original": "なんでそうなる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "青山",
+          "original": "いえ、なんとなく。\\n少し現実から逃げたいなーなんて\\n思っていませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "リゼ",
+          "original": "明らかに思ってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "あ、そっか！\\n原稿に行き詰まってるから、ラビットハウスの\\n手伝いをして現実逃避なんですね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "青山",
+          "original": "はううっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "リゼ",
+          "original": "ココア、容赦ないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "えっ！？\\n今の、言っちゃいけないことだったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "青山",
+          "original": "いえ……いいんです……。\\nちゃんと現実と向き合い、重荷を下ろして\\nクリスマスを迎えますから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "リゼ",
+          "original": "なるほど、締め切りがかなり近いわけか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "ココア",
+          "original": "が、頑張って、青山さん！\\nパンケーキを用意して待ってますから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "青山",
+          "original": "ありがとうございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "青山",
+          "original": "そういえば、\\nこのクリスマスメニューを出す時は\\nやはりサンタさんの格好をするんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "リゼ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "え？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "まあ、クリスマスだし、ありかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "うちはそういう店じゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私には似合わないからなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "まあ、クリスマスだし、ありかな。\\nせっかくの特別な夜なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、そうだよね！\\nこの衣装を着たら、\\nきっとクリスマス気分もうなぎ登りだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "うなぎ登りって。\\nクリスマスには微妙に合わない表現だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "あ、ですがその衣装は、\\nウェイトレスとして働くのには、\\n少々、露出が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、言われてみれば……\\n当日はバタバタしそうだし、ちょっとまずいか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うーん、そっかぁ。\\n働きにくくなっちゃったら、\\nほんまつてんどんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "は？　なんでいきなり天丼なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "もしや、本末転倒、でしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ……。\\n間違えちゃった、てへへ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "お前はやっぱり文系に弱いなぁ。\\nまあ、とにかく、当日もサンタじゃなくて\\nラビットハウスの制服で――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "うちはそういう店じゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そういうお店って？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "だ、だから……その……\\nいかがわしい店ではないというか、な？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "いえ、そんなつもりは。\\nせっかくかわいらしいのですから、\\nリゼさんにも着てみてほしかったというだけで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "か、かわいらしいなんて言われたら、\\n余計に着づらいじゃないかっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "じゃあ、ぜんぜんかわいくないから着てみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "何が『じゃあ』なんだ！？\\nそもそも言ってる意味がわからん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "とにかく、クリスマスも\\nサンタではなくいつもの制服だ。\\nそれがラビットハウスのあるべき姿なんだからな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "私には似合わないからなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "リゼさんは謙虚ですね。\\nとてもお似合いだと思いますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\nリゼちゃんはもっと自分の魅力に\\n気がつくべきだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いや、そんな力説されてもな？\\n自分のことは自分が１番よくわかってるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\n自分でもわからない普段との差が、\\nリゼちゃんの魅力だよ！　ギャップだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それ、褒めてないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "褒めてるよ～！\\nだから、このサンタの服を一緒に着よう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（……ん？　サンタ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "リゼさん？\\nどうかしましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そうか！　サンタか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うわあっ！？\\nほ、ホントにどうしたの、リゼちゃん？\\n急に大きな声を出したりして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "あ、いや！　なんでもない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "ですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "本当になんでもないんだ！\\nじゃあ、私はもう行くから。\\nまたなっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "……行っちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "何やら目を輝かせていましたけど、\\nどうしたのでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

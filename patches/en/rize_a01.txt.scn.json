@@ -1,0 +1,273 @@
+{
+  "identity": "rize_a01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ありがとうございましたー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ふう！\\n今日はいつもより忙しいね。\\nチラシ配りの効果かな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nようやく一息つける感じです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（確かに少し余裕ができたな。\\n　それなら今のうちに……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "チノ、すまないが、\\nちょっとだけ自分の作業をしてもいいか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい、お客さんがいない間ならいいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、どうしたの？\\n宿題でもするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "違う。\\n役割分担を考えようと思ってさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "役割分担？　なんの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "もちろん、クリスマスパーティーの準備だよ。\\nみんなで手分けして、円滑に準備を進めたいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "おおー！\\nさすがリゼちゃん、しっかりしてるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "パーティーの主催を買って出たからには、\\nこれくらいのことはやって当然だろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "とはいえ、それぞれ都合もあるだろうし、\\n最終的に決める前に意見を聞きたいと\\n思ってるんだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "そういうことなら、いつでも聞いてよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "まあ、待て。\\nまだ必要な役割を書き出してる途中なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "それに、意見を聞くなら\\nみんなで集まって、\\nまとめて聞いた方がいいだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "え？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "別々に聞いて、誰かの都合が悪かった場合、\\n調整してまた連絡を取る必要があるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、そっか。\\nそれじゃ、二度手間になっちゃうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "しかし、いつみんなに集まってもらうかが問題だ。\\nこうして気軽に聞けるココアやチノはともかく、\\nシャロや千夜はバイトの都合もあるだろうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うん、これから年末に向けて\\nバイトも忙しくなるし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nだったら、もう１回お泊まり会をやろうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "今までみたいに毎週末……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "は、無理かもしれないけど、何回かなら\\nみんなの予定も合わせられるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "いつもすっごく楽しかったから、\\n終わっちゃって寂しいなって思ってたし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃんも、これが\\n最後だと思うと残念だって言ってたもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、まあ、そうだな\\nみんなの予定が合うなら、やりたいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、本当に\\nリゼちゃんの家でお泊まり会、しちゃう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "そうしたいところなんだが……\\nしばらくは親父の知り合いが来たりして\\n家の中がばたばたするから、難しそうなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あれ、そうなんだ。\\n残念だね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "おいおい、目的が変わってないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でも、リゼちゃんもお泊まり会、\\n楽しかったよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ま、まあ、そうだな。\\nお泊まり会が楽しかったことは事実だし……\\nみんなの予定が合うなら、やってもいい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、場所はまたラビットハウスかな？\\nチノちゃん、どう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "一応、父に確認は取りますが、\\n大丈夫だと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そうか。\\nなら、また甘えさせてもらうとするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "じゃあ、お泊まり会決定だね！\\nやった～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "おっと。\\nさて、おしゃべりはここまでだ。\\n新しいお客さんだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "私とチノちゃんが接客するから、\\nリゼちゃんは役割分担を進めてていいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "え？　だけどバイト中だし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\n忙しくなったら仕事をしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、わかった。\\n悪いな、２人とも。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

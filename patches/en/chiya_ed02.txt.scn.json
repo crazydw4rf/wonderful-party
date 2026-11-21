@@ -1,0 +1,429 @@
+{
+  "identity": "chiya_ed02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ、みんな……乾杯！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "みんな",
+          "original": "かんぱーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は待ちに待ったクリスマス！\\n　みんなすごく楽しそうでよかったぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "みんな、今回は\\n宝探しを手伝ってくれてありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "あのレシピを活かしたスペシャルメニューを\\n今からお披露目するわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "おおっ！　待ってましたぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "わくわくだね～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "実は、今回はさらにアレンジを加えてあるのよ。\\nはい、じゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "おお～っ！\\nブッシュ・ド・ノエル仕様のコーヒーケーキ！\\nすっごくクリスマスっぽい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "あんことティッピーのマジパンが乗ってます……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "か、かわいい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "本当においしそう……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "シャロちゃんには特別なケーキがあるわ。\\nあとで持ってくるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "べ、別に、気にしなくていいって言ったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "だめよ、みんなで一緒に楽しむんだから。\\nね、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "そうね。\\n……ありがと、千夜。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ケーキのほかにも、\\nコーヒーあんみつやコーヒーのお団子。\\n甘兎庵特製、小麦色の誘惑もあるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "普通にターキーって言いなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "しかし、これは豪勢だな。\\nすごいじゃないか、千夜。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ううん、私１人じゃないわ。\\n青山さんやチノちゃんのお父さんにも\\nたくさん手伝ってもらったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "青山",
+          "original": "ご謙遜を。\\n私たちは本当にお手伝いをしただけです。\\nこのお料理は、千夜さんの作ったものですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "タカヒロ",
+          "original": "ああ、その通りだよ。\\nあとは私と青山君に任せて、\\n千夜君も存分にパーティーを楽しみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんのお料理、本当にすごいね。\\nきっといいお嫁さんになれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "あら、嬉しい。\\nココアちゃんがもらってくれるのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "なんでそうなる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "それにしても、このマジパン、\\n本当によくできてるわね。\\n今にも動いて噛みついてきそうなんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "私もマジパン作るつもりだったんだけど、\\n準備に時間を取られちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "いいのよ。\\nココアちゃん、\\nいっぱい私を手伝ってくれてありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "でも、リベンジしないと！\\nパンとつくものが作れなかったなんて、\\nラビットハウスのパンマスターの名が泣くよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "いつの間にそんな役職に任命されていたんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "ココアさんの妄想です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "パンとつくものなら何でもいいの？\\nじゃあさ、今度フライパンでも作ってもらおっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "ふ、フライパン！？\\nわかった……私、金属加工の勉強してくる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "無理しないで、ココアちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "おいおい、メグ。\\nさっきからケーキ食べすぎじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "メグ",
+          "original": "だ、だって～。\\nこのコーヒーケーキ、すごくおいしくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "まあ、止まらなくなる気持ちもわかるけどな。\\nちょっとした苦味が、\\n逆に甘さを引き立ててるからかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "えへへへ～！\\nコーヒーケーキ、さいこ～っ！　いえ～いっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "いつの間にかシャロちゃんが\\nカフェインハイテンションに！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "あらまあ、我慢できずに食べちゃったのね。\\nいいわ、特製ケーキはあとで届けてあげましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "メグ",
+          "original": "みんなおいしそうに食べてるから、\\n我慢できなくなっても仕方ないですよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "千夜",
+          "original": "そう？\\n本当に、コーヒーケーキが好評みたいで嬉しい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "……ねえ、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "あ、はい、なんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "相談なんだけど、このケーキ、\\n甘兎庵の通常メニューにしてもいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ティッピー",
+          "original": "なっ、なんじゃと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "このレシピはみんなで協力して見つけたものだし、\\n何より、ラビットハウスさんと甘兎庵の絆を\\n感じることができて、嬉しいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "千夜",
+          "original": "この絆をずっと大切にするっていう意味でも、\\nぜひ、お願いしたいのだけど……だめかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "チノ",
+          "original": "いいですよね、おじいちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ティッピー",
+          "original": "……勝手にせい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "いいですよ。\\nこちらとしても、嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "千夜",
+          "original": "チノちゃん……ありがとう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "チノ",
+          "original": "ち、千夜さん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "千夜",
+          "original": "本当に嬉しいわ！\\nこれからも、この絆を大切にしましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "ココア",
+          "original": "なんでチノちゃんだけじゃなくて私も！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "千夜",
+          "original": "だって、ココアちゃんがいなかったら、\\nこんな素敵な出来事も、\\nこんな幸せな日々もなかったのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "ココア",
+          "original": "そうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "千夜",
+          "original": "大人になっても、おばあちゃんになっても、\\n私たち、ずーっと変わらない友達でいましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "ココア",
+          "original": "うん、もちろんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "チノ",
+          "original": "はい、私でよければ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "シャロ",
+          "original": "千夜ぁ～！\\nわらしをわすれたらぁ、らめなんらから～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "マヤ",
+          "original": "私たちだって、ずっと友達だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "メグ",
+          "original": "私も～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだな。\\nこれからもみんな一緒だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "千夜",
+          "original": "みんな……ありがとう。\\nこれからも、ずっとずっと一緒ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "青山",
+          "original": "少女たちが聖なる夜に友情を確かめ合う。\\n美しい光景です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "ティッピー",
+          "original": "そうじゃな。\\nこういうのも悪くない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "青山",
+          "original": "はっ！\\nマスターのお声が……！？\\nこれは……今日は本当に、奇跡の夜なのですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "青山",
+          "original": "私も、いつまでもみなさんをこうして見ていたい。\\nずーっと、素敵な友達でいてくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

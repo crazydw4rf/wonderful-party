@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_chino_c3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あ、チノちゃん。\\n襟元がちょっと緩んできてるみたい。\\n直してあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "すみません、お手数をおかけします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "いいのいいの。\\nこれくらい気にしないで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "少しは着慣れてきたと思っていても、\\n崩れないようにするのは難しいものですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "仕方ないよ。\\nチラシを配るために動き回ってるんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "でも、千夜さんの着物が\\n乱れているのを見たことなんてありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、そういえばそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "千夜さんのように上品に振る舞えば、\\n着物が乱れないんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "それとも、着物が乱れないように\\n気をつけているから、上品な振る舞いが\\n身についたんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "うーん、\\nニワトリが先かたまごが先かって感じだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "……間違ってはいませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "でも、着物に夢中になりすぎるのはほどほどにね。\\nなんだか、ティッピーがご機嫌斜めっぽいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "え？　ティッピーが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ティッピー",
+          "original": "……ふん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "もしかしてなんだけど、チノちゃんが\\n甘兎庵の制服に夢中なのが不満なんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ティッピーは、ラビットハウスの\\n看板うさぎなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "そうなんですか、ティッピー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "そんなこと、いちいち気にしとらんわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "ですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ティッピー、すねちゃだめだよ。\\nチノちゃんが、いつだってラビットハウスのことを\\n１番に考えてるのは知ってるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "こうやって甘兎庵の制服を着てるのだって、\\nラビットハウスにお客さんを呼ぶためなんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "だから機嫌直して。\\nね、お願い。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "ココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "どうかなチノちゃん。\\nティッピーに私の言葉、少しは届いたと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "……はい。\\n届いたと思います。\\nですよね、ティッピー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ティッピー",
+          "original": "だから、気にしておらんと\\n最初から言っておるだろうが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "あらら、そっぽ向いちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\nちゃんと届いていますから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

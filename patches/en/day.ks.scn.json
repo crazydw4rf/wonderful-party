@@ -1,0 +1,139 @@
+{
+  "identity": "day.ks.scn",
+  "scenes": {
+    "*day_coffee": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "喫茶店イベント",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "choice_0": {
+          "original": "Ａ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "Ｂ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "Ｃ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "Ｄ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*day_flyer_popularity_down": {
+          "original": "Ｅ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*day_end_noflyer": {
+          "original": "ゲームオーバー",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*day_flyer_dress": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は誰と一緒にチラシ配りをしよう？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "チラシ配りイベント\\nキャラ選択",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "choice_0": {
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect2": {
+      "choices": {
+        "choice_0": {
+          "original": "学校制服",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "ラビットハウス",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "甘兎庵",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "軍服",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "サンタ風",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_6": {
+          "original": "ハロウィン風",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_7": {
+          "original": "怪盗ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_8": {
+          "original": "バニー",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_9": {
+          "original": "バレンタイン",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

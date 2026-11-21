@@ -1,0 +1,608 @@
+{
+  "identity": "pajamas_main_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "なるほど、今週の進捗はこんな感じか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ええ、順調に進んでいる感じね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "しんちょく？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "物事の進み具合って意味よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "なあ、シャロ。\\nチラシ配りの先輩から見て\\n気になるところはないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "いえ、特には……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "何か気になりますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "あ……え、えっと……気になるところはないけど\\nリゼ先輩に先輩って言われるのは、\\nやっぱり変というか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、そういうことか。\\nでも先輩なんだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ともかく、これで確認することは終わりね。\\nそれじゃ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "せっかくだし、この間の怪談話の\\n続きをしましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "いらない！\\nあの続きなんか聞いたら眠れなくなっちゃう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "だめですか？\\n楽しみにしていたのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "チノちゃんには悪いけど、\\n怪談をするなら私がいない時にして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "怖がってくれる人がいた方が、\\n怪談話のポイントがわかりやすいのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "私で試すなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "まあ、やっぱり怪談は夏の風物詩だしな。\\nここで涼しくなっても仕方ないし、\\n怪談はやめておこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "それじゃ、怪談の代わりに何かゲームをしようよ。\\nトランプとかどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "私はいいわよ？\\nなんのゲームをするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うーん……ここはシンプルにババ抜きかな。\\nそれでね、負けた人は罰ゲームってどう？\\n『早口言葉を言う』とか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "まあ、それくらいの罰ゲームなら\\nいいんじゃないか？\\n緊張感も生まれるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "じゃあ、負けた人が早口言葉を言う\\nババ抜き大会、始めよーう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "――で、残ったのはこの２人か。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "絶対に負けません……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "２人とも真剣ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "意外に負けず嫌いよね、チノちゃんも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "残り手札は\\nココアちゃんが１枚、チノちゃんが２枚。\\nここで決着がつきそうだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "さあ、ココアさん。\\nお好きな方を引いてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ええっと……こっちにジョーカーが\\n　ないってことはチノちゃんが持ってるんだよね。\\n　ここは慎重に選ばないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "よーし、じゃあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "……はっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　右のカードを見たら\\n　チノちゃんの表情が変わった？\\n　これはもしかして……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "えーっと、やっぱりこっちかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "ほっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "それともこっち？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "うう……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、顔に全部出ちゃってる！\\n　かわいい～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、どうしよう？\\n　反応から考えると、ジョーカーは\\n　多分、左のカードだよね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（うーん、どうしよう？\\n　反応から考えると、ジョーカーは\\n　多分、左のカードだよね）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "（バレてるって教えてあげよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（勝負とは非情……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（勝たせてあげようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（バレてるって教えてあげよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、どれがジョーカーかバレバレだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "え！？\\nそんなわけ……\\nじゃあ、どっちがジョーカーなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "こっちでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ど、どうしてわかったんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\n真のギャンブラーは、相手の顔を見ただけで\\nどのカードかわかってしまうのだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "あっ……！\\n私、そこまで顔に出てたんですね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "でも、どうして教えてくれたんですか？\\nそのまま引いてしまえば\\nココアさんが勝っていたのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うーん、そうなんだけど\\nなんだかずるしてるみたいで嫌だなって。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……ココアさんはお人好しですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "では、こうします。\\n私にポーカーフェイスは難しいようなので、\\n改めてシャッフルして……こうします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、カードを床に伏せちゃった？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "これで、私にも\\nどちらがジョーカーかわかりません。\\nココアさんの勘との勝負です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん、恨みっこなしの真剣勝負だね。\\nじゃあ……これだっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あっ！\\nやったぁ、上がり！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "むう……。\\n仕方ありませんね、私の負けです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（勝負とは非情……！\\n　チノちゃん、これもお姉ちゃんの\\n　愛の鞭なんだよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\nジョーカーがどれかはわかってるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……ブラフですね。\\n引っかかりませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "どうかな？\\nジョーカーはこっち、\\nだからこれを引けば上がりだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ええええっ！？\\nど、どうして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ふっ……。\\nチノちゃんはもう少し\\nポーカーフェイスの勉強をするべきだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "あっ……。\\n顔に出ていたんですね。\\nココアさんはそれを見抜いたわけですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……ココアさん。\\nもう一勝負、お願いします。\\n今度は絶対に見抜かれたりしません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ほほう、我が妹ながら\\nいい目をしてるね、チノちゃん。\\nよし、今度も負けないよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "むうう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "残念、またチノちゃんの負けね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんに勝つためには、\\nまだまだ修行が足りないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……次は負けませんからね、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ここは勝たせてあげようっと。\\n　お姉ちゃんとして妹に花を持たせないとね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うーんと、これかな～？\\nあれ、ジョーカー引いちゃったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……ココアさん。\\n今の、わざと負けましたね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えっ！？　そ、そんなことないよ？\\nジョーカーがどっちなのかなんて、\\n全然わかってなかったよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "いいえ、わかってましたよね。\\nココアさんは嘘がつけない人ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "こんな風に勝っても、ちっとも嬉しくありません。\\nもう、ココアさんなんか知りませんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ええ！？　そんな～！\\nも、も、もう１回！\\n今度は手加減しないから！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "知りませんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "あらら。\\nチノちゃん、怒っちゃったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "気持ちはわかるわ。\\nわざと勝たせてもらうなんて、私だって嫌よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "これはもうトランプどころじゃなさそうだな。\\n今夜はこれでお開きか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ということは、チノが罰ゲームだな。\\n早口言葉はなんにする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ここは、基本の\\n『赤巻紙、青巻紙、黄巻紙』かしらね。\\n『隣の客はよく柿食う客だ』とか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "わかりました。\\nでは、行きます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あかまきぎゃみ、あおまきぎゃみ、きまきぎゃみ！\\n隣の客はよきかききゅうきゃくきゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "かっ……かわいい～！\\nチノちゃん、すっごくかわいいよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "それ、早口言葉への感想じゃないわよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "もしかして、言えてませんでしたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そうね。\\n確かに、言えてなくてかわいい感じだったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "うう……。\\nも、もう１回、やります！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "いいって、無理するな。\\nチノは充分、頑張ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんの早口言葉、かわいかったぁ。\\n　また言ってもらいたいなぁ～）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*pajamas_main_02_end": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は誰と一緒に寝ようかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

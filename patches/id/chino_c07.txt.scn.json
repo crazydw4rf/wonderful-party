@@ -1,0 +1,598 @@
+{
+  "identity": "chino_c07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "止まれ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？　どうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "目標の足が止まった。\\nどうやら目的地に着いたようだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　でもここって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（甘兎庵だよね？\\n　わざわざ秘密にしてまで甘兎庵に？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "こんにちは、千夜さん。\\n今日もよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "待ってたわ。\\n今日も頑張りましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "チノちゃん、お店の中に入っていったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "何か話していたが、\\nさすがに聞き取れなかったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "ともかく、これで結論が出た。\\nチノはバイトを早上がりして\\n甘兎庵に来ていたわけだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "むむむ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "そんな顔するな、ココア。\\nよかったじゃないか、トラブルに\\n巻き込まれたりしていなかったんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "でも、甘兎庵に行くなら\\n私も誘ってくれればよかったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "そんなことで怒るなよ。\\n１人で来たい時だってあるだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "……はっ！\\nそうだよ、逆に考えてみると、私に黙ったまま\\n甘兎庵に行かなくちゃならないってことで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "まさかこれは、\\n本当は私じゃなくて千夜ちゃんの妹に\\nなりたかったってこと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "どう受け取ったらそういう考えになるんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ど、どうしよう？\\n　私はどうしたら……！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（ど、どうしよう？\\n　私はどうしたら……！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "チノちゃんに真相を聞かなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "少し様子を見てみよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ま、まずは落ち着かなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃんに真相を聞かなくちゃ！\\n私、行ってくる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "待て！　落ち着け、ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "止めないで、リゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "いざとなったら、千夜ちゃんと私、\\nどっちがお姉ちゃんにふさわしいか、\\nはっきりさせるんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "だから、落ち着け！\\nまだ店の中に入っていっただけだ。\\nもう少し様子を見てみよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……うん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "少し様子を見てみよっか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "お？　そんな冷静な判断をするとは\\n思わなかったよ。\\nココアも成長したな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "と、と、と、当然だよ？\\nきっと、これは、その、な、な、何かの間違いで\\nチノちゃんは、わ、私の妹なんだからね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "全然冷静じゃない！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "い、いざとなったら、千夜ちゃんと\\n真のお姉ちゃんの座を賭けた\\n勝負だってする覚悟だよ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "落ち着け、ココア！\\nそんな大声出したら見つかるだろ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ま、まずは落ち着かなくちゃ！\\n真のお姉ちゃんは、どんな時でも\\n妹を信じてあげるものなんだからね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだ。\\nチノだって、何か考えがあって\\n黙っていたんだろうからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "それを見極めて、きちんと対応しよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん！\\nリゼちゃん、うかつな行動は禁物だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "その言葉、そっくりそのままお前に返すよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……はっ！？\\nもしかして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、\\n甘兎で食べた甘味の代金が払えなくて、\\nバイトしてお金を返してるとか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あのな……\\nどれだけ暴飲暴食したらそうなるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ともかく中を観察してみよう。\\nいいか、見つからないように慎重に覗くんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃんはどこに……\\nあれ？　客席にいない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いた！\\nあっちだ、カウンターの中だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "材料は、手早く混ぜる……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そうでしてよ、チノさん！\\nですが、決して乱暴にしてはいけません。\\n荒いとスポンジがふっくらとしないのですわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい。\\nだいぶ、コツがつかめてきた気がします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "まだまだでしてよ！\\n確かに、ここ数日の成長は素晴らしいですが\\n油断は禁物ですわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "は、はい。\\nそうですね、\\n慣れてきた時の油断こそが危険です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "これは……\\nチノ、ケーキの作り方を習いに来ていたのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "そ、そんな……。\\n私じゃなくて……千夜ちゃんに……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "これでいいですか？\\n千夜お姉ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ええ。\\n上手にできたわね、チノちゃん。\\nはい、褒めてあげる。なでなで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "あ、ありがとうございます。\\nでも、お姉ちゃんの教え方が上手なおかげですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "あら、そんな。\\n嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "私……このまま、千夜お姉ちゃんと\\nずっと一緒にいたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "私もよ。\\nやっぱりチノちゃん、\\nうちの子になっちゃったらどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "はい、ぜひ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うわあああああん！\\nチノちゃんを取られちゃう～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "うわっ！？　いきなりなんだ！\\nケーキ作りを習ってるだけじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "だって！\\nあんなに楽しそうにしてるんだよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "楽しそう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "焼く時は、オーブンの温度も大事ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "そうですよ、温度管理はしっかりと！\\nでなければすべてが\\n台無しになってしまいましてよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "どこがだ？\\n２人ともすごく真剣じゃないか。\\nよく見てみろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "よく見てるよ～！\\nほら、今だって仲良さそうに話してるよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "……ココア、お前、\\n心配のしすぎで疲れてるんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "しかし、なんでまたケーキなんて作ってるんだ？\\n甘味処の甘兎で洋菓子？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "あの……もしかして、リゼ先輩？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "うわっ！？\\nだ、誰だ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "や、やっぱり、リゼ先輩！\\n先輩が千夜の家を覗きなんて、\\nそんな、どういうことですか……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "待て！　誤解だ！\\nこれは諜報活動だ！\\nれっきとした理由があるんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "へっ？\\n理由……ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "ああ、もしかして、リゼ先輩たちも\\n味見役として呼ばれたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "え？　味見役？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "え？　違うの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "シャロ。\\nちょっと話を聞かせてもらおうか。\\n正直に言った方が身のためだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "はいっ！\\nリゼ先輩の尋問でしたら喜んでっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "喜ぶのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "――というわけで、チノちゃんが\\nクリスマスケーキを作る練習をしていて、\\n私が味見をしているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "なるほどなぁ。\\nそういうわけだったのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "おかげで食費が浮くのは助かるんですが……\\nケーキはカロリーが高いから\\nちょっと体重が心配で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "って、それはいいとして、\\nなので、今日はリゼ先輩たちも\\n呼ばれたと思ったんですけど、違うんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "先輩？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "リゼ",
+          "original": "なあ、シャロ。\\n私たちのことは内緒にしてもらえないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "あ、はい。\\nそれは構いませんけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\nチノちゃん、きっと、私たちのために\\n内緒で頑張ってるんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "やっぱり、リゼちゃんの言うとおりだったね。\\n見守ることも姉として重要なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "え？　なんの話？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、ファイトだよ！\\n　クリスマスパーティー、楽しみにしてるからね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

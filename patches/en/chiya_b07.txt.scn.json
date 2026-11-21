@@ -1,0 +1,652 @@
+{
+  "identity": "chiya_b07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "いらっしゃいま……え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チノちゃん、お姉ちゃんが帰ったよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさん、千夜さん？\\n今日は宝探しのはずじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "お邪魔しまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "チノちゃん、こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "マヤさんとメグさんまで？\\n一体どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "悪いな、チノ。\\nちょっと遅くなった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "いえ、それは構いませんが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "リゼさん、買い出しはお願いしましたが\\nココアさんたちを連れてきてほしいとは\\n頼んでませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "いや、それが、ちょっとワケありでさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "実はね、チノちゃん。\\nこのラビットハウスに、私たちが探してる\\n宝物があるかもしれないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "え？　どういうことですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "うちで見つかった宝の地図をもとに探した宝箱から、\\nまた地図が出てきちゃったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "その地図をもとにもう１度探したら\\nまた地図が出てきて……\\n最終的にここに行き着いたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "うちにですか？\\nでも、ラビットハウスは普通の喫茶店です。\\n宝物なんてあるはずが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "でもさ、ここに宝物があったら\\nチノは大金持ちになれるぜ？\\nお城だって買えちゃうかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "チノちゃん、お姫様になっちゃうの～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "いえ、宝物なんかありませんし、\\n私はお姫様ではなくバリスタになりたいので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "そっか、わかったぞ！\\nこれは、毒コーヒーで眠らされたチノが\\n王子様のキスで目を覚ます展開だな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "わあ、どきどき～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "だめだよっ！\\nたとえ王子様であっても、私の許可なく\\nチノちゃんに触れるなんて許しません！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "お前は年頃の娘を持つ父親か！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "チノちゃんとココアちゃんは仲良しだから、\\nもしかしたら王子様じゃなくてココアちゃんの\\nキスで目を覚ますのかもしれないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "大事な妹を助けるためなら、\\n私、唇を捧げる覚悟はあるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "大丈夫です、そんな事態はあり得ませんから\\n安心してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "マヤ",
+          "original": "私も、チノのためならキスくらいできるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "メグ",
+          "original": "わ、私も！\\nチノちゃんは大事なお友達だもん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "マヤさんとメグさんまで\\n張り合わないでください……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "まったく、さっきまで私とチノだけで\\n静かだったのに、一気に騒がしくなったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "……ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ティッピー",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "なあ、なんかティッピーが\\n変な方を見てるけど、どうしたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ティッピー",
+          "original": "な、何を言っておるんじゃ～？\\nわしはいつもどおりじゃ～。\\nああ、今日もかしましいことじゃの～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "……確かに、\\nティッピーの様子はなんだか妙ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "マヤ",
+          "original": "なあ、もしかしてこいつ、\\nお宝のにおいを嗅ぎつけてるんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "ええっ！\\nティッピー、そんなことできるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "麻薬の匂いを嗅ぎつける犬だっているのよ。\\n宝物の匂いを嗅ぎつけるうさぎがいる可能性も\\nあるはず。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "いや、それはどうだろうな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "マヤ",
+          "original": "もしお宝の匂いを嗅ぎつけてるなら、\\nこいつの目線の先の床が怪しい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "いえ、おじいちゃんのことだから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "マヤさん、そっちじゃなくて逆方向です。\\nティッピーが見ているのと反対――\\nカウンターの裏にある棚の隅を探してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "マヤ",
+          "original": "そっちの棚？\\nでも、高くて届かないなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "私が踏み台を使えば届きそうだな。\\n待ってろ、探ってみるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ティッピー",
+          "original": "リ、リゼ！\\n余計なことを……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "チノ",
+          "original": "ティッピー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ティッピー",
+          "original": "……な、なんでもないわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "怪しい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "おおお！？\\nおい、あったぞ！　見ろ、宝箱だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "本当だぁ！\\nちゃんとうさぎの刻印もあるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "マヤ",
+          "original": "すっげーじゃん！\\n本当に宝箱が隠してあったよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "メグ",
+          "original": "びっくりだね～。\\nまさかラビットハウスに隠してあるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "灯台下暗しといった感じかしら？\\nチノちゃんは何も知らなかったのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "チノ",
+          "original": "はい、少なくとも私は何も知りません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "ティッピー",
+          "original": "ぐぬ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "マヤ",
+          "original": "うーん？\\nなんか、ティッピーの様子が\\n相変わらずおかしくね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "メグ",
+          "original": "そうだね、もじもじしてるみたい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "メグ",
+        "original": "そうだね、もじもじしてるみたい。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ティッピーは鼻の調子が悪いのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "なんか、怪しい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "気のせいじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ティッピーは鼻の調子が悪いのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "もしかして、宝箱の場所を嗅ぎ間違えちゃって\\nはずかしがってるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ああ、そういうことだったのか。\\n気にすることないって、\\n失敗は誰にでもあるからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "ぐぬぬぬ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "でもさ、調子がよければ嗅ぎわけられるんだよな？\\nなあチノ、今度ティッピー貸して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "え？　何をする気ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "船から吊るして、沈没船のお宝を見つけるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "だめです！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "なんか、怪しい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "確かに怪しいです。\\nさっきからそわそわしてますし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "こうなったら……\\nリゼ、軍隊式の尋問をしてやろうぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "正直、おすすめはできないな。\\nだが最終的にはそれもやむを得ないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "やめろぉ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "気のせいじゃないかな？\\nティッピーにだって、\\n落ち着かない気分の時があるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうねぇ。\\nティッピーが宝箱の在処を知っていたなんてこと、\\n考えられないものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……いえ、考えられますよね。\\nおじいちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "な、なんのことじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ごまかさないでください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "まあ、ティッピーじゃ、\\nどうやったってこの棚に届かないしな。\\nそれを追及しても仕方ないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nとりあえず、宝箱、開けてみよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。\\nよいしょ、っと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あら、また紙が入ってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "見せて見せて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "また地図だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "まだまだ私たちを試す気なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "おじいちゃん。\\nこれはどういうことですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ティッピー",
+          "original": "わしはなーんにも知らんぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "ともかくさ、また地図が見つかったんだし\\n早く解読して次の宝箱を探しに行こう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "うん！\\n新たな冒険に出発～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "待って。\\n外はもう暗くなり始めてるわ。\\nさすがにこれ以上の探索は危険じゃないかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "あ、本当だ。\\nいつの間にかもうこんな時間なんだね。\\n今日の宝探しはここまでかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、明日も頑張ろうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "それは……さすがに、私のために\\n２日もバイトを休ませるわけにはいかないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nでも千夜ちゃん１人じゃ大変でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "だったら、明日は\\n私たちが千夜をサポートするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "ココアちゃんの分まで私たちが頑張るね。\\nだから、あとは任せて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "マヤちゃん、メグちゃん……！\\nううう、こんなお姉ちゃん想いな妹を持って\\n私は幸せだよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃあ、明日は千夜ちゃんをお願いね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "よろしくね。\\nマヤちゃん、メグちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ＆メグ",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

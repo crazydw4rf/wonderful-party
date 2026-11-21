@@ -1,0 +1,358 @@
+{
+  "identity": "chino_c05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "むう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ココア、店の中で変な顔するなよ。\\n入ってきたお客さんがびっくりするだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって……ここ数日、チノちゃんが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "チノがどうかしたのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃん、何だかつれなくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そうか？\\n私は別に、いつも通りだと思うぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "いつも通りじゃないよ！\\n最近、バイトを早上がりしたと思ったら、\\nどこかに出かけちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "チノちゃん、どこに行くの？\\n私も一緒に行っていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "だめです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "戻ってきたら、すっごく疲れてて、\\n夕飯の最中に眠っちゃうこともあったり。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "くー……すー……くー……すー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ち、チノちゃん！？\\n食事中に寝ちゃだめ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "夜も、黙々と本を読んで、ため息ついてるし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "私に全然かまってくれないから、\\nチノちゃん成分が足りてないの～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "チノ成分ってなんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "うーん、チノちゃんと過ごすことで潤う\\n心の栄養かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "チノは保湿クリームか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "ココア、何か怒らせるようなことを\\nしたんじゃないか？\\nまた作りかけのパズルを完成させたとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "いくら私だって、\\n同じ失敗を繰り返したりしないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "あの、すみません。\\n今日もお先に上がらせてもらいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ああ、\\nお疲れ、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "じゃあ、私も今日はここで！\\nお疲れ様、リゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "おい、待て。\\nお前が早上がりするのは聞いてないぞ？\\nちゃんと働け。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "そんなぁ……。\\nううう、チノちゃーん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "あのな、ココア。\\n心配になる気持ちもわかるが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "恐らくだけど、今、チノは\\n自分の力で何かを成し遂げようと努力してるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "……うん。\\n多分ね、クリスマスパーティーの準備で\\nあれこれ頑張ってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "なるほど。\\nまあ、そんなところだろうとは思ってたが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "クリスマスパーティーのことは、\\nチノ自身が言い出したんだ。\\nここは静かに見守るのも姉としての務めだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "クリスマスパーティーのことは、\\nチノ自身が言い出したんだ。\\nここは静かに見守るのも姉としての務めだぞ？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "でもやっぱり心配だよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "反抗期の妹は大変だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "そっとしておいた方がいいのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でもやっぱり心配だよ……。\\nチノちゃん、つらい時も我慢しちゃって\\n言葉に出して言わないし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "でも、お前がそうやって心配していることは\\nちゃんと伝わっているはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、本当だ。\\nどんな鈍感な人間だって気がつくさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "……さっきだって、本人の前で\\n無意識にアピールしまくってたしな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "反抗期の妹は大変だね。\\nもっと色々な本を読んで、対応の勉強をしなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "いや、別に反抗期じゃないと思うぞ？\\nチノなりに考えての行動なんだしさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん、反抗期だよ！\\nお姉ちゃんを心配させる姉不幸だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "こんなことじゃ、何かあった時\\nすぐに助けてあげられないよ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そっか。\\nそこまで心配してもらっているチノは幸せ者だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "伝わってるのかな？\\n私の、この溢れんばかりの妹への愛が！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "……もう溢れまくって、\\nいやってほどこぼれて伝わってるから、安心しろ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そっとしておいた方がいいのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "まあ、下手に刺激すると\\n悪い結果を招くこともあるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "チノちゃんは悪い結果なんて\\n持ってくる子じゃないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "たとえだ、たとえ。\\n私だって、チノは真面目でいい子だって\\nよくわかってる。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（とはいっても……\\n　やっぱり気になってしょうがないよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よし、こうなったら……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あの顔……。\\nココアのやつ、\\nまた何かよからぬことを考えてるな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,12 +1,81 @@
 # Wonderful Party Translation Project
 
-A translation patch project for the game
-[Gochuumon wa Usagi Desu ka?? Wonderful Party!](https://vndb.org/v18457).
+A fan translation patch project for the PlayStation Vita game:
+[Gochuumon wa Usagi Desu ka?? Wonderful Party!](https://vndb.org/v18457) (ご注文はうさぎですか？？ Wonderful Party!).
+
+## Translation Progress
+
+| Language | Status Badge | Progress |
+| :--- | :--- | :--- |
+| **English** | [![English Translation](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/crazydw4rf/wonderful-party/main/badges/en.json)](https://github.com/crazydw4rf/wonderful-party) | Dialogue & Choices |
+| **Bahasa Indonesia** | [![Indonesian Translation](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/crazydw4rf/wonderful-party/main/badges/id.json)](https://github.com/crazydw4rf/wonderful-party) | Dialogue & Choices |
 
 > [!NOTE]
-> Machine translation is used to translate the game's scenario dialogues.
+> Translations are managed via compact, Git-friendly JSON patch files. Both machine translation and human proofreading are tracked.
 
-## Supported Languages
+---
 
-- Bahasa Indonesia
-- English
+## Playing with Translation Patch (PS Vita)
+
+### Method 1: Using rePatch (Recommended)
+1. Ensure your PS Vita is running Henkaku/Enso with the [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) plugin installed.
+2. Download the latest `wonderful-party-repatch-{lang}.zip` from the [Releases](https://github.com/crazydw4rf/wonderful-party/releases) page.
+3. Extract the zip archive directly to the root of your Vita storage (`ux0:`).
+   The files will extract to:
+   ```text
+   ux0:rePatch/PCSG00786/data/scenario/scenario_body.bin
+   ux0:rePatch/PCSG00786/data/scenario/scenario_info.psb.m
+   ```
+4. Launch the game from LiveArea.
+
+### Method 2: Direct Binary Replacement
+1. Download `wonderful-party-binaries-{lang}.zip` from [Releases](https://github.com/crazydw4rf/wonderful-party/releases).
+2. Replace the original `scenario_body.bin` and `scenario_info.psb.m` inside your decrypted game directory.
+
+---
+
+## Contributing to Translations
+
+Anyone is welcome to contribute translations! The project is designed so that multiple people can work on different routes without Git merge conflicts.
+
+### Quick Start
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/crazydw4rf/wonderful-party.git
+cd wonderful-party
+
+# 2. Bootstrap the workspace (downloads tools and extracts scenarios)
+python cli.py setup
+
+# 3. Edit translation patches in patches/en/ or patches/id/
+# Open any scenario patch (e.g. patches/en/chino_a01.txt.scn.json)
+
+# 4. Validate your patch
+python cli.py validate en
+
+# 5. Test build locally (produces runnable binaries in workspace/build/en/)
+python cli.py build en --repatch
+
+# 6. Update progress statistics
+python cli.py progress
+```
+
+For complete contributor details, see [CONTRIBUTING.md](CONTRIBUTING.md).
+For agentic contributors and LLMs, see [AGENTS.md](AGENTS.md).
+
+---
+
+## CLI Reference
+
+```text
+usage: cli.py [-h] {setup,extract,validate,apply,build,progress} ...
+
+Available subcommands:
+  setup               Bootstrap workspace tools and extract game binaries
+  extract <lang>      Extract/sync patch templates from scenario data
+  validate [lang]     Validate patch syntax, schema, and original text integrity
+  apply <lang>        Apply patch files to staging workspace
+  build <lang>        Build patched binaries (and optional --repatch zip)
+  progress            Calculate progress statistics and update Shields.io badges
+```

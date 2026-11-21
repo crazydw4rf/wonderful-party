@@ -1,0 +1,538 @@
+{
+  "identity": "all_b04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "失礼しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "はい、いらっしゃいませ。\\nお待ちしていました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "おお～！\\nあ、温か～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ホント、生き返るわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "さあ、そんな入り口ではなく奥までどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "では……お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "こんばんは。\\nようこそ、みなさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "あ、青山さん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "それにティッピーも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "なんでこんな所に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "あらまあ、青山さんだったのね。\\nどうりで聞いたことがある声だと思ったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "いや、ちょっと待ってくれ！\\n青山さんがここにいるなんて、\\n何がどうなって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "そ、そうだ！\\nさっき、もう１人、老人の声もしたんだ。\\n青山さんと話していた人はどこだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "（それは、もしかしてティッピーでしょうか。\\n　でもティッピーが私やお父さん以外と\\n　お話しするなんて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "もしかして、ティッピーなんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "何言ってるのよ、千夜。\\nティッピーの声はチノちゃんの腹話術で――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "わしはティッピーではない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "（ええっ！？\\n　しゃ、しゃべった！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "……あれ？\\n今のって、チノちゃんの腹話術？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "えっと、それは、その……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "えっと、それは、その……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "あ、青山さんの腹話術です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "はい、私の腹話術です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（な、なんと言えば！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "あ、青山さんの腹話術です。\\n私は何もしていません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "えええっ！？　そうなの？\\n青山さんも腹話術ができるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（とっさにごまかしてしまいましたが、\\n　青山さんから否定されたら、どうすれば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "しかも、上手いね。\\nちゃんとティッピーが喋ってるみたいに\\n聞こえるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はい、私の腹話術です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（とっさにそういうことにしましたが……\\n　どうしよう、ここから先、\\n　ティッピーをフォローしきれるでしょうか）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そうだよねぇ。\\nティッピーが勝手にしゃべるわけないし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（な、なんと言えば！？\\n　おじいちゃん、どういうつもりなんですか！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？　違ったの？\\nいつもみたいに腹話術をしてるんだよね？\\nティッピーがしゃべるわけないし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "小娘が、何度も同じことを言わせるでない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "わしはティッピーではないし、\\nこうして話しているのはわし自身で\\n腹話術でもないわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え……？\\nえええええええええ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "本当にうさぎがしゃべってるのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "まあまあ。\\nティッピーがしゃべるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "こーら！\\n何度言えばわかるんじゃ！\\nわしはティッピーではない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "で、では……貴方は一体、誰なんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "ふふん。\\nわしはサンタクロースじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "サ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "みんな",
+          "original": "サンタクロース！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "そうじゃ。\\nもう間違えるでないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "（お、おじいちゃん？\\n　いきなり何を言い出して……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "あの～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "は、はいっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "すみません、私の方には\\n何も触れてくれないのでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "なんか寂しそう！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "だって、みなさん、\\nサンタさんにばかり夢中で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あ、ごめんなさいっ！\\n確かに、放っておかれたら寂しいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "じゃあ、改めて質問でーす！\\n青山さんはどうしてティッピー、じゃなくて\\nサンタさんと一緒にここにいるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "青山",
+          "original": "実はですね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "青山",
+          "original": "私、サンタさんの助手なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "はあっ！？\\nでも、どう見ても青山さんじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\nそれに、サンタさんの助手だったら、\\n服もサンタさんの服のはずだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "そういう問題！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "でも、サンタさんの服を着ていないと\\n一般の人と見分けがつかないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "ほら！\\nやっぱりそうだよね～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "何であんたが勝ち誇ってるのよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "青山",
+          "original": "みなさんがそう考えるのも\\n無理ないと思うのですが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "青山",
+          "original": "実は私、サンタさんの助手としては\\nまだまだ半人前なので、\\n衣装を着る資格がないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "なんだ、そういう事情だったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "それで納得しちゃうんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "早くサンタさんの服が着られるように、\\n頑張ってくださいね、青山さん――\\nじゃなかった、助手さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "青山",
+          "original": "ありがとうございます。\\nよりいっそう精進しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "つ、つ、ついていけない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "……あら？\\n私……何だか、力が抜けてきたかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "千夜！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "身体が冷えてるじゃないか！\\n千夜、もっと暖炉の側に！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "ごめんなさい、助かったと思ったら\\n何だか気が抜けちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "いくら暖炉があるっていっても、\\n着てるのはパジャマだけだし、\\nこのままじゃ風邪ひいちゃいそう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "じゃあ、ここは雪山で遭難した時の定番で！\\nみんなで抱きしめ合おう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "リゼ",
+          "original": "それは逆効果だと言われてるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "そ、そうなの！？\\nチノちゃんをぎゅーって抱きしめて\\n温めてあげるつもりだったのに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "サンタさん、助手さん。\\n申し訳ないのですが、上に羽織る\\n毛布みたいなものを貸していただけませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "スルーされた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ティッピー",
+          "original": "うむ、確かにその服ではつらかろう。\\nでは助手よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "青山",
+          "original": "はい、わかりました。\\nそれでは……いかせてもらいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ、ぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "きゃっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "な、何！？\\n何が起こったの～！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

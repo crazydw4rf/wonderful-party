@@ -1,0 +1,382 @@
+{
+  "identity": "visit_chino_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふー。\\n　チラシ配りも終わったし、\\n　今日の仕事もあと少しだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "タカヒロ",
+          "original": "やあ、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、おじさん！\\nどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "タカヒロ",
+          "original": "チノとココア君に聞きたいことがあるんだ。\\n明日のお弁当なんだけど、\\n何か、おかずのリクエストはあるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "お弁当？\\n親父さんが作ってるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい、普段は父が作ってくれます。\\n自分で作ることもありますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "へえ～。\\nちょっと意外だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "おじさんのお弁当って、\\nおいしいし、かわいいんだよ！\\n前に写真撮ったんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ほらっ！\\n見て見て、うさぎのデコ弁！\\nかわいいでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "か、かわいい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "あ、ああ！\\nすごいな、これならお昼が楽しみになるだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うんっ！\\nわくわくしながらお弁当のふたを開けるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "メグさんとマヤさんも、\\nいつもかわいいと言ってます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "タカヒロ",
+          "original": "楽しんでくれてるなら嬉しいよ。\\nそれで、何か食べたいものはあるかな？\\n参考にさせてもらうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノの父",
+        "original": "楽しんでくれてるなら嬉しいよ。\\nそれで、何か食べたいものはあるかな？\\n参考にさせてもらうよ。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "トマトジュースで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "栗きんとんが食べたいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "なんでもいいです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "トマトジュースで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "トマトジュース？\\nお弁当に入れるものじゃないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "それに、ココアさん、\\nトマトジュースは苦手じゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うん、そうなんだけど、\\nいつまでも苦手なままじゃだめだから\\n克服しようと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさん、自分から言うなんて……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "というわけで、チノちゃんのお弁当にも\\n苦手なセロリを入れてもらおうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "え！\\nわ、私もですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そう！\\n一緒に克服しよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "わ、わかりました。\\n頑張ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "いや、だから、トマトジュースは無理だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "タカヒロ",
+          "original": "お弁当には入れられないけれど、\\n缶のトマトジュースを添えておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "タカヒロ",
+          "original": "それから、頑張ったご褒美になるように\\n寒天デザートをつけようか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ホントですか！？\\nやったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "栗きんとんが食べたいです！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "私も食べたいです。\\nお父さんの栗きんとん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "タカヒロ",
+          "original": "ああ、それじゃ明日のお弁当に入れるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\n栗きんとん、栗きんとん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "すごい喜びようだな。\\nそんなにおいしいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うんっ！\\nすっごくおいしいんだよ！\\n千夜ちゃんがびっくりするくらいなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "なんでもいいです。\\n好き嫌いはしませんから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "では、お弁当に\\nにんじんのグラッセを入れてもらいましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "にんじん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "好き嫌いはしないんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "し、しないように頑張ります！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "タカヒロ",
+          "original": "それじゃ、チノのお弁当にも\\nセロリを入れておこうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "え！？　私も？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "よーし！\\nチノちゃん、２人で苦手を克服だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "は、はい。\\nわかりました、頑張ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "よし、ならご褒美になるように\\n栗きんとんも入れておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "栗きんとん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "やったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "アメとムチか。\\n親父さん、やるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "タカヒロ",
+          "original": "明日も腕によりをかけるよ。\\nそれじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n明日のお弁当も楽しみだね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "手作り弁当か。\\nちょっと羨ましいな、そういうの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ん？\\nリゼちゃん、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "な、なんでもない！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

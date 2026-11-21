@@ -1,0 +1,476 @@
+{
+  "identity": "rize_d02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ふわぁ～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（さすがに眠い。\\n　徹夜なんてするものじゃないなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（だが、そのおかげでサンタの衣装制作も\\n　だいぶ進んだわけだし、よしとしておこう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（しかし、まだ気は抜けない。\\n　時間は限られているし、リサーチも途中だからな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（今日のバイトの前に、甘兎庵に寄って\\n　千夜の欲しい物を聞き出さないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（名目としては、クリスマスパーティーの\\n　打ち合わせだが……どう話を持っていこう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "どうぞ～！\\nフルール・ド・ラパンで～す！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "（うん？　この声って……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "チラシをどうぞ！\\nハーブティーのお店でーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "やっぱり、シャロじゃないか。\\nチラシ配りか、お疲れ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩！？\\nお、お疲れ様です！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "しかし、その格好じゃ寒いだろ。\\nコートか何か着たらどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "いえ、大丈夫です。\\nコートを着てしまったら、\\nこの制服が見えなくなっちゃいますし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "見えなくなると、何か問題があるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "問題というか……\\nこの制服も、お店の看板みたいなものですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "チラシを配るなら、ちゃんと見せなくちゃ\\n意味がないかなって思うんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "なるほど。\\n真面目だな、シャロは。\\nそこまで考えているなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "そ、そんな……私は別に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "（シャロはいつでも全力で頑張ってるな。\\n　ぜひとも、プレゼントを贈って\\n　労ってやらなくては）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "（そのためには、まず欲しい物を\\n　聞き出さないと……\\n　しかし、どうやって尋ねたものだろう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "（まずは日常のことを聞くか？\\n　それともストレートに聞くか……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（まずは日常のことを聞くか？\\n　それともストレートに聞くか……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "（日常のことから聞いていこう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（ストレートに聞こう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（別のことにかこつけて聞くか）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（日常のことから聞いていこう。\\n　まずは会話を繋げていくことが重要だ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "と、ところでシャロ？\\n昨日の夕飯は何を食べたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "えっ！？\\n昨日の夕飯ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（妙な顔をされた！？　話の振りが雑だったか！\\n　そもそも、ここからどうやって欲しい物の話に\\n　持っていくつもりだったんだ、私は！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "あの、昨日はパンを……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、パンだったのか。\\nってことはメインはシチューか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "いえ……パンだけです……。\\nその、今、節約しているので……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "節約を？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "あの、実は……ちょっと今、\\n買おうか迷っているものがあって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "よく行くお店で、素敵なカップのセットを\\n見つけたんですけど、少し値が張るんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "へえ！\\nつまり、それが今、欲しいものなわけか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "え、あ、はい。\\nそうなりますけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ちなみに、その店というのは\\n前にココアたちと初めて会った店か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "はい、そうです。\\nつい最近、そこに入荷したんです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（よし、あの店なら場所はわかる。\\n　店員に聞けば、シャロが買おうか\\n　悩んでいるカップも教えてもらえそうだ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あの、先輩？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "おっと！\\n悪いな、仕事の邪魔をしてしまって。\\n私はそろそろ行くよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（ストレートに聞こう。\\n　遠回しとかそういうのは苦手だしな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ところでシャロ、\\n最近、何か気になる物はあるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "え？　気になる物ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そうですね……。\\n最近、素敵なカップのセットを\\nよく行くお店で見つけたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "だけど、ちょっと手を出しづらい値段なので\\nどうしようか悩んでいて……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ふむ、なるほど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "でも先輩、どうしてこんなことを――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（別のことにかこつけて聞くか。\\n　ええと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "なあ、シャロ。\\nちょっと心理テストをしてみないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "へっ！？\\n心理テストですか？\\nええと、先輩ならいいですけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "よし、じゃあ質問だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "今、シャロは好きな物を\\nなんでももらえる券を拾った。\\n何をもらいたいんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nええっと、これ、心理テストなんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、心理テストだ。\\nだけど、具体的な答えをもらった方が\\n診断しやすいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "そうですか。\\nそれじゃ、今、欲しい物っていうと……\\nカップのセットですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "すごく素敵なカップのセットを\\nよく行くお店で見つけたんですけど、\\n値段がちょっと高めで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ふむふむ、なるほどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "……あの、ところで、\\nこれで何がわかるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "えっ！？\\nい、いや、その……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あ！？　も、も、も、もしかしてなんですけど、\\nクリスマスのプレゼントとか、\\nそういうことを考えてたり……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "いやっ！？\\n違うぞ、断じて違うっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "でも――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "しかし、そのカップのセット、\\n私も見てみたいな！\\nどこの店で扱ってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "えっと、ココアやチノちゃんと\\n初めて会ったお店です。\\n先輩も一緒でしたよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、あの店か！\\nわかった、今度見に行ってみるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "（なんだか、ものすごく\\n　怪しまれているような気がするが……\\n　ここは無理に押し通すしかない！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "えっと、悪いな、仕事の邪魔をしてしまって。\\n私はそろそろ行くよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そんな薄着をしてるんだ、\\n風邪をひかないように気をつけろよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あ、はい。\\n先輩も気をつけてくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "私は鍛えてるから大丈夫だよ。\\nじゃあ、またな！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

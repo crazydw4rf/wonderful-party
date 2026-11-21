@@ -1,0 +1,93 @@
+{
+  "identity": "rize_d04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（よしよし。\\n　なんだかんだで、\\n　今日も順調に任務を進められたな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（危ない場面はあったが、\\n　どうにか、みんなから欲しい物を\\n　聞き出すことができた）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（ココアがマフラーで、\\n　チノがボトルシップ用のピンセット。\\n　マヤが腕時計で、メグが服）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（そしてシャロがカップのセット、\\n　千夜が詩集、と）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（どこで売ってるかも把握しているし、\\n　あとは時間が空いた時に買いに行けば――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ふわぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（うう、さすがに眠い。\\n　昨日の徹夜が効いてきたか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "（だが、まだ寝るわけにはいかない。\\n　プレゼントの情報が揃っても、まだ肝心の\\n　サンタの衣装ができあがっていないんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（なんとか上半身は形になったが、\\n　下半身はほぼ手付かずの状態だし……\\n　クリスマスまでに間に合うか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "（最悪、買ってしまうというという手も――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "（いや！　１度決めたことを\\n　途中で投げ出すなんてできない。\\n　この任務、必ずやり遂げると決めたじゃないか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "（そのために、今夜も――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "くしゅんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "（しまった、湯冷めをしたか？\\n　作業を始める前に何か羽織っておくか）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

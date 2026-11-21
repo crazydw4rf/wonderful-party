@@ -1,0 +1,229 @@
+{
+  "identity": "flyer_chino_i3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん、\\nちょっと見てほしいものがあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ここにコインがあります。\\nこれを手のひらの上に置いて、\\nぎゅっと握りしめ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "おまじないをかけながら揉み込んで、\\nゆっくり手を開くと――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ！？\\nコインが消えてしまいました！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "本当？\\nちゃんと消えたように見えた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "はい。\\n今の、手品なんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そうだよ。\\n本に載ってた簡単なやつだけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "簡単でもすごいです。\\nびっくりしました。\\nでも、どうして急に手品を？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ほら、この格好ってマジシャンぽいでしょ？\\nだから手品ができたら楽しそうだなーと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "この前と言っていることが違うじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うん、ディーラーっぽいとも思ってるけど、\\nマジシャンっぽくもあるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "まあ、否定はしません。\\nそれで手品の練習をしているわけですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "……影響されやすいココアさんらしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "でも、できるのはまだこれだけなんだ。\\n本当はもっと色々やってみたいんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あ！\\n帽子からうさぎを出してみたいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "そ、それは、ぜひ見てみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "チノちゃんがそう言ってくれるなら、\\n練習をしてみようかな。\\n実は、もう帽子の用意はしてあるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あとはうさぎなんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "うさぎですか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア＆チノ",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "な、なんじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ねえチノちゃん、\\nティッピーで練習してみていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "いいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ティッピー",
+          "original": "なにぃっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "でも、けっこう大きいよね……。\\nこの帽子の中に入るかな？\\nえい、えい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ティッピー",
+          "original": "待たんかココア！\\n無理やり押し込もうとするでないっ！　ぐう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "あれ？\\n帽子からうさぎを出すんじゃないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "あはは、手品だからね。\\n前もって準備をしておかないとだめなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "とりあえずティッピーを帽子の中に入れて……\\nそこからどんな風にすればいいのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ティッピー",
+          "original": "やり方も知らずに練習と言っておったのか！？\\nええい！　付き合っておられんわい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あ、ティッピー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "……逃げて行ってしまいましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "残念だなぁ。\\nでも次は、ちゃんとやり方を勉強してくるからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "はい、頑張ってください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "identity": "flyerhap_chiya_j.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "こうかな？\\nうーん、それとも、こう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん、何やってるんですか？\\nさっきからチラシも配らず落ち着きなく動いて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ポーズの研究をしてるの。\\nもしこの衣装で映画を撮ったら、\\nどんな決めポーズがいいかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "またココアが妙なことを言い出したわね。\\n映画って、どうしてそういう発想になるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "だって、かわいい服で、色違いで、お揃いでしょ？\\nチームを組んで戦う魔法少女とかの\\n映画が撮れそうじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "さすがに、それは無理がないか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いいえ！\\n素晴らしいアイディアだわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ああ、千夜が食いついちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "甘兎・ザ・ムービーを現実のものにする時は、\\nみんなに主演をお願いするわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "お前の野望はどこまで広がっていくんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "前から思ってるけど、\\n甘味処の枠をはみ出してない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "シャロちゃん、時代は多角経営よ。\\n手広くやっていかなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "手を広げすぎるのも問題では……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ねえねえ、千夜ちゃん。\\n甘兎・ザ・ムービーはどんなジャンルなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "そうね……。\\n色々考えられるけど、王道なら\\n甘味処を舞台にしたラブロマンスかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "おお、いいね。\\n栗ようかんを巡る恋の三角関係、新メニューと\\n共に新展開が！　なんて盛り上がりそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "どういう話なのよ！？\\nしかも私たちの出番ないわよね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "それ、ラブロマンスじゃなくて、\\n食べ物の恨みは怖ろしい、みたいな\\nサスペンスにならないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "サスペンスもいいわね！\\nそこにホラー要素を足してみたらどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "千夜のホラーはシャレにならないから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "でも、真夏に公開したら\\n冷房の代わりになっていいかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "冷気と一緒に妙なものまで呼ぶからやめて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ホラーもだめかー。\\nじゃあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "なあ、アクションはどうだ？\\n飛び交う銃弾、迫力のカーチェイス、\\nクライマックスは手に汗握る１対１の決闘！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "甘味処が舞台なのに、ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "無理か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "な、なかなか難しいんじゃないでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "じゃあ、いつも通りの日常を撮るのはどうかな？\\n甘兎庵とラビットハウスとフルール・ド・ラパンで\\n私たちが楽しく仕事してるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "日常？　それでいいのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "さすがに日常だけじゃだめでしょうけど、\\n千夜と甘兎庵のサクセスストーリーを\\n絡めていけば映画になると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "素敵です……！\\n将来、いい思い出として見られそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "私たち５人の青春物語と\\n甘兎庵のサクセスストーリー……！\\nええ、甘兎・ザ・ムービーに相応しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "となると、今の私たちが主役だから、\\n今から撮影を始めないといけないのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "映画撮影ってどれくらいかかるのかしら？\\n今の甘兎の経営状況じゃ厳しいかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "待った待った、甘兎庵が全国チェーンに\\nなってから作る予定なんだろ？\\n今からなんて、さすがに気が早すぎだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "そう……。\\nじゃあ、この日常をちゃんと再現できるように\\nしっかり心に焼き付けていかなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "いつまでも忘れないように、ね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

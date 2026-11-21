@@ -1,0 +1,169 @@
+{
+  "identity": "pajamas_chino_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "今日も楽しかったね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい、いつもより時間が早く\\n経ってしまったような気がします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でも、こういうふうに\\nみんなで寝るのは今日で終わりなんだね。\\n寂しくなっちゃうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "……はい。\\nココアさんもそう思ってるんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん、だってすごく楽しかったから。\\n週末が楽しみで仕方なかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "って、まだだよ！\\nまだしんみりするには早いよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "確かに今日でお泊まり会は終わりだけど、\\nその今日はまだ終わってないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "そうですね、私たちがまだこうして\\n話しているあいだは、続いていますよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "どうしよっか、\\nこのまま朝まで私とおしゃべりしちゃう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "いえ、さすがにそれは……\\nきっと、私よりココアさんの方が\\n早く寝てしまうに決まってます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ええ、そうかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "絶対にそうですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、楽しそう。\\n　こんな顔をしてくれるなら\\n　またお泊まり会、やりたいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ねえチノちゃん、またお泊まり会しようね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そうですね、\\nまたこういう機会が持てれば嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "じゃあ、次はいつにしよう？\\nいつがいいかな？　明日とか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "そ、そんなに急な話なんですか？\\nみなさんの都合もありますし、\\nちゃんと予定を立てないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "……みなさんもきっと、\\nまたやりたいって言ってくれますよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃあ、次のお泊まり会までは\\n毎晩２人で寝よっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "お断りします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "即答！？\\nうう～、もうちょっと考えてくれても。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "それじゃ、たまにならいいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\nこんなふうに一緒におしゃべりしようね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

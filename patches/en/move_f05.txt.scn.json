@@ -1,0 +1,386 @@
+{
+  "identity": "move_f05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "あうう～。\\nどこにいるの～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？\\nメグちゃん、どうしたの？\\n１人でいるなんて珍しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "あっ！\\nココアちゃ～ん！　助けて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\n助けてって、どうしたの？　何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "マヤちゃんとかくれんぼをしてるんだけど、\\n見つからないの。\\nココアちゃん、一緒に探して～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "へー、かくれんぼしてるんだ。\\nマヤちゃんってそういうの上手そうだよね。\\nうん、一緒に探すよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "ありがと～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "じゃあ、どの辺りを探せばいいのかな？\\nかくれんぼの範囲はどこまで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "この街、ぜーんぶ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "広い！　範囲が広すぎるよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "でも、そんなに遠くまでいかないって\\n言ってたから、この辺りにいると思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そっか、それなら\\nこのあたりを中心に探していこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "メグ",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "見つからないね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "あうう……。\\nマヤちゃん、どこに行っちゃったの？\\nもう疲れて……足が棒みたいだよ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "メグ",
+        "original": "あうう……。\\nマヤちゃん、どこに行っちゃったの？\\nもう疲れて……足が棒みたいだよ……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "（まずはメグちゃんを元気づけよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（私たちだけじゃ無理かな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（ここは新しい作戦を考えよう）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（まずはメグちゃんを元気づけよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "メグちゃん、\\n甘いものでも食べて休憩しよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "甘いもの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "疲れた時には、やっぱり甘いものだよね！\\n甘兎かな？　フルール・ド・ラパンかな？\\nもちろんラビットハウスでもいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "あ、でも……甘いものは食べたいけど\\nマヤちゃんを置いては行けないよ。\\n行くなら一緒じゃないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、そっか、そうだよね。\\nメグちゃんは優しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "そ、そんなことないよ。\\nマヤちゃんだってきっと食べたいだろうなって\\n思って……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（私たちだけじゃ無理かな？\\n　だったら……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "応援を呼んでこよう！\\nチノちゃんとかリゼちゃんとか、\\nきっと協力してくれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "チノちゃんとリゼさんかぁ。\\n特にリゼさんは頼りになりそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "でも、マヤちゃんは１人なのに\\n私たちはそんなにいっぱいなのは\\n卑怯じゃないかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "う……。\\n確かに、マヤちゃんが\\n怒っちゃうかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ここは新しい作戦を考えよう。\\n　探しに行くんじゃなくて、マヤちゃんを\\n　おびき寄せるような……よし！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "もう探すのやめる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ええ～！？\\nそんなことしちゃ、マヤちゃんが可哀想だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも、こんなに探しても見つからないってことは\\nもう帰っちゃったのかもしれないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ううん、マヤちゃんはそんなことしないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……うーん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "ココアちゃん？\\n何してるの、キョロキョロして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "帰っちゃおうって話をしてたら、マヤちゃん、\\n慌てて出てくるかと思ったんだけど……\\n聞こえる範囲にはいないみたいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "えー！\\n今の、作戦だったんだ。\\nココアちゃん、すご～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えへへ、それほどでも。\\n結局失敗だったしね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でも、そんなに疲れてるんじゃ\\nこれ以上、マヤちゃんを探すのは大変だね。\\nこうなったら……カモン！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おんぶしてあげるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "お、おんぶなの？\\nえ、でも、その……ちょっとはずかしいよぉ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "だったら、いただき～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "はうっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "ココアの背中、ゲット～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "あ～！　マヤちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "え！？　マヤちゃん！？\\nどこにいたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "聞いて驚け～？\\n実は、ずっとメグのあとをつけてたんだ。\\nココアと合流する前から、ず～っとな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "ええ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "まさか、背後を取られていたなんて！\\n全然気がつかなかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "ふっふっふ～！\\nなんたって、リゼ直伝の尾行術だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "いいなぁ、そんなこと教わったんだぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "しっかし、尾行ってなかなか難しいな。\\n１人で孤独なのが結構つらいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "みんなが楽しそうにしてるの、\\n１人で見てなきゃいけないってこと？\\nそれはつらいかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "じゃあ、何人かでおしゃべりしながら\\n尾行すればいいんじゃないかな？\\nきっと楽しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "それじゃ、すぐに気付かれちゃうと思うよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "あははっ！\\nココアは尾行に向いてないな！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "identity": "syaro_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "みんな集まったね。\\nじゃあ、今日からさっそく作戦開始だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "みんな、ごめん――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ううん、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "気にするな。\\n困った時はお互い様だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "こういうのも、新鮮で楽しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい。\\nいい経験ができそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ええと、今日のスケジュールだと……\\nリゼちゃんがシャロちゃんと一緒に働くんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "先輩、よろしくお願いします！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、こちらこそ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "じゃあ、みんな！\\nクリスマスまで張り切っていこ～う！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ＆チノ＆リゼ＆千夜",
+          "original": "おー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

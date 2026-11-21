@@ -1,0 +1,175 @@
+{
+  "identity": "pajamas_chiya_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は、千夜ちゃんと一緒に寝ようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "くんくん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃん？　どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、いい匂いだな～って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "匂い？　私の？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "でも、シャンプーや石けんは\\nこの家で借りたものだから、\\nココアちゃんと同じ匂いのはずよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、そのはずだけど、私と全然違うんだよね。\\n不思議だなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "私はいつもの匂いだけど、千夜ちゃんは\\nもっと、こう、緑茶とあんこの匂いっていうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ええっ！？\\nそこまで染みついてるのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "んー、実際の緑茶とあんこじゃなくて、\\nそれを連想しちゃう感じかなぁ？\\nとにかく、千夜ちゃんらしい匂いになってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "私、この匂い好きだよ。\\nすごく気持ちがゆったりするんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "そうかしら？\\n私は、そんな風に思ったことないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "自分の匂いって、自分ではわかんないもんね。\\nでも私にとってはそういう感じなんだよ。\\nくんくん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "もう、ココアちゃん。\\nそんなに顔が近付くとくすぐったいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "私もこんな匂いだったらな～。\\n千夜ちゃんはいいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ううん、ココアちゃんこそ、\\nとってもいい匂いよ？\\n温かなお日様みたいな匂いがするもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ええ、だからどんな時でも、\\nココアちゃんの側にいると\\n温かく励ましてもらっているように感じるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "励ましてる？\\nうーん、わかんないな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "ココアちゃんの匂い、私、大好きよ？\\nそれがこんな近くで感じられるんだから\\nとっても幸せ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "この匂いに包まれて眠れたら、\\nいい夢が見られそうだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "私だってそうだよ。\\n千夜ちゃんの匂いに包まれてるんだから\\n絶対にいい夢を見られるはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ねえ、ココアちゃん。\\nこのままくっついて寝ましょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "うん、おたがいの匂いで幸せに眠れるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "温かい……。\\n一緒に寝ることで、\\nこんなに幸せな気持ちになれるのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "それじゃ、ココアちゃん。\\nおやすみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "おやすみなさい、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

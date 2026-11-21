@@ -1,0 +1,271 @@
+{
+  "identity": "flyerhap_rize_f.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、せっかくだし、みんなでやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシ配りはこれで終わりだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "さすがに疲れたな。\\n小腹も空いたことだし、\\nどこかで何か食べて帰らないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "なら、あそこの屋台なんてどうかしら？\\nクレープ屋さんみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "お、いいな。\\nそれじゃ、クレープにするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "さんせーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あれは、前にシャロさんが\\nバイトしていたお店ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ううん、違うわね。\\n別の店よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ていうか、あそこって屋台にしてはおいしいけど\\nその分、お高い店だったような。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "で、でも、せっかくなんだから！\\nここは奮発して……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "みんな、違うの買わない？\\nそれで食べさせあいっこするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "いいですね。\\nじゃあ、私はアップル＆アイスにします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "私はイチゴにしよーっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ベリー＆チーズケーキがおいしそうだな。\\nこれにしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "それじゃ、私はバナナチョコにするわ。\\nシャロちゃんは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "えっと……１番安いのは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "あら、このイチゴソース＆アイス、\\nおいしそうじゃない？\\n私食べたいから、シャロちゃん、これにして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "そ、そう？\\nじゃあ、それでいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "じゃ、決まりね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ん～！\\n甘酸っぱさとクリームのハーモニーが絶妙だ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "アップルも、\\nほんのりシナモンが薫っておいしいです。\\n……あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "ココアさん、鼻にクリームがついてます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nいつの間に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ふふ！\\nチノちゃんの鼻にもクリームがついてるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "あ、本当です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "言われるまで気づきませんでした。\\nこれでは、ココアさんのことは言えませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "けど、シャロもクリームついてるぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "え……？　あれ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "やだ、はずかしい……！\\n先輩にこんな所を見られるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "気にすることないさ。\\nクレープはクリームたっぷりだからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "なーんて笑ってるリゼちゃんも、\\nクリームついてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "何っ！？\\nしまった、油断した……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "えいっ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！？\\nなんでクリーム、自分でつけたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "あらあら、私もついちゃった。\\nこれでみんなお揃いね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "ついたんじゃなくてつけたんでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "うん、でもみんなお揃いがいいもんね。\\n仲良くクリーム姉妹だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "なんなの、そのネーミング！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "はははっ！\\n５人揃ってこんな顔なんてしまりがないなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "チノ",
+          "original": "でも……なんだか楽しいです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

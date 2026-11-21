@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_syaro_a3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "むむむ！\\n風に乗ってやってくるこの香りは！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "匂う、匂うよ。\\n上質な小麦と酵母が奏でるハーモニー、\\nそして、それを香ばしく焼き上げる香りが……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "つまりはパンの匂いね。\\nそんな匂い、する？　気のせいじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "違うよ！\\nおいしそうなパンの匂いが、\\nこっちから流れてきてる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "あ、ちょちょ、ちょっと！\\n引っ張らないでよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ほら、ここ！\\nやっぱりあったでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\nよく、こんな遠くにある\\nお店の匂いがわかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "わかるよ、こんなにいい匂いなんだから。\\n思ったとおり、かわいいパンがいっぱ～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "かわいいって……パンが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うん、そうだよ。\\nパンって、すっごく！　かわいいよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "かわいいかしら？\\nでも、まあ、趣味は人それぞれだし\\n私が口を出すことじゃないわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "……は！？\\nもしかしてあれは！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "え、シャロちゃん！？\\nどこ行くの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれは……テーブルウェアのお店？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "す、すごいわ！\\nこのシリーズがここまで揃っているなんて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "これって珍しいものなの？\\n普通のティーカップに見えるけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "白磁の質が違うのよ。\\n見て、このぬけるような、上品な白さ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "へぇ～。\\nなるほど、言われてみれば気品があるような――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "わかる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "……気がするだけかも。\\nごめんね、私にはわかんないや。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "そ、そうよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "けど、シャロちゃんが\\nこの陶器が大好きだってことはわかったよ？\\n好きなものがあるって、とってもいいことだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "……ええ。\\nココアもパン見ている時、キラキラしてたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "目が？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "じゃなくて、ヨダレが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うそ！？\\nヨダレ出てたの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "うそよ。\\nふふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "も～！\\nシャロちゃん、ひどいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

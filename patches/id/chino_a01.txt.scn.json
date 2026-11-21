@@ -1,0 +1,526 @@
+{
+  "identity": "chino_a01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いらっしゃいませ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "あっ……。\\nい、いらっしゃいませ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "チノ、お冷やはココアに任せて、\\nテーブルのお客さんにオーダーを運んでくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あ、はい。\\nわかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "お待たせしました。\\nブルーマウンテンです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "女性客Ａ",
+          "original": "えっ？\\nあのう、私、カフェラテを頼んだのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "あ……！\\nた、大変申し訳ございません。\\nすぐに作り直します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "すみません。\\nあちらのお客さんの注文、作り直します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "あれ、オーダーミスか？\\nあのテーブルのオーダーを取ったのって\\nココアだよな？　伝票を間違えたのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "いえ、ココアさんのミスではなく\\n私が作る物を間違えました。\\nすみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "チノがミスなんて珍しいな。\\nまあ、誰でも失敗はあるから気にするなよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "チノちゃん、オーダーです！\\nキリマンジャロ、お願いしまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "チノ、ちょっと疲れているのか？\\n何だか元気がないような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "なあ、チノ？\\nちょっと休憩したらどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "いえ、大丈夫です。\\n心配ないですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "そうか？\\n無理するんじゃないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "ありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "さて。\\nチノ、オーダーは――なっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "チノ、お前、なにしてるんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "なんでそんなに\\nミルクココアばかり作ってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\nこれは……いつの間に……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "これは……またココアシックか？\\nでも、あの時と違ってココアは店にいるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、私のこと呼んだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "って、わわっ！？\\nどうしたの、なんでミルクココアが\\nこんなにたくさん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "わかりません。\\n気がついたらこうなっていて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "むむっ！\\nこれはきっと、私のことが恋しくなって\\n思わず作っちゃったんだね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "ち、違いますっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "というか、同じ店内で働いてるのに\\n恋しいも何もないだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "前みたいに、甘兎庵に泊まりに\\n行ってしまったっていうのならともかく……。\\nなんでまた……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "あ！　わかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん！\\nもしかして、お姉ちゃんに\\n相談したいことがあるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんに言いたいけど言えないって気持ちが、\\nこうして出てきちゃったんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "お姉ちゃんに言いたいけど言えないって気持ちが、\\nこうして出てきちゃったんじゃない？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "別に相談なんてありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "はい、実は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ココアさんに相談したら逆効果です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "別に相談なんてありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え～？\\n遠慮しなくてもいいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "遠慮していません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "……本当に？\\nお姉ちゃん、どんなことでも聞くよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "何でもないんです。\\nお気持ちだけで充分ですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ううん、充分じゃないよ！\\n妹が困った時に助けるのは姉のつとめだもん！\\nさあチノちゃん、何でも言って！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（ど、どうしろと！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "こら、ココア。\\nそこまで行くとただの押し付けだぞ。\\n自重しろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "はーい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あの、本当に何でもありませんから。\\n気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はい、実は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "なになに？　実は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "とあるバイトの店員さんが、\\nあまり働いてくれないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "むむむ、それはだめだね！\\nチノちゃんを困らせてる人は誰？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "お前のことだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えーっ！？\\n私、ちゃんと働いてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……冗談です。\\n本当に、何でもないですから\\n気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんに相談したら逆効果です。\\nきっと、余計にこじれます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！\\n私の手にかかれば、悩みなんて即座に解決！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "その根拠のない自信はどこからくるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ん？　人生経験の差かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "確かに、私より早く生まれていますけど……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そうそう！\\nだから、遠慮しないで言っていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "その理論で行くと、リゼさんの方が\\n経験豊富ということになりますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あうっ！？\\nで、でも、私だって絶対に役に立てるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "いえ、その、本当に何でもありません。\\n気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "気にしないでと言われてもなぁ。\\nこのミルクココアの山を見てると……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "こ、こんな失敗はもう２度としません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "……そっか、わかった。\\nでも、本当に相談したいことがあったら、\\nいつでも受け付けてるからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、私もだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい……。\\nお２人とも、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "（とは言ってみたものの、困りました。\\n　クリスマスパーティーの内容、\\n　どうしたら……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "（今までクリスマスパーティーは\\n　家族とばかりで、友達としたことはなくて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "（だから、どんな風にすればいいのか\\n　よくわかりません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "（ココアさんは、\\n　とても素敵な誕生日パーティーを\\n　私にプレゼントしてくれました）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "（だから私も、ココアさんを――\\n　みんなを楽しませて、\\n　同じ気持ちをお返ししたい）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "（そっか、そんなことを考えていたから\\n　ココアさんの顔が頭から離れなくて、\\n　ミルクココアを作ってしまったのかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "（……パーティーの準備をするのが\\n　こんなに大変だとは思いませんでした）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "（あの時、安請け合いした自分を\\n　お説教したい……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "（勢いだけでやってしまうなんて\\n　ココアさんみたいです。\\n　反省しなくちゃ……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

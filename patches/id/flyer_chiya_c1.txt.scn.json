@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_chiya_c1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "うちのお店の制服を着たココアちゃん、\\nやっぱりいいわね。\\nよく似合ってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n着こなし、どうかな？　おかしくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "大丈夫、とってもいい感じよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "まあ、着こなしについては、\\nいい先生がいるから当然なんだけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "まあ、そんな人がいたの？\\n私の知ってる人？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、もちろん！\\n千夜ちゃんがよーく知ってる人だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "誰かしら？\\nリゼちゃんは……違うわね。\\nもしかして、チノちゃんが着物を着るの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "違うよ。\\n私の着物の先生は千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "え？　私？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "それは、確かによーく知ってる人だったわ。\\nけど、私がココアちゃんの先生なら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "だめですよ、ココアさん！\\n足はきちんとそろえてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（わわっ！？\\n　千夜ちゃん、急に先生モードに！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "はい！　先生！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ココアさん、もっと脇を締めて！\\n大和撫子たるもの、\\n動きはあくまで優雅に流れるように――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "チラシを配るのも、こうですよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "どうぞ、お持ちください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "どうぞ、お持ちください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そんなに大きく口を開けてはいけません。\\nあくまで、おしとやかに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "でも、口を開けずに\\nどうやってしゃべればいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "小さく口を開けて話してください。\\n難しくないですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "口を小さく？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "どうぞ、お持ちください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "はい、よくできました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うーん、小さな口でしゃべるのは難しいね。\\nチノちゃんに腹話術のコツ、教わってみようかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "そんな……！\\n私、ココアちゃんの先生、失格なのね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nそういうことじゃなくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "さようなら、ココアちゃん！\\nチノちゃんと立派な大和撫子になってね～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "千夜ちゃーん！　待って～！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

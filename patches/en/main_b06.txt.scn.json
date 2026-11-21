@@ -1,0 +1,484 @@
+{
+  "identity": "main_b06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、何か見つかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん。\\nとりあえず、これにしようかなっていうのは\\n見つけたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でも、ごめんね千夜ちゃん。\\nわざわざ付き合わせちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "いいのよ、これくらい。\\n私も、そろそろチノちゃんへのプレゼントを\\n買わないとって思っていたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "チノちゃんの誕生日、もう今週末なんだよね。\\nなんだか、あっという間だったなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ココアちゃんは、誕生日パーティーの準備とか\\nチラシ配りで忙しそうだったものね。\\nそう感じるのも無理ないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うーん。\\nチノちゃん、喜んでくれるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "大丈夫！\\nココアちゃんの気持ちはちゃんと伝わるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nだといいんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "何が、だといいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "何ってチノちゃんが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "こ、ココアちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "むぐっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "どうかしたんですか、千夜さん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "いきなりココアの口を押さえて……なんか変だぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、苦しそう～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "な、なんでもないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ふぅ～！\\nああ、びっくりした。\\nチノちゃんたち、どうしてこんなところにいるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "バイトの時間まで、マヤさんとメグさんと\\n一緒に街をぶらついていただけです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "ココアさんこそ、\\nこんなところで何をしてるんです？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "わ、私たちもぶらついてただけだよね～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ね～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "でも今、チノの名前を呼んでたよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "き、気のせいじゃないかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "気のせいなんかじゃないって。\\n絶対言ってた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "うっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ＆マヤ＆メグ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（す、すっごく疑われてる！？\\n　なんとかしなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（す、すっごく疑われてる！？\\n　なんとかしなくちゃ！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "べ、別に誕生日のことなんて関係ないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "千夜ちゃん、あとはよろしく！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "気のせいって言ったら気のせいなの！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "べ、別に誕生日のことなんて関係ないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんは、嘘がつけない人ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "な、何のこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "いえ、なんでもありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ふふ、チノちゃんとココアちゃんは\\n本当に仲良しさんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "べ、別にそういうわけでは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、あの、チノちゃん？\\n本当になんでもないからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "はい、わかってます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、あとはよろしく！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "えっ！？\\nよろしくと言われても……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……なるほど。\\nなんとなく、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　わ、わかったって何が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん、何の心配もいりません。\\n私は何も知りませんし気がついてません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nよかったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "そ、それでいいのね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "気のせいって言ったら気のせいなの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃん！\\nそれじゃ余計に疑われてしまうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……ああ。\\nなるほど、なんとなくわかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "な、何がわかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "それは……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんはどんな時でもココアさんだと\\n再確認した感じですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "いえ、いいんです。\\n私は何も知りませんから安心してください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "お、そうだ！\\nココアと千夜、お腹空いてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？\\n空いてるって言えば空いてるけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "なら、一緒にドーナツ屋さんに行こうよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ドーナツ！\\nよーし、そういうことなら\\n私がおごってあげるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "マジで！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "本当にいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんに任せときなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "やったぁ！\\nありがとな、ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "ありがと～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "あの、ココアさん、私たちは\\nそういうつもりで誘ったわけじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "いいからいいから！\\n早く行こ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "……はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ねえ、千夜ちゃん。\\n今ので誤魔化せたと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ええ。\\nとりあえず、大丈夫そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あー、でもどうしよう。\\nお小遣い足りるかな？\\nチノちゃんたちの分だけでなくなっちゃいそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "なら、私も半分出すわ。\\nこういう時はお互い様よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "め、女神様～！\\n本当にありがとう、千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

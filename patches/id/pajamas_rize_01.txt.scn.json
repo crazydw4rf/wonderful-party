@@ -1,0 +1,181 @@
+{
+  "identity": "pajamas_rize_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんと一緒に寝ようかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はあ……。\\n千夜ちゃんの話って本当に怖いよ。\\n雰囲気あるって言うか、ゾクゾクするよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "しかも、今回の怪談は最後まで聞いてないから\\nあれこれラストが想像できるしなぁ。\\nつい、余計なことを考えるよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そっかー。\\nやっぱり、リゼちゃんも怖いんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "い、いや！　怖いわけじゃない！\\n余計なことを考えて眠れなくなるだけだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そっか、リゼちゃん、お化けは怖くないんだ。\\nじゃあ怪談話も平気なんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、平気だとも。\\nまったく怖くない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "はっ！\\nリゼちゃん……後ろに……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "は、はははは！\\nそんなおどかし方で私が驚くわけないだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あれ？　怖くなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "全然！　まったく！　怖くない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うーん、じゃあ、\\nもしかして一緒に寝るの迷惑だった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "そそ、そ、そんなことはない！\\n迷惑なんかじゃないぞ！\\n大丈夫だ、心配するな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃん、もしかして……\\n　本当は怖いんじゃないかな？\\n　慌てるリゼちゃん、かわいい～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふっふっふ！\\n　ここはさらに怖がらせちゃおう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そっか、ならいいんだけど。\\nリゼちゃんの後ろにいる子は、\\nもしかして知り合い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "その手は通じないぞ？\\nいい加減にしろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "え？　でも、本当にいるんだよ？\\nいいの？　放っておいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "意外にしつこいな。\\nどうせ、いるのは\\nうさぎのぬいぐるみかなんかだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あれ？　どうしてわかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "実はな、私には訓練で培った第六感があるのさ。\\nだから見えないものを感じられる。\\nココアの後ろにいる存在も、だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "え……。\\nそ、それって……まさか……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "なーんてな！\\n冗談だよ、冗談。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "なんだぁ！\\nリゼちゃんも怪談上手だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "いや、千夜には敵わないよ。\\nあれはやっぱり別格だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "じゃあ、そろそろ寝るぞ。\\n明日の朝、起きれなくなるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "はーい。\\nそれじゃ、おやすみなさいリゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ああ、おやすみココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

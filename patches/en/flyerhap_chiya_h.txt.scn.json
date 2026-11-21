@@ -1,0 +1,301 @@
+{
+  "identity": "flyerhap_chiya_h.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ねえねえ、チノちゃん。\\nティッピーってメスなんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい、そうですけど……それが何か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、思ったんだけど、\\nティッピーも女の子なんだから\\n私たちみたいにおしゃれしたいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ティッピー",
+          "original": "な、なんじゃと！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いい考えね。\\nせっかくなんだもの、ティッピーも女の子らしく\\nドレスアップしてみたら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "えっ、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ティッピー",
+          "original": "わしはこのままで充分じゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "まあまあ、そう言わずに。\\n見て、あそこにアクセサリーの露店が出てるよ。\\n行ってみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ティッピー",
+          "original": "な、なんてタイミングじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "わあ、かわいいのがいっぱいだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "あら、センスのいい\\nアクセサリーばかりじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "わ、私は、これなんか\\nティッピーに似合うと思うぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "わあ、かわいいリボン！\\n２つつけると、結んでなくても\\nツインテールに見えておしゃれだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "まあ、本当。\\n華があるし、つけるとうさぎっぽくなるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ティッピーはそもそもうさぎですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あっ！\\nこのマント、怪盗ラパンっぽいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "マント？\\nずいぶん小さいけど、ペット用の物かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "着せてみましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "……ほら、小さな怪盗ラパンだわ。\\n私たちと並ぶとお揃いね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "なかなか似合ってるぞ、ティッピー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ティッピー",
+          "original": "わしはおもちゃではないぞ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ティッピー、次はこれをつけて？\\n小さな王冠で王様気分になれるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "おっ！\\nこっちのリボンもいい色あいだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "これも似合うんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "あ、あの、みなさん、その辺で。\\nティッピーは着せかえ人形じゃないので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "きゃっきゃしおって……。\\nこれが若さか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "……あれ？\\nねえ、千夜ちゃんは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "ん？　どこに行ったんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "あら？\\nティッピーのお着替えタイムはもう終了？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "ひっ！\\nな、な、なんでそいつがいるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "あんこにも、ティッピーとお揃いのものを\\n買ってあげたくて、連れてきたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "いいね、お揃い！\\nじゃあティッピー、その前にあんこにご挨拶だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ティッピー",
+          "original": "うお！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ティッピー",
+          "original": "な、な、なにをするか！\\n近い、近い～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "ティッピーと会えてよかったわね、あんこ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あ、ねえ、こうやってると\\nなんだかお見合いみたいだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ティッピー",
+          "original": "何！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "あら、お見合い？\\nあんこがついにお嫁さんを迎えちゃうのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "なら、あとは若い人たちにお任せして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ティッピー",
+          "original": "ま、待て！\\nそやつを離すでない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ティッピー",
+          "original": "ぎゃ～！！　来るなぁぁぁ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "ティッピー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "あらあら、あんこったら。\\n衝動を抑えきれなくなっちゃって、困ったさんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "あんこって顔に似合わず情熱的だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ティッピー",
+          "original": "ひいいいい～！\\n助けてくれ、チノ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

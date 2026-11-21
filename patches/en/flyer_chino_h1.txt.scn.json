@@ -1,0 +1,195 @@
+{
+  "identity": "flyer_chino_h1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "狙ったエモノは逃がさない！\\n怪盗ラパン、華麗に参上！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんは本当に\\n怪盗ラパンが好きですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そう、今私たちが着ているのは\\n　『怪盗ラパン』の衣装！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（『怪盗ラパン』は、今人気のアニメ。\\n　子ども向けだけど、すっごく面白いの。\\n　私やチノちゃんも大好きなんだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うんっ！\\nこの衣装を着たら、\\n嫌でもテンション上がっちゃうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ねえ、せっかくだから\\nチノちゃんも何かやってみせてよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "わ、私もですか？\\nええと、それでは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "これで警部さんたちのハートは私のモノ。\\n私に盗めないものはないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "おー！\\nさすがチノちゃん、かわいいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……似てるかどうかではないんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、もちろん似てたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "そんな取って付けたように言われても。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "まあ、なんにせよ、こういう格好は新鮮です。\\nちょっとわくわくしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふふっ！　チノちゃんが\\n　こんなに積極的なのって初めてかも。\\n　やっぱりラパンはすごいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "んー、でも、ラパンが２人いるっていうのも、\\nなんだかちょっとおかしな感じがするよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "そうですか？\\n衣装なんですし、別に気にするような\\nことでもないですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "よし！\\nじゃあ私、ラパンじゃなくて\\n警部をやることにするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "……人の話、聞いてました？\\nそれにラパンの格好のままで警部って\\n余計におかしなことになります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "それは、その……。\\nラパンに心を奪われた結果、\\n警部もラパンになっちゃったってことで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そんな無理な設定にするくらいなら、\\nラパンが２人いる方がマシです。\\n素直にラパンを演じた方がいいと思いますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "ほら、見てください。\\n小さな子が、私たちに気づいて\\n様子をうかがってます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あ、ほんとだ！\\nさすがは怪盗ラパン、人気者だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "じゃあ、ラパンのイメージを壊さないように、\\nかわいくかっこよく演じないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "……私は普通にチラシを配ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "えー、チノちゃんも一緒にやろうよー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "嫌です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "しょうがないなぁ。\\nでも、いつかは一緒にラパンを演じようね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "そんないつかは来ませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

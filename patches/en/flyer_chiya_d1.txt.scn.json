@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_chiya_d1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うわあ～！\\n千夜ちゃん、フルール・ド・ラパンの\\n制服も似合うね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうかしら？\\nふふふ、ちょっとはずかしいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ん？　どうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "この制服を着るのにね、\\nシャロちゃんに手伝ってもらったんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "『リゼ先輩みたいにいかがわしい』って\\n言われちゃったんだけど、どういうことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（いかがわしい？\\n　どういう意味だろ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "制服のサイズも合っているし、\\n小物もシャロちゃんにきちんとしてもらったの\\nだけど、何か問題があるのかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "……もしかして！\\nリゼちゃんみたいってことは、\\nつまり、軍人みたいってことじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "リゼちゃんならともかく、\\n私はそう見えないと思うのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うーん、だとしたら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あっ！　つまり、正体不明ってことなんだよ！\\n普段は甘兎庵の制服だから、この服が意外すぎて\\n謎が謎を呼んでるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "この街に溶け込むよう存在する\\n秘密めいた女……それが今の私なのね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "その正体が、甘兎を発展させるために\\n敵情偵察をするスパイとは……\\n誰も気がついていないんだわ、ふふふ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "わ、ラビットハウスの情報は渡さないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "残念。\\n甘兎を全国チェーンにするためにも\\nライバル店の情報が欲しかったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（甘兎全国チェーン……！？\\n　千夜ちゃんの夢はホントに大きいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "こうなったら、ラビットハウスは\\n全世界チェーンを目指して行くしかないね！\\n負けないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "わかったわ。\\nよきライバルとして、世界を舞台に\\nしのぎを削っていきましょう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

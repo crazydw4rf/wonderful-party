@@ -1,0 +1,145 @@
+{
+  "identity": "flyer_rize_i2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえ、リゼちゃん。\\nこのチラシ、よく見ると――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "どこか変なのか？\\nまたスペルミスでもやらかしたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "わーん！\\n前にチラシに『ラビットホース』って\\n書いたことは忘れて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "盛大に間違えた上に\\n街じゅうにチラシを配ってしまったからなぁ。\\nなかなか忘れられないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "今回はちゃんと確認したけど……\\nそう言われると不安になってくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "大丈夫だ、私が見ても問題ない。\\nそれでも何か気になるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、うん。\\nこのチラシね、ちょっと地味かなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "言われてみれば……\\n確かに地味かもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "とはいえ、必要なことは書かれてるし\\n充分なんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "でも、一目でラビットハウス！　って\\nわかるぐらいに派手な方がいいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "一目でか？\\nたとえば――単純だけど、\\nラビットハウスの文字を目を引く色にするとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "赤とか、蛍光ピンクもいいよね。\\n目立つしかわいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ピンク、しかも蛍光か！？\\n派手すぎるのも問題かもしれないぞ？\\n読みにくくなったら元も子もないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "じゃあ、イラストをもっと描くのはどうかな？\\nうさぎと花の絵で埋め尽くそう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "それだとうさぎのいる花屋みたいだろ。\\n喫茶店だってわからなくなるぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "でも、ほどほどにすると\\n今とあまり変わらないし……。\\nううう～、難しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "宣伝は派手に、と考えると\\n加減がわからなくなってくるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "……ん？　派手？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "なあ、ココア。\\n配ってる私たちの衣装が派手なんだから、\\nチラシはこのぐらいでいいのかもしれないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "おお！　確かに！\\nさすがリゼちゃん、目の付け所が違うなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃあ、チラシはこれで問題なし！\\n一件落着だね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

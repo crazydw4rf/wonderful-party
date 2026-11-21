@@ -1,0 +1,193 @@
+{
+  "identity": "flyer_rize_j3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ココア、危ない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ひゃあ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ふう、間に合った。\\nどこから飛んできたんだ、このボール。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "び、びっくりした～。\\nリゼちゃんが受け止めてくれなきゃ\\n当たってたよ。ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "まあ、柔らかいゴムボールだから\\n当たっても痛くはなかっただろうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "それで、持ち主は……と。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あそこの男の子が手を振ってるよ。\\nきっと、あの子だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "もうちょっとで当たるところだったぞ！\\n気をつけて遊べ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おー！\\n　さすがリゼちゃん、いい球を投げるね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ん？　なんだ？\\nあの子、こっちに向かって構えて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "おっと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "また手を振ってる？\\nなんなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "多分、リゼちゃんとキャッチボールを\\nしたいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "リゼちゃんがいい球を投げるから、\\n遊んでほしくなっちゃったんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "なんだ、そういうことか。\\nなら少し相手をしてやるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "よし、お前もいい球を\\n投げるようになったじゃないか。\\n今の感じを忘れないようにしろよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃん、楽しそう。\\n　まるで体育の先生みたいだよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "……はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "すまんココア！\\nチラシ配りの途中だったのに、\\nすっかり夢中になってしまった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ううん、いいよ。\\n楽しそうなリゼちゃん見てたら、\\n私まで癒されちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、すっかり童心に返った\\nキラキラした顔してたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "うう……返す言葉もない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "それにしても、子どもを見てると\\n微笑ましい気分になるよねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "何言ってるんだ、\\nココアだってまだ子どもだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "子どもじゃないよ？\\n私は立派な大人のお姉ちゃんなんだからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "残念だけど、私よりは子どもだぞ。\\n年下なんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "えー！　そんなに違わないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "ははははっ！\\nそうやってムキになるところが\\n子どもだよ、やっぱり。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

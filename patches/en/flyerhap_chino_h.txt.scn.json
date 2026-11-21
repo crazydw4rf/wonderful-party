@@ -1,0 +1,307 @@
+{
+  "identity": "flyerhap_chino_h.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "クックックックッ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ふ、フッフッフッフッフッ～。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "な、なんですか、この不気味な声は。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "怪盗ラパンよ。\\n楽しげにチラシ配りをしている場合じゃないぞ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "お、お前たちがいない間に、\\nアジトから大切なものを盗み出してやったのだ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "私たちの大切な物！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "まさか、作りかけのパズルが……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "あら？\\n２人とも、そんなところで何してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "うわぁ！？　いつの間に！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "見つかっちゃったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "マヤさん、それにメグさん？\\nどうしてここに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "というか、どうして\\nラビットハウスの制服を着てるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "フッフッフッフッ！\\nそれはだな――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "え、えーっと、聞いて驚くがいい～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "さっき言ってた盗み出した大切な物が\\n制服なんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "あああ～！！\\n言っちゃったー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "なるほどな。\\nこの私を出し抜くとは、やるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "やったぁ！\\nリゼさんに褒められちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "まあ、敵に褒められても\\nちーっとも嬉しくないけどね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "どうしよう！\\n制服がなくなったら\\nラビットハウスで働けないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "こうなったら……\\n怪盗として２人から\\nラビットハウスの制服を取り戻そう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "怪盗として……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "ふふーん、簡単に捕まると思うなよ！？\\n逃げろ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "ま、マヤちゃん、待ってぇ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "追いかけましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "いや、闇雲に追いかけるより\\nまずは作戦を立てた方がいいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "先回りをするのはどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "できるでしょうか？\\nマヤさんたちがどこに行くかわかりませんし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "じゃあ、手分けして追いかけよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "ああ。\\n向こうは２人、こっちは５人。\\n数の有利を最大限に利用するか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "さあ、行こう！\\nラビットハウスの制服は\\nこの怪盗ラパンが取り返すよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "マヤ",
+          "original": "くそ～！\\nこんなにあっさり捕まるなんて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "メグ",
+          "original": "ごめんね。\\n私がうさぎに気を取られたから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "どうしてこんなことをしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "メグ",
+          "original": "あのね、チノちゃんたちが\\nかわいい服着てて、\\nいいなあって思っちゃったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "なんだ、それならそうと言ってくれれば、\\nマヤちゃんとメグちゃんにも\\n色々着せてあげるのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "マヤ",
+          "original": "ああ、もういいよ。\\nこの制服着て満足したからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "ええ～？\\n遠慮しなくていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "しかし、ココア、大活躍だったじゃないか。\\nまさか２人ともココアが捕まえるとは\\n思わなかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "はい、今日のココアさんはすごかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "意外と索敵能力が高いんだな。\\n感心したぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "えっへへん。\\nそれほどでもないよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "なんてったって、今の私たちは怪盗ラパン！\\n私たちから逃げようなんて１００年早いのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "マヤ",
+          "original": "ちぇー、悔しいなぁ。\\n今度、リベンジしてみせるぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "うう……。\\n先輩にいいところ見せられなかった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "はぁ、はぁ……。\\nもう……動けない……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

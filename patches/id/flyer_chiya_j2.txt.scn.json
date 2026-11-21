@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_chiya_j2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うーん、何だったかな？\\nここまで出てきてるんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん？　どうしたの？\\n何か悩み事があるなら聞かせて？\\n私たち、お友達じゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、聞いてくれる？\\nあのね……この服って、何かに似てないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "何かって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "その何かが思い出せなくて。\\nきれいより賑やかな感じで……\\nこう、なんか、体をくるくるーってする感じの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "賑やかでくるくる……？\\nチアガールとか、マーチングバンドかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あー！　それだ！\\nマーチングバンド！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "言われてみれば、これって\\nマーチングバンドの制服っぽいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "これでマーチングバンドやったら絶対かわいいよね。\\n楽器を持ちながら、こう、くるくるーって回って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "くるくるくる～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あら、そうしてるとスカートが広がって\\nますますかわいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だよねー！\\nくるくるくる～。\\nくるくるくるくるくる～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "うふふ、ココアちゃんたら\\nまるでバレリーナみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "くるくるくるくるくる～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "くるくる……くるくる……く……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "ううううう～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "こ、ココアちゃん！？\\n大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "平気だよぉ～。\\n目が回っちゃっただけだから……。\\nごめんね、びっくりさせて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "私こそ、ごめんなさい！\\nくるくるしてるココアちゃんが\\nかわいくて、止められなかったの！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

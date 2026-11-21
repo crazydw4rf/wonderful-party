@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_chino_e3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "チラシをどうぞ。\\nぜひ、お店にいらしてくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさん、調子はどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "すっごくいいよ！\\nチラシの残り、あとこれだけだし。\\nチノちゃんの方はどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "私も、あとちょっとで配り終わります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "これはやっぱり、この衣装の効果かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そうですね。\\n実際、これをきっかけに\\n足を止めてくれる人もいるようですし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "衣装の効果があったことは確かでしょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "じゃあ、チラシ配りだけじゃなくて\\nラビットハウスの中でも\\nこの衣装を使って何かしてみるのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "この格好で接客をするんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "それはもちろんだけど、\\n他にも何か催しみたいなことをしてもいいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "催しと言われても……\\n具体的にどんなことをしたらいいんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そ、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "……何も考えてなかったんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "り、リゼちゃんに頼めば大丈夫だよ。\\nこの服をヒントに、\\n色々アイディアを出してくれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "メニューとか、接客の仕方も\\n考えてくれそうだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "もっときびきびと！　と言っている姿が\\n目に浮かびます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "言われた通りにできないと、\\nできるまで居残りで特訓させられたり――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "それでもだめだと、休日返上で\\n地獄のキャンプをすることになって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア＆チノ",
+          "original": "そ、そんなの嫌ぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、今、チノちゃんと息が合ってた！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "そこ、喜ぶところですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "だって嬉しかったんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "それよりも、本当にやるんですか？\\nリゼさんが本気になってしまいそうな企画を。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "えっと、やめた方がいいよね？\\n命は大事にしなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

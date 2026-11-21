@@ -1,0 +1,484 @@
+{
+  "identity": "chino_b04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（今日はちょうど土曜日で学校もお休み。\\n　さっそく、ケーキ作りの準備です）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（お父さんに頼んで\\n　バイトをお休みさせてもらって……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（マヤさんとメグさんに連絡を取り、\\n　お手伝いしてもらうことにしました――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "おーっす、チノ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "お待たせ、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "おはようございます、マヤさん、メグさん。\\n急に呼び出してすみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "友達なんだし、\\nそんなの気にしなくていいって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "うん、チノちゃんに頼ってもらえて\\nとっても嬉しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "それで相談って？\\nまた新しい悩み事？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "あ、いえ、以前と同じクリスマスパーティーの\\nことなのですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "あのあと、色々考えて、\\n私なりのパーティーのおもてなしとして、\\nクリスマスケーキを作ることにしたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "クリスマスケーキ？\\nチノが作るの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "あ、はい。\\n……何か問題があるでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "ううん、全然！\\nそれってすごくいい考えだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "手作りケーキって、\\nすっごく、おもてなし！　って感じじゃん。\\nチノ、よく考えたな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "そ、そうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "（よかった。\\n　２人の反応もいいし、\\n　ケーキを作ることは間違ってないみたいですね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "クリスマスケーキって、どんなのを作るんだ？\\nローソクがいっぱい立ってるやつ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "それじゃ、誕生日のケーキだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "あ、そっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "じゃあ、チョコレートでできた\\n十字架とかモミの木が\\nどっさり乗ってるやつなんていいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "他にも、お菓子でできた人形とか、\\n鈴がいっぱいついてたら、\\nきっと、きらきらしてかわいいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい、それは素敵ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "それで、チノはどんなケーキを作るんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "（あっ！\\n　そういえば、どんなケーキを作るか\\n　全然考えていませんでした！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "（クリスマスケーキ……。\\n　どんなものが喜ばれるのでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "（クリスマスケーキ……。\\n　どんなものが喜ばれるのでしょうか？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "定番のショートケーキです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "クリスマスらしくブッシュ・ド・ノエルを。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "フルーツケーキなんてどうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "定番のショートケーキです。\\n苦手な人も少ないと思いますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "確かにそうかも。\\nあれが嫌いだって人はあまりいないよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "でもさー、クリスマスなんだし\\nもっと派手なのでもいいんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "それはアレンジ次第だよ。\\nショートケーキだったら色々工夫ができるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "とりあえず、イチゴは山盛りでいこうぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。\\nイチゴは山盛りでいきます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "やはり、クリスマスらしく、\\nブッシュ・ド・ノエルがいいかなと思います。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "うん、私もそれがいいと思うな。\\nクリスマスにぴったりだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "気分もますます盛り上がるってもんだよな～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "あ、そういやさ、前から思ってるんだけど\\nブッシュ・ド・ノエルって形が面白いよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "なんであんな、木みたいなケーキを\\n作ろうと思ったんだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "うーんとね、色々な説があるみたいだけど、\\nとりあえずまきをイメージしたケーキなんだって\\n聞いたことがあるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "なるほど、あれはまきなんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "まあ、結局、理由が何でも\\nおいしければいいけどさ。\\nあははっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "ふふふふ、マヤちゃんは食いしん坊だねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "フルーツケーキなんてどうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "いいね！\\nフルーツ盛り合わせの豪華なケーキ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "クリスマスっぽくはないかもだけど、\\n見てるだけで幸せな気分になりそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "まあ、おいしければいいじゃん。\\nそれでパーティーが盛り上がれば\\n立派なクリスマスケーキだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "ところでさ、手作りケーキなんて\\n言い出すってことは、\\nチノってもしかしてケーキ作るの得意？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "すごいねぇ。\\nラビットハウスのケーキって、\\nチノちゃんのお手製だったりするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "あれ？　どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ、あの……私、ケーキを自分で作ることの\\n難しさまで、考えてませんでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ＆メグ",
+          "original": "えええええ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "すみません。\\n作ろうと思いついたまま、\\n勢いで話を進めてしまって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "お菓子とかケーキって、レシピをきちんと守って\\n正確な手順で作らないと失敗するって聞くよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "うん、ただ料理するのとはわけが違うよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "（ど、どうしよう。\\n　また１から考え直さなくちゃ。\\n　今度こそ、いいアイディアだと思ったのに）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "本当にすみません。\\nせっかく集まってもらったのに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "諦めるのは早いぜ、チノ！\\nまずは調べてみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "何か困った時は、図書館で調べ物だよ。\\nケーキの作り方の本なんて、\\nいくらでもありそうじゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "そうだね。\\nよくわからないなら、\\n作り方の本を借りればいいんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "メグ",
+          "original": "それに、レシピをきちんと守って\\n正確に作らないと失敗するなら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "逆にね、きちんとレシピを守れば\\nちゃんとケーキができるってことじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "た、確かに……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "な？　だから泣きそうな顔なんてするなって。\\n私たちがついてるんだからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "チノちゃんのお手製ケーキ、食べたいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "マヤさん……メグさん……！\\nありがとうございます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "よーし！\\nじゃあ、さっそく図書館に行こうぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "メグ",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "はい！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

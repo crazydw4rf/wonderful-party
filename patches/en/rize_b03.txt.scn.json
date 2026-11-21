@@ -1,0 +1,262 @@
+{
+  "identity": "rize_b03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ありがとうございました～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "はい、チノちゃん。\\nカップ、下げてきたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nココアさん、最近、手際がよくなりましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それはまあ、バイトを始めて長いからね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そうですね、長さの分を考えると\\nまだまだですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "はうっ！\\nチノちゃんが厳しいよぉ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "それよりも、ココアさん、\\nお客さんも落ち着いてきましたし\\nそろそろ休憩をどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（ココアは休憩か。\\n　この休みに準備を進めるかもしれないな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "相変わらずお客さんが多くて忙しいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でも、これもチラシ配りの効果だって思うと、\\n嬉しくて力がわいてくるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "っと、そうだ。\\nクリスマスパーティーの準備も急がないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "（ココア、あんなにたくさんの本を開いて\\n　何をするつもりなんだ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "（あれは……クリスマス特集の雑誌か。\\n　それに、この街のグルメガイドブック？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "（そうか。\\n　クリスマスケーキをどうするか、\\n　まだ決めきれていないんだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nここのケーキもおいしいんだよね。\\nでも、ここのも捨てがたいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あ、このお店は行ったことないけど評判いいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "（ずいぶん悩んでるみたいだ。\\n　これは、私が手伝うチャンスなんじゃないか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "（いや、しかし、ここで\\n　いきなり出ていくのも変かな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ふふふ～。\\n私の選んだケーキ、\\nみんな、気に入ってくれるといいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "みんなに笑顔になってもらうために、\\n街１番のケーキを探し出さないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "そのために妥協はしないよ！\\n行ったことのないお店にも行ってみよっと。\\nケーキの食べ歩きだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "…………。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "これは、任せておくべきだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "何かアドバイスをしてみるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ケーキの食べ歩きなんてうらやましいな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（これは、任せておくべきだな。\\n　私が口出しする必要はない）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（あんなに頑張っているんだ。\\n　きっと、みんなが笑顔になる、\\n　おいしいケーキを選んでくれるはずだ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（何かアドバイスをしてみるか？\\n　多少なりとも役に立てるかもしれない）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（……いや、どうだろう。\\n　あれだけ真面目に調べているココアに\\n　私がアドバイスできることはないな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（ケーキの食べ歩きなんてうらやましい――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（って、そうじゃないだろ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（あのココアが、あれだけ真面目に\\n　パーティーのことを考えているんだ。\\n　私が出る幕はなさそうだな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、次のお休みの時に\\nとりあえずこのお店に行ってみるとして……\\nあと他に２、３箇所は回れたらいいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ついでに、パーティーの飾り付けも\\nちょっと見てこようかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "かわいいのを見つけておいて、\\nみんなで買出しに行く時に案内してあげようっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "identity": "chiya_d04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ラビットハウスに来て\\n　コーヒーケーキを焼き始めたのはいいけど……\\n　完成までが長いよ～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ねえ、まだ焼けないのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "そうね、そろそろだと思うけど……\\nちょっと待っていて、キッチンに行ってくるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "うう～、ここまでいい匂いが漂ってきたよ。\\nもう食べてもいいんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "だーめ。\\n小麦粉はきちんと焼かないと\\nお腹壊しちゃうんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "みんな、お待たせ。\\n焼けたわよ、ケーキ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "おお、ついに焼き上がったんだね！\\n秘密のレシピに書かれていた\\nコーヒーケーキ、登場だ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "はい、ご注目！\\nラビットハウスさんと甘兎庵のコラボ、\\nコーヒーケーキよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "おお～！　おいしそ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "コーヒーのいい匂いがする～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "これは……とってもおいしそうです。\\nねえ、おじいちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ティッピー",
+          "original": "そうじゃな。\\n……懐かしいわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "ねぇねぇ、早く食べよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\nじゃあ……いただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "いただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "もぐもぐ……。\\nうん、すごくおいしい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "コーヒーの苦味と砂糖の甘味が\\nぴったりかみ合ってますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ああ、実に絶妙だ。\\nさすが、ラビットハウスと甘兎庵が\\n力を合わせて作ったレシピだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "クリスマスパーティーのメインメニューは\\nこれで決定だね！\\n宝探しをした甲斐があったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "うふふっ、そうね。\\nこれもココアちゃんのおかげよ。\\nありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "えへへ、そんな……。\\n私だって充分楽しんでたし、\\nお礼を言われることじゃないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "あれ？\\nシャロ、食べないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "そ、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "ああ！\\nそうか、これ、コーヒー入りだから\\nシャロは食べられないのか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア＆千夜",
+          "original": "あっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "他の料理を食べるから、気にしなくていいわ。\\nコーヒー入りのメニューしか\\n出さないわけじゃないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "でも、メインのケーキを食べられないなんて！\\nど、どうすれば……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "それじゃ、シャロちゃんには\\n私が特製のケーキを作ってあげる。\\nシャロちゃん専用スペシャルケーキよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "ち、ちょっと！\\nだから、私は別に……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "となると、クリスマスにはご馳走だけじゃなくて\\nおいしそうなケーキも並ぶことになるんだね。\\nきっと壮観だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "うふふっ！\\nみんな、楽しみにしててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "これでいいでしょ、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "な、なんのことよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "自分がコーヒーを飲めないせいで、\\n楽しい雰囲気に水を差したくない。\\nそう思ってたんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "ん……。\\nまあ、そうだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "シャロちゃんのために、色々と工夫して作るわ。\\n期待してて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "別に気にしなくていいってば、もう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "あれ？\\n２人とも、何話してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "うふふっ、内緒。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

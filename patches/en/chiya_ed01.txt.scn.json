@@ -1,0 +1,381 @@
+{
+  "identity": "chiya_ed01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ、乾杯！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "みんな",
+          "original": "かんぱーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "メリークリスマース！\\n聖なる夜の宴だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は、待ちに待ったクリスマスパーティー！\\n　ここまできたら目いっぱい盛り上がるだけだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "さあ、お待ちかねの\\n今日のメニューをお披露目するわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "待ってましたぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "はい！\\nまず、前にみんなで食べたコーヒーケーキ。\\nもちろんクリスマス仕様にアレンジしているわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "わあ、あんことティッピーのマジパンが乗ってる！\\nすごい、かわいいー！\\n私、結局マジパンは作れなかったんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、お仕事も忙しくて\\nそこまで時間がなかったものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "でも安心して、今日は\\nいっぱいお料理を用意してあるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "あの、これってなんですか～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "これはコーヒーあんみつにコーヒー大福。\\nそしてこれは、甘兎庵特製、小麦色の誘惑よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "ターキー、ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "ターキーもそんな名前が付いてるんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "他にもたくさん作ってあるから、\\nみんな、いっぱい食べてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "本当に豪勢だな。\\nすごいじゃないか、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ううん、チノちゃんのお父さんや青山さんが\\n協力してくれたからできたのよ。\\n私１人の力なんて大したことないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "いえいえ。\\n私たちは本当にお手伝いしただけです。\\n千夜さんが頑張ったからこそのご馳走ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "タカヒロ",
+          "original": "千夜君、あとは私と青山君でやるから、\\n君もパーティーを楽しみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "じゃあみんな、めしあがれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "いっただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "こら、あんまりがっつくなよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "いいのよ、遠慮なんていらないわ。\\nこのお料理を作ることができたのは、\\nみんなが宝探しを手伝ってくれたからだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "２人で見つけた宝の地図が\\nこんな素敵なものだったなんて思わなかったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "本当ね。\\nクリスマス前に楽しいどきどきを\\n味わうこともできたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "マヤ",
+          "original": "すっごく楽しかったよねー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "メグ",
+          "original": "うん！　またみんなで宝探ししようね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "私は……\\n最後しか参加できなくて、ちょっと残念かも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "はい、シャロちゃん。\\n特製のカップケーキよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ええ？\\n本当に用意してきたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "わあ～！\\nかわいいマグカップに入ったケーキだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "実はね、このマグカップ、ペアになってるの。\\n片方は私が持ってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "えっ？\\nなんでそんなこと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "だって、私とシャロちゃんは幼なじみなのに\\nリゼちゃんとだけペアカップなんてずるいわ。\\nちょっと嫉妬しちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "嫉妬って……！\\nな、何言ってるのよ、もう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "だから、私から\\nおそろいのカップを贈ったんだけど、\\n嫌だったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "べ、別に、嫌なわけじゃないわよ。\\nまあ……あ、ありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、シャロちゃん、\\n２人でひそひそ何を話してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "な、何でもないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "うふふっ、実はね、新しい宝物の話をしてたの。\\n私とシャロちゃんだけの、大事な宝物。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "ち、ちょっと千夜！？\\n変な言い方するなー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "青山",
+          "original": "あらあら、何のお話ですか？\\n宝物と聞こえましたが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "ふふーん、実はですね、\\n今日のレシピが完成するまでに\\n宝の地図片手に大冒険をしてきたんです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "青山",
+          "original": "まあ、それは面白そう。\\n今度の小説のネタになりそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ティッピー",
+          "original": "なぬぅ！？\\nお、おい、やめんか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "チノ",
+          "original": "だめです、おじいちゃん。\\n楽しいお話の邪魔をしては。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "それは素敵なお話になりそうね。\\n書きあがったら、ぜひ見せてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "青山",
+          "original": "ええ、もちろん。\\n１番にお見せしますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "マヤ",
+          "original": "私たちの宝探しが本になるの？\\nもしかして、映画化もされちゃったり？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "メグ",
+          "original": "わあ～、楽しみだね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "街の国際バリスタ弁護士\\nトレジャーハンターパン屋ココア、\\n華麗に銀幕デビューだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "リゼ",
+          "original": "設定盛りすぎだろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "ふふっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "どうしたの、千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "千夜",
+          "original": "ううん、なんでもないわ。\\nただ、とっても楽しいなって思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "千夜",
+          "original": "こうやって、みんなでふざけ合って\\n笑い合って……こんな日が\\nずっと続いたら、とても幸せね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "ココア",
+          "original": "続くよ、絶対に。\\nだってここにいるみんな、\\nきっと同じことを思ってるもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "千夜",
+          "original": "そうよね。\\nありがとう、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "千夜",
+          "original": "ねえ、今度、ココアちゃんにも\\nカップケーキをプレゼントしてもいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "ココア",
+          "original": "ホント！？\\nやったぁ、嬉しい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "千夜",
+          "original": "うふふ、楽しみにしててね。\\nココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

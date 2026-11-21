@@ -1,0 +1,391 @@
+{
+  "identity": "flyerhap_chino_c.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "あれぇ？\\nもしかして、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "え？　チノ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "メグさん。\\nマヤさんも、今帰りなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "うん。\\nあ、ココアもいる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "２人とも奇遇だね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "ふわ～。\\nチノちゃん、着物だぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "その格好、またチラシ配り？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい。\\n目立てるように、今日は着物を着ているんです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "本当にコスプレでチラシ配りしてるんだな～。\\n今日は着物なのか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "これって千夜と同じやつだよな。\\nへー、チノが着るとそんな感じになるのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "そ、そんなに見ないでください。\\nなんだか……はずかしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "はずかしがることないよ。\\n似合ってるしかわいいよ。\\nチノちゃん、もっと自信持って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "うん、いつもと雰囲気は違うけど似合ってる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "でっしょ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "なんでココアが自慢げなのさ。\\n変なの～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ちょっと、ココア。\\n手が止まってるじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "あらあら？\\nずいぶん賑やかね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "なんだ、いつの間に集合したんだ？\\nチマメ隊。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "うわ～！　みんな着物だぁ！　すごーい！\\nいいなぁ、お揃いでかわいい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "ん？　ちょっと待って！\\nこれはもしかしたら作戦なのかもしれないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "作戦？\\n一体、何の作戦なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "甘兎庵への潜入作戦だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そ、そうだったのね！？\\n喜んで着物を着てくれてると思ったのに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "みんな産業スパイだったのね？\\nなんてことなの、よよよよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そんなわけないです！\\nマヤさん、変なことを言わないでください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "えー？\\nそうじゃないのなら……\\nチノ、千夜の妹になるつもりなのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "お揃いの服って姉妹みたいだね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ええええ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "まあ、チノちゃん！\\nそれならそうと言ってくれればいいのに。\\nいつでも、うちの子になっていいのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "それは……その……あの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（こ、このもじもじは……！？\\n　まさかチノちゃん、ホントに\\n　千夜ちゃんの妹になりたいって言うんじゃ！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "だ、だめったらだめ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "えっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "気持ちはわかるよ！？\\n千夜ちゃんはいい子だし、同じように喫茶店で\\n働いてるから話も合うかもしれないけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "でも、甘兎庵の子になるなんて\\nお姉ちゃんが許しませんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "あの、どうして私が甘兎庵の子になる\\n前提になっているんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "だって、チノちゃん、\\n千夜ちゃんの妹になるって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "そんなこと言ってません。\\nココアさんの早とちりです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "そ、そうだよね！\\nチノちゃんは私の妹なんだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "でも、私には、ラビットハウスを\\n継ぐという夢があります。\\nだから甘兎庵に行くことはできません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "あらら、振られちゃったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "でも、それだけかしら？\\n本当の理由は、離れたくない人が\\nいるからじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "そ、それは、その……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "マヤ",
+          "original": "チノはしっかりした夢があってすごいなぁ。\\n私、将来のことなんてまだ考えてないのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "メグ",
+          "original": "私もだよ～。\\n進学する高校だって決めてないのに、\\nその先のことなんて、全然。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "まだ中学生なんだから、そんなものじゃない？\\nまあ、高校生のココアも\\n何も考えてなさそうだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\n私はしっかり考えてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "街の国際バリスタ弁護士として、\\nチノちゃんと一緒に\\nラビットハウスを盛り上げていくんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "チノちゃん、一緒に頑張ろうね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "……ティッピー、一緒に頑張りましょう。\\n頼りにしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ティッピー",
+          "original": "チノがやる気ならなんとかなるじゃろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "スルーされたよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "まあ、今のままじゃ\\nティッピーの方がココアより頼りになるかもな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ココア",
+          "original": "そんなぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "千夜",
+          "original": "チノちゃん、これからもお互いに切磋琢磨して\\nお店を立派にしていきましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "わ、私も仲間に入れてよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

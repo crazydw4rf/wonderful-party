@@ -1,0 +1,345 @@
+{
+  "identity": "all_d06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "みんな、ご苦労じゃったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "お疲れ様でした、みなさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "いえいえ！\\n私たちもすっごく楽しかったし、\\nお礼なんていいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "はあ、無事に終わったわね。\\n私たち、結局、何時間ぐらい配ってたのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "時計が止まっているから正確にはわからないが、\\nそれでも、結構な時間が経ったはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "これで私たちのいた世界に戻ったら、\\nすごい未来になっているのかもしれないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\n浦島太郎になっちゃうの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "いえ、イブ前に戻るだけですから\\nそれはないでしょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "みなさん、改めてお礼を言わせてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "本当にありがとうございます。\\nこれで、今年のクリスマスは守られました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えへへ……。\\n来年は、サンタさんのことを\\n信じてくれる人がもっと増えたらいいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "確実に４人は増えたわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "うふふ、そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ティッピー",
+          "original": "それだけでも、\\nお前たちを選んだ価値はあったわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "私、もっとサンタさんを\\n信じてもらえるように頑張ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "私も！　じゃんじゃん宣伝しちゃうよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "ありがとうございます。\\nその想いが実を結ぶことを楽しみにしていますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ティッピー",
+          "original": "おお、そうじゃ。\\nお前たちのプレゼントじゃが、\\nクリスマスイブにきちんと届けるから安心せい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "わーい！\\nありがとうございます、サンタさん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "何をもらえるかはイブのお楽しみなのね。\\n本当に待ち遠しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "あ、そうだ、何がいいとか言ってないけど、\\nちゃんと欲しいものがもらえるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "ふふん、サンタの力をなめるでないぞ？\\nお前たちの考えなど、お見通しじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "青山",
+          "original": "それでは、みなさんを\\n元の時間に戻さなければいけませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "どうしたの、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "いえ……ただ、もうお別れだなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "チノ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "元の時間にも\\nティッピーと青山さんはいるけど……\\n当然、別人なんだものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "サンタさん、もう会えないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ティッピー",
+          "original": "いや、そんなことはないぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あ、わかった！\\n２人は私たちの心の中に、っていう展開だね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "それだと死んじゃったみたいじゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "サンタさん……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ティッピー",
+          "original": "よいか、チノ。\\n来年もそして再来年も、お前が\\nずーっといい子でいてくれたら、また会える。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ティッピー",
+          "original": "それが、サンタというものなのじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "……はい、そうですね。\\n私はサンタさんのこと、ずっと信じていますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "いい子にして、待ってます。\\nまた靴下を用意して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ティッピー",
+          "original": "うむ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "青山",
+          "original": "それでは、\\nそろそろみなさんをお帰ししますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "サンタさん、助手さん。\\nどうかお元気で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "今日のことは絶対に忘れないよ。\\nさよなら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "その……楽しかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "サンタさん、助手さん、さよなら！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "青山",
+          "original": "うさぎうさぎ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "あーーーーー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "な、何！？\\nどうしたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "ちょっと待って！\\n私、まだサンタさんのサインをもらってないっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "青山",
+          "original": "ぴょんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "青山",
+          "original": "またいつかお会いできる日まで～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ティッピー",
+          "original": "達者でいるんじゃぞ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "そんなーーー！\\nサインくださーーーーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "私たち、たくさん\\nかけがえのないものをもらったんだから、\\nサインはなくてもいいんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "でも、くれるって言ってたのに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "チノ",
+          "original": "……さよならは言わないでおきます。\\nまた会える日まで、サンタさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

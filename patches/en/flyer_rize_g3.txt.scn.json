@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_rize_g3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "なんだかんだで、\\nハロウィンの衣装ってのは目立つよな。\\nおかげでチラシもよく捌けるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "……ああ、ハロウィンと言えば\\n思い出すのはあれだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "リゼちゃんのハロウィンの思い出？\\nねえ、よければ聞かせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "昔、お化けの仮装をした相手が\\n急に物影から出てきて、\\n思いっきり驚かされたことがあったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "おおー！\\nまさに、トリック・オア・トリートだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そうなんだ。\\n思わず撃ってしまいそうになった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えええっ！？　危ないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "なせだ？\\n退路を確認するにしても\\nまず相手の足止めは必要じゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えっと……そうなの、かな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "でも、その時はあいにく武器を持ってなくて、\\nとっさにテーブルの下に身を隠して\\n匍匐前進で廊下まで出たんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（匍匐前進で廊下？\\n　って、その話は自分の家でのことだったの！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "思い出すなぁ。\\nそのままずっと廊下を這って逃げてたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "うっかり使用人を驚かしてしまって\\nもっと大騒ぎになったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "しかし、あのくらいで騒ぎになるなんてな。\\n日頃からしっかり心構えをしておけば\\nなんてことないはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "あの時も、普段から脱出をシミュレートしていた\\nおかげで、通風口をたどって\\n無事に外に出ることができたしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "通風口から出たの！？\\nワイルドすぎるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "それ以来、警備システムが強化されて\\n廊下の掃除が徹底されるようになったんだ。\\nいやぁ、懐かしいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "まだ体が小さかったからできたんだ。\\nもちろん、今は別の脱出ルートを確保してるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃんって……\\n　昔からリゼちゃんだったんだね……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "identity": "flyer_rize_b3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はう～、疲れたぁ。\\nチラシ配りも体力使うんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "立ちっぱなしで声を出してるからな。\\nこうして適度に休憩を取っていこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うんうん、休憩は大事だね。\\nというわけでリゼちゃん、しりとりしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いきなりだな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "だって、休憩でぼんやりしてるのも\\nもったいなくなっちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "だからってなんでしりとりなんだ。\\nまあ、いいけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "やった！\\nじゃあ、私から始めるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "最初は――『パンダ』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ダか……。\\n『ダブルバレルライフル』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ル、ル？　ル――『ルゥ』！\\nカレーのルゥだよ！\\nシチューでもいいけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "まあ、どっちもルゥだしな。\\nウ、ウ――『ウィルコ』。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うぃるこ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "『命令を実行します』って意味の返事だよ。\\n使わないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うーん、あんまり使わないかな？\\nじゃあ、こ、こ――『子猫』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "こ――『コンバットスーツ』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "『月』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "『キャノピー』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "きゃ、きゃのぴー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "戦闘機なんかのコックピットを\\n覆っている窓のことだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "へえ～、そうなんだ。\\nじゃあ、次は『い』でいいのかな？\\nえーっと――『イルカ』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "か、か――『カラシニコフ』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "からしがにこにこ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "カラシニコフ、だ。\\n銃の名前だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "へー！\\nリゼちゃん、言葉をいっぱい知ってるね。\\nほとんど私の知らないものだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "……え？　知らないものばかりなのか？\\nいや、そんな……\\n普通の言葉のつもりだったんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "やっぱり、親の影響からは\\n逃げられないというのか……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "でも、ホント、リゼちゃんは語彙が豊富だよね。\\n私、新しい言葉を覚えられて嬉しいし、\\nすごく勉強になったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "こうやって、こつこつ語彙を増やしていかないと！\\nチノちゃんにしりとりで勝てるように！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "あぁ……なんだ。\\nこれって、チノに勝つための特訓だったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "だって、チノちゃん、\\nしりとりすっごく強いんだよ！\\nこのままじゃ姉の威厳が～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "威厳なんて初めからないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "そ、そんなことないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "とにかく、そろそろ休憩は終わりだ。\\nチラシ配り、再開するぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "……ありがとな、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,225 @@
+{
+  "identity": "all_b03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "先輩……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、窓から様子を見てるね。\\n大丈夫かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そうね。\\nどんな人が住んでいるかわからないけど、\\nリゼちゃんなら上手くやってくれるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "でも、覗きと間違えられて\\n捕まっちゃったりしないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "この事態で覗きに間違われることは\\nないと思いますが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "……あ！\\n先輩、戻ってくるわ。\\nよかった、何事もなくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、どうだった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ひとまず危険はなさそうだ。\\n安心していいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "そうですか。\\nあの、中には誰かいたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "窓が凍っていてよく見えなかったが、\\n人影は確認した。\\n漏れ聞こえた声の調子からして、女性と老人だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "恐らくだが、小屋の主とその娘だろう。\\n会話も穏やかな雰囲気だったし、\\n敵対することにはならないと思う。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "じゃあ、大丈夫そうだね。\\n今度こそ、お邪魔させてもらおうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いや、交渉は私１人で行く。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "えっ？\\nでも、大丈夫そうなんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "念には念を、だ。\\n全員で行って捕まったりしたら大変だからな。\\nまず私が行って事情を話す。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "大丈夫だとわかったら、みんなも呼ぶ。\\nすまないが、もう少しだけ待っていてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "うーん、それはちょっと\\n考えすぎじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "また待つなんて、体力が保たないよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "しかし、最後の最後で油断したら\\n今までのすべてが無駄になるんだ。\\nみんな、あと少し耐えてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "青山",
+          "original": "あの～？\\n遠慮なさらず、どうぞ、中に入ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "誰だっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "山小屋の中の人じゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "リゼさんが言っていた女性ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "……うーん？\\nどこかで聞いたような声ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "私も聞き覚えがあるんだけど……誰だっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "あの、リゼ先輩？\\n入っていいって言ってますし、行きませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "これも罠かもしれない。\\n少し様子をうかがうんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "えー、もう限界だよ～！\\nさーむーいー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "それじゃ、試しに私が行ってみるわね。\\n中に入っても大丈夫そうなら、みんなも呼ぶわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "お、おい待て、千夜！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "じゃあ、私も！\\nチノちゃんも行こう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "リゼさん、すみません。\\n私ももう寒さが限界なので……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "すみません、先輩っ！\\n私も寒くて……お先に行かせてもらいます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "ちょ、おい、みんなっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "くうっ！\\nこのままみんなを見殺しにはできない、\\n私も行くぞ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

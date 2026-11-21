@@ -1,0 +1,181 @@
+{
+  "identity": "flyer_rize_h3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あー！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "うわっ！？\\nな、なんだ、どうしたココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "見てリゼちゃん！　空に何かある！\\nもしかしてあれってＵＦＯ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "未確認飛行物体だと？\\nまさか、この街に襲撃者が！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "って、なんだ。\\nよく見ろ、あれは小さな飛行船だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、ホントだ。\\nびっくりした～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "それはこっちの台詞だよ。\\nまったく。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "あの飛行船、広告になってるのか。\\nあれなら街じゅうの人たちに\\n見てもらえるだろうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ラビットハウスも、あれくらい派手に\\n宣伝しないとだめかなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "はは、そうだな。\\nこんな格好してるんだし、やってみるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "え？　どういうこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "怪盗なら、あの飛行船を華麗に乗っ取って\\n宣伝に使いそうじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "なるほど！\\nうん、怪盗ならそのくらいしないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "さあココア、今日の標的はあの飛行船だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "怪盗リゼ＆ココア、\\n飛行船を乗っ取っちゃいます計画の発動だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "……計画名は\\nあとでもっとそれらしくするとして、\\nまずは内容からだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "怪盗なんだから、華麗かつ優雅にやらないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "だったら、高い塔の上から\\n飛行船に舞い降りて突入とかどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "わあ、いいね！\\nアニメのラパンも顔負けだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "計画も華麗なら、登場も華麗であるべきだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そうそう！\\nこう、マントをひらり！　とね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "マントをはためかせるなら、\\nいっそターンをしてしまうのはどうだろう？\\nこう、くるっと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "さすがリゼちゃん！\\nじゃあ、これを全部盛り込んでやってみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "怪盗リゼ、参上！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "同じく、怪盗ココア、参上！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "――なんて、妄想もここまでだな。\\n実際に乗っ取るわけにもいかないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "うわぁっ！\\nリゼちゃん、急に現実に戻らないでよ～。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

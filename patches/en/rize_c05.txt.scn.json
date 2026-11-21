@@ -1,0 +1,321 @@
+{
+  "identity": "rize_c05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "チノ、ちょっといいか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "リゼさん、どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いや、帰る前にちょっと差し入れを、と思ってな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "差し入れ？\\nやったね！　なに持ってきてくれたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "そう期待されてもな。\\n普通の、ココアとドーナツだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "わあ、おいしそ～！\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "わざわざ、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "気にするな。\\n勝手にやってることなんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "へへー、ちょうど甘い物が欲しかったんだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "（よし、ナイスだマヤ！\\n　ちょうどいい振りをしてくれたじゃないか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "そ、そうかそうか。\\n甘い物が欲しかったのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "他にも何かないか？\\n食べ物以外に、最近気になってる物とかさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "気になってる物？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "（しまった、今のは不自然だっただろうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "んんー、気になってる物っていうと、あれかなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "！！　何かあるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "ええと、この前見つけたかわいい服があって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "え？　どこのお店？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "そこの通りを\\nまっすぐ行ったところにあるお店だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "ああ、あそこか！\\nかわいいのがいっぱい置いてあるよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "うん、フードがついててね、\\nふわっとしたシルエットでかわいいんだけど、\\n私に似合うかわからなくて、ちょっと迷ってるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "メグさんならきっと似合いますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "メグ",
+          "original": "そうかなぁ。\\nでも、自分のお小遣いで買うとなると、\\nちょっと慎重になっちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ふむふむ、なるほどな。\\nマヤはどうだ？　何かないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "私は時計！\\nすっごく格好いいデザインの\\n腕時計を見つけたんだー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "この前、一緒に行ったお店の品ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "メグ",
+          "original": "あー、マヤちゃんが\\nじ～っと見てたのあったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "そうなんだよ！\\nもう目が離せないくらいに気に入ったんだけど、\\nちょっと値段がなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "そんなに高級な時計だったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "ううん、高級ってわけじゃないけど、\\nお小遣いをもう少しためなくちゃならないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "ほう。\\nちなみに、どこにある店なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "橋の向こうにある雑貨屋さん。\\nショーケースの右側に置いてあるから\\n目立たないけど、ホント格好いいんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "ふむふむ……。\\nじゃあ、チノはどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "私ですか？\\nそうですね……店のコーヒーカップでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "長く使っている物は、\\nヒビなどは見えなくても少し傷んでいるので、\\n新しいのと取り替えたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "いや、そういうのじゃなくてさ、\\nもっと個人的な品物はないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "個人的……\\nああ、それならピンセットですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "ピンセット？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "チノ",
+          "original": "はい。\\nボトルシップの製作に使う\\n特別なピンセットがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "チノ",
+          "original": "見た目はハサミみたいな感じで、\\nパーツを容器の奥に運びやすい形に\\nなっているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "でも、チノは普段から\\nボトルシップを作ってるんだから、\\nそういうピンセットは持ってるんじゃないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "はい。\\nですが、だいぶ使い込んでいるので、\\nそろそろ新しい物を買おうか迷っているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "そういうことか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "マヤ",
+          "original": "ボトルシップかぁ。\\nチノって、ホント、パズルとか\\nそういう細かい作業が好きだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "メグ",
+          "original": "あれぇ？\\nボトルシップってパズルじゃないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "マヤ",
+          "original": "でも、パズルっぽくね？\\nバラバラの部品を正しく組んでいくんだからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "メグ",
+          "original": "そう言われてみると……\\nジグソーパズルの立体版みたいな感じかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "そうですね、\\nそういった要素もあると思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "（よしよし、\\n　私が尋ねた意図に気づいた様子はないな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "リゼ",
+          "original": "（ふふふ……。\\n　クリスマス当日を楽しみにしていろよ、\\n　チマメ隊！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "identity": "chino_a03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（お風呂にゆっくりつかっていれば、\\n　クリスマスパーティーのいいアイディアが\\n　浮かぶと思ったけど……全然だめですね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（１人で考えるのには限界が……\\n　ココアさんの言うとおり、やっぱり\\n　誰かに相談した方がいいのでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（相談することで\\n　ヒントだけでももらえたら……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（……よし、決めた。\\n　明日、さっそく相談してみましょう）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

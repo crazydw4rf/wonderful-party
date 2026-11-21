@@ -1,0 +1,181 @@
+{
+  "identity": "pajamas_chino_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あの、チノちゃん？\\nもしかして怒ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "怒ってません。\\nただ……舌をちょっと噛んじゃいまして。\\n早口言葉って難しいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "大変だ！\\nお薬、塗らなきゃ！\\nガーゼとか包帯はいるんだっけ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "大丈夫です。\\nそこまでする必要はないですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そうなの？　本当に大丈夫？\\n一応、見せてみて？\\n万が一ってこともあるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "平気ですよ。\\nもうほとんど痛くないですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チノちゃん、怖がらなくても大丈夫！\\nほら、あーんってして？　ね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はあ……。\\nわかりました、それじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はい、チノちゃん上手。\\nそれじゃ、見てみるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うんうん。\\nあーんしてるチノちゃん、かわいいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "ココアさん……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あっ！　ご、ごめんねチノちゃん！\\nお口を開けてるのがかわいくって、\\nなんだか雛鳥みたいだなって思ったら、つい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "もう……。\\n言い出しておいて趣旨を忘れないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あ、でもね、\\n噛んじゃったところもちゃんと見たんだよ？\\n問題なさそうだった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "お薬は必要なさそうだけど、\\n痛み止めのおまじないをしておこうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "いたいの、いたいの、飛んでけー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "どうかな、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "むう……。\\nそんな子ども扱いしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "でも……ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "次に早口言葉をやる時は、\\n気を付けなくちゃいけないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "……ふぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "チノちゃん、あくび？\\nそろそろ眠くなってきた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "それじゃ、今日はおやすみなさいだね。\\nチノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "おやすみなさい、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

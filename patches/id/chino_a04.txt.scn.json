@@ -1,0 +1,285 @@
+{
+  "identity": "chino_a04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃーん！\\n急がないと遅刻するよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "すみません、お待たせしました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "準備できた？\\nそれじゃ、いってきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "いってきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "タカヒロ",
+          "original": "ああ、いってらっしゃい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "チノ、元気がないようじゃったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "タカヒロ",
+          "original": "ああ、妙に眠そうだったが……\\n夜更かしでもしたんだろうな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "ふむ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "いつでも相談に乗るからね！\\n話すだけで気持ちが落ち着くってことも\\nあるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "（相談してほしいって、\\n　目がものすごく語ってる……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "……はい、わかってますから。\\nではココアさん、また放課後に。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん、気をつけてねー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "（ココアさんに相談するのは最後です。\\n　その前に――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "あっ！\\nおはよー、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "おはよう、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "って、あれ！？\\nなんでスルー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "チノちゃーん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "はっ！？\\n２人ともいつの間に……\\nお、おはようございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "マヤ",
+          "original": "いつの間にって、さっき声かけたじゃん。\\nもしかして歩きながら寝てた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "いえ、考え事をしていて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ＆メグ",
+          "original": "考え事？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "マヤ",
+          "original": "考え事しながら歩くと、転んでケガするぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "はい。\\nすみません、気をつけます。\\nそれで、あの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "メグ",
+          "original": "ん？　どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "実は、その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "なになに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "今日、放課後に、折り入って\\n相談したいことがあるのですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "相談？\\nチノから相談なんて珍しいじゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "マヤ",
+          "original": "もしかして、考え事ってそれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "はい、そうです。\\nお２人に聞きたいことがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "マヤ",
+          "original": "なんか深刻そうだな。\\nそれって今すぐじゃだめなのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "えっ！？　でも、その……\\nもしかしたら、そんなに大したことでは\\nないのかもしれないので……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "だ、だから、すぐに話すようなことでも\\nないのかもしれなくてですね……。\\nその……なので、今ではなくても……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "マヤ",
+          "original": "ぷっ！　あははははっ！\\nなんでそんなに慌てるんだよ。\\nチノ、なんかかわいいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "メグ",
+          "original": "うん、今のチノちゃん、すっごくかわいい～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "チノ",
+          "original": "か、からかわないでください。\\n私は本当に悩んでいて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "あっ！\\nべ、別にそんな深刻なことではなくて……。\\nだから、その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "メグ",
+          "original": "大丈夫だよ、チノちゃん。\\nあとでちゃんと聞くからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "マヤ",
+          "original": "おう！\\n任せとけ、力になるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "は、はい。\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "チノ",
+          "original": "（人に話すと、ちょっと気持ちが\\n　落ち着くのは本当なんですね。\\n　ココアさんが言ったとおりです）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

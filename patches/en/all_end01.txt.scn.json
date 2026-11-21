@@ -1,0 +1,351 @@
+{
+  "identity": "all_end01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ん……？\\n　あれ、朝になってる？\\n　私、いつの間に寝ちゃってたんだろう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（サンタさんのプレゼント配りを手伝ったあと、\\n　元の時間に戻してもらって……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ああっ！？\\nそうだ、サンタさん！！\\nサインもらってないよー！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "きゃあっ！？\\n何！？　何事なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "敵襲か！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "び、びっくりしました。\\nココアさん、どうしたんですか？\\n怖い夢でも見たんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "違うよっ！\\nチノちゃん、サンタさんに\\nサインもらい損ねちゃったよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "えっ……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "サンタにサイン？\\n何言ってるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "今日はまだクリスマスじゃないから、\\nサンタさんも準備中じゃないかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えっ？\\nもしかして、みんな、覚えてないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "覚えてないって、何を？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "さっきまでクリスマスイブの夜にいて、\\nサンタさんのお手伝いをしてたことだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "へえ、そんな夢を見てたのか。\\nそういえば、子どもの頃は\\nサンタになりたかったって言ってたもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ゆ、夢じゃないよ～！\\nみんなで、サンタさんの代わりに\\nプレゼントを配ったんだよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "まあ、私たちがプレゼントを？\\nとっても楽しい夢を見たのね、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "突飛すぎて、現実じゃあり得ない展開ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "そんな……。\\nあんなに楽しい体験が夢だったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "それにしても、ココアって\\n夢の内容をはっきり覚えてるタイプなのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "だって、夢じゃなくて\\nついさっき経験したことだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "あ、あの、ココアさん。\\n私も、ココアさんと同じような夢を見て……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nチノちゃん、ホントに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい。\\n私も、サンタさんを信じている人たちに\\nプレゼントを届けました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "チノちゃんもってことは……\\nやっぱり夢じゃなかったんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "同じ夢を見るなんて、不思議なこともあるのねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "隣で寝ると似た様な夢を見るのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "もー！\\nだから、夢じゃないんだってば～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "むう……。\\nやっぱり、みんな、サンタさんがいるって\\n信じてないからなのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "何言ってるのよ、ココア。\\nサンタはいるわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "まあ、見たことはないし会ったこともないが、\\n間違いなくどこかにいるはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "まだご縁はないけど、\\nいつかお会いしてみたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "みんな……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "では、シャロさんも千夜さんも、リゼさんも、\\nサンタさんの存在を信じているんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "ええ、もちろん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "ああ、信じてるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "ココアみたいに、夢を見るほどじゃないけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "チノ",
+          "original": "ココアさん、これは……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "うん、やっぱり夢じゃなかったんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（みんなも、覚えてないだけで、\\n　サンタさんのお手伝いを経験したんだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "ココア？\\nチノちゃんも、どうしたのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "ううん、なんでもない！\\nそうだよね、サンタさんは本当にいるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "チノ",
+          "original": "……あっ！\\nココアさん、枕元に……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "ああっ！　これ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "チノ",
+          "original": "間違いありません、サンタさんのサインです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "サンタさん、\\nサインのこと忘れてなかったんだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "はい……。\\nこうして枕元に置いてくれるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "サンタさん、\\n人を驚かせるのが好きなんだねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "チノ",
+          "original": "そのあとに、私たちが喜ぶことまで\\nちゃんとわかってますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "あっ！？\\nねえ、サインもらっちゃったけど、\\nまさかこれがクリスマスプレゼント！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "だったら、今年はもうプレゼント\\nもらえないのかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "チノ",
+          "original": "いいえ、そんなことないです。\\nサンタさん、クリスマスに\\nきちんと届けるって言ってました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "チノ",
+          "original": "私たちの想いに応えて、\\nプレゼントも届けてくれますよ。\\nサンタさんに二言はないとも言ってましたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "……うんっ！\\nクリスマスイブが楽しみだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そうだよ、何も心配することなんてない。\\n　だって、私たちの気持ちは\\n　ちゃんとサンタさんに届いているんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（信じる心を忘れない限り……いつまでも！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

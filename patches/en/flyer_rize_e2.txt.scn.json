@@ -1,0 +1,181 @@
+{
+  "identity": "flyer_rize_e2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はうっ！？\\nり、リゼちゃん、今の聞こえた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "え？　何がだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "よかったぁ。\\nリゼちゃんに聞こえてないなら大丈夫だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "だから、何がだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ちょっとお腹が減っちゃって……。\\nぐーって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、鳴っちゃったわけか。\\nなら少し休憩するか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "実は、こういうこともあろうかと\\nいいものを準備してきたんだ。\\nせっかく軍服を着てるんだし、こいつの出番だろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "おおー！\\nチョコレートだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "違う！　今はレーションだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "れーしょん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "簡単に言うと、軍で配給される食事だな。\\nそう思って受け取れ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "イエッサー！\\nありがとうございます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "軍人ってチョコレートがご飯なんだ。\\n虫歯に気をつけないといけないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "そんなわけないだろ。\\nチョコレートもレーションに含まれるだけだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "いいか？　チョコレートは\\nカロリー補給に適してるし栄養価も高い。\\nおまけに携帯性にも優れているんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "へえ～。\\nその上、甘くておいしいなんて、\\nチョコレートってすごいんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ああ、いや……その……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "やっぱり軍の食べ物だからか……\\n耐熱性や栄養面ではばっちりなんだが、\\n味は……なかなか個性的だったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "最近のレーションはおいしいものが多いんだが、\\nあのチョコレートはハズレだったな。\\nどうしてあんな味になったのか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ええ！？\\nもしかして、これっておいしくないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "ああ、安心しろ。\\nそれはさっき買ってきた普通のチョコレートだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "なんだ、よかった。\\nじゃあ、いただきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "もぐもぐ……ん～！\\nうん、いつものチョコレートの味！\\n甘くて幸せ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "レーションのチョコレートに\\nチャレンジする気があったら、\\nいつでも持ってきてやるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nチョコレートは甘くなくちゃ\\nチョコレートじゃないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ははっ、冗談だよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

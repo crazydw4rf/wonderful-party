@@ -1,0 +1,321 @@
+{
+  "identity": "rize_end02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "では、改めて！\\nメリークリスマース！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "みんな",
+          "original": "メリークリスマース！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "なあなあ、もう食べていいんだよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "マヤちゃんたら、お行儀悪いよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "だってー！　すっごくお腹減っててさー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "私たちが着替えている間、待たせて悪かったな。\\nもう好きに食べていいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "やった！\\nいっただっきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "あ、そうだ！　その前に！\\nリゼ、クリスマスプレゼント、ありがとう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ。\\n気に入ってもらえるといいんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "もちろん気に入ったよ！\\nまさか欲しかった時計がもらえるなんて。\\n今度、付けてくるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "私も、お洋服大切にしますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "でも……本当にもらっちゃっていいのかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "もちろんだ。\\n今日はクリスマスなんだから、\\n遠慮なんてしなくていいんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "えへへへ～、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ほら、メグもどんどん食べろ。\\nでないと、マヤに全部食べられちゃうぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "そこまで食い意地張ってねーよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "（よしよし、喜んでもらえたようで何よりだ。\\n　リサーチをしたかいがあったな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "リーゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "おお、ココア。\\nどうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "マフラー、ありがと！\\nさっき巻いてみたけど、すごくかわいいし\\n温かいし、とっても気に入っちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "そうか、ならよかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ってことで、これ！\\n私からリゼちゃんへお返しのプレゼントだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "リゼさん。\\nピンセット、ありがとうございました。\\nおかげでボトルシップ製作が捗りそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "では、私からもお返しのプレゼントをどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "ちょっ！？\\nチノまで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩、カップのセット、嬉しかったです。\\n大切に使わせてもらいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "それはいいんだが、まさかお前もか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "ええ、あんな高価な物をいただいて、\\nそのままというわけにはいきませんから。\\nどうぞ受け取ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "待て！\\nそんなにいっぺんに持てない――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "まだ私の分もあるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "千夜まで……\\nって、勝手に乗せるな！　落としたらどうする！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "落としても大丈夫な物だから、心配いらないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "そういうことじゃなくてだな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "サンタ役は私だったのに、\\nどうしてこんなことに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "あら、私たちだって\\nサンタさんの衣装を着ていたでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "しかしプレゼントを配るのは私の役目で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "チノ",
+          "original": "サンタさんだって、\\nプレゼントをもらってもいいと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "そうですよ。\\n素敵なクリスマスパーティーを開いてくれた\\nお礼でもあるんですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "リゼ",
+          "original": "そういうことなら、まあ……。\\nだが、私は特別なことなんてしてないのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "あら？　またその話をするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "リゼ",
+          "original": "いや、違う。\\nそういう意味ではなくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "私はただ、みんなと楽しいクリスマスを\\n過ごしたかっただけなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "そのために、少しでもいいパーティーになればと、\\n必要だと思ったことをやっただけで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "こんな素敵なクリスマスになったのは、\\nやっぱり、みんなのおかげだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "先輩……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "そういうリゼちゃんだから、\\nみんなが協力したのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "つまり、今日のこのパーティーは、\\nやっぱりリゼさんのおかげということですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "だから、お礼を言うのは私たちもです。\\nありがとうございます、リゼ先輩。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "これからも、みんなで、こういう楽しいことを\\nたくさんたくさんしていこうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "リゼ",
+          "original": "ああ、もちろんだ！\\nこれからも、みんなで一緒に\\n毎日を楽しんでいこう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

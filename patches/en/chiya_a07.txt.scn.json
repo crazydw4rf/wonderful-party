@@ -1,0 +1,261 @@
+{
+  "identity": "chiya_a07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ふう……。\\nやっと……着いたわね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "大丈夫、千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ごめんなさい。\\nついテンションが上がってしまって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "じゃあ、レシピを見る前に休憩かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "あ、そうだわ。\\nレシピの前に、私、少しだけお店の方に\\n顔を出さなくちゃいけないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "申し訳ないのだけど、\\n私の部屋で先にレシピを見ていてくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "本当にごめんなさい。\\nバイトをお休みさせてるのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ううん、気にしないで。\\n千夜ちゃんは甘兎庵の跡取りなんだしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。\\n私もなるべく早く終わらせるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "それじゃ、レシピを用意して……\\nついでにちょっとお部屋を片付けてくるから、\\n少しここで待っててくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うん、いってらっしゃーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃん、本当に忙しいんだね。\\n　しっかり手伝ってあげなくちゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "……あら？　ココアじゃない。\\n甘兎の前で何してるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃん！\\nおかえりなさーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "実はね、私、千夜ちゃんの\\nクリスマスパーティー準備のお手伝いを\\nすることになったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "それで、今から一緒にパーティーの\\nスペシャルメニューを考えるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "へえ、そうなの。\\nそれで、肝心の千夜はどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "部屋を片付けてくるから、ここで待っててって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "ふーん。\\nでもまあ、ココアが手伝ってくれるなら\\n私も安心だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "え？　どういうこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "千夜って、悩み出すと止まらないタイプなのよ。\\n１人で抱え込んじゃったりもするし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "あ、確かにそうかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（前にも、チノちゃんのお父さんの方が\\n　上手に栗きんとんが作れるって\\n　すっごく落ち込んじゃってたし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "だから……その……行き詰まっちゃう前に\\n千夜の相談にのってあげてほしいっていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、\\n千夜ちゃんのことを心配してたんだね。\\nさすが幼なじみだぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "か、勝手に妄想を膨らませないでよ！\\n別に深い意味はないの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\n千夜ちゃんには黙っておいてあげるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "だから違うってば！　もうっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "ねえねえ、よかったらシャロちゃんも一緒に\\nクリスマスメニュー、考えない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "んー、それはお節介すぎると思うし、\\nそれに私、これからバイトなのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、そっか。\\n　この時期は時給がいいって前に言ってたっけ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "クリスマスパーティーには参加できるよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "もちろんよ。\\nそこはちゃんと予定を空けるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "じゃあ、最高の夜にするから楽しみにしててね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "ええ、期待してるわ。\\nそれじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "うん、頑張ってね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "そっちもね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんも大変だね。\\n　うん、疲れたシャロちゃんが和めるような\\n　パーティーにもしなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし、燃えてきた！\\n　みんなが大喜びするような\\n　スペシャルメニューを考え出してみせるよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、お待たせ。\\n準備ができたから入って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "はーい、お邪魔します！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

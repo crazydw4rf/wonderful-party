@@ -1,0 +1,358 @@
+{
+  "identity": "move_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねー、リゼちゃーん。\\n退屈だよー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "暇ならどこかに出かければいいだろう？\\nせっかくの休みなんだから\\nどこに行こうと自由なんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そ、外はだめ！　今は節約しないと！\\n何かかわいいものを見つけて\\n衝動買いしちゃったら大変だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "じゃあ、仕事してくれてもいいんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "んー、でもシフト外でお仕事すると、\\nお休みの時はちゃんと休んでくださいって\\nチノちゃんに言われちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "まあ、仕事と休みのけじめは大切だからな。\\nでも休むのなら、どこか別の場所にしてくれよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "むう～。\\nどうしてリゼちゃんは私を追い出そうとするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "今の店を見てみろ。\\nお前以外に客がいないだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "これはきっと、ココアが暇だ暇だって\\n言ってるから余計に店が暇になってるんだよ。\\nそんなオーラがお前から出てるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ええー！？　オーラなんて出してないよー！\\nそれに、お客さんがいないのに\\n私が出かけるわけにはいかないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "は？　どうしてだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だって、私がいなくなったら\\nリゼちゃんが１人になっちゃうでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "だからどうした。\\nお客がいないからこそ、\\n１人でも店を回せるんだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "備品の補充とか、こういう時にこそ\\nやらなきゃいけないこともあるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "むうう～！\\nもういいよーだ、\\nリゼちゃんを１人にしちゃうんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ああ、行ってこい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ほ、本当に出かけるよ？\\nいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "もちろんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "本当の本当に出かけちゃうんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "いってらっしゃーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "もう！　どうして止めてくれないの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "なんなんだいったい？\\n今の流れは止めなきゃいけなかったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "止めるところだったの！\\nリゼちゃんだって、\\n私がいなくなったら寂しいでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。\\nそう……かもな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "でしょ？\\n私ももうすっかり\\nラビットハウスの一員だよね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "……なあ、ちなみにココアは\\n私がいなくなったら、どう思うんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃんがいなくなったら……？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（リゼちゃんがいなくなったら……？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ええっ！？　リゼちゃん、いなくなるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "寂しいに決まってるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私は大丈夫だよ、安心して。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nリゼちゃん、いなくなるの！？\\nそんな、そんな……そんなの聞いてないよー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "こ、ココア？\\n何をそんなに慌ててるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって急にそんなこと言うから！\\nまさか、そんな予定があるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いや、今のところ、ここを辞める予定はない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、そんなこと言わないで。\\n考えるだけで寂しくなっちゃうから……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、悪かったよ、私が悪かった。\\nもう２度とこんなこと言わないよ。\\nごめんな、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "寂しいに決まってるよ！\\nそんなの聞くまでもないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そっか、寂しいのか。\\nそう思ってくれるんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "当然だよ！\\nどうして、そんな当たり前のことを訊くの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "さあ、なんでだろうな。\\nたまには、当たり前のことを\\n確認したくなるものなんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私は大丈夫だよ、安心して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そうか、ならよかった。\\n私がいなくなっても、\\nラビットハウスは大丈夫だな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？　えっと……うん、頼まれたよ。\\n任せといて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "お前はまだちょっと頼りないけど、\\nチノとなら、まあ、うまくやっていけるだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "だよね……うん……そうだね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "だ、だめー！！\\nやっぱり寂しいよ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "こ、ココア？\\nどうした？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うう……。\\nリゼちゃんがいなくなるかもって考えたら、\\nなんか気持ちが、ぶわーってなっちゃって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "安心しろ。\\nただの例え話だって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん……。\\nけど、例えばの話でこんなに寂しいんだから、\\n本当になったら、私……泣いちゃうよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ふふっ。\\nそうか、泣いちゃうのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "もう、私がこんなに悲しいのに、\\nどうしてリゼちゃんはそんなに楽しそうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "さて、どうしてだろうな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

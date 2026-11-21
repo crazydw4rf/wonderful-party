@@ -1,0 +1,163 @@
+{
+  "identity": "flyer_syaro_e3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "はぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？\\nどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ううん、何でもないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "何でもないって顔じゃないよ？\\nもしかして、何か悩み事？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "それは、その……私の問題だから。\\nココアは付き合わなくていいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そんな！\\n寂しいこと言わないで、シャロちゃん。\\n私たち、友達なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それとも、友達にも言えないほど\\n深刻なことなのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "……ちょっと落ち込んだだけ。\\nこの服を、リゼ先輩みたいに\\n格好よく着こなせてない気がして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "形が同じになったところで、\\nリゼ先輩のようにはなれないのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えーっと、それってつまり、\\n今のシャロちゃんとリゼちゃんには\\n違いがあるってことだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "まあ、そうとも言うわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "う～ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと？\\nそんなにじろじろ見ないでよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "わかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "何が！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "もちろん、シャロちゃんとリゼちゃんの違いだよ。\\nリゼちゃん、いつも\\n背筋をピンって伸ばしてるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "だから軍服も似合うんだよ。\\nそういう所から真似してみたらどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "シャロちゃんも姿勢が悪いわけじゃないけど、\\nもっと意識してみたらいいと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "確かに……リゼ先輩は、\\nいつもまっすぐ立って堂々としてる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "自分らしくて……周りにも流されなくて……\\n私……リゼ先輩のそういう所に憧れて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "……ココアの言う通りね。\\nこの服を着るのなら堂々としてなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "うん、その感じ！\\n何かリゼちゃんっぽいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ううん、まだまだリゼ先輩には遠いわ。\\nけど、努力してみる。\\nリゼ先輩のようになるために。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

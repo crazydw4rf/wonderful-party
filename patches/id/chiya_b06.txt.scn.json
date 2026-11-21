@@ -1,0 +1,327 @@
+{
+  "identity": "chiya_b06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "３枚目の地図が示している場所は、ここね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ここって市場じゃん。\\nこんなところにお宝があるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "人がいっぱいで探すのも大変そう～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うーん、確かに……\\nここじゃ、隠し場所もないんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "みんなだめよ。\\nさっき言ったばかりじゃない。\\n諦めない心が大事だって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "あらゆる困難を乗り越えた先で、\\n宝物が見つかるのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、そうだったね！\\nこんなところで終わるわけにはいかないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "よっし！\\nじゃあさっそく、私はあっちの方を――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "あれ？　なんだかいい匂い……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "わあ、マヤちゃん見て！\\nおいしそうなケーキがある～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "本当だぁ！\\nじゃあ、これ食べてから宝探しにしようか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "いきなり脱線！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "……ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "なんだ、聞いたことがある声だと思ったら\\nココアじゃないか。\\nこんなところで何してるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あ、リゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "やっほー、リゼ！\\n今日は宝探しだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ああ、そういえばチノからそんな話を聞いたな。\\nだからココアは今日、休みだったんだっけ。\\nしかし、マメまで一緒だったのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ＆メグ",
+          "original": "マメはやだ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "さっき偶然会って、\\n宝探しを手伝ってもらってるんだよ。\\nリゼちゃんはここで何してるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "何って、仕事に決まってるだろ。\\n必要なものの買い出しだよ。\\nそっちこそ、こんなところに宝があるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "それが、実はね、宝箱を発見して\\nその中に地図が入っていての繰り返しで、\\n今、３個目の宝箱を捜索中なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "へえ、それはなかなか面白い展開だな。\\nもしかしたら、最終的に\\n地下迷宮でも見つかるんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "えええ！？\\nこの街の地下に迷宮が！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "まあ、軍事用の秘密の通路を\\n地下に作ることはあるからな。\\n可能性はゼロじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "すごいじゃんっ！\\n忘れられた財宝とかがありそう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "いいえ、もしかしたら、打ち捨てられた\\n地下の牢獄があるのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "忘れられた囚人の亡霊が、\\n自分を見つけてもらうために\\n地図を使って地上の人間を呼んでいるのよ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "こ、怖いこと言わないで～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "……あれ？\\nそういえば、メグはどこに行ったんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "マヤ",
+          "original": "あれ？　本当だ。\\nいつの間にかいなくなっちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "大変！\\nもしかして迷子かしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "もう、しょうがない妹だね！\\nココアお姉ちゃんが探してきて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "メグ",
+          "original": "みんな、ごめんね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "あ、メグちゃん！\\nどこに行ってたの？\\nお姉ちゃん、心配したんだからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "メグ",
+          "original": "ごめんね、ココアちゃん。\\nでも、みんな喜ぶと思うよ～。\\nはい、これ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "こ、これは……うさぎの刻印の入った宝箱！？\\nメグちゃん、もしかして１人で見つけたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "メグ",
+          "original": "さっきはマヤちゃんが見つけたから、\\n今度は私が見つけたいって思って頑張ったの。\\nえへへ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "すごいわメグちゃん、お手柄ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "ま、また負けたぁ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "マヤ",
+          "original": "よーし、これでメグもレベルアップだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "メグ",
+          "original": "てってれ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "お前たち、楽しそうだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "マヤ",
+          "original": "うん、すっごく楽しい！\\nリゼも参加すればいいのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "参加したいところだけど、\\n私とココアが２人とも休んじゃ、チノが大変だろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "メグ",
+          "original": "じゃあ、今見つけた\\n宝箱の中身だけでも一緒に確認しよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\nそのくらいならいいか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "千夜",
+          "original": "それじゃ、開けるわよ。\\nよいしょっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "あれれ、また地図が入ってる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "マヤ",
+          "original": "ねえねえ、次はどこ？　どこ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "千夜",
+          "original": "ええと……\\nこの道をこう行って、\\nさらにまっすぐ進んで……あら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "おいおい、この場所って……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "うん、間違いないね。\\nここは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア＆千夜",
+          "original": "ラビットハウス！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

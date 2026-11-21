@@ -1,0 +1,219 @@
+{
+  "identity": "rize_b06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（はあ……。\\n　今の私は、完全に空回りしているな。\\n　シャロには余計な気まで遣わせてしまった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（本当に、何をやってるんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（こうなったら、ココアやチノが言っていた通り、\\n　指揮官の役目に集中すべきなんだろうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（いや、その指揮官の役目すら、\\n　今の時点では必要なくなってきている）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（みんな、自分の役割を\\n　しっかりこなしているからな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（もちろん、それぞれの進行状況を把握して、\\n　情報を共有するための仲介役は必要だろう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（だが、それは私が間に入らなくても\\n　個々に連絡を取り合えばすむ。\\n　私だけ、今、何もやることがない……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（みんなでやることになっている、\\n　飾り付けの買出し。\\n　これを私が担当しようかと思ったが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "（買出しは、みんな、楽しみにしてるんだよな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "（まあ、それも当然か。\\n　最近はバイトが忙しくて、\\n　みんなで集まる機会が減っているから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "（私の自己満足のために、みんなの楽しみを\\n　奪うわけにはいかない。\\n　そもそも私だって、みんなと気持ちは一緒だ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "（なら、どうすればいいんだ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "すまない、遅くなった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あ、リゼちゃん！\\nよかった、来てくれたんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "ん？　どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "詳しいことはチノちゃんから聞いて！\\nじゃ、行ってきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "な、なんだ？\\nどうしたんだ、ココアは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "それが、気になっているお店の\\nクリスマスケーキの予約が\\n今日までなんだそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "なので予約に行きたかったらしいんですが、\\nさすがに私１人ではお店を回せないので……\\nリゼさんが来るのを待っていたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "そうだったのか。\\nすまん、悪いことをしたな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "いえ、予約が今日までと思い出したのが\\nリゼさんの連絡のあとだったので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "でも、確か、まだどの店のケーキにするか\\n決めてなかったはずじゃ……。\\n食べ歩きにだって行ってないだろうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "え？　確かにそう言ってましたが……\\nよく知ってますね、リゼさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "あ……！\\nそ、そんなことを言っていたような気がしてな？\\nまあ、決めたのなら、それでいいんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "いえ、もしそのお店のケーキに決めた時に\\n予約が終わっていたら困るし、ひとまず、\\nということでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "え？　他の店にしたくなったらどうする気だ？\\nキャンセルできるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "有名店なので、キャンセル待ちの人が\\nいくらでもいるから問題ないみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "へえ……。\\nココアも色々考えてるんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "ココアさんは、\\n楽しむことに関しては全力ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "そういうわけなので、\\nリゼさんが早く来てくれて助かりました。\\n用事はもう済んだんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、もう大丈夫だ。\\n任せとけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "はい、今日もよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "（なんだかよくわからないが、\\n　これもココアの手伝いをしたうちに入るのか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "（だが……これじゃ、もやもやする。\\n　もっとしっかり手伝わせてくれ～！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

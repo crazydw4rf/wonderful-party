@@ -1,0 +1,442 @@
+{
+  "identity": "move_d02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "こんにちはー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、いらっしゃいませ～。\\nようこそ甘兎庵へ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？　メグちゃん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ラビットハウスのスパイが来たぞー！\\n捕まえろー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "マヤちゃんも！？\\nっていうか、私はスパイじゃないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "えー？\\nスパイじゃないなら、一体ここに何しに来たんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えっと、お茶を飲みながら\\nのんびり過ごそうと思ったんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "ホントにお茶だけか～？\\nホントはスパイをしにきたんだろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ち、千夜ちゃん助けてー！\\nこれはえん罪だよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "……あれ？\\n千夜ちゃん？　いないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "千夜なら買い物に行ってるぜ。\\n何か、お店で必要なものが\\n切れちゃったって、急いで出てったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "で、２人がお留守番？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "そういうこと！\\n臨時バイトってところかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "遊びに来たついでに、\\nちょっと見てることになったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "それでいいの、千夜ちゃん！？\\nさすがにこれはゆるすぎる気が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "ゆるいかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "だって、新人バイトさんに\\nいきなりお店を任せちゃうようなものだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "……そう言われるとちょっと不安かも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "いやいや、私たちが\\nいきなりお店を任せられるレベルの、\\nスーパー新人バイトってことなのかもしれないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "そうなのかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、マヤちゃんには悪いけど不安だよ。\\n　ここは私が甘兎庵を守らなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ねえ、マヤちゃん、メグちゃん。\\n甘兎庵を守るために、まず、\\nするべきことがあるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "するべきことってなんだ？\\n私たちは今のままで完ぺきだぜ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "前に、ココアちゃんに\\nウェイトレスのいろはを習ったことあるもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "甘いよ、２人とも！\\nあれだけじゃ足りないから、もっと教えてあげる。\\nそれじゃ、まず最初にすることなんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "でも、ココアちゃんは\\nウェイトレスとして先輩だし、\\nアドバイスをもらえるなら嬉しいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "そうか？\\nうーん、まあ、先輩の顔を立てるのも\\nスーパー新人バイトの務めかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "はい！　指導、頑張らせて頂きます！\\nそれじゃ、まず最初にすることなんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "choices": {
+        "*sel_0101": {
+          "original": "制服に着替えなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "メニューを覚えなきゃだめだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "今日は店じまいだよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "制服に着替えなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "制服って言うと、千夜が着てるあの着物？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "あれ、かわいいよね～！\\n着てもいいんだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "というか着なきゃだめ。\\n臨時とはいえ、店員さんなんだからね。\\n私もお手伝いした時はちゃんと着たんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "私たち、あの着物、似合うかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "動きにくそうだし、なれないとキツそうだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そう、あの制服が着こなせるようになって\\nようやく甘兎庵のウェイトレスと\\n認められるんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "なるほど～。\\n道のりは厳しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "女性Ａ",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ＆メグ＆ココア",
+          "original": "いらっしゃいませ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "メニューを覚えなきゃだめだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "なるほど！\\nウェイトレスたるもの、店のメニューぐらい\\n覚えておかないとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "でも、このお店のメニューは\\nちょっと……覚えにくいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "だよなー。\\n私、最初に見た時、\\n魔法を売ってるのかと思ったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そんなにわかりにくいかな？\\nちゃんと中身を表現してると思うんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "えー、これとか全然わかんないよ。\\n『海に映る月と星々』ってなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "白玉栗ぜんざいだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "わあ～、すごい！\\nさすが先輩だね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ……。\\nそれほどじゃないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "女性Ａ",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ＆メグ＆ココア",
+          "original": "いらっしゃいませ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "今日は店じまいだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ええ！？\\nどうしてそうなるんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "そうだよ、ココアちゃん。\\n私たち、頼まれたんだから\\nちゃんと最後までやらなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも、千夜ちゃんがいないんだし、\\n閉店しておいた方が\\n後々のことを考えればいいと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "だーめー！\\n私たちはやるって約束したんだ。\\nだから立派にやり遂げる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "絶対、最後までちゃんとやるー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "メグちゃん、マヤちゃん……！\\nうん、２人の気持ちはよくわかったよ！\\n私も協力するから、頑張ろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "うん、頑張ろ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "ココア、足引っ張るなよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "女性Ａ",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ＆メグ＆ココア",
+          "original": "いらっしゃいませ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "それじゃ、私、\\n千夜さんのおばあさんを呼んでくるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？　もしかして、\\n千夜ちゃんのおばあちゃんはいるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "もちろんいるよ。\\nでも今、お菓子を作ってて手が離せないんだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "私たち２人はね、\\nお客さんが来たらおばあさんを呼んでくる係なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そ、そういうことは先に言ってよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

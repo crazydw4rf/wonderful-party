@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chiya_e3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、私……\\nこの服を着るに当たって\\n心に決めたことがあるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ど、どうしたの、千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（いつになくシリアスな雰囲気……。\\n　これは、私もちゃんと受け止めるってところを\\n　見せてあげなくちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "何を決めたの？\\n千夜ちゃんの決意、聞かせてもらっていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ええ、ぜひ、聞いてほしいの。\\nそれはね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "軍人だったら、武器を扱えなきゃいけないわ。\\nだから刀の修行をしてきたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "刀の修行！？\\nそれはかっこいいね――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "じゃなくて！\\nここで刀を振り回しちゃだめー！\\n捕まっちゃうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "大丈夫、木刀だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あ、なんだ木刀かぁ。\\nそうだよね、千夜ちゃんの体力だと\\nきっと本物の刀なんて持てないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "って、木刀でも危ないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "大丈夫！　今、見せてあげる！\\nまずは壱の太刀……行くわよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ん？　今のって、千夜ちゃんのお腹の音？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "はっ、はずかしい……！\\nこのタイミングでなんて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "仕方ないよ。\\nもう夕方だし、お仕事をすればお腹が空くもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "軍人だってお腹が空いたら何もできないよ。\\nほら、まさに、腹が減っては戦はできぬ、だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n私もちょっとお腹が空いてきたし、\\nとっておきのものをっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\nほら、ティッピーパンを持ってきたんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "まあ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "一緒に食べてお腹がいっぱいになったら、\\n修行の成果も見せてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。\\n本当にありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "そんな大げさにお礼を言うほどじゃないよ。\\nはい、半分こしようね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "ええ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

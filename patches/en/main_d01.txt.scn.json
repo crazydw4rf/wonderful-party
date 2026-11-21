@@ -1,0 +1,63 @@
+{
+  "identity": "main_d01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（チノちゃんのお誕生日から、少し経って――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（お誕生会、楽しかったなぁ。\\n　チノちゃんも喜んでくれたし、\\n　私、少しはお姉ちゃんらしくできたかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "（……ううん、何か足りないような。\\n　もっともっと、チノちゃんを幸せいっぱいに\\n　してあげられた気がする）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "（そうだよ！\\n　私、お姉ちゃんとしてまだまだだ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "（チノちゃんに尊敬される\\n　立派なお姉ちゃんになるために、\\n　もっと頑張らなくちゃね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "（もうすぐ冬休みだし、\\n　チノちゃんやみんなとやりたいことが\\n　たくさんある）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "（これからもみんなと\\n　楽しい思い出をいーっぱい作って――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "（そして、チノちゃんに\\n　私のいいところを全部見せて、\\n　『お姉ちゃん』って呼んでもらうんだ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "（待っててね、チノちゃん。\\n　私、絶対にすてきなお姉ちゃんに\\n　なってみせるから！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

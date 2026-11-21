@@ -1,0 +1,677 @@
+{
+  "identity": "main_b07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃーん！\\nこっちこっち～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "お待たせしました。\\n遅くなってしまって、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "いいのよ、今日集まるのは\\n急に決まったことだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "まさか、みんな揃って\\nバイトの休みが重なるとはな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "前もってわかっていれば、\\nちゃんと予定を立てられたんですけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "大丈夫、みんな一緒なら\\nぶらぶら歩いているだけでも楽しいわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それに、こんな風に\\nみんなで集まるのは久しぶりなんだからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "久しぶりって、つい何日か前に\\nチノの誕生日パーティーで集まったばかりだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うん、だからこそだよ！\\n誕生日パーティーが楽しかったから、\\n会えなかった数日が長く感じちゃうんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "確かに、楽しいパーティーだったものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "だよね！\\nチノちゃんなんて、感激して泣いちゃってたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "な、泣いてません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "またまた～。\\n心の中で感動の涙を流してたこと、\\nお姉ちゃん、ちゃんとわかってるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "ココアさんは、どうして根拠もないことを\\nそんな自信満々に言えるんですか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "え？\\n誕生日パーティー、楽しくなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そんなこと言ってません。\\n別に、泣いたりしてないだけで……\\nすごく楽しかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えへへ、よかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "もうどこも飾り付けが済んで、\\nすっかりクリスマスの雰囲気だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "１２月に入ると、\\nクリスマスまであっという間だからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "お店で働いてると余計にそう感じますよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "そうね、クリスマス用のメニューを考えたり、\\n普段の仕事をしながら当日の準備を\\n進めなくちゃいけなくて、忙しいものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "そうでした。\\nうちも何か考えないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "甘兎庵は、今年もターキーを出すの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ええ、もちろんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "甘味処なのにターキーを出すの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "そうなの。\\n自分で言うのもなんだけど、評判もいいのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "じゃあ、ラビットハウスも負けてられないね！\\n特製ラビットターキーを出そう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "却下です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "ていうか、ラビットターキーってなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "シャロちゃんは、\\nクリスマスに向けてバイトづくし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ええ、そうね。\\nこの時期は時給がいいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nせっかくだし、みんなで\\nクリスマスパーティーもやろうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "えっ？　パーティー？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0201": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ほら、前に約束したよね。\\nココアサンタが、シャロちゃんに\\n素敵なクリスマスをプレゼントするって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あ……。\\nよく覚えてたわね、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お仕事のあと、みんなでラビットハウスに集まろう。\\n大丈夫だよね、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0202": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お仕事のあと、みんなでラビットハウスに集まろう。\\n大丈夫だよね、チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_02_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ええと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "店のことなら構わんぞ。\\n好きにするといい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "よかったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "じゃあ、メグさんとマヤさんも\\n誘っていいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "もちろん！\\nパーティーの準備は私がするから、\\nみんな楽しみにしててね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "あ……！\\nあの、ココアさん、待ってください。\\nパーティーの準備は私に任せてもらえませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？　チノちゃんに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "みなさんに誕生日を祝ってもらったばかりですし、\\nそのお礼ということで、やらせてほしいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "でも、チノちゃんは\\nラビットハウスの仕事があるし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "それはココアさんも同じですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nじゃあ、準備を手伝わせてくれるならいいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさん。\\nお気持ちは嬉しいです。\\nでも、自分の手でやってみたいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "みなさんに、その……私と同じような\\n楽しくて暖かい時間を過ごして欲しいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "チノちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そうだね、ここで妹の気持ちを受け入れて\\n　成長をじっと見守るのも\\n　お姉ちゃんのあるべき姿だよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うん、わかった。\\nチノちゃんに任せるけど、\\n困ったことがあったらいつでも言ってね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "はい……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "待った！\\nそういうことなら、\\nパーティーの仕切りは私に任せてくれないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "チノの誕生日パーティーは、ほとんど\\nココアに任せてしまったからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ラビットハウスの一員として、\\n今度は私にやらせてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "リゼちゃんがそういうなら構わないけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "いいえ！\\n先輩の手を煩わせるくらいなら私が！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "大丈夫だ、全部を１人でやるつもりはないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "それよりも、みんなで\\n準備していくのがいいと思うんだ。\\nその仕切りを私がやるってことで、どうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "あ、はいっ！\\nそういうことなら、お任せします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "よろしくね、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ああ、任せておけ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（みんなでクリスマスパーティー……。\\n　もう、わくわくが止まらないよ！\\n　早くクリスマスにならないかなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0103": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ねえ、ココアちゃん。\\nパーティーの準備は私に任せてもらえない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "え？　千夜ちゃんに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ラビットハウスさんに\\n場所を提供してもらうのだから、\\n準備くらいは私がしたいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "チノちゃんのお誕生日会も\\nココアちゃんに任せてしまった部分が多いもの。\\nね？　やらせてくれない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "ココア。\\n千夜はこれで結構、頑固だから。\\n言い出したら聞かないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うーん、じゃあ、千夜ちゃんに\\nお任せしちゃおうかな。\\nもちろん、お手伝いはするからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん！\\nクリスマス当日は、腕によりをかけた\\nご馳走を振舞わせてもらうわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0104": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "クリスマスパーティーかぁ……。\\n友達同士でやるのは初めてだし、\\nなんだかわくわくするなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "はっ……！\\nり、リゼ先輩……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "あ、あのっ！\\nパーティーの主催は私がやるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "シャロちゃんが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "先輩と一緒に過ごすクリスマスなんだもの。\\nせっかくなら私の好みに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "じゃなくて！\\n場所とか提供してもらうんだから、\\nそれくらいは私がやるわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0301": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でも、ココアサンタが\\nクリスマスをプレゼントするって約束だし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "それは、クリスマスパーティーを\\nやるってことで充分よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "でもシャロちゃん、バイトで忙しいでしょう？\\n大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そ、それは……なんとかしてみせるわ。\\nあんたは気にしなくていいの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0302": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "でもシャロちゃん、バイトで忙しいんだよね？\\n大丈夫なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そ、それは……なんとかしてみせるわ。\\nあんたは気にしなくていいの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_03_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "あんまり無理はするなよ？\\n何かあったら私も手伝うからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あ、はいっ！\\nありがとうございます、先輩。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0105": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "準備なら私にやらせてください。\\n誕生日パーティーを開いてもらった\\nお礼をしたいので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "いや、待て。\\nここは年長の私が取り仕切るのが妥当だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そんな！\\n先輩の手を煩わせるくらいなら私がやります！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "シャロちゃんはバイトで忙しいでしょう？\\nここは無理せず、私に任せておいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "お、おお……。\\nみんな、やる気満々だね。\\nだったら一緒にやるっていうのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "みんな",
+          "original": "一緒に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "みんな忙しいだろうから、\\n私がパーティーの準備をすれば\\nいいって思ったんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "みんながやりたいって思ってくれてるなら、\\n一緒にやった方が絶対に楽しいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "みんなの意見が集まれば、世界で１番\\n素敵なクリスマスパーティーを開けると思うから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "……そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "うん、それがいいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ああ、みんなでやれば\\n忙しい時も助け合えるしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "それに、１人じゃ思いつかないような\\nアイディアも出てくるかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "じゃあ、みんなでやるってことで、\\n決まりだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "ええ、素敵な一夜にしましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（みんなでクリスマスパーティー……。\\n　もう、わくわくが止まらないよ！\\n　早くクリスマスにならないかなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

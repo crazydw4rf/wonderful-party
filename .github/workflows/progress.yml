@@ -1,0 +1,33 @@
+name: Update Translation Progress
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - "patches/**"
+
+permissions:
+  contents: write
+
+jobs:
+  progress:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Calculate progress and update badges
+        run: |
+          python cli.py progress
+
+      - name: Commit updated badges
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update translation progress badges [skip ci]"
+          file_pattern: "badges/*.json progress.json"

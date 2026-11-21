@@ -1,0 +1,325 @@
+{
+  "identity": "flyerhap_syaro_i.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "シャロちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "うわあ！？\\nな、何？\\nそんな大声出さなくても聞こえてるわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、大丈夫なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "あんたの方が大丈夫じゃなさそうな\\n顔してるんだけど……特に問題ないわよ。\\nどうしてそんなこと聞いてくるわけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "だって、シャロちゃんが\\n私たちを怖がっちゃうんじゃないか心配で。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "……なんで？\\n意味わかんない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "だって、今の私たちはバニーだから！\\nうさぎの格好してるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ああ、そうね。\\n当たり前すぎてすっかり忘れていたけれど、\\nこれってうさぎよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "それで、大丈夫かなんて言い出したのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ものすごく今更ですね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "今まで気がつかなくてごめんね、シャロちゃん。\\nお詫びに、このバニー衣装で、シャロちゃんの\\nうさぎ恐怖症の克服を手伝ってあげるから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "はっ！？\\nどうしてそうなるの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "いい案ね。\\nそれぞれ、うさぎになりきって\\nシャロちゃんに接してみましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "千夜！\\nあんた、絶対に面白がってるでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "……どうします？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ココアは言い出すと止まらないしな。\\nここは見守るしかないんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "では、まずはチノちゃんからどうぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "こっちに飛び火してきた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "うさぎになりきって、\\nシャロちゃんに接してみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "そんなこと、急に言われても困ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "じゃあ、ごにょごにょ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "……わかりました。\\nでは、やってみます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "――シャロさん。\\n私は、ちょっとやそっとではもふらせません。\\nうさぎに慣れようなんて１０年早いです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ツンツンうさぎ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "どうだった？\\nシャロちゃん、克服できそう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "今のでどう克服しろっていうのよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "まだだめみたいだね。\\nじゃあ、次！　私がいきます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "こんにちは～。\\n私は温かくてかわいい小動物だよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "抱きしめてもいいよ～？\\nお姉さんに噛みついたりなんて\\n絶対にしないよ、ぴょんぴょん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "……そこまでアピールされると逆に怪しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "ああ、罠だな。\\n油断させてガブリ！　だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "なんでー！？\\n２人とも疑り深すぎだよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "じゃあ、次は私？\\nどんな演技にしようかしら、悩むわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "じゃあ、千夜ちゃんが考えてるあいだに\\nリゼちゃんがやる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "私か？\\nうーん、いいのが思いつかないんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "じゃあ、こういうのはどう？\\nごにょごにょ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "確かに、今までなかったパターンだな。\\nやってみるか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "せ、先輩、よろしくお願いします！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "そんなに緊張するなって、\\n本物のうさぎじゃないんだし。\\nそれじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "ぴょんぴょん！\\nお姉さん、私は大人しくてかわいいうさぎだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "柔らかくて甘いクローバー、見つけたの。\\n一緒に食べよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "ほああああ～……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "ん？　どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "わ、わ、私……も、もう、死んでもいい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "シャロ！？\\nおい、しっかりしろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "千夜",
+          "original": "シャロちゃん！\\n倒れるのなら私の演技を見てからにして～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "そこなんですか！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

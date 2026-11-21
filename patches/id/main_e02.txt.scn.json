@@ -1,0 +1,21 @@
+{
+  "identity": "main_e02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（さあ、これからバイトだよ！\\n　お姉ちゃんとして、チノちゃんのお手本に\\n　なるよう頑張らなくちゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "（……お、お手本は無理でも、せめて\\n　失敗して迷惑かけないようにしないと……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

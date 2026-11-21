@@ -1,0 +1,363 @@
+{
+  "identity": "chino_ed01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チ～ノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よしよし。\\n　疲れてぐっすり寝てるみたいだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チノちゃん、クリスマスパーティー、お疲れ様。\\nケーキを準備するために、本当に頑張ったんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "今日は、そんなチノちゃんに\\nココアサンタからプレゼントだよ。\\n気に入ってくれたらいいんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nこれで、私もサンタさんになっちゃったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チノちゃんも、さっきパーティーで、\\nサンタさんの存在を信じてる、みたいなこと\\n言ってたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "そういえばさ、チノはサンタさんに\\n何がほしいかお願いした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "あ……。\\n忙しくて、すっかり忘れてました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "大変！\\nサンタさん、何をプレゼントしたらいいか\\n迷っちゃうよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "大丈夫だって！\\nきっと、チノが欲しがりそうな物を\\n選んでくれるよ。だってサンタさんだもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nでは、今年も念のため、靴下を用意しておきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "うん、靴下を用意しておけば問題ない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "でも、サンタさんって本当にいるのかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "いるよ！\\nだって、プレゼントが届くんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "チノは？　サンタさんの存在、信じてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "……いたらいいな、とは思います。\\nだから念のために靴下を用意してるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "へー、さすがチノはクールだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "私はね、明日の朝が本当に楽しみなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "私も！　今日は興奮して眠れないかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "だめだよ、マヤちゃん。\\n寝て待ってないと\\nプレゼントがもらえないんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "だよなぁ。\\n本当は会ってお礼を言いたかったけど、\\n寝るしかないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "マヤ",
+          "original": "サンタさんって本当にすごいよな。\\nいつの間にか枕元にプレゼントを\\n置いてくんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "マヤ",
+          "original": "私も、そんなプロの技を伝授してほしいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "メグ",
+          "original": "じゃあ、マヤちゃんは、\\n将来、サンタクロースになるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "うーん、それもいいかもしれないけど、\\n渡すよりもらう方が嬉しいよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "メグ",
+          "original": "もう、マヤちゃんったら～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、素っ気ないふりをしてたけど、\\n　絶対、サンタさんに来てほしいって\\n　思ってるもん）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（期待に応えるのがお姉ちゃん……\\n　ううん、サンタさんの務めだよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（さてと、チノちゃんを起こさないように\\n　プレゼントを置いておかないと。\\n　そっと、そ～っと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、あどけない寝顔だなぁ。\\n　本当に天使みたいにかわいい～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、靴下が用意してある。\\n　これに入れないと……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　この靴下、ちょっと小さいかも。\\n　もう、チノちゃんってば謙虚なんだから！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "すー……すー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はあ～。\\n　よかった、気づかれなくて。\\n　早くプレゼントを靴下に入れなきゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よいしょっ……と）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ココアサンタ、任務完了！\\n　明日の朝、チノちゃんの\\n　驚いた顔を見るのが楽しみ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（正体を明かせないのはちょっと寂しいけど、\\n　チノちゃんが喜んでくれたら、それでいいよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "チノ",
+          "original": "サンタ……さん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "！？\\nち、チノちゃん、起きてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "ありがとう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "すぅ……すぅ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ね、寝言かぁ。\\n　びっくりしたぁ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも……寝ていても\\n　感謝の気持ちを伝えてくれるなんて！\\n　チノちゃん、なんていい子なの！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "もう、かわいい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "チノちゃん、メリークリスマス。\\nいい夢を見るんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "すー……ぐー……むにゃむにゃ～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "それじゃ、また明日ね。\\nおやすみなさい、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "チノ",
+          "original": "はあ……。\\n普通、いきなり抱きつかれたら\\n誰だって目が覚めますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "チノ",
+          "original": "そういう詰めが甘いところが\\nココアさんらしいですが。\\nでも、一体、何をしに来たんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "チノ",
+          "original": "あ……！\\n靴下が……プレゼント？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "チノ",
+          "original": "ふふっ！\\n本当に、おっちょこちょいのサンタさんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "チノ",
+          "original": "でも……\\nありがとうございます、ココアさん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

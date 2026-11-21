@@ -1,0 +1,392 @@
+{
+  "identity": "move_f06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（むむむ！\\n　あそこにいるのは……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リーゼちゃーん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "うわあ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "なんだ、ココアか！\\n急に飛びついてくるな、危ないじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えへへ、ごめんね。\\nリゼちゃんの後ろ姿を見つけたら\\n嬉しくなっちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それで、リゼちゃんは何してるの？\\nお買い物してるのなら一緒に行こうよ。\\nその方が楽しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "ああ、いいぞ。\\nココアは何を買いに来たんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えーっと、何かいいものがあったら\\n買おうかな、くらいの気持ちなんだ。\\nもちろん節約しなきゃいけないけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ああ、わかる。\\nここには色々な店が出てるからなぁ。\\n思わぬ掘り出し物もあるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "もぐもぐ……。\\nん～！　これ、おいし～い！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "おい！？\\n今、節約しなきゃって言ったところだろ、\\n何買ってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ううん、買ったんじゃないよ。\\nおじさんが試食にってくれたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "お友達の分も一緒にって、もらっちゃった。\\nはいどうぞ、リゼちゃんの分。\\nすごくおいしいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、ありがとう。\\nもぐ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "おお、確かにおいしいな。\\nこれこそ掘り出し物だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "それにしても、ココアって\\n甘え上手なところあるよな。\\nこうやって試食をもらってきたりとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あっ！\\n甘えると言えば、チノちゃんはもうちょっと\\n私に甘えてくれてもいいと思わない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "まあ、チノはココアとは逆に\\n甘え下手なところがあるからなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そういうリゼちゃんも人に甘えたりしないよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "そうか？\\nまあ、そもそもキャラじゃないって言うか\\n私はココアみたいには振る舞えないしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あっ！　もしかしてリゼちゃん、\\n甘えたいけど甘えられないの？\\nだから私のようになりたいの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "待て！　話がズレてる！\\n振る舞えないと言っただけで\\nなりたいとは言ってないぞ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そんなに甘えたいのなら私で練習して！\\nはい！　お姉ちゃんの胸に飛び込んできて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "お前は人の話を聞け！\\n大体、大衆の面前でそんなことできるか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "だめだよ、リゼちゃん。\\nそのままじゃ、ずっと甘え下手なままだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "いや、だからな？\\n甘えたいんじゃなくてだな……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "いや、だからな？\\n甘えたいんじゃなくてだな……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ここで自分の殻を破るんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "訓練だと思って！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "いいから私の胸に飛び込んで！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ここで自分の殻を破るんだよ！\\nそれでリゼちゃんは大きく成長できるはずなの！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "自分の殻を破る……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そうだよ。\\n自分の限界を自分で決めちゃわないで。\\nリゼちゃんはもっともっと上に行けるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "確かに、確かにそうだ。\\n限界を決めてしまっては成長なんて望めない。\\n停滞は、戦場では死を意味する。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "わかった、ココア。\\n甘える技術も必要になる瞬間が来るかも\\nしれないからな、やってみるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん、その意気だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "訓練だと思って！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おいおい。\\n訓練と言えば何でもやるとか\\n思ってないだろうな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、リゼちゃんは\\nやりもしないで諦めるんだ。\\n甘え下手ってわかっていながら何もしないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "べ、別に、何もしないと\\n言ってるわけじゃないだろう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、苦手なものを克服する時には\\n得意な人に教わるのも手段だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そして私は、リゼちゃんが認める\\n甘えるのが上手い人間なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "……確かにそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "だったら、迷うことはないよ。\\n私がリゼちゃんに甘え方を教えてあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いいから私の胸に飛び込んで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "はあ……。\\nこうなると、ココアは\\n理屈では説得できないんだよなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "わかったよ、少し付き合う。\\nいいか？　少しだけだからな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "それじゃ、まずは……\\nココア～！　ってかわいらしく\\n言いながら私に抱きついてきて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "その掛け声には何か意味があるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "もちろんだよ。\\n声を出していくのは重要なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "……こ、ココア～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はい、もっと大きくかわいく！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "こ、ココア～……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "まだためらいがあるよ！\\nほら、私の胸に飛び込んで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ココアぁ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "おお！　頑張ったね、リゼちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "くううう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あれ？\\nリゼちゃん、大丈夫？\\nなんでそんなに震えてるの？　寒い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "お、お前がはずかしいこと\\nやらせるからだ～！！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

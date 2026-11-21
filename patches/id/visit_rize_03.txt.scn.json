@@ -1,0 +1,388 @@
+{
+  "identity": "visit_rize_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "むう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あっ、千夜ちゃんにシャロちゃん！\\nいらっしゃいませ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ん？　どうしたんだ、シャロ。\\n元気がないじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "はっ！！\\nあ、いえ、ちょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ラビットハウスさんの前でね、\\n女性のお客さんがリゼちゃんのことを\\n噂していたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ちょ、ちょっと千夜！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "え？　リゼちゃんの噂？\\nなになに、気になるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "なんでココアが聞きたがってるんだ。\\nど、どうせ、変な冷やかしだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "リゼちゃん、凛々しくてとっても格好いいって。\\nねえ、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "……そうだったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ねえチノちゃん、私、リゼちゃんの\\n格好よさはもっとお店に活かせると思うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "いっそ、ラビットハウスさんの\\n売りにしてみたらどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "売りに……ですか？\\nそう言われても、どうしたらいいんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "うーん……。\\nそうね、執事喫茶なんてどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "羊喫茶……！\\nそれはすごくもふもふでいいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "いや、羊じゃなくて執事だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩の執事姿……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "はっ！？　だめよ！\\nリゼ先輩にそんな見世物みたいなこと\\nさせるなんて……で、でも……見たいかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ねえ、どうかしら。\\nリゼちゃんなら、きっとできると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "気品がなくてはできない\\n上品なお仕事なのよ？\\nリゼちゃんなら絶対に似合うと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "気品……上品……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "ま、まあ……そこまで言うなら、\\n少しだけやってみてもいいぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "おおっ！\\nリゼちゃんがやる気になった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "やる気満々みたいな言い方をするな！\\n私はただ、店の役に立てるならと思ってだな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "それじゃ、さっそくやり方を教えてあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんがリゼちゃんの教官に\\n　なる日が来るなんて。\\n　これは面白くなってきたよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "お客さんが来たわね。\\nそれじゃリゼちゃん、実践よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "かしこまりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "すでになりきってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "お帰りなさいませ、お嬢様。\\nお荷物、お持ちいたします。\\nどうぞこちらへおかけください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "す、素晴らしいわっ！\\n予想以上ね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "うん！　本物の執事みたいだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "ココアさん、本物の執事を知ってるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "あ、リゼちゃんが戻ってくるわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、お疲れ様！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "こ、これは……\\nだめだ！　はずかしすぎるだろっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "でもよく似合っていたわよ？\\nねえ、ココアちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "でもよく似合っていたわよ？\\nねえ、ココアちゃん？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "うん、すごく似合ってた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "もう一声、欲しかったかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "思わずドキッとしちゃったよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、すごく似合ってた。\\nリゼちゃん、キラキラして見えたよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？\\nいや、でも、執事が似合ってるって\\nそもそも褒め言葉なのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "褒めてるよ？\\n今のリゼちゃん、気品があって格好よかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あ、ありがとう……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "もう一声、欲しかったかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "もう一声って、あれ以上どうするんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お嬢様、危ない！　私がお守りします！\\n早くお逃げください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "って感じ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それは執事じゃなくてボディガードの役目だろ！\\n喫茶店でそれって\\nどういうシチュエーションなんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "思わずドキッとしちゃったよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "な、なんだそれ。\\nココアにドキッとされても困るだけだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "えー？　それだけ気品ある感じで、\\nばっちりきまってたってことだよ？\\nリゼちゃん、いっそ執事になっちゃうのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "冗談言うな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "でも、確かにお客さんの反応もよかったけど、\\nこれは店のイメージじゃないだろ。\\nなあ、シャロもそう思うよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ほああああ～……！\\nリゼ先輩……素敵です……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "しゃ、シャロ！？\\nどうした！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nこれは、シャロちゃんに\\n１番効果があったみたいね、うふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

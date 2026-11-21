@@ -1,0 +1,484 @@
+{
+  "identity": "syaro_a05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？　リゼちゃん？\\nバイト早めに上がって帰ったんじゃなかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "何か忘れ物ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いや、ちょっとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "あの、先輩？\\nどうしてラビットハウスに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、シャロちゃんも一緒なんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "こんにちは、シャロさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "チノ、しばらくシャロと２人で席を借りていいか？\\nできれば閉店までお願いしたいんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "今は混み合っているわけでもありませんし、\\n構いませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ありがとう。\\nシャロ、こっちだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "はい。\\nでも先輩、ここで何をするんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "そうだなぁ。\\nまずは数学からにしようか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "え？　数学？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "もうすぐ期末試験だろ？\\n一緒に勉強をしようと思ってさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "あ……。\\nそうだったんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "迷惑だったか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "いえ、そんなことありません！\\n数学ですね、すぐに準備します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "へー、２人で勉強かぁ。\\n喫茶店で勉強って、なんだか捗りそうだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "なら、ココアも一緒にやるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "え！？\\n私はその～、まだ仕事があるし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "そう言うのなら、ちゃんと仕事してください。\\nお客さんが待ってます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "はーい。\\nオーダー、取りに行ってきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "リゼさん、コーヒーの差し入れです。\\nシャロさんはココアでいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "ああ、すまないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "ありがとう、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "いえ。\\nでは、頑張ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "よし！\\nじゃあ、始めるとするか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "はい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "（始めてはみたけど……\\n　これじゃ、並んで\\n　別々に勉強してるだけのような？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "（リゼ先輩とは学年が違うんだもの。\\n　当然、試験範囲も違うんだし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "（でも、先輩にしてみれば、私の試験範囲は\\n　去年習ってるところなんだから、\\n　質問すれば教えてもらえるかも……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "（あ、だけど、もし\\n　こんな問題もわからないのかって\\n　呆れられたりしたら……！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "なあシャロ、ちょっと聞いていいか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "あ、はい！？\\nなんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "ここの問題なんだが、\\nどうやって解いたらいいと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "えーっと……\\nこれなら、あの公式を使えばいいはずです。\\nほら、教科書のここですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "ああ、なるほど、この公式だったな。\\nそれからさ、これなんだけど、わかるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "それはですね、\\nここにこっちの数字を代入して――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "（……あれ？　この問題もさっきの問題も、\\n　１年生の時に習うものよね。\\n　両方とも、今回の私の試験範囲だし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "（どうして、リゼ先輩がそんなところの\\n　質問をしてくるのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "シャロ",
+          "original": "……あっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "リゼ",
+          "original": "ん？　どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "あ、いえ、別に、なんでもないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "（もしかして先輩、私の復習を手伝うために、\\n　わざと私の試験範囲の質問をしてきてるんじゃ\\n　ないかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "（勉強に誘ってくれただけじゃなくて、\\n　そんな気遣いまでしてくれるなんて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "リゼ",
+          "original": "シャロ？\\nおーい、どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "シャロ",
+          "original": "ああっ！？\\n先輩、顔が近いですっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "ああ、すまない。\\nボーッとしてるみたいだったから\\nどうしたのかと思って、つい。悪かったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "シャロ",
+          "original": "（ええっ！？\\n　そんな、先輩は悪くないのに！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "シャロ",
+        "original": "（ええっ！？\\n　そんな、先輩は悪くないのに！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "悪いだなんて、そんなことないです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "すごくいい匂いがしました！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "せ、先輩、ここを教えてください！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "悪いだなんて、そんなことないです！\\nもっと近くてもいいくらいです！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "はは、そうだな。\\nせっかく一緒に勉強してるんだから、\\nあんまり離れててもなんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "じゃあ、このくらいで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（ああああ～！\\n　先輩が近づいてきて、腕が当たって！\\n　どどど、どうしたら～！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "なんだかすごくいい匂いがしました！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（って、私は何を口走ってるのー！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "匂い？\\n特に匂いがするようなものは\\nつけてないはずなんだが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "まさか、硝煙の匂いがするとかじゃないよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そんなことないです！\\nリゼ先輩自体がいい匂いだったっていうか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（ああああ！\\n　なんだか墓穴を掘ってるわよ、私！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "せ、先輩、ここを教えてください！\\nこの問題の解き方がわからないので、\\nお願いします！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、いいぞ。\\nこういう時くらい先輩らしくしないとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いえ、リゼ先輩はいつだってすごく立派で……\\n私、本当に尊敬しています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ははは、シャロは大げさだな。\\nでもそれなら、ますます頑張らないと。\\nシャロを失望させたくないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そんな、先輩……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あれ？　シャロちゃん、どうしたの？\\n顔が真っ赤だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ななな、何でもないわよ！\\nほっといて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん、勉強の邪魔をしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "そうだぞ、少し静かにしてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え～！？\\nなんで私ばかり怒られるの！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

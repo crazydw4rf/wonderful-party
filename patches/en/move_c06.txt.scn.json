@@ -1,0 +1,398 @@
+{
+  "identity": "move_c06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "だから、絶対だって！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "そうかな～？\\n絶対とは限らないと思うよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　この声は……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "あれ、ココアだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "ラビットハウスの制服？\\nもしかして、お使い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "あ、わかった！\\nさてはサボりだな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "サボりなんかじゃありません。\\n今はお昼休みなのです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "なんだ。\\nココアが仕事サボってるって、\\nチノに教えてやろうと思ったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "あれ？\\nココアちゃんが休憩中ってことは、\\nチノちゃんだけでお店番？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "うん。\\n今日はリゼちゃん、バイトお休みだから\\nチノちゃんとティッピーがお店番中だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "って、あれ？\\nなんでメグちゃん、知ってるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "さっきリゼさんとすれ違ったんだ。\\nその時、お休みって聞いたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "でもさ、いくら慣れてるとはいえ\\nチノ１人じゃ大変かもな。\\nメグ、手伝いに行かね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "うん、そうしよっか。\\nお手伝いなら、前にしたことあるもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ちょっと待ちなさい？\\nウェイトレスは\\nそんな簡単な仕事じゃありませんことよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "どうしても手伝いに行きたいと言うのなら、\\n私からウェイトレスのいろはを\\n教わってからにしなさーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "なんかココアが先生みたいになってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "っていうか、私たちに教えてる暇があるなら、\\n早く帰ってチノを手伝ってやればいいんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "そうしたいんだけど、\\nしっかりと休憩を取るのも仕事ですよって\\nチノちゃんに言われちゃうんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "ふーん、そうなんだ。\\nお仕事って色々だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "よし、じゃあ私たちがココアの分まで\\n手伝ってくるから、\\nその、ウェイトレスのいろはを教えてくれよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "あ、でも、いろはだといっぱいありすぎて\\n覚えきれないし、今は１番大切なことを教えて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えーっと、ウェイトレスにとって\\n　１番大事なことと言えば、やっぱり……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（えーっと、ウェイトレスにとって\\n　１番大事なことと言えば、やっぱり……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "もちろん笑顔だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "きちんとした挨拶です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ずばり、バランス感覚！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "もちろん笑顔だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "うわー。\\nなんか、すごく普通じゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "でも、普通に思えるくらい基本なんだよね。\\nそれって大切ってことでもあるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "はっ！！\\nなるほど……私が甘かったぜ。\\nやるじゃん、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ふふん、わかってくれた？\\n笑顔はウェイトレスの基本、\\nだからいつも明るい顔でいないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "さあ！\\n２人とも笑ってご挨拶！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "い、いらっしゃいませ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "メグちゃん、惜しい！\\nもっと自然な感じでにっこりしてみて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "自然な感じ自然な感じ……\\nい、いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "いいよ！\\nその笑顔を忘れないようにね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "はーい、わかりました！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "きちんとした挨拶です。\\nわかりますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "挨拶って、いらっしゃいませ～、とか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、お客さんがお店に入って\\n最初に聞く挨拶だからね。\\nそしてもう１つ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "お帰りの際の挨拶も重要なの。\\nまた来たいなって思ってもらえるように、\\n心を込めてご挨拶しなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "お見送りの挨拶も大事なんだぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "最初だけじゃだめなんだな。\\n勉強になるぜ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それじゃ、マヤちゃん、メグちゃん！\\nさっそく練習してみよう！\\nせーの、ありがとうございましたー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ＆メグ",
+          "original": "ありがとうございましたー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ずばり、バランス感覚！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "バランス感覚？\\nウェイトレスに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "考えてみて？\\nコーヒーやお料理を運ぶ時、\\nバランスが悪かったらどうなっちゃう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "大変！\\n全部おっことしちゃうかもしれないよ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そういうこと！\\nじゃあ、片足立ちでバランス感覚を養おう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "よーし、やるぞー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "が、頑張るね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "ふふーん、\\nこれでいつでもウェイトレスができるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "リゼも褒めてくれるかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？　リゼちゃん？\\n先生の私じゃなくて、\\nリゼちゃんに褒められたいの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "だって、メグの場合、\\nココアより先にリゼが先生になったからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　それって何の話？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "実はさー、前にプールに行った時に\\nメグがリゼを先生って呼んで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "そ、そのことは、もういいでしょ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ええ？\\n気になるよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

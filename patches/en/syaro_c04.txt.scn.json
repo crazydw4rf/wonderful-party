@@ -1,0 +1,339 @@
+{
+  "identity": "syaro_c04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いっただっきまーす♪",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "なんで夕食？\\n作戦会議をするんじゃなかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えー、だって、せっかくチノちゃんと千夜ちゃんが\\nおいしいシチューを作ってくれたんだよ？\\n温かいうちに食べないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "それはそうだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "まあ、いいじゃないか。\\nちょうど夕食の時間だし、\\nシャロだってお腹が空いてるだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "あ、ええ、まあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それじゃ改めて、いただきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ＆チノ＆リゼ＆千夜",
+          "original": "いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ん～、おいし～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ホント、おいしいわ。\\nチノちゃん、料理上手なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "いえ、そんな。\\n私なんてまだまだです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "謙遜することないわよ。\\n手際だってすごくよかったもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "うんうん。\\n私も、パン作りだったら負けないんだけど、\\nそれ以外はチノちゃんに敵わないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "でも～、チノちゃん、\\n料理できても食べられないものがあるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "好き嫌いなら、\\nココアさんだって同じじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "好き嫌いがあると大きくなれないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "はう……大きく……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "シャロちゃん？\\n自分の体を見下ろしてどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "な、なんでもないわよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "よーし！\\nお腹もいっぱいになったし、\\n作戦会議を始めよーう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "まずは、シャロちゃん、\\nバイトのスケジュールが\\nどうなってるのか教えてくれる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "ええと……\\n口で説明してもわかりにくいと思うし、\\n今、予定を紙に書き出すわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "――はい、こんな感じよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "これは……すごいですね。\\n本当にクリスマスまで予定がいっぱいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "フルールだけじゃないのか。\\n結構な数を掛け持ちしてるんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "こんなに忙しくて、よく倒れないねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "まあ、倒れたようなものだけどね。\\n風邪をひいたのは忙しさのせいもあるだろうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "それを言っても仕方がないわ。\\nこれから気をつければいいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "うーん、じゃあ、まず、\\n同じ日に２つ以上のバイトがある時は、\\n片方を誰かが受け持つことにしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "あ、それと、シャロちゃんと\\n一緒に働いてあげるのもいいんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "え？　一緒にって、\\n同じバイトをするってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "そう。\\nシャロちゃんは病み上がりなんだし、\\nその方がフォローしてあげられるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "でも、お店がなんて言うか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "１人のお給料で２人働くなら\\nお店としては大歓迎なんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "クリスマス間近で忙しい時期ですしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "まあ、そのあたりは店の事情もあるし、\\n話が通じるところには頼んでみるって\\nことにしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "じゃあ、スケジュールを調整してみるから、\\n自分の手伝えそうな日付と時間を言ってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "どうしたの、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "シャロ",
+          "original": "え？\\nあ、うん、私も何かしたいんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "それなら、クリスマスパーティーの準備を\\n進めていてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "そうだよ、そのために\\n私たちがこうしてるんだからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "まずは、きちんと構想を練って\\n固めてみたらどうかしら？\\nどんな風にしたいとか、イメージはある？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "シャロ",
+          "original": "あるけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "あら、もしかして言うのがはずかしい？\\n実際に準備が始まったら、\\nはずかしいなんて言ってられないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "シャロ",
+          "original": "違うわよ。\\nあるけど、まだ固まってないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "あの、私は心静かに過ごせればそれでいいので、\\nそんなに気負わないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\n突飛なことをやって喜ぶのは\\nココアくらいなものだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "私ってそういうイメージ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ、シャロちゃん。\\n私、普通のパーティーでも楽しめちゃうから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "シャロ",
+          "original": "やめてよ、そういうの！\\nプレッシャーにしかならないってば～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "千夜",
+          "original": "はいはい。\\nココアちゃん、私たちは私たちの\\n作業に戻りましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "チノ",
+          "original": "シャロさん、手伝えることがあれば\\nいつでも声をかけてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "シャロ",
+          "original": "ええ、ありがとうチノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_chiya_h3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あのね、ココアちゃん。\\n実は私、ラパンのような怪盗を知っているの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nまさか本物の怪盗がいるなんて！\\n誰なの？　どんな人？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "知りたい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "もちろんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "その人はね、私と同じように\\n喫茶店で働いているの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "バーテンダーじゃなかったんだ！\\nでも、喫茶店で働いてる人……。\\nまさか、私の知っている人？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "うふふ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "むむむむっ！\\nその笑み、もしかして私、核心をついちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、でも、チノちゃんもリゼちゃんも\\n　シャロちゃんも怪盗じゃないはず）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "実はね、私と同じように高校生なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ええええ～！？\\n　ま、まさか……\\n　リゼちゃんかシャロちゃんってこと！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "その子は、とっても独創的な女の子で、\\n私が和菓子の名前を考えるのを\\n一緒に楽しんでくれたりするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（和菓子の名前を付けるのを――\\n　えっ！？　ま、まさか\\n　青山さん、実は高校生だったの！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "それにね、明るくてとっても面白い子なの。\\nボケもツッコミも上手なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ボケとツッコミが上手？\\n　青山さんはそういうタイプじゃないし\\n　一体、誰なんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "あとは、計算がとても得意で、\\nでも自分ではその特技に気づいてなかったり――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（むむむ、具体的なヒントだね。\\n　でも……わからないなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そして、パンを作るのが上手なの。\\nはい、ヒントはこれでおしまい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "えー？　誰だろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ふふ、自分では自分のことに気がつかないものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "あのね、ココアちゃん。\\nその人は、いつの間にか\\n周りの人の心を盗んじゃう怪盗なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ううー、わかんない～！\\nギブアップ！　誰なのか教えて、千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "怪盗は正体がバレたら大変だもの。\\nだから、教えない。\\nふふふ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

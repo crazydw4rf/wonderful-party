@@ -1,0 +1,249 @@
+{
+  "identity": "syaro_d06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（こんな風に――\\n　クリスマスまでの日々は\\n　あっという間に過ぎていった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（なんだか不思議。\\n　期末試験とバイトに追われて、\\n　１人でずっと悩んでたのが嘘みたい……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "シャロちゃん。\\n作戦、なかなか順調だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ええ、ありがたいことにね。\\nみんなが手伝ってくれてるおかげで、\\n今日もこうやって買い出しに来られたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "パーティーの飾り付けの材料か。\\nどんな物を買うんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "えっと、大げさなものを買うつもりはないんです。\\nお店で使うような派手な飾りは高いですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "だから、手作りでそれっぽい物を\\n用意できればなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "シャロちゃんらしいわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "なによ、貧乏性とでも言いたいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ううん。\\n手作りの温かさがらしいと思ったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "それに、手作りなら、みんなで一緒に\\n作業ができて楽しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nみんなで徹夜で作業するの、楽しそう～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "徹夜でなんてしないわよ。\\nそんなに手間がかかる物でもないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "……あっ！\\nそのお店なんていいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "じゃあ、見てみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "わあ～！\\nこれなんか、すっごくかわいい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "ココアさん、\\n私物を買いに来たんじゃないですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "そのうさぎの形をしたクリップ、\\nどんな飾り付けに使うつもりなんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、ごめんね。\\nつい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "欲しいなら買えばいいじゃない。\\n別に、飾り付けの材料しか買っちゃだめって\\nわけじゃないんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "みんなも、好きに見て回っていいわよ。\\nそんなにいっぱい買うわけでもないから、\\n１人で持てるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "何言ってるの、シャロちゃん！\\nせっかくみんなで来たんだから、\\n一緒に見て回ろうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "それに、荷物をお前だけに持たせるのも\\nなんだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "手伝えることは手伝わせてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "私たち、パーティーだけじゃなく\\n準備もシャロちゃんと一緒に楽しみたいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "どうして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "ん？　なに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "どうして、みんな、\\nこんなにも私に力を貸してくれるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "どうしてって……ねえ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "ああ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "そんなの、決まっています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "ちゃんと口に出して言わないとわからない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "私たちがみんな、\\nシャロちゃんの友達だからだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "友達……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n改めてこういうことを言うと、\\nちょっと照れくさいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "（い、言った方も照れくさいだろうけど、\\n　言われた方だって照れくさいわよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "（でも、同時にすごく幸せでもあって……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "（いいわね、友達って）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

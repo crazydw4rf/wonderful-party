@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_chino_j1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん、かわいい！\\nその衣装、まるでアイドルみたいだよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "こ、ココアさんだって\\n同じデザインのものを着てるじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん。\\nチノちゃんとお揃いで嬉しいな♪",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "これ、リゼちゃんや千夜ちゃんや\\nシャロちゃんにも着てもらったら、\\nみんなでアイドルデビューできちゃうかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……大きく出ましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "街の国際バリスタ弁護士をしながら、\\nパンを焼いて小説を書いて\\nアイドルもやるのって難しいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさんは欲張りすぎです。\\nもう少し現実を見て、考え直した方がいいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "んー、でもせっかくの夢なんだし……\\nねえ、チノちゃんは\\nアイドルになりたいって思ったりしないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "これといって特には。\\nむしろ、ココアさんは\\nどうしてなりたいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "え？\\nだって、そうすればテレビに出て\\nラビットハウスの宣伝ができるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "は？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "きっと宣伝効果抜群だと思うよ？\\nラビットハウスにお客さんが増えて、\\n私もチノちゃんも接客で大忙しになって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あれ？\\nでもそれじゃ、アイドル活動どころじゃ\\nなくなっちゃうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "お店の仕事を休むわけにはいかないし、\\n当然、弁護士とか小説とかにも\\n手が回らなくなっちゃうだろうし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん。\\n確かに欲張りすぎかも。\\nアイドルは諦めた方がいいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……ふふっ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ん？　チノちゃん？\\nどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "いえ、そういうことを\\n臆面もなく言えてしまうのが、\\nいかにもココアさんらしいと思いまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ええ？　どういうこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "気にしないでください。\\n褒めていますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そうなの？\\n褒めてるように聞こえなかったけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "ですから、気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,346 @@
+{
+  "identity": "move_d06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "うーん……。\\nどうしようかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ、千夜ちゃんがいる。\\n　ずいぶん真剣だけど何を選んでるんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "これは艶が違うわね。\\nこっちは大粒の品種だけど、味はどうなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えーと……小豆を見てるのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "小豆にこだわらないのもありかしら？\\nそうね、砂糖を変えるのもいいかもしれないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すっごく真剣な顔、まさに職人って感じだよ。\\n　お邪魔かもしれないし\\n　声は掛けないでおこうかな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "……ん？\\nあら、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ……。\\nごめんね千夜ちゃん、邪魔しちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "え？　邪魔なんてそんな。\\nどうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "すごく真剣な顔で小豆を見てたから、\\nお邪魔しちゃったかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ああ、いいのよ。\\nあんこを新しくしてみようと思って、\\nいろいろ調べていただけだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "え！？\\n甘兎のあんこ、おいしいのに変えちゃうの？\\n大変、今のうちに食べだめしておかないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "大丈夫、今までのあんこが\\nなくなるわけじゃないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ただ、思いついた新メニューに合う\\nあんこがないから、今のとブレンドして\\nぴったりのものを作ろうと思ったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "へぇー。\\nあんこのブレンドなんて、匠って感じだね。\\n新メニューも楽しみでわくわくだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "それならよかったわ。\\n最初にココアちゃんに味見してもらうことは\\nもう決まっているから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "最初に？　うわー、嬉しい！\\nでもどうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "新メニューは、ココアちゃんを\\nイメージしているからなのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "みんなに好かれるお菓子を、って考えていたら\\nココアちゃんのことばかり思い浮かんじゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "ううん、なんでも。\\n勝手にイメージを使わせてもらったけど、\\nよかったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "いいよ、いくらでも使って！\\nむしろ嬉しいくらいだから。\\nああ、どんなお菓子か楽しみだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "そんなに楽しみなら、いっそのこと\\nできあがるまで細かいことは\\n秘密にしておきましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うーん、でも気になっちゃうな。\\nお願い千夜ちゃん、ヒントだけでも教えて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "そうねぇ、甘くてしっとりで、\\nほんわかで、ふんわりした感じかしら？\\n私のココアちゃんのイメージは、そんな感じなの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "そうねぇ、甘くてしっとりで、\\nほんわかで、ふんわりした感じかしら？\\n私のココアちゃんのイメージは、そんな感じなの。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私よりも千夜ちゃんぽいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "えへへ、照れちゃうなー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私、もっとクールじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私よりも千夜ちゃんぽいね。\\n私が千夜ちゃんに持ってるイメージに近いよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら、そうなの？\\n私ってほんわかでふんわり？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん！\\n千夜ちゃんとお話ししてると、\\nそれだけで癒されるから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それは、むしろココアちゃんじゃないかしら？\\nでも……こんな風に、お互いに同じイメージを\\n持ってるなんて、なんだか運命を感じるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "私たち、ほんわかふんわりペアとして\\nこれからも仲良くしていきましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "えへへ、照れちゃうなー。\\nそんなイメージだなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "名前だって温かそうだものね、ココアちゃん。\\nそれに甘そうで、お菓子にしちゃいたくなるのよ。\\nそして食べちゃいたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "食べるの！？\\n私、食べられちゃうの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それくらいココアちゃんが大好きってことよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "嬉しいけど、ホントに食べたりしないでね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "大丈夫。\\nちょっとかじる程度だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "か、かじるのもだめ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私、もっとクールじゃないかな？\\nキリッとした大人っぽいお姉さんって感じだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうかしら？\\nキリッとしているとなると、リゼちゃんの方ね。\\nそれにクールなのはやっぱりチノちゃんよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nそれってまさか、私よりもリゼちゃんの方が\\nチノちゃんと姉妹っぽいってこと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "……そうね、よく考えてみたら\\nあの２人が本当は姉妹だったとしても\\n違和感ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ががーん！\\nそんな……私、チノちゃんの姉失格！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "うふふ、大丈夫よ。\\n似てない姉妹だって世界にはたくさんいるもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "そ、そうだよね！\\n姉妹の資格は似てる似てないじゃない、\\nどれだけお互いが好きかってことだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それにしても……小豆を選ぶのにも一苦労しそう。\\n他の材料も厳選したいから、できあがるまでには\\n時間がかかりそうだけれど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "完成したら、すぐに知らせるから。\\n楽しみにしていてね、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、すっごく楽しみにしてる！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

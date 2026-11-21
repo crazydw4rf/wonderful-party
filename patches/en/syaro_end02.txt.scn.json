@@ -1,0 +1,387 @@
+{
+  "identity": "syaro_end02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふわぁ～……よく寝たぁ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（昨日で冬休みも終わっちゃったね。\\n　ちゃんと起きられるか自信なかったけど、\\n　寝坊しなくてよかった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（さあ、今日から新学期！\\n　お休みボケしないように、気合入れていくよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "あら、ココア。\\nおはよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、おはよう、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "……え？　シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "何、寝ぼけてるの？\\n早く顔を洗って目を覚ましてきなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "な、なんでシャロちゃんがここにいるの～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "おはようございます、ココアさん。\\n朝から大声を出して、どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "チノちゃん、おはよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "え？　シャロさん？\\nどうして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "２人とも、なんでそんなに驚いてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "なんでって、そりゃびっくりするよ！\\nシャロちゃんがいきなりいるんだもん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "……もしかして聞いてないの？\\n私、今日から１週間、\\nラビットハウスで働くんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア＆チノ",
+          "original": "ええええ～っ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "ま、待ってください、父の許可は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "タカヒロ",
+          "original": "許可したよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "お父さん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "タカヒロ",
+          "original": "詳しい話はシャロ君から聞きなさい。\\nそれじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、どういうことなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "うーん、どこから説明すればいいのかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "まず、みんな、私のバイトを\\n手伝ってくれたでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "それで、バイト先が気を遣ってくれたのか、\\n予定よりもお給料を多めにもらえて、\\n割と余裕ができたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "だから、みんなに迷惑かけちゃったし、\\n何かお返しをしたいと思ったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "でも、プレゼントは\\nクリスマスに贈ったばかりでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "それで、時間的にも余裕があるんだし、\\nみんなのお店を手伝うことにしたのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "そういうわけだから。\\nココア、チノちゃん、今日から１週間よろしく。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "そうなんだ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "わーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "あっ、ちょっとココア！\\nいきなり何！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "だって、シャロちゃんと\\n一緒に過ごせるなんて嬉しくって！\\n今日からシャロちゃんも私の妹なんだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "シャロ",
+          "original": "なんで妹！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "え？　妹はやだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "いやだとかそういう問題じゃなくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "ココアさんは、そうやって\\n誰でもすぐに自分の妹にしようとするんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "大丈夫よ、チノちゃん。\\n私はココアの妹になる気はないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "いえ、構いません。\\nそういうことなら、シャロさんは\\n私のお姉さんということになりますので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "よろしくお願いします、シャロお姉ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "ああっ！　ずるいよシャロちゃん！\\n私、お姉ちゃんって呼んでもらえてないのに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "そんなこと、私に言われても困るわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん？\\n私のことも、お姉ちゃんて呼んでいいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "ところで、シャロお姉ちゃん。\\n朝食の準備ができているようですが、\\nもしかして作ってくれたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "スルーされた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "シャロ",
+          "original": "ええ、今日からお世話になるついでにね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nでは、温かいうちにいただきましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "ええと……そうしたいんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "うう……。\\nチノちゃんがいつもにも増してツンツンだよぉ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "ふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "せっかくシャロさんが作ってくれたんですから、\\n温かいうちにいただきましょう、\\nココアお姉ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nチノちゃん、今、ココアお姉ちゃんて言った？\\nシャロちゃんも聞いたよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "シャロ",
+          "original": "ええ、よかったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "やったぁ～！\\nシャロちゃん、私、ついに\\nチノちゃんのお姉ちゃんになれたよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "チノ",
+          "original": "そ、そこまで認めてません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "シャロ",
+          "original": "ていうか、なんで私に抱きつくのよ！\\nこれじゃ朝食の準備ができないでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nシャロちゃんも、私のことをお姉ちゃんって\\n呼んでくれたら離してあげるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "シャロ",
+          "original": "呼ぶわけないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "えー、なんでー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "シャロ",
+          "original": "ほら、さっさと席に着きなさい。\\n遅刻するでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "チノ",
+          "original": "やっぱり、ココアさんよりも\\nシャロさんの方がお姉さんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "ココア",
+          "original": "ち、違うよ！\\n私が１番上で、お姉さんなんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "シャロ",
+          "original": "はいはい、もう何でもいいから。\\n朝食にするわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "シャロ",
+          "original": "ふふっ！\\nホント、朝からにぎやかね。\\nでも、こういうのも……楽しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

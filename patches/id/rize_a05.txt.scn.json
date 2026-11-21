@@ -1,0 +1,412 @@
+{
+  "identity": "rize_a05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ありがとうございました～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "今のお客さんで最後ですね。\\nお疲れ様でした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "お疲れ様！\\nふう～、今日もよく働いたねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "お疲れ。\\nさて、ひと息つくのは\\n片付けを終わらせてからだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "じゃあ、私はテーブル周りをやるから、\\nココアは床の掃除を頼む。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "はーい！\\nええと、ほうきほうき……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "……あ！\\nそうだ、リゼちゃん！\\n言い忘れてたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "学校で千夜ちゃんと話したんだけど、\\nお泊まり会、今週末なら大丈夫だって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "そうか。\\nシャロも大丈夫だって言ってたから\\nこれで決まりだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "じゃあ、お泊まり会復活だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ですが、メールでもらった計画表を見る限り、\\nわざわざ話し合うまでもなく、\\nそのまま決まってしまいそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "みんなが納得してくれるのなら、それで構わないさ。\\n私はただ、それぞれの意見を\\n直接、聞いておきたいだけだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "リゼさんらしいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "本当に真面目だよね、リゼちゃんは。\\n昨日のメールもびっしり書いてあったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "あの、ココアさん？\\n一応確認しておきますけど、\\nちゃんとメールに目を通しましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "え？　な、なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "今の言い方がまるで他人事のようだったので、\\n少し気になっただけです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ええと……お、お泊まり会までには\\nちゃんと読んでおくよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "やっぱり読んでなかったんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "おいおい、しっかりしてくれよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "あははは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nねえ、いいこと思いついちゃった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "別の話をしてはぐらかすつもりですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "もちろん、メールはちゃんと読むよ？\\nそれよりね、お泊まり会のことで\\n思いついたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "せっかくだから、今回はみんなで夕飯を作ろうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "夕飯か？\\n何か作りたい物でもあるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "んー、これってものはないけど、\\nせっかくみんなで集まるんだから\\nやってみたいなーって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "確かに、楽しそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "ああ、いいな。\\nそれじゃメニューは――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "ああ、いいな。\\nそれじゃメニューは――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私に任せてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "ココアに任せるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "チノに任せてもいいか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "特に作りたい物がないなら、\\nメニューは私に任せてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リゼちゃんが何か作ってくれるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いや、作るのを全部任されるのは困るが、\\nメニューを決めるくらいなら引き受けるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "本当？\\nじゃあ、お願い。\\nやっぱりリゼちゃんは頼りになるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "大げさだな。\\nメニューを決めることくらい誰にだってできるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そっかなぁ？\\nみんなで決めようとすると\\nお互いに遠慮しちゃったりするし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ぱっと決めてくれるリゼちゃんがいると、\\nすごく助かるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？\\nまあ、うん、褒め言葉として受け取っておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ホントに褒めてるよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "わ、わかった！\\nそれよりも、献立は\\nオーソドックスにカレーなんてどうだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "賛成～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "私も構いません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "よし、それじゃ、カレーをメインに\\n献立を考えていくとしよう。\\n決まったら連絡するよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ココアに任せるよ。\\n言い出したのはココアなんだからな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はーい！\\nじゃあ、まずはパンを焼こう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "パンか。\\nそれで、他には？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えっと……食パン？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "同じパンだろ！\\nパン以外に作りたい物はないのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "なくはないけど、自分で作るのは自信なくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "じゃあ、カレーでどうだ？\\nみんなで作れるし、失敗も少ないだろうしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、こういう時の定番だね。\\nじゃあ、カレーで決定！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "チノに任せてもいいか？\\nココアが何も思いつかないみたいだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "いいですよ。\\nええと……人数が多いですから、\\nシチューやカレーでどうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、そのあたりが妥当か。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、だったら私、カレーがいいなぁ。\\nカレーって聞いたら、\\nなんだか食べたくなっちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "では、カレーで決まりですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "えへへ～、みんなでカレーかぁ。\\nお泊まり会が\\nますます楽しみになってきちゃったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "本来の目的は、クリスマスパーティーに向けての\\n打ち合わせだってことを忘れるなよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、わかってるよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（本当だろうな？\\n　なんだか微妙に不安だ……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

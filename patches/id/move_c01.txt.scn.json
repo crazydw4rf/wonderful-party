@@ -1,0 +1,310 @@
+{
+  "identity": "move_c01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ふう、休憩に飲むコーヒーはいいねぇ。\\n特にチノちゃんの淹れてくれたコーヒーは\\n格別だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "だけどチノちゃん、こんなに長い\\nお昼休憩もらっちゃってよかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "いいですよ、今は暇ですし。\\nゆっくりしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（確かに、お客さんはいないけど……\\n　それってお店としてはどうなんだろ？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "こんなにいいお天気なんだし、\\n街の人もみんな、どこかに出かけてるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "このお天気なら、\\nどこに行っても気持ちいいでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ねえ、ここまでお客さんが来ないなら、\\nいっそのことお店を閉めて\\n私たちもどこかへ行っちゃおっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "却下じゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "腹話術で即答された！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "祖父が言っていました。\\nラビットハウスは、いつ、誰が来ても\\n落ち着けるような喫茶店にしたいと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "そのためには、いつ、誰でも\\nこの場に迎えられるように\\n準備していなければいけません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "第一、お客さんが来ないからって\\n店を閉めてどこか行ったら、\\n定休日の意味がないじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "はう～、そうだけど～。\\n窓の外の青空を見てたら、\\n外で遊びたいって思っちゃうよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "外で……ですか。\\n私は家の中で過ごすことが多いのですが、\\n例えば、どんな遊びをするんですか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "外で……ですか。\\n私は家の中で過ごすことが多いのですが、\\n例えば、どんな遊びをするんですか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ピクニックかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "探検をしようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "森林浴なんてどう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ピクニックかな。\\nみんなで気の向くままに歩いて、\\nお腹が空いたらお弁当を食べるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "そのまま、お日様の下で\\nお昼寝してもいいし……そうやって\\n１日を外で過ごすと、きっと気持ちいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "いいですね。\\nお弁当の準備をするのも楽しそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん！\\n前の日から、みんなで集まって\\nお弁当作って、一緒に寝て――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そのまま、ラビットハウスから出発する。\\nそんな休日、素敵です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "探検をしようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "探検……ですか？\\nそれは、この街を出て\\n遠くまで行くということですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん、そんな大げさじゃなくてもいいよ。\\n街の中を、今まで行ったことのない道を\\n選んで進んでいくの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チノちゃんだって、この街の道を全部、\\n知ってるわけじゃないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい、知らない道がたくさんあると思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "それで、新しく見つけたお店に入ってみたり、\\n新作のスイーツを食べてみたり、\\n小物屋さんに入って色々見てみたりとか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "そう考えると、街を出なくても\\n充分、冒険ができそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、楽しそうだよね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "森林浴なんてどう？\\nお弁当も持っていって、森の空気を吸いながら\\n食べればきっと気持ちいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "森林浴……。\\n森に行って、森の空気を吸って、安らぎを得る。\\nやってみたいとは思いますが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ですが、この街には\\nそこまで大きな森はありませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そっか。\\n森までとなると、結構遠出になっちゃうから\\n１日では無理だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、いつかみんなで森にキャンプに行こう！\\nリゼちゃんの元でサバイバルだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "サバイバルは遠慮したいですが……\\nでも、森に行くのはいいですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "どんな遊びをするとしても、みんなでがいいね。\\nリゼちゃん、千夜ちゃん、シャロちゃん、\\nそれにマヤちゃんとメグちゃんも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "みんな揃って出かけられたら、\\nきっと、何でも楽しいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、でも、チノちゃんみたいに\\n家の中でゆっくり過ごすのだっていいよね。\\n毎週出かけてたら疲れちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "家で過ごす時は、ボトルシップの作り方を\\n教えてもらおっかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "作り方の前に、ボトルシップが\\n何なのかをちゃんと理解してください。\\n浮かべて遊ぶものじゃないですからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "もう、わかってるよ～。\\nビンごと流すものでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "違います、ボトルメールじゃないです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ティッピー",
+          "original": "やれやれ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

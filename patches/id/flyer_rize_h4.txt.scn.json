@@ -1,0 +1,55 @@
+{
+  "identity": "flyer_rize_h4.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "喫茶店ラビットハウスです。\\nよろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おいしいコーヒーでおもてなししますよ。\\nお気軽にお立ち寄りください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "チラシ、どうぞ。\\nぜひご覧ください。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

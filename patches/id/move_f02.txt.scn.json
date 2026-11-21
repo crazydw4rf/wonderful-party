@@ -1,0 +1,380 @@
+{
+  "identity": "move_f02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃーん、遊びに来たよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ええと……これがこうで、こうだから……。\\nやっぱり難しいわね、困ったわ。\\nでもシャロちゃんはバイト中よね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あ、ココアちゃん！\\nいらっしゃいませ、\\n気付かなくてごめんなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ううん、気にしないで。\\n千夜ちゃん、何やってたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "今日はお客さんが少ないから、\\nこっそり数学の宿題をやってたんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "これで答えが合っているか、自信がなくて。\\nココアちゃん、見てくれる？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "これで答えが合っているか、自信がなくて。\\nココアちゃん、見てくれる？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私に任せなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "じゃあ、ヒントを出そっか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "だめだよ、自分でやらなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私に任せなさい！\\n答え、教えてあげる――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、それだとズルになるからだめだね。\\nじゃあ、答えがわかるまで\\nびしびし鍛えてあげるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、私のために……！\\nいいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんには、\\n文系全般でお世話になってるから\\nこれくらいはしないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、こっちの紙に問題と答えを書いて――\\nはい、問１はこうなりまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "私のと答えが違うわ。\\nどうしてかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "じゃあ、問１を最初から解いてみるから、\\nわからないところがあったら質問して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そして、そのあとの問題を自力で解けば\\nきっと身につくはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "これなら大丈夫そう。\\n丁寧にありがとうココアちゃん、\\nまるで先生みたいだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "では、今だけ私は千夜さん専属の先生ですわね。\\nびしびしいきますわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、よろしくお願いします。\\nココア先生。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、ヒントを出そっか？\\n答えを言っちゃったら、\\n千夜ちゃんがやったことにならないからね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう、とっても助かるわ。\\nそれじゃ、さっそくだけど、\\nこの問４のヒントをお願い。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "これはね、この数式に当てはめて、\\nそれからこれを計算してみるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "これを……当てはめて、計算して……\\nどうかしら？　合ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うん、正解！\\nよくできました、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "だめだよ、自分でやらなきゃ。\\n応援するから頑張って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうね。\\n宿題なんだもの、自分でやらなくちゃ。\\nそれに――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "全国チェーン甘兎の頂点に立つのなら、\\nこのくらいの計算、できて当然よ！\\nいざっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "……あ！\\nそれは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "え？　何、ココアちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "う、ううん、なんでもない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "そう？\\nじゃあ、続けて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、その答えは……！\\nううん、違う違う、応援するんであって\\n答えを言っちゃだめ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "しゅ、集中できない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "あ、あの、ココアちゃん？\\nヒントだけでももらえると嬉しいのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そっか、ヒント！\\nうん、ヒントだけなら問題ないよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。\\nココアちゃんに手伝ってもらわなきゃ、\\n宿題、終わらなかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "そうだわ、お礼をしなきゃ。\\nたい焼きなんてどう？\\n焼き立てを用意するわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "焼き立てたい焼き！\\nなんて幸せな響き……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "それじゃ、ちょっと待っててね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うわあ、いい匂い～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "はい、できたわ。\\n口から尻尾の先まで\\nあんこぎっしりの特製たい焼きよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "わーい！\\nいただきます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ふわあ、おーいしーい！\\nあんこの上品な甘さと、\\n皮のカリカリ感がたまらないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "はい、お茶もどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ありがとーっ！\\nお茶の渋さとたい焼きの香ばしさの\\nハーモニーがいいよねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "でもココアちゃんはしっかりしてるわね。\\n宿題をきちんと終わらせて、\\nこうしてお休みを満喫してるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "もしかして……忘れてた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "……忘れてた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "お、教えてる時に思い出さなかったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "思い出さなかった……。\\nでも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "計算自体は今やっちゃったから今夜頑張るよ。\\n今はたい焼き優先！\\n焼き立てたい焼きが冷めたら悲しいからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "じゃあ、応援のために\\nお土産のたい焼きも作るわね。\\n冷めてもおいしいはずだから、お夜食にして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ホント！？\\nありがとう、千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

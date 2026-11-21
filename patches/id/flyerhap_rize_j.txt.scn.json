@@ -1,0 +1,259 @@
+{
+  "identity": "flyerhap_rize_j.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、せっかくだし、みんなでやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "思ったんだけど、この服って\\nやっぱり色違いなのがポイントだね。\\nこのちょっとの違いがお互いを引き立ててるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、この服は\\n５色そろってこそって感じがするな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "３色だんごも３色そろって\\n串に刺さっているからこそ、だものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "まあ、１個ずつだとただのお団子だし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そういえば、こういう色違いと言えば\\n戦隊ヒーローを思い出すわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "言ってみれば……\\nこの服は、チラシ配りという戦いに挑む私たちの\\nユニフォームみたいなものですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "戦いに挑む……。\\nとなると、登場する時の二つ名が必要だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "『情熱の赤、ラビット・レッド！！』\\nって感じでだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "いいわね、名前をつけるのは大切よ！\\n雰囲気がグッとしまるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ああ、千夜に火が点いた……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "じゃあ、ブルーのチノちゃんは、\\n流れるせせらぎ……いえ、蒼穹の煌めき……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "キャッチフレーズなんだから、\\nキャッチーでわかりやすくしないと。\\n『クールなブルー！』とか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "クールなブルー……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "気に入った！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "じゃあ、シャロちゃんの黄色は\\n『輝く光のイエロー』、なんてどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "千夜にしてはシンプルにいったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "なら、千夜ちゃんの緑は……\\n『癒しのグリーン』って感じかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "な、なあ、私の紫は\\nどんなキャッチフレーズになるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "紫……紫はちょっと難しいね。\\nえーっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "『ナスの艶のパープル！！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "ナス……だと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩になんてキャッチフレーズつけるのよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ごめ～ん。\\nナスって紫だなって思ったら、\\nもうそれしか考えられなくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "ナスは、もう旬が終わっちゃってないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "それは関係ないと思います……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "えーっと、えーっと、紫……紫と言えば……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "そうだわ。\\n『夜明けの空のパープル』なんてどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "夜明け……。\\n確かに紫っぽい空になるよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "暗い夜を駆け抜けて光を見る夜明け……。\\nうん、リゼちゃんに合ってるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "とても素敵だと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "先輩にぴったりです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "そうか？\\nなんだか大げさな気もするけど……\\nうん、気に入ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "よーし！\\nじゃあ、さっそく戦いの幕開けだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "幕が開けるのはいいけど、\\nあんたは何と戦う気なのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "え？　あ、えーっと……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "いや待て、お前たちはまだ戦場に出るには早い。\\n誰が相手になってもいいように鍛えてやる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "リ、リゼちゃんに鍛えられたら\\n戦う前から動けなくなっちゃうよ～！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

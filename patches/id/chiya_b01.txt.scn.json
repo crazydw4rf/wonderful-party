@@ -1,0 +1,189 @@
+{
+  "identity": "chiya_b01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は休日、バイトもお休みさせてもらって\\n　千夜ちゃんと一緒に宝探し！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、いい天気！\\n　今日は絶好の宝探し日和だよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんは……まだ来てないのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、お待たせ。\\nふわぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、千夜ちゃん！\\nおはよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "おはよう。\\n遅くなっちゃってごめんなさいね。\\nふわぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "どうしたの、千夜ちゃん。\\nなんだか眠そうだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "それがね、\\nココアちゃんとの宝探しが楽しみすぎて、\\n夕べ、なかなか寝付けなかったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "こんなの、子どもみたいではずかしいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "ううん、よくあるよ。\\n私も、遠足の前は大抵、眠れないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でもね、昨日はわくわくしすぎちゃったみたいで、\\n夜にはもう疲れてて、すぐに寝ちゃったんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "まあ、そうなの。\\nそれじゃ、今日のココアちゃんは元気いっぱい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "その通り！\\n千夜ちゃんが寝不足な分、\\n私が頑張るからね、安心して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "準備も万端なんだよ。\\nまずは……埋まってる宝箱を\\n掘り返すための、小さなスコップ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "それに、暗い場所を照らすための懐中電灯！\\n方角を調べるための方位磁石！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "それからそれから、\\nお腹が空いた時のためのおやつも重要だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、本当に準備がいいのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\n私に抜かりはないんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "毒蛇が現れても、遺跡の番人が襲ってきても、\\n大きな岩が転がってきても、私が守ってあげる！\\n大船に乗ったつもりでいて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "一体どこまで宝探しに行くつもりなの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "あ、それとね、あの地図が\\nもしシストのものだった時のために\\n宝物も持ってきたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "そうなの？\\nココアちゃんの宝物、見せてもらってもいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\nみんなの集合写真が入った写真立て！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "まあ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "私の宝物は、やっぱり、大好きなお友達だから。\\nだから、みんなと一緒に写ってる写真を\\n持ってきたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "嬉しいわ、ココアちゃん。\\n私にとってもココアちゃんは大事な宝物よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\n自分で言い出したのに、なんだか照れちゃうなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "うふふっ、私も。\\nでも言葉にするのって大切よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "よ、よーし！\\nじゃあそろそろ宝探しを始めよっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "ええ、頑張りましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

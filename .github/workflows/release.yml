@@ -1,0 +1,50 @@
+name: Release Translation Patch
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up .NET (for FreeMote tools)
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "9.0.x"
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Bootstrap workspace
+        run: |
+          python cli.py setup
+
+      - name: Build English patches
+        run: |
+          python cli.py build en --repatch
+
+      - name: Build Indonesian patches
+        run: |
+          python cli.py build id --repatch
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            workspace/build/en/wonderful-party-binaries-en.zip
+            workspace/build/en/wonderful-party-repatch-en.zip
+            workspace/build/id/wonderful-party-binaries-id.zip
+            workspace/build/id/wonderful-party-repatch-id.zip
+          generate_release_notes: true
+          draft: false
+          prerelease: false

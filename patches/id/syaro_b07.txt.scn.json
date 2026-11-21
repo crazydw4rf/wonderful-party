@@ -1,0 +1,621 @@
+{
+  "identity": "syaro_b07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "……ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（あれ、もう夕方？\\n　いつの間にか寝ちゃってたんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（千夜が作ってくれたおかゆを食べて、\\n　薬を飲んで、そのまま１日中……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（おかげで、だいぶ、楽にはなったわね。\\n　もう動けそうだわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "時間は……\\nうん、今からならバイトに間に合いそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "だめよ。\\nバイトになんて行かせないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "千夜……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "私がいるのに気づかないってことは、\\nまだ熱でボーッとしてるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "そんなことないわ、もう起きられるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ちょっと楽になったからって、無理しちゃだめ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "でも――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "あれ？\\nなんだかいい匂いがする。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "そろそろ起きる頃かと思って、\\nおかゆを作ってきたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "朝は、薬を飲むために\\nちょっと食べただけでしょう？\\nそろそろお腹が減ってると思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "……ありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "どういたしまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ふうふうしてあげましょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "いいわよ、子どもじゃないんだから。\\nいただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "……あ、おいしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ふふふ、ありがとう。\\n慌てていた朝と違って、\\n腕によりをかけて作ったかいがあるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "それに、食べておいしいって感じるのなら、\\nよくなってきてるってことよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "千夜、学校、本当に休んだの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "気にしないで。\\n私が勝手にしたことなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "本当にいいのよ。\\nおかげで貴重な体験ができたもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "熱のせいで覚えてないみたいだけど、\\nシャロちゃんたらね、かわいかったのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "体を拭いてあげようと思って、\\nパジャマを脱いでって頼んだら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "子どもみたいにバンザイをしてね、\\n脱がせて～ってお願いしてきたのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "えええっ！？\\nう、嘘よ、そんなの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "さあ、どうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ",
+          "original": "うう～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "食べられるなら残りも食べちゃって。\\nそのあとで、ちゃんとお薬も飲むこと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "……わかってるわ。\\n子どもじゃないったら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "他に、何か欲しいものはある？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "シャロ",
+          "original": "別に何も――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "シャロ",
+          "original": "あ、そうだ。\\nフルールに、今日はバイト休むって\\n連絡入れないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "千夜",
+          "original": "それじゃ、私がしておくから、\\nシャロちゃんはそのまま休んでいて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "シャロ",
+          "original": "……悪いわね、何から何まで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "だから、気にしないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "うん。\\nうん、本当に、ありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "千夜",
+          "original": "シャロちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "あら、電話だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "千夜",
+          "original": "はい。\\n……ええ、大丈夫よ。\\n鍵は開いているから入ってきて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "シャロ",
+          "original": "ちょっと千夜？\\nその電話って誰から――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "ココア！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "風邪、大丈夫！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "シャロ",
+          "original": "え、ええ。\\n見ての通り、だいぶよくなってきたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "そうか、それはよかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "はい。\\n思ったよりもお元気そうで、何よりです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩！\\nチノちゃんも、どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "リゼ",
+          "original": "シャロが風邪をひいたって、\\n千夜から連絡をもらったんだよ。\\nそれで、お見舞いに来たんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "シャロ",
+          "original": "そんな……お見舞いなんて。\\n風邪がうつっちゃったら大変なのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "ココア",
+          "original": "そんな心配しなくていいんだよ。\\nむしろ、シャロちゃんは心配される側なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "私たちは、うがいとか手洗いを\\nいっぱいするから大丈夫！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "チノ",
+          "original": "今は、自分の体のことを１番に考えてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "千夜",
+          "original": "そうよ。\\nシャロちゃんが寝込んでいたら、\\n私たちまで元気がなくなっちゃうんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "シャロ",
+          "original": "みんな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "シャロ",
+          "original": "（どうしよう……。\\n　みんなの気持ちが嬉しいのに……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "シャロ",
+          "original": "（それと同じくらい、申し訳ない気分だわ。\\n　クリスマスパーティーのことで、あんなにも\\n　心配かけたのに、またこんな風に……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "リゼ",
+          "original": "それにしても、しっかり者のシャロが\\nここまで体調を崩すとはな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "ココア",
+          "original": "やっぱり、\\n１人でクリスマスパーティーの準備なんて\\n無理をさせちゃったせいだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "チノ",
+          "original": "すみませんでした。\\nシャロさんの負担も考えずに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "シャロ",
+          "original": "そ、そんなことないわ！\\n風邪ひいちゃったのは私の不注意のせいよ。\\nパーティーのことは関係ないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "シャロ",
+          "original": "それに、主催を買って出たのは私なんだし、\\nみんなが悪く思うことなんて１つも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "千夜",
+          "original": "シャロちゃん。\\nそんなに思いつめないで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "シャロ",
+          "original": "千夜……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "千夜",
+          "original": "それに、みんなも。\\nシャロちゃんのことが心配なのはわかるけど、\\nあまり自分を責めたりしちゃだめ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "70": {
+          "speaker": "千夜",
+          "original": "今回は、たまたまタイミングが悪かっただけ。\\n誰が悪いとか、そういうことはないのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "71": {
+          "speaker": "リゼ",
+          "original": "……ああ、そうだな。\\n千夜の言う通りだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "72": {
+          "speaker": "リゼ",
+          "original": "すまない、シャロ。\\n風邪で体が弱っている時に、\\n余計な気遣いをさせてしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "73": {
+          "speaker": "シャロ",
+          "original": "いえ、そんなこと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "74": {
+          "speaker": "ココア",
+          "original": "とりあえず今は、風邪を治すことが最優先！\\nそうだよね、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "75": {
+          "speaker": "チノ",
+          "original": "あの、遅くなりましたが、\\nお見舞いに、栄養がありそうなものを\\n買ってきたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "76": {
+          "speaker": "ココア",
+          "original": "ああっ！　そうだった！\\nみんなで元気が出そうな食べ物を選んで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "77": {
+          "speaker": "ココア",
+          "original": "あ、それ、おかゆ食べてたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "78": {
+          "speaker": "千夜",
+          "original": "今日はおかゆしか食べてないし、\\nきっとまだまだ食べられると思うわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "79": {
+          "speaker": "リゼ",
+          "original": "病み上がりなんだから、\\n無理に食べることもないだろ。\\n冷蔵庫に入れておくから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "80": {
+          "speaker": "ココア",
+          "original": "あ、ねえ、待って！\\nプリンくらいなら食べられるよね？\\nはい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "81": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうしてプリンが人数分あるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "82": {
+          "speaker": "ココア",
+          "original": "だって、みんなで食べた方がおいしいと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "83": {
+          "speaker": "チノ",
+          "original": "単に自分が食べたかっただけですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "84": {
+          "speaker": "ココア",
+          "original": "違うよ～！\\n私はシャロちゃんのためを思って――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "85": {
+          "speaker": "シャロ",
+          "original": "……ふふっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "86": {
+          "speaker": "ココア",
+          "original": "ん？　シャロちゃん、どうかした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "87": {
+          "speaker": "シャロ",
+          "original": "ううん。\\nなんだか、この雰囲気が懐かしくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "88": {
+          "speaker": "千夜",
+          "original": "そういえば、最近あまり\\nみんなで集まっていなかったものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "89": {
+          "speaker": "リゼ",
+          "original": "期末試験があったり、クリスマスが近くて\\n店が忙しかったりしたからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "90": {
+          "speaker": "ココア",
+          "original": "じゃあ、今日は夜まで\\nみんなでシャロちゃんの看病をしようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "91": {
+          "speaker": "シャロ",
+          "original": "い、いいわよ、そんな。\\n本当に風邪がうつっちゃったらどうするのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "92": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ。\\nちゃーんと手洗いうがいをするからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "93": {
+          "speaker": "チノ",
+          "original": "では、父に連絡してきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "94": {
+          "speaker": "シャロ",
+          "original": "あ、チノちゃん！？\\nもう、みんな勝手に決めて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "95": {
+          "speaker": "千夜",
+          "original": "あら、シャロちゃんは嬉しくないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "96": {
+          "speaker": "シャロ",
+          "original": "そ、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "97": {
+          "speaker": "リゼ",
+          "original": "遠慮するな。\\n風邪をひいた時くらい、甘えていいんだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "98": {
+          "speaker": "シャロ",
+          "original": "先輩……。\\nじゃあ、お言葉に甘えて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "99": {
+          "speaker": "ココア",
+          "original": "よーし！\\nじゃあ、ばりばり看病しちゃうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "100": {
+          "speaker": "シャロ",
+          "original": "できれば、ココアは大人しくしてて。\\nあんたが張り切ると何か失敗しそうだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "101": {
+          "speaker": "ココア",
+          "original": "え～、なんで～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

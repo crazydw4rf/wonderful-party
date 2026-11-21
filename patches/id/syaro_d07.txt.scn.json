@@ -1,0 +1,207 @@
+{
+  "identity": "syaro_d07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "おはようございまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おっはよー！\\nシャロちゃん、千夜ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "おはよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "おはようございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "とうとう来ちゃったね、この日が。\\n今夜はついにクリスマスパーティーだよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "ココアさん、テンション上げすぎです。\\nその前に、ラビットハウスでの仕事が\\nあるんですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "開店前からそれでは、\\n夜にはヘトヘトになってしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ、だってクリスマスだもん！\\nシャロちゃん、パーティーの仕上げの準備は\\nまかせてね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "悪いわね。\\n最後の最後までまかせることになっちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "なんで私は、直前まで\\nバイトを入れちゃってたのかしら。\\nはあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "落ち込まないで、シャロちゃん。\\nバイトが先に入っていたんだから、仕方ないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "でも、バイトが終わってから来るんじゃ\\n最後の準備を手伝えないし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "心配するな。\\n飾り付けや小道具の準備はまかせておけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "シャロさんの計画書通りにやっておきますので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩……チノちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "みなさん、おはようございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あ、青山さん！\\nおはようございまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "青山",
+          "original": "あらシャロさん、いらしていたのですね。\\nパーティーのお料理ですけど、\\n材料はもう届いていますので、ご安心を。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "ありがとうございます。\\n本当にすみません、料理のことを\\nおまかせしてしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "青山",
+          "original": "いいんです。\\n私もパーティーに参加させてもらえる、\\nそのお返しですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "父も夕べから仕込みをしてくれていますので。\\n心配しないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "ありがとう。\\nチノちゃんのお父さんにも、\\nまたきちんとお礼を言わないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ああ、どんなお料理がテーブルに並ぶのかなぁ。\\n夜になるのが楽しみで仕方ないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "そんなに期待されても困るんだけど。\\n第一、どんなことをするのか、\\nもう大体知ってるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "んー、そうだけど、このパーティーは\\nシャロちゃんからの\\nクリスマスプレゼントみたいなものだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "え？　プレゼント？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "シャロちゃんが、みんなのために色々考えて、\\n一所懸命に準備をしてくれたんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "これはもう、クリスマスプレゼントと\\n言っても過言じゃないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "ああ、確かに。\\nこんなに心のこもったプレゼントは、\\nそうそうもらえるものじゃないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩まで……。\\nそんな風に言われるとはずかしいです……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "じゃあ、シャロちゃんがバイトに出かける前に、\\n最後の確認をしておこーう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "シャロ＆チノ＆リゼ＆千夜",
+          "original": "おー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

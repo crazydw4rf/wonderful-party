@@ -1,0 +1,181 @@
+{
+  "identity": "flyer_rize_d3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "改めて見てみると、\\nフルール・ド・ラパンの制服ってかわいいねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うーん、でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なんだ、どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "こうやって他の店の制服を着るって\\nスパイの修行になりそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "スパイ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "リゼちゃんの将来は、\\n敏腕産業スパイとして世界で活躍！\\nなんていうのもありじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "だから、私はスパイになる予定はないぞ。\\n訓練だって受けてないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ん？\\n訓練……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "せっかくなんだ。\\nここで少しスパイの訓練をしてみるのも\\n面白いかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "スパイの訓練？\\nたとえば、どんなことをするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "まず、スパイは誰にも気付かれないように\\n行動しなければならない。\\nこれは基本中の基本だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "だから、これからしばらく\\n人目につかないように行動するぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ココア、ついてこい！\\nまずはあの路地まで、\\n誰にも見つからないように移動だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん、完ぺきだね！\\n私たち、まったく気付かれていないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "よし、まずは任務かんりょ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "……あ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "うあああああああ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ど、どうしたのリゼちゃん！？\\n何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "私としたことが……！\\nチラシ配りをしてるのに\\n誰もいない所に来てどうするんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ああ、そういえばそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "すまん、ココア。\\n妙なことに付き合わせて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ううん、楽しかったよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "人のいない所を探して歩くって面白いね。\\nリゼちゃんといると\\n楽しいことがいっぱいあるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "……そうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "うん！\\nよーし、今度は逆に人の多いところを歩いて\\nどっちが先に配り終わるか勝負しよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "そ、そうだな！\\nよし、これまでのロスを\\n取り返すつもりで配りまくるぞ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

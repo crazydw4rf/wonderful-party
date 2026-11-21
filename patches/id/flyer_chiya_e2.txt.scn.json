@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chiya_e2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "……あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ねえ！　見て、千夜ちゃん！\\n空の、あそこにかかってる雲。\\nティッピーにそっくりだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "まあ、本当だわ。\\nちゃんと耳もあるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "まるで、大きなティッピーが\\n空を流れていってるみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "流れていく……。\\nティッピー、旅に出るのかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "『わしはこの街に収まるような\\n　うさぎではないのじゃ～！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "あら、それってチノちゃんの腹話術の真似？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うーん、チノちゃんみたいな\\nおじいさんの声は出せないなぁ。\\nホント、あの腹話術は世界を狙えるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "でも、きっとティッピーは\\nチノちゃんやお店を残して出ていったり\\nしないよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ええ、なんてったって看板うさぎなんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あれ？\\n雲の形が……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "大変だわ！\\nティッピーが崩れていってる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "だめだよ～！\\nそこが崩れると、せっかくのもふもふ具合が！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ああっ、耳がどんどんちぎれて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "せっかくそっくりだったのに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "これは……まさか……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん？\\n真剣な顔して、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "もしかしたら、本物のティッピーに\\n何かあったのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ティッピーに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "そうよ。\\nあそこまでそっくりだった雲だもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "あの雲は、私たちにティッピーの危機を\\n伝えているのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "じゃあ、ティッピーが危ないの！？\\nだとしたらラビットハウスも……\\nチノちゃんやリゼちゃんも！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、ラビットハウスに行こう！\\nみんなを助けなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "ええ、もちろん！\\nチラシ配りなんてしている場合じゃないわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "ティッピー、チノちゃん、待っててね！\\nすぐに行くから～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

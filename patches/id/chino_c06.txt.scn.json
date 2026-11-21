@@ -1,0 +1,177 @@
+{
+  "identity": "chino_c06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "それでは、今日も\\nお先に上がらせてもらいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし、作戦開始だよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "リゼちゃん！\\n私、ちょっと休憩してきていい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "まさか、チノのあとをつける気か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "や、やだなぁ！\\nそんなことしないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "……わかった、行ってこい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ありがとー！\\nそれじゃ、休憩入りまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "やれやれ、仕方ないやつだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんは……あ、いたっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日こそ、チノちゃんが\\n　何をしているか突き止めなきゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（多分、クリスマスパーティーの\\n　準備をしてるんだろうけど……\\n　でも、それにしてはなんだか変だし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ああ、もう！\\n　お姉ちゃんにちっとも相談してくれないから、\\n　余計に心配になっちゃうんだよ～！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（もし、チノちゃんが何かトラブルに\\n　巻き込まれてたり、\\n　ピンチに陥ってたら大変だよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（たとえば、街の不良野良うさぎに\\n　毎日、ご飯を持ってこいっておどされてたりとか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（だったら、街の国際バリスタ弁護士を目指す私に\\n　もってこいの事件！\\n　さあ、華麗に解決しちゃうぞ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "おい、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "ひゃああっ！？\\nリ、リ、リゼちゃん！？\\nなんでここに？　ラビットハウスは！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "安心しろ、親父さんに頼んできたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "それより、その尾行の仕方はなんだ？\\n全然なってないじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "いいか？　尾行というものはだな、\\n物陰や人混みを利用したり、死角に入り込んだりと\\n臨機応変に対応するのが基本だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ！？\\n　なんで尾行ってバレて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ああ、そっか！\\nリゼちゃんも、チノちゃんのことが気になって\\n来ちゃったんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "それは……\\nわ、私もラビットハウスの一員だしな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、優しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "そんなことより！\\n目を離したら見失うぞ？\\n私が手本を見せるから、ついてこい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

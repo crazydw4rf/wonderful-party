@@ -1,0 +1,211 @@
+{
+  "identity": "flyer_rize_e1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "女の子Ａ",
+          "original": "ねえねえ、ほら！\\nあの人よ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "女の子Ｂ",
+          "original": "うわぁ……。\\nホントにかっこいいね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "むっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？　どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "今、視線を感じた。\\n一体、何者だ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えーっと……\\nあ、あそこの子たちじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "どうしてこっちを見てるんだ？\\nまさか敵か！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "敵って何！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "女の子Ａ",
+          "original": "きゃあ、こっち見た！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "女の子Ｂ",
+          "original": "やだ、見つかっちゃう！\\n逃げよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "あっ、逃げた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "どうしたんだろうね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "なあ、ココア。\\nやっぱり私は変な風に思われてるんだろうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "え？　なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "だから、私が変で目立っているから……\\nああやって逃げられるんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そんなことないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "いや、いいんだ。\\n無理に励ます必要はない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "学校でもあんな感じで、\\n下級生に遠巻きにされる時があるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "やっぱり……いくら取り繕っても\\nにじみ出る何かがあるんだろうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うーん、そうかな？\\nあの子たちは、リゼちゃんから\\nチラシをもらいたかったんだと思うよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "なんか、そんな感じでもじもじしてたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "じゃあ、どうして見つかった途端に逃げるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "それは謎だね。\\nもしかして、リゼちゃんに見つめられると\\n心を奪われちゃうとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "できるわけないだろ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "リゼちゃんに見つめられると\\n石になっちゃうの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "私は怪物じゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "じゃあ、どんな力を秘めた目なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "そもそも秘めてない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "……あはは！\\nまったく、ココアと話してると気が楽になるよ。\\nありがとな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "え？　なんで私、お礼言われるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "いいから、受け取っとけ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

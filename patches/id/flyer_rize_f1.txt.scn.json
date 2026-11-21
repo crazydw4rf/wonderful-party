@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_rize_f1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "はい！\\nリゼちゃんに質問がありまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ん？　なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "サンタさんと言えばこういう赤い服で、\\nそれで、クリスマスツリーと言えば緑で、\\nツリーに飾られる雪は白いでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "クリスマスといえば赤と緑と白だけど、\\nそれってなんでだろうって思って。\\nリゼちゃん、知ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "うーん、確か緑は永遠を表しているって\\n聞いたことがあるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ほら、ツリーのもみの木とか\\n１年中色を変えない常緑樹だろ？\\nだから、変わらないものを象徴するんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "へー、そうなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "でも私だとね……\\n緑のイメージは……おいしい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "お、おいしい？\\nなんでそうなるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "緑って言えば緑茶で、緑茶って言えば甘味で、\\n甘味処と言えば甘兎庵！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "ただの連想ゲームじゃないか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ああ、でも、そう言われると……\\nなんだか私の中で緑のイメージが\\n『マイペース』になってしまった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ん？　なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "ほら、千夜だよ。\\n独特のネーミングセンスといい、\\nあのマイペースっぷりはなかなかだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "あ、でも、ココアもココアで\\n割とマイペースだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そっかなぁ？\\n私は、いつでもツンツンでクールな\\nチノちゃんこそマイペースな気がするよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "言われてみれば……\\n意外にみんなマイペースなのか？\\nそれでよくかみ合っていけるよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "それはきっと、リゼちゃんが\\nみんなのペースをまとめてくれてるから\\nじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "えっ？　そ、そうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うん、そうだよ。\\nリゼちゃんがいるとね、私たちの中に\\nどんって柱が立ってる感じがするから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そう、リゼちゃんが私たちの骨組みなんだよ！\\nないとぐねぐねのぐにゃぐにゃになっちゃうの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "そこまでか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "でも、まあ、なんか嬉しいよ。\\nそういう風に言ってもらえると。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

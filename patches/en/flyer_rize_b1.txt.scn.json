@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_rize_b1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ふう。\\nリゼちゃん、ちょっと疲れちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ココアが、だろ？\\nまあ、確かに私も少し疲れたし休憩するか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "それにしても……\\nココア、コスプレでチラシを配るって\\n言ってたよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "なのに、今日はどうして\\nラビットハウスの制服なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そ、それは～、えーっと～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ほ、ほら！\\nやっぱり基本は大事だっていうからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ふーん？\\nさては……何の衣装にするか\\n決められなかったのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ぎくっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "まあ、この制服だって知らない人が見たら\\nコスプレみたいなものだし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "あと、制服ってのは店の目印にもなるな。\\nこの格好で配るのは間違ってない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でしょー！\\nさすが、リゼちゃんはわかってる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ココア自身は、そこまで考えてなかっただろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "考えてたよ、多分。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "多分ってなんだ。\\nまったく、ココアらしいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだ。\\n実はさ、ココアに聞いてみたいことがあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "コーヒーの特徴をちゃんと覚えてるか？\\nお客さんに聞かれた時、\\n答えられないとだめだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "もちろんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "上品な香りを楽しむのならブルーマウンテンで、\\n酸味が強いのがキリマンジャロ。\\n甘みがあるのがコロンビアだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "なんだ、ちゃんと覚えてるんだな。\\nなのにどうして、飲んだ時に\\n味の違いを判断できないんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うーん、なんでだろうね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "ちゃんとわかる様にならないと\\nバリスタなんて夢のまた夢だぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "そこは大丈夫！\\nチノちゃんとよく特訓してるからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "さてと！\\nリゼちゃん、休憩はおしまいにして\\n残りのチラシ配っちゃおうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだな。\\nもうひと頑張りするか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

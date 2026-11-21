@@ -1,0 +1,864 @@
+{
+  "identity": "chino_b06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "準備はいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "うん、道具はこれで大丈夫だよ。\\n材料は全部そろった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "えーっと、小麦粉に生クリームだろ？\\nイチゴとかフルーツもばっちりだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "あとは、たまごに、グラニュー糖に牛乳とバター、\\nそれとバニラエッセンス！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……この本を見る限り、問題なさそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "いよいよだね～。\\nなんだかどきどきしてきた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "図書館から借りてきた本もたっぷりあるし、\\nこの通りにすればケーキ作りなんて楽勝だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はい、みんなの力を合わせたら\\nきっと上手くやれます。\\nでは、さっそく始めましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ＆メグ",
+          "original": "おーっ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "といっても、いきなりフルーツケーキや\\nブッシュ・ド・ノエルは難しそうですし、\\n基本から行きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "ということは、基本のショートケーキだな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "そうだね、それから作ってみよっか。\\nえーと、作り方は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "本には、まずはスポンジ作りから、とありますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "スポンジって土台だろ？\\n土台が完成したらできたも同然じゃね？\\nあとはそこにクリーム塗るだけだしさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "うーん、そんな簡単にいくのかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "とりあえず、練習のつもりで\\n１度作ってみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "まずは……型にクッキングシートをひきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "でー、次は……\\nそこに卵黄を入れるって書いてある。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "マヤ",
+          "original": "卵黄ってことは、黄身だけ入れるんだよな？\\nどうやって黄身と白身をわけるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "あっ！\\n私、テレビでたまごの殻に黄身だけ残して割る\\nやり方を見たことあるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "へー、そんな方法あるんだ。\\nどうやるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "メグ",
+          "original": "まずは、たまごに少しひびを入れてね、\\n上と下に分けるようにして割るの。\\nそうすると下に中身が残るらしいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "それから、黄身がこぼれないように傾けて、\\n白身だけを別の容器に落としていくんだって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "マヤ",
+          "original": "ん～？\\nなんかよくわかんないけど、まあ、やってみっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "メグ",
+          "original": "え～っと……\\nきゃっ！？　黄身がこぼれちゃう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "おおっと！？\\nに、逃げるな！　あーっ、だめだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "んっ……しょっ……と……\\nこんな感じでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "メグ",
+          "original": "わあ、チノちゃん上手！\\nすごいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "ごめん、チノ。\\n黄身まで器に落ちちゃったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "では、黄身をスプーンですくいましょう。\\nそれで使えるはずです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "そっか、頭いいなチノ！\\nおっ！　簡単にすくえたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "あっ……！！\\nねえ、これって最初から\\nスプーンですくっちゃだめかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "はっ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "メグ",
+          "original": "ごめんなさ～い。\\n私、余計なこと言っちゃったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "チノ",
+          "original": "いえ、そんな。\\nアドバイスは助かりますから\\nどんどんお願いします、メグさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "マヤ",
+          "original": "ところでさ、\\nたまごって何個ぐらい割ればいいんだ？\\nこれで１０個目なんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "メグ",
+          "original": "ええっ！？\\nマヤちゃん、たまご割りすぎだよ～！\\n３つか４つで充分って書いてあるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "余ったたまごは、あとでオムレツにしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "マヤ",
+          "original": "やったね！\\n私、チーズ入りがいいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "メグ",
+          "original": "えーっと、次は……\\n割ったたまごにグラニュー糖を入れて\\n湯せんにかけながら一緒に混ぜる、だって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "マヤ",
+          "original": "あ、それ、やってみたい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "では、それはマヤさんにお任せするとして\\nこちらは小麦粉を準備しましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "メグ",
+          "original": "ねえ、チノちゃん。\\n本には、薄力粉を使うって書いてあるよ？\\n用意したこれって薄力粉？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "チノ",
+          "original": "この小麦粉は、ココアさんが\\nパンを焼く時に使っている物ですが……\\nだめでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "マヤ",
+          "original": "いいんじゃね？\\nパンに似てるふかふかしたものを作るんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "メグ",
+          "original": "あれ？\\nこっちの別の粉には中力粉って書いてあるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "マヤ",
+          "original": "おっ！\\nこっちに薄力粉って書いてあるものがあるぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "ココアさんが使っている粉には\\n強力粉とありますね……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "ココアさんが使っている粉には\\n強力粉とありますね……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ココアさんの粉を使いましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "間を取って、中力粉を使いましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "本の通り、薄力粉を使いましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ココアさんの粉を使いましょう。\\nココアさん、パン作りだけは上手ですから。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "うん、そうだね。\\nココアちゃんのパンはとってもおいしいから、\\nこれを使ったらおいしいケーキができそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "まあ、ココアが使ってるもんなら\\n間違いはないだろうしな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "間を取って、中力粉を使いましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "なるほど～。\\n何事も、やりすぎはよくないもんな。\\n強すぎても薄すぎてもだめってことか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "そうだね、真ん中ぐらいがいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "本の通り、薄力粉を使いましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "うん、基本に忠実に、だね。\\nレシピをきちんと守って、\\n正確な手順で作らなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "慣れるまでは本の通りにやった方がいいよな。\\n工夫はそのあとにしよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "たまご、できたぜー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "では、小麦粉をふるいにかけながら\\nたまごと混ぜ合わせましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "小麦粉は……\\n本には、９０グラムって書いてあるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ふるいなんて久しぶりだなぁ。\\n小さい時、砂遊びで使った時以来かも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "とんとん……と。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "なんだかタンバリンを叩いているみたいだねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "楽しそう～！\\nねえ、私もやってみたい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "はい、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "とん、とん、とん！\\nあははっ！　雪を降らせてるみたいだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "……あれ？　もう終わっちゃった。\\nなんか少なくね？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect2": {
+      "select_prompt": {
+        "speaker": "マヤ",
+        "original": "……あれ？　もう終わっちゃった。\\nなんか少なくね？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0201": {
+          "original": "では、もう少しだけ追加しましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0202": {
+          "original": "本の通りにやりましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0203": {
+          "original": "何か追加しましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0201": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "では、もう少しだけ追加しましょう。\\n粉をふるう時、少しだけこぼしてしまったので。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "ねえねえ、私もやってみたい。\\nいいかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "いいよ！\\nはい、交代！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ありがと～。\\nとんとん、とんとん、とんとん♪",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "おお～。\\nこれは、でっかいスポンジができそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0202": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "本の通りにやりましょう。\\n少ないように見えますが、\\nきっと、これでいいんです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy5": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "そうだね。\\n分量はきちんとしないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "粉をいっぱい入れたら\\nでっかいスポンジになるだけなんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "じゃあ、これが上手くいったら\\n次は大きいのを作ろっか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0203": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "何か追加しましょう。\\n物足りない気がしてきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "じゃあ、何を入れる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "物足りない時はスパイスじゃないかな？\\nコショウとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "コショウならあります。\\n入れてみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "コショウといったら塩もじゃね？\\n隠し味になりそうだし、えい、入れちゃえ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_02_join": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "あとは、これを混ぜるだけで完成かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "あ、すみません。\\n牛乳を忘れていました。\\nこれを入れながら混ぜてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "ん～？　なんか粉が固くなって\\n混ぜにくくなってきたぞ？\\nこれ、１パック全部入れちゃおっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "あっ、だったら余った卵白も入れちゃおうよ。\\nもったいないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "い、いいんでしょうか？\\nいらないから取り除いたんじゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "混ぜて混ぜて混ぜて～！\\nおおー！　お好み焼きの種みたいになってきた！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "最後は焼くだけだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "は、はい。\\nではオーブンを１７０度にセットして――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect3": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "は、はい。\\nではオーブンを１７０度にセットして――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0301": {
+          "original": "じっくりこんがりと焼きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0302": {
+          "original": "弱火でことこといきましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0303": {
+          "original": "適度に調整しながら焼きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0301": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "じっくりこんがりと焼きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy6": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "うん。\\nあとは信じて待つしかないよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "楽しみだな～。\\n上手く焼けるといいな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0302": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "弱火でことこといきましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "なんだか、お料理してるって感じだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "まあ、お菓子作りだって料理だもんな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0303": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "適度に調整しながら焼きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy7": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "慎重だね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい、初めてですし、\\nここはしっかりと見届けたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "そうだな、責任持って見守ろうぜ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_03_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "そろそろ焼けたはずですね。\\nオーブンを開けてみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "どうなったかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "どきどきする～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "それでは、出します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "……ふくらんでないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "あれ？　おっかしいなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "（ココアさんが作るパンみたいに、\\n　ふんわり焼けたスポンジを\\n　期待していたのに……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "なんだか入道雲みたいな、\\nもこもこしたスポンジだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "生焼けな部分もあるみたいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "……どうしてでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "マヤ",
+          "original": "じゃ、じゃあ、今度は違う本のを試してみよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "メグ",
+          "original": "うん、そうだね。\\n最初だし、失敗することもあるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "この本なんてどうかな？\\nイラスト付きで簡単そうじゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "うん、それがいいかも。\\nチノちゃん、これを参考にやってみようよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "……そうですね。\\n１回の失敗で落ち込んでいる場合ではありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "そうそう！\\n失敗を活かして、今度は成功させようぜ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

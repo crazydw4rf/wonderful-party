@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_rize_a3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん。\\nなんだかチラシの減りが遅いね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そうか？\\nいつも通りだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん、絶対、遅いよ。\\nこれはきっと……マンネリだね。\\nきっと、このコスプレに飽きられちゃったんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "飽きるも何も、ただの制服だからなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そろそろコスプレも次の段階に進むべきだね。\\nねえ、リゼちゃんはどんなコスプレがしたい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "わ、私は別に……何でもいい。\\nいや、何でもと言っても、\\nあんまりこう……きわどいのは困るがな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "じゃあ、童話の衣装なんてどうかな？\\nアリスとか、シンデレラとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "アリスか。\\n確かに、その、かわいいな。\\nうん、かわいい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "だよねー！\\n他にはね……アイドル風とか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "アイドル！？\\nど、どんな服なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "それはもちろん、\\nテレビの中のアイドルみたいに\\nキラキラふわふわしてる服！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "キラキラで……ふわふわ……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "い、いや、私はそういうのは、\\n浮つきすぎててどうかと思うぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うーん、じゃ、巫女服は？\\nこう、おしとやかな感じで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "……それ、喫茶店、全然関係ないよな。\\nまあ、袴に銃器を仕込めそうだし\\n悪くはないが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あー！\\nコスプレと言えば、ナースは外せないよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ナ、ナース！？\\nそれは狙いすぎだ！　却下だ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ほら、話込んでる場合じゃないだろ！\\nさっさとチラシを配らないと日が暮れる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "あ、そうだね。\\nたくさんチラシを配るためにも\\nコスプレ頑張らないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "頑張るのはチラシ配りだ！\\nコスプレじゃないだろ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

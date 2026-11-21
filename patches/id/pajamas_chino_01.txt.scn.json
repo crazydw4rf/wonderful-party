@@ -1,0 +1,181 @@
+{
+  "identity": "pajamas_chino_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんのお話、怖かったね。\\nどこでネタを仕入れてきてるんだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "……あの、ココアさん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさんは、怖くて眠れないから\\n私と一緒なんですよね？\\nそれで、よく怪談の話題を続ける気になれますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "１人で寝るのが怖いんであって\\n今はチノちゃんがいてくれるんだもん、\\n大丈夫だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "そ、そうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "え、えっと……その……\\n千夜さんのお話、マヤさんとメグさんにも\\n聞かせたかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "マヤちゃんたち、\\nそんなに怖い話が好きなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "いえ、夏になったら怪談をして涼をとろう、と\\nそういう風に言っていたので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "今から夏の準備なんだ。\\nマヤちゃんもメグちゃんも気が早いね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "確かに、そうですね。\\n今から夏の話なんておかしいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ううん、全然おかしくないよ。\\n先のことをいっぱい話せるのって\\nすっごい仲良しだって証拠だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（マヤちゃんとメグちゃんは、\\n　チノちゃんの大切なお友達なんだね。\\n　２人とも、とってもいい子だし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ねえねえ、チノちゃん？\\nマヤちゃんたちと、普段はどんな話をしてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "そう言われても……\\nココアさんに期待されるほど\\n面白い話はしてないですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "宿題のこととか、学校の先生の物真似とか\\nそういうのばかりで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "え、先生の物真似？\\nチノちゃん、そんなことするんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "いえ、私ではなくマヤさんが上手なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "このあいだの授業中に、先生が消しゴムを\\n拾おうとして、勢いあまって転びそうになった時の\\n真似がそっくりだったんです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "先生、ヘンテコな声を出して\\n教室中が大笑いだったんですが、\\nマヤさんの時も私たちの笑い止まらなくなって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "あっ！\\nすみません、ココアさん。\\nこんな話、つまらないですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ううん、楽しい！\\nチノちゃんの学校生活が目に浮かぶよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "そ、そうですか？\\nなら……よかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "あの……マヤさんもメグさんも\\n夏の怪談をとても\\n楽しみにしているみたいですから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "私も、２人にもっと楽しんでもらえるように\\nしたいなって、そう思っているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "じゃあ、次の夏は私もチノちゃんに\\n冷え冷えにしてもらえちゃうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "は、はい。\\n頑張りますね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

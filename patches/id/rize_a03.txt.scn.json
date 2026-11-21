@@ -1,0 +1,388 @@
+{
+  "identity": "rize_a03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（しまったな。\\n　学校でシャロに声をかけるつもりだったのに\\n　タイミングを逃してしまった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "（もう帰ってしまったらしいが……\\n　今日もフルールでバイトだろうか？\\n　ちょっと寄ってみるか）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "って、リゼ先輩！\\nどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "急に悪いな。\\n学校で声をかけようと思っていたんだが、\\nなかなかタイミングが合わなくて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ここなら会えるかもしれないと思って、\\nバイトに行く前に寄ってみたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "す、すみません！\\nわざわざ足を運ばせてしまって、私ったら～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "いや、シャロが謝ることじゃないだろ。\\nそれに大した用事でもないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "実は、クリスマスパーティーの役割分担について、\\n念のために確認しておきたくて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "そのために、今度の週末、\\nまたチノの家でお泊まり会をして\\nみんなで話し合いをしたいと思っているんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "あの、それって昨日、\\nメールでいただいたことですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ああ。\\nまあ、さっきも言ったけど念のためだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "どうした？\\nもしかして、週末は都合が悪いのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "いえ、お泊まり会は大丈夫ですけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "その、メールでいただいたことを\\nわざわざ確認に、なんて……\\n私ってそんなに信用ないんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ええっ！？\\nちょ、ちょっと待て！\\n別にそういうわけじゃないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "（まずい、シャロが見るからに落ち込んでる。\\n　なんとかしないと……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（まずい、シャロが見るからに落ち込んでる。\\n　なんとかしないと……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "私はシャロを信頼しているぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "責めてるわけじゃないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "そうネガティブに考えるな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "私はシャロを信頼しているぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "お前は、真面目で、働き者で、\\n責任感も強くて勉強もできる。\\nその上、溢れんばかりの気品も持っているんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "こんなに素晴らしい後輩のことを\\n信頼しないなんて、あり得ないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "しかし、改めて考えてみると\\n本当に頼もしい後輩だなぁ、シャロは。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "あ、あの、先輩、それくらいで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "だけど、無用な心配をさせてしまったみたいだし、\\n私がどれだけお前を信頼しているかをだな――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "お、お気持ちはもうわかりましたから！\\nあまり褒められると、いたたまれないというか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "そうか？\\nまあ、シャロが納得してくれたのならいいんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それじゃ、改めて聞くけど、\\nお泊まり会には来られそうか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "責めてるわけじゃないんだ。\\n……私の言葉が信じられないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そ、そんなことありません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なら、信じてくれ。\\n私はあくまで確認に来ただけなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "……わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（うーん、まだ腑に落ちないといった感じだな……。\\n　まあ、これ以上この話を広げても\\n　意味はないだろう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "とにかく、お泊まり会は大丈夫なんだな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そうネガティブに考えるな。\\n本当に、ただ確認に来ただけなんだよ。\\n大事な用件は顔を合わせて話すのが１番だしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "それに、シャロの顔を見たかったって\\nいうのもあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ええっ！？\\nなんで私の顔なんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "うん？　特に理由はないなぁ。\\n今日１日、シャロのことを考えてたからかな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "せ、先輩が１日中、私のことを！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あ、ありがとうございますっ！\\n私も先輩に会えて嬉しいです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あははは、そんな風に改めて言われると照れるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（よくわからないが、元気になったみたいだな。\\n　まあ、シャロが納得したのなら\\n　それでいいんだけど）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "それで、お泊まり会はどうだ？\\n週末の予定は空いてるか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "はい、問題ないです。\\nたとえあったとしても、\\n先輩とのお泊まり会が最優先ですから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そこまで！？\\nいままでのお泊まり会、\\nそんなに楽しかったのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "はいっ！\\nまたできて嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、ココアやチノもそう言っていたよ。\\nも、もちろん、私もそう思ってるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "も、もし、みんなで集まるのは難しくても……\\nリゼ先輩の都合のつく時に、\\nお泊まり会を２人きりでなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "って、２人きりなんて無理～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "うわっ！？\\nいきなりどうしたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ななな、なんでもないです！\\nもう、私ったらいけない想像を～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "いけない想像！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "とととと、とにかく！\\nお泊まり会、楽しみにしてます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

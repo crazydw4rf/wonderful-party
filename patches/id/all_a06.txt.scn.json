@@ -1,0 +1,364 @@
+{
+  "identity": "all_a06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……ん？　なんだか寒いなぁ。\\n　隣にチノちゃんが寝てて、\\n　ポカポカだったはずなのに……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（もしかして、私、お布団を\\n　ベッドから落としちゃったのかな？\\n　そういう時はチノちゃんをぎゅーっと――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ん？　チノちゃんがいない？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "……あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "雪……？\\n雪が降ってるってことは……外？\\nなんで私、外で寝てるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ていうか、ここって……どこ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え、え、ええええ～っ！\\nなんで私、こんな所にいるの～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あっ！　そうだ！\\n　チノちゃんは？　みんなは！？　どこ！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あっ！\\n　チノちゃんも、他のみんなも周りで寝てる！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "みんな、起きて～！\\nこのままじゃ凍えちゃうよ～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "うん？\\nなんだココア、何を騒いでるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "うるさいわねぇ……。\\n静かにしなさいよぉ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "おはよう、ココアちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "もう朝なんですか……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "みんな、しっかりして！！\\n周りを見て～！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "周り？\\n一体、何を言って――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "うわあっ！？\\nな、な、なんだこれは！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "さ、寒いっ！！\\n何のいたずらよ、ココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "わ、私じゃないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "あらまあ。\\n寒いと思ったら、こんなに雪が積もっていたのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "ま、待ってください。\\nあの、じょ、状況についていけないのですが。\\nどうしてこんな雪の中に……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "私もわかんないよ～！\\n起きたらこうなってて！\\nなんで？　何が起きたの！？　ここはどこー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "落ち着け、ココア。\\n叫んでも状況は改善しない。\\nむしろ、悪化させる可能性がある。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "そ、そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ああ、もし周りに敵がいたらどうする。\\nこっちの場所を知らせてしまうだけだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "敵って何！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "そうだ！　敵だ！\\nこれは宇宙人の仕業だ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "そんな、リゼ先輩！？\\nし、しっかりしてくださいぃ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "……あ、そうです、夢です。\\nこれはきっと夢なんですよ、そう、夢なんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "夢なのかしら？\\nずいぶんとリアルな夢ねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "違う！　これは敵の攻撃だ！\\n私たちは宇宙人の罠にはまったんだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "違う！　これは敵の攻撃だ！\\n私たちは宇宙人の罠にはまったんだ！",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "そうだよ！　これは敵の罠だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "これは夢だよね、うん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "みんな、落ち着いて！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そうだよ！　これは敵の罠だよ！\\nこんな状況、そうでもないと説明がつかないもん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "やっぱりココアもそう思うだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "そ、そんなことが……\\nでも先輩がそう言うのならそうなのかも？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "シャロさん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "でも、どうして雪山に置いていかれたの？\\nもしかして、冷凍保存でもするつもりなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ひいいい！？\\n私たち、標本にされちゃうの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "あ、あの、みなさん、\\n想像力がたくましすぎでは……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これは夢だよね、うん。\\nチノちゃん、私のほっぺをつねってみて？\\n夢だから痛くないはずだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "わ、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "いっ、いたたた！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "す、すみません！\\n強すぎましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "どうしよう、チノちゃん。\\n痛いってことは、これ、\\n夢じゃないってことになっちゃうよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "みんな、落ち着いて！\\nパニックになったら余計に危険だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "た、確かに……。\\nいかん、私としたことが取り乱した。\\n宇宙人の仕業なんて、そんなわけないよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そうですよ。\\n先輩らしくないです、冷静にいきましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……落ち着いて考えると、\\n夢の中でこうして意思疎通ができるのも\\nおかしいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "だとしたら、これは現実？\\n私たち、どうしてこんな所にいるのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（なんで？　どうして？\\n　お泊まり会で楽しい一晩を\\n　過ごしたあとだったのに―――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（私たち、これからどうなっちゃうの～！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

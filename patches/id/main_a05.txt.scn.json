@@ -1,0 +1,802 @@
+{
+  "identity": "main_a05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、そろそろいいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "もう充分ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃじゃーん！\\n今日のメインディッシュ、シチューの完成だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "なかなかいいできですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "私とチノちゃんが一緒に作ったから当たり前だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "いつも通りのレシピですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "それでも、２人分の気持ちが\\nこもってるから絶対においしいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "それじゃ、さっそく食べよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい、冷めないうちに食べましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "お皿に盛って～、テーブルに並べて～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "サラダも出しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うん、お願い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "……これでいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん、準備万端！\\nそれじゃ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "いただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "はむっ！\\nもぐもぐ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "うーん！　おいしーい！\\nチノちゃん、どう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "はむ……。\\nはい、とってもおいしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "えへへ～、本当だね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "……どうしたんですか？\\nいつもよりニヤニヤして、なんだか怖いです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "怖いの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "えっとね？\\nここに来て初めての夕飯、\\nシチューだったなって思い出して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "そういえば、そうでしたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "その時は、チノちゃんが\\n１人で作ってくれたよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "でも、今日は２人で作れたから\\nすっごく楽しかったなーって思ってたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "そ、そうですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "まるで、本当の姉妹みたいだね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "まるで、本当の姉妹みたいだね！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "……言いませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "え～！？\\nねえ、言って？\\nあの時みたいに『ココアお姉ちゃん』って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "言いません。\\nほら、ココアさん、お皿が空ですよ。\\nおかわりですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "あ、うん！\\nもう１杯、食べちゃおーっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "今日のシチューはすごくよくできたし、\\nおじさんとティッピーにも食べてもらいたいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "では、夜食に食べられるように\\n残しておきましょう。\\nきっと喜んでくれます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "んー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "チノ",
+          "original": "どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "残しておくのもいいけど、\\nここで一緒に食べられるともっといいのにな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "チノ",
+          "original": "でも、父はバーで仕事中ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "そうだけど、チノちゃんは寂しくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "チノ",
+          "original": "……それは、慣れていますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "あ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃん、やっぱり寂しそう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そうだよね！\\n　家族と一緒にご飯が食べられないんだもん、\\n　寂しくないわけないよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "ココア",
+          "original": "チノちゃーんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nここにお姉ちゃんがいるよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "チノ",
+          "original": "こ、ココアさん、邪魔です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "ココア",
+          "original": "もう２度と、寂しい想いなんてさせないからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "チノ",
+          "original": "大丈夫ですから。\\nそんなに心配しないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "うん、そうだよね！\\nお姉ちゃんがいるもんね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "チノ",
+          "original": "そうは言ってないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "ええ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "チノ",
+          "original": "早く食べてください。\\nおかわりのシチューが冷めてしまいますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "チノ",
+          "original": "ごちそうさまでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "おそまつさまでした！\\nそして私も、ごちそうさまでした！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "チノ",
+          "original": "おそまつさまでした。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "ココア",
+          "original": "それじゃ、お片付けだね。\\nチノちゃんはお皿洗いする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "チノ",
+          "original": "そうですね。\\nココアさんはテーブルの片付けをお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "ココア",
+          "original": "まかせて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（それじゃ、テーブルを片付けて、\\n　拭いて、それから――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　ん～？\\n　なんだろう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "ココア",
+          "original": "あ、えっとね？\\nあれってなんだろうと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "チノ",
+          "original": "カレンダーです。\\n前からあそこにありますけど、\\n気がついてなかったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "ココア",
+          "original": "気がついてたよ！\\nでも、何か書いてあるのは知らなかったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "チノ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "ココア",
+          "original": "ほら、１２月４日のところに\\nマルが書いてあるんだけど……\\nチノちゃん、これって何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "チノ",
+          "original": "それは、その……特に意味はありませんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "70": {
+          "speaker": "ココア",
+          "original": "そうかなー？\\n印を付けるくらいだもん、\\nこの日は特別な日なんだよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "71": {
+          "speaker": "チノ",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "72": {
+          "speaker": "ココア",
+          "original": "ほほーう？\\nこれはつまり、私に推理しろということだね？\\nその挑戦、受けて立とう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "73": {
+          "speaker": "チノ",
+          "original": "いえ、挑戦ではないんですけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "74": {
+          "speaker": "ココア",
+          "original": "わかった！\\nずばり、１２月４日は――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "わかった！\\nずばり、１２月４日は――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ラビットハウスの開店記念日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "もふもふ記念日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "妹記念日！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ラビットハウスの開店記念日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あれっ！？\\n結構、自信があったんだけどな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "どうして自信が持てるのか、\\nさっぱりわかりません……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "でも、ラビットハウスの開店記念日には\\n何かやりたいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ラビットハウスが生まれた、\\n特別な日なんだから！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はい、そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "もふもふ記念日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "も、もふもふ記念日？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そう！\\nこの世のすべてのもふもふに感謝する日だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "それは、確かに必要な日かもしれません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でしょでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、ラビットハウスでは、１２月４日は\\nティッピーをもふもふし放題にして\\nもふもふに感謝するのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "え？　それって感謝してることになるんですか？\\nむしろ、大変な目にあわせてますよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "妹記念日！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "言うと思いました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nなんでわかったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、でも、妹記念日がどうなるかは\\nこれからのチノちゃん次第なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "どういうことですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "この１２月４日に\\nチノちゃんが私に何かしてくれたら\\n『妹がお姉ちゃんのために記念日』で――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "私がチノちゃんのために何かしたら、\\n『お姉ちゃんが妹のために記念日』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……なんとしても\\n記念日にするつもりじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あれ？　だめ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "だめです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "タカヒロ",
+          "original": "お邪魔するよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれっ！？\\nおじさん、どうしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "タカヒロ",
+          "original": "部屋に物を取りに来ただけだよ。\\nすぐに戻るさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n聞きたいことがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "タカヒロ",
+          "original": "ん？　何かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "あっ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あのカレンダー、１２月４日に\\nマルが書いてあるのはなんでですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "タカヒロ",
+          "original": "ああ、それは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ま、待って……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "１２月４日は、チノの誕生日なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "ああ……言っちゃった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ええええええええ～！！\\nチノちゃんのお誕生日～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "チノちゃんっ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "な、なんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "どうしてそんな大切な日を、\\nお姉ちゃんに教えてくれなかったの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "だって、自分から誕生日のことを言い出すなんて、\\nプレゼントをねだってるみたいで……\\nあつかましいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そんなことないよっ！！\\n遠慮なんてしないで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "ちょっと、ココアさん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんとして、チノちゃんの誕生日を\\n世界で１番、素敵な１日にしてあげるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "ま、待ってください。\\n誕生日とは心静かに迎えるものだと、\\n私はそう思って――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "お姉ちゃんにまかせておきなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "聞いてない……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "タカヒロ",
+          "original": "ははは。\\n今年は賑やかな誕生日になりそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "はいっ！\\nおじさんも楽しみにしていてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "はあ……。\\nこうなるから教えたくなかったのに……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

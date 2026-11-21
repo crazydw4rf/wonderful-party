@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chiya_f2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ふー、今日のチラシ配りも\\n　あと少しで終わりだね。\\n　千夜ちゃんの方はどうかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、調子はどう？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "私が配る分は、ついさっき終わったところよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "おー、すごい！\\n早いね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それじゃ、ココアちゃん。\\nそっちの残りを配るの、手伝わせて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ありがと、千夜ちゃん。\\n今日はすっごく調子いいんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "もしかして、なにかいいことあった？\\nずーっとニコニコしてるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ふふっ！\\n実は、最近読んだ本のことを思い出してたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "日本の伝統色についての本でね、\\nそれがとっても面白くって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "チラシを配りながら、街の色を見て\\n内容を思い出してたら、\\n楽しくなってきちゃったのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "日本の伝統色かぁ。\\nうん、それってすごく千夜ちゃんっぽいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、そういえば……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんが考えた甘兎庵のお品書き、\\n赤宝石とか、エバーグリーンとか、\\n色モチーフなのもあるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ええ。\\n色の名前って、お菓子の名前を\\nイメージする時、役に立つのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ねえねえ、私はどう？\\n私は、日本の色でいったら何色な感じかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "そうね、ココアちゃんなら――桜色かしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "おだやかで、淡い……\\nふんわりと包み込んでくれるような暖かい色よ。\\nココアちゃんにぴったりだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そ、そうかなぁ。\\nえへへ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そうだわ、撫子色もいいわね。\\n桜色より濃いめの色。\\nちなみに、撫子は小さくて可憐な花なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（桜色と撫子色かぁ。\\n　どっちもかわいい色で、\\n　はずかしくなっちゃうなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n残りのチラシは、そのイメージで\\n配ってみることにするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ふんわり包み込むように、\\nそれでいて可憐な花のように～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ラビットハウスをよろしくお願いします♪",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あらあら、ココアちゃんたら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "そういう、明るくて元気な雰囲気も含めて\\n色を決めたのだけれど……\\nわかってもらえたかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

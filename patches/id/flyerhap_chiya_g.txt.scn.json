@@ -1,0 +1,217 @@
+{
+  "identity": "flyerhap_chiya_g.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あっちでバドミントンをしてますね。\\n邪魔しないように場所を移動した方が\\nいいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そうね。\\nシャトルが飛んできたら危ないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（って、言ってるそばから飛んできたよ！？\\n　千夜ちゃんに当たっちゃう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "甘味処、甘兎庵です。\\nチラシをどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャトルを避けた！？\\nいつもながら、すごいね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "あの、無意識で働く\\n危機回避能力は見習いたいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "あら？\\nみんなこっちを見て、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "なあ、その危機回避能力は\\nどうやって鍛えたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "危機回避能力？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "さっきバドミントンのシャトルを避けたでしょ？\\n千夜はいつも通り、意識しないで\\n動いただけだと思うけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "シャトル？\\nそんなもの、飛んできたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "ああ、見事に避けてた。\\nどうやったんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "そう言われても……\\n飛んできたことに気がついていなかったから\\nわからないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ふむふむ、つまりこれは第六感ってやつだね。\\n千夜ちゃんは普通の人が気付かないものにも\\n気付けるんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ええ、実は私、第六感があるの。\\nだから、わかるのよ……\\nココアちゃんの背後に幽霊が……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ゆ、幽霊！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そう……。\\n切り裂きラビットと呼ばれた、\\n数々の殺人事件を引き起こしたうさぎよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "切り裂きラビットが永遠の眠りにつくと同時に\\n全ての事件は終わった……はずだったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "でも、切り裂きラビットは幽霊と化し、\\nこの世を彷徨っていた。\\nそしてそれが今、ココアちゃんの背後に！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "ひっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "や、やめてやめて～！\\n後ろ向けなくなっちゃうよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "い、いつもの冗談よね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "さあ？　どうかしら。\\nココアちゃんはうさぎが好きだから、\\nうさぎの霊に好かれてもおかしくないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "千夜さんは本当に怪談が上手ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "怪談じゃなくて、第六感で見えてるのよ。\\n例えば、シャロちゃんの後ろにも\\nちゃーんと背後霊がいるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "もう、そんな冗談言って驚かせようとして！\\n後ろを見ても何もいないってオチでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "ひい！？\\nきゃああああ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "ものすごいスピードです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "おいシャロ、落ち着け！\\nどこまで逃げる気だ～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "嫌ああああ～っ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "あらあら。\\nちょっと怖がらせすぎちゃったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

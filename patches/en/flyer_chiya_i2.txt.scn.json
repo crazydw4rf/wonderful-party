@@ -1,0 +1,127 @@
+{
+  "identity": "flyer_chiya_i2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ねえココアちゃん、私もだいぶ\\nこの格好でのチラシ配りに慣れてきたみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "最初は、この格好でチラシ配りなんて\\nできるかしらって思っていたけれど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "今やばっちり！\\nどこに出しても問題ない配りっぷりだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "本当？　そう言われると\\n嬉しいようなはずかしいような……\\nなんていうのかしら、これって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "私ってば、すっかりココアちゃんに\\n染められちゃったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "でも、染めるとか染められるなんて言うと、\\nあれを思い出すわね。\\n『あなた色に染めてください』って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え？　千夜ちゃんを\\n私色に染めようとなんてしてないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "じゃあ、私から染まりにいっちゃったのかしら？\\nもう、ココアちゃんたら上手なんだから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "はっ！？\\nまさか、これは私を甘兎庵から引き離す\\n巧妙な罠なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "なんでっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "そうだったのね？\\n甘兎の勢力拡大を恐れるあまり、\\n罠を仕掛けたのね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そんな罠しかけても意味ないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あら、そうなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "それに、千夜ちゃんはココア色になっても\\n千夜ちゃん色でもあって、\\n甘兎庵色でもあるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "だって、私は千夜ちゃんの代わりなんて\\nできないし、千夜ちゃんが\\n私の代わりになることだってないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "……ええ。\\nまったく、ぐうの音も出ないわ。\\nさすがココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "え？　なんでさすがなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ううん、いいの。\\nココアちゃんはずっとそのままでいいのよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

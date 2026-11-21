@@ -1,0 +1,404 @@
+{
+  "identity": "move_a04.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、ここは緑がいっぱいで気持ちいい。\\n　たまにはこうして癒されるのもいいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？\\n　あそこにいるのはもしかして……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "メグちゃん、マヤちゃん。\\nこんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "あ、ココアちゃん。\\nこんにちは～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "こんな所で何やってんの？\\nサボり？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "サボりじゃないよ。\\nちゃんとしたお休みだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "え？　ラビットハウス、お休みなの？\\nじゃあ、チノちゃんも誘えばよかったかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、お店はお休みじゃないよ。\\nお休みなのは私だけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "へー、チノが一所懸命働いてる時に\\nココアはこうして遊んでるのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "休むのだって立派な仕事だよ！\\nしっかり働いてしっかり休む、\\nメリハリをつけるのが大事なんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "おお、ココアが大人みたいなこと言ってる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "すごーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ふふーん、このくらい当然だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "メグ",
+          "original": "じゃあ、マヤちゃん。\\n大人なココアちゃんに\\nこれから何をするか決めてもらおうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "そうだなー、なかなか決まらなかったし\\nいいんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "え？　決めるって何を？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "何して遊ぶかってこと。\\nちょうどいいし、ココアも一緒に遊ばね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "うん、いいよ。\\nじゃあ、何をしようか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ここでつまらない遊びを選んだら\\n　がっかりさせちゃう。\\n　しっかり考えないと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（ここでつまらない遊びを選んだら\\n　がっかりさせちゃう。\\n　しっかり考えないと！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "人間観察をしよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "ひなたぼっこはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "かくれんぼしよっか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "人間観察をしよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "にんげんかんさつ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "この公園に来ている人たちを観察するんだよ。\\n一体どんな人なのかを想像したりして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そう、人を知ることこそが、\\n世間を、世界を知ることなんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うん、これなら大人っぽいよね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？\\n　もしかして……だめだった！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "そんなの思いつきもしなかった！\\nココアちゃん、大人っぽ～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "ココアのこと、ちょっと見直したかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ふふーん、もっと見直してくれていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……ん？　あれ？\\n　見直したってことは、元の評価は？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "メグ",
+          "original": "でも、私たちはまだ子どもだから、\\nあまりうまくできないかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "だなぁ。\\nあんまり楽しそうにも思えないし、\\n大人になったら再チャレンジしてみるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ひなたぼっこはどうかな？\\nゆっくり体を休めるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "いいかも～。\\n今日はお天気もいいし、\\nひなたぼっこにいい日だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "メグはそういうの好きだよな。\\n私も嫌いじゃないけど、\\n退屈で死にそうになっちゃうんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "だったら、ひなたぼっこしながら\\nＣＱＣの訓練とか、どう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "ひなたぼっこしながら！？\\nどうやるのさ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "日の光の下でやれば、ひなたぼっこにならない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "それって普通に訓練してるのと同じだよ？\\nあはは！　ココアちゃん、変なの～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "ホントだよな！\\nあはははっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（な、なぜか笑われてる！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "かくれんぼしよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "かくれんぼ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あれ？　かくれんぼ、嫌い？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "別に嫌いじゃないけど、\\nせっかくココアがいるんだし\\nもっと違うことがやりたかったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "メグ",
+          "original": "別に、無理して私たちにあわせる必要ないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そっか、ごめんね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "はあ、でもなにしよっか？\\nチノがいたら一緒に映画に行くんだけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "そうだねぇ、チノちゃんと一緒に\\n見たい映画があるもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "じゃあ、今だけ私がチノちゃんになってあげる！\\nそしてみんなで映画に行こうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "ココアちゃんをチノちゃんだと思うの？\\nできるかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "じゃあココア、チノになりきって答えて？\\nココアのことどう思ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "『もちろん、頼れるお姉ちゃんですよ。\\n　おいしいパンも作ってくれるし、\\n　お仕事だってカンペキです』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "『ああ、私も大きくなったら、\\n　ココアお姉ちゃんみたいな人になりたいです』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "誰だよそれ！\\nそんなチノ、見たことねーよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "私が知ってるチノちゃんとも違うなぁ。\\n残念だけど、チノちゃんだとは思えないかなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "ココアはもっとチノをしっかり見ないとだめだな。\\nこのままじゃ、１００年経っても\\nチノの代わりはできないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "はう……精進するね……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

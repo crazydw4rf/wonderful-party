@@ -1,0 +1,187 @@
+{
+  "identity": "flyer_chino_g1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "トリック・オア・トリート♪\\nお菓子をくれないといたずらしちゃうぞ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ほら、チノちゃんも一緒に。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "一緒にって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "トリック・オア・トリート！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ト……トリック・オア・トリート。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "でも、ココアさん。\\nそもそもハロウィンとは\\n少し時期がずれていますよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "こんなにかわいい衣装なんだから、\\n細かいことは気にしなくても\\nいいんじゃないかな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "……確かにかわいいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "チノちゃん、気に入ってくれた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "え、ええ、まあ、その……気に入りました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nチノちゃんが気に入ってくれて嬉しいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "でも、せっかく魔女みたいな格好を\\nしてるんだから、杖を用意すればよかったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "杖ですか。\\n確かに魔女には付きものですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "そうそう。\\n杖を振って、チノちゃんに魔法をかけるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "チノちゃんが私の妹にな～れ！\\nなんてね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……はあ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（な、なんか視線が冷たい！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "ココアさんは、魔法を使えるようになっても\\n言うことは何も変わらないんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "なら、チノちゃんが魔法を使えるとしたら\\nどんなことをしてみたい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "そうですね、私なら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "ココアさんがもっとしっかりするように、とか、\\n１つでも多くの仕事を覚えるように、とか、\\nそんな感じです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ええ！？\\nそんなことに魔法を使うなんてもったいないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "っていうか、\\n私、そんなにしっかりしてないのかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "……冗談ですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "今、間があったよ！\\nあったよね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "じゃ、じゃあ！\\nしっかりしてるって思ってもらえるように\\n今からチラシ配り頑張るからー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "……本当に冗談だったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "魔法を使えるなら、ココアさんに\\nもう少し落ち着きを持ってもらえるように\\nしなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,205 @@
+{
+  "identity": "pajamas_chiya_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は、千夜ちゃんと一緒に寝ようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、寝ちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ううん、眠気が来ないの。\\nみんな寝ちゃったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "眠れない時は羊を数えなさいって言うけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "よし、数えてみよう！\\n羊が１匹……羊が２匹……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "羊が３匹……羊が４匹……あら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "どうしたの、千夜ちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "なんだか私、いつの間にか\\n羊じゃなくて山羊を想像しながら\\n数えてたみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "……え？\\n羊はメェーって鳴く方だよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "え？\\n山羊がメェーって鳴くんじゃなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あれれ？　そうだっけ？\\nあれれれれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "なら、山羊はもふもふしてる方よね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "えっ！？\\nもふもふしてるのは羊だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あら……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "えっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "ひ、羊はあまりよくないわね。\\nしっかり覚えている動物で数えるのが\\nいいんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そ、そうだね！\\nじゃあ、この街で１番見かける\\nうさぎを数えるのがいいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ああ、目を閉じれば\\n今まで出会ったうさぎが思い浮かぶよ。\\nティッピー……あんこ……不良野良うさぎ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "いいわね。\\n今まで出会ったうさぎを思い返しながら\\n数えてるうちに、眠れるかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "じゃあ、数えましょ。\\nうさぎが１羽、うさぎが２羽……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うさぎが９９羽、うさぎが１００羽……。\\n１００羽もうさぎがいたら、もふもふ天国だねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "ああ、１番なじんでるうさぎがあんこだから、\\n頭の中にあんこばかり増えてく……\\nあんこがいっぱい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "いっぱいのあんこ……！\\nあんこの海を泳いだら、もふもふし放題だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "ティッピーでもいいわね。\\nティッピーの海に飛び込んでみたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "あの、ココアさん、千夜さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "今度、公園で野良うさぎたくさん集めて\\nうさぎ天国を作ってみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "いいね！\\n餌にニンジンを持っていこうっと。\\nあ、焼き立てのパンの方がいいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "あの！　２人とも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "みなさんもう寝てるので、\\n静かにしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "ああっ！\\nつい声が大きくなって……ご、ごめんね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "ごめんなさい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

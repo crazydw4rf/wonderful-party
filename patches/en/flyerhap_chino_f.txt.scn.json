@@ -1,0 +1,391 @@
+{
+  "identity": "flyerhap_chino_f.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "あの、誰かハンカチを落としましたか？\\nこれを拾ったんですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ううん、私のじゃないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "私でもないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "私のはここにあるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "私のハンカチもあるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "では、これは誰かの落とし物ですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "ほとんど汚れてないから、\\n落として間もなさそうだ。\\n持ち主が捜しているかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "じゃあ、私たちで落とした人に届けてあげよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "いい考えね。\\nきっと喜んでくれるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "届けるのには賛成だけど、\\nどうやって落とし主を捜すの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "まずは手がかりを見つけよう。\\nハンカチにヒントがあるかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "名前は……書いてありませんね。\\n他には特に目立った特徴もありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "諦めるのはまだ早いよ、チノちゃん。\\nそのハンカチには、大きな手がかりが\\n残されてるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "それは……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "それはね……ヘイカモン、ティッピー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ティッピー",
+          "original": "へ？　わし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "ティッピーがどうかしたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "あ、私、わかっちゃった。\\nそうよね、動物の嗅覚は\\n人間の何十倍もあるって言うものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "その通り！\\nはい、ティッピー、このハンカチの匂いを\\nたどって、落とし主を捜して？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ティッピー",
+          "original": "できるか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "ティッピーは犬じゃありません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "第一、正確に匂いをたどれるのなんて\\n相当に訓練された犬くらいじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "あれ、そうなの？\\nじゃあ、どうしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "シャロ",
+          "original": "素直に交番に届けるのが１番じゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ああ、プロに任せるのがいい。\\n餅は餅屋って言うだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "そうかもしれませんが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "チノちゃんは、交番に届けるのは嫌？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "嫌ではないです。\\nどうしても落とし主が見つからなかったら\\n届けるしかないと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "チノ",
+          "original": "けど、このハンカチがもし\\n持ち主にとって大切な物だったとしたら……\\n一刻も早く届けてあげたいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "チノちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "よし、じゃあ、どうにか頑張ってみるか。\\nただし、見つからなければ交番だぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "はいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "じゃあ、まずは声を出そっか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "シャロ",
+          "original": "声？　どういうこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "思ったんだけど、\\n持ち主が落としてることに\\n気付いてないかもしれないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "落とした人はいませんかって\\nしっかり声を出して呼びかけたら、\\nあれ？　そういえばない！　って気付くかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "なるほど。\\nいい方法だと思います。\\nココアさんも、たまにはいいこと言うんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "たまにじゃなくて、\\nいつもいいこと言ってるよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "シャロ",
+          "original": "……言ってたかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "よーし、やることは決まったな。\\nさっそく行動だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "チノ",
+          "original": "はい、頑張りましょう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "すみませーん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "チノ",
+          "original": "ハンカチを落とした方はいませんかー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "メグ",
+          "original": "えっ！　ハンカチ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "メグ",
+          "original": "すみません！\\n今、ハンカチって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "マヤ",
+          "original": "って、あれ！？\\nココアにチノじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "チノ",
+          "original": "メグさん、マヤさんも？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "メグ",
+          "original": "あの、チノちゃん、ハンカチって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "あ、はい、これです。\\nさっき拾ったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "メグ",
+          "original": "あー！\\nあったぁ！　私のハンカチ！\\nよかったぁ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア",
+          "original": "これ、メグちゃんのだったんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "メグ",
+          "original": "うん。\\nすごくお気に入りでね、\\nなくしちゃったと思って捜してたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "ココア",
+          "original": "それね、チノちゃんが落とし主に\\n届けてあげたいって言って、\\nだからみんなで捜したんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "メグ",
+          "original": "そうだったんだ。\\nありがとう、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "マヤ",
+          "original": "助かったよ～。\\n街じゅう、捜し回らなくてすんだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "チノ",
+          "original": "い、いえ、私は拾っただけで\\n何もしていませんから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "ううん、チノちゃんのおかげで\\nメグちゃんに届けられたんだよ？\\nちょっと早いけど、サンタさんになれたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "チノ",
+          "original": "……わ、私がサンタさんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "メグ",
+          "original": "うん！\\n今のチノちゃんは、私のサンタさんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "チノ",
+          "original": "そ、そうですか。\\nええと……喜んでもらえたのなら嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

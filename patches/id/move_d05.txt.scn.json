@@ -1,0 +1,356 @@
+{
+  "identity": "move_d05.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（日曜日、お天気は上々！\\n　ここは街１周、野良うさぎ探しの旅に\\n　挑むしかないね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "きゃああっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（はっ！？\\n　この声はシャロちゃんだよね、\\n　一体どこから！？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "はぁっ、はぁっ、はぁっ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、どうしたの！？\\n何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "コ、ココア？\\nねえ、あいつはついてきてない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あいつ？　誰？\\nもしかして悪者に追われてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そうよ！\\n人の仕事の邪魔をする、凶暴で横暴な――\\nあの、不良野良うさぎに追われてるの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "なんだ、うさぎかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "なんだじゃないわよ！\\nこっちは必死なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "不良野良うさぎって、そこまで凶暴だった？\\nシャロちゃんが怖がりすぎなんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、来た！\\nかわいい～、おいでおいで～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "何で呼ぶのよ！\\n逃げてきたって言ったでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "私が抱っこしてるから大丈夫だよ。\\nこれなら、シャロちゃんに\\n飛びかかることもないでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "うう……。\\n絶対、放さないでよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ほら見て。\\nうさぎ、かわいいでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "でも、邪魔するし、噛みつくし……\\nそんな生き物のどこがかわいいわけ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "シャロ",
+        "original": "でも、邪魔するし、噛みつくし……\\nそんな生き物のどこがかわいいわけ？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "このもふもふ具合がたまらないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "鳴き声が意外にかわいいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "口元と動きが最高～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "このもふもふ具合がたまらないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そんなの、他の動物だってもふもふじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ううん、うさぎの毛はひと味違うよ。\\n触るとふわって感じで、もふって押し返して、\\n抱っこしてるとすっごく幸せになるんだ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うさぎが怖いってことは、\\nその極上のもふもふを失うことになるんだよ？\\n悲しくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "どれだけふわっとしていても\\nもふってしていても、襲ってくる限り、嫌よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でも今なら襲ってこないよ。\\nね？　触ってみない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "……じゃあ、ちょっとだけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "って、わあ！？\\n急にどうしたの、暴れちゃだめだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ひいっ！？\\nほ、ほら！　撫でることすらできないじゃない！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "鳴き声が意外にかわいいんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ちょっと待って。\\nうさぎははっきりとは鳴かないって、\\n前に言ってなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、うん、あれから調べてみたんだけどね、\\nうさぎって『ぶう』って鳴くんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ぶ、ぶう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "滅多に鳴かないけど、\\nこんなかわいい顔してて『ぶう』だよ？\\nギャップがすごいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ぶうって？　本当なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、前に野良うさぎが鳴くまで待ってたけど、\\n本当に『ぶう』だった。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "意外ね……。\\nちょっと聞いてみたいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "でも、かなりの忍耐が必要だよ。\\n本当に、滅多に鳴かないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "口元と動きが最高～！\\nほら見て、いつも何か、もぐもぐもぐもぐって\\n口を動かしてるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "確かに口がもぐもぐしてるわね。\\nうん……ちょっとだけ、かわいいかも。\\nでも、私の場合、この口で噛みつかれて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、もしかして、シャロちゃんが\\n噛みつかれるのってハーブの香りがしてるからかな。\\n餌だと勘違いしてるかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "え……。\\n私、草と同じ扱い……？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "はあ……。\\n色々言ってくれたけど、やっぱり\\nうさぎを好きになるのは難しいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ええ？\\nこんなにかわいいポイントを教えたのに、\\nそれでもだめなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "苦手なのはどうにもならないのよ。\\nココアも、苦手なものに追いかけられたら\\n全力で逃げるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "う～ん、確かに\\nあれに追いかけられたら絶対、逃げるよ。\\n捕まって流し込まれたら気絶する！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "流し込む？　気絶？\\nあんたは何に追いかけられると逃げるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "トマトジュース！\\nどうしても苦手で……巨大トマトジュースの瓶に\\n追いかけられたら、地の果てまで逃げるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "……確かに、それは私でも逃げるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "でも安心しなさい。\\nトマトジュースが追い掛けてくるなんて\\nあり得ないから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えー？　あるかもしれないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "あり得ないわよっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

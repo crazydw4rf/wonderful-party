@@ -1,0 +1,478 @@
+{
+  "identity": "chiya_b05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "はい、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "わあ！　うまそ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "すごーい！\\n重箱のお弁当なんて初めてかも～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、すごい……！\\nこれ、１人で作ったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ええ。\\nココアちゃんと一緒に宝探し、と思ったら\\n気合が入りすぎちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "よく考えたら、２人でこんなに\\n食べられるはずないわよね。\\nうっかりしていたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "確かに、これ全部はちょっと無理だね。\\nマヤちゃんとメグちゃんがいてくれてよかったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "こっちこそ、ありがと！\\nこんなご馳走が食べられるなんて思わなかったし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "こんなに豪華な和食って、\\nあんまり食べる機会ないもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "喜んでもらえて私も嬉しいわ。\\nじゃあどうぞ、めしあがれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア＆マヤ＆メグ",
+          "original": "いただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "マヤ",
+          "original": "もぐもぐ……。\\nこのゴボウに肉が巻いてあるやつ、おいしい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "『神に封じられし聖剣』ね。\\nボリュームがあって元気が出るでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "おお、伝説の装備みたいでかっこいい！\\nこの羽子板みたいな形の料理もお肉なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "『風を纏いし大盾』ね。\\n鶏の挽肉で作ったお料理よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "松風っていう和菓子に似ているから、\\n一般的には松風焼きって呼ばれているわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "へえ、千夜ちゃんにぴったりの料理だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "２つ合わせると魔王を倒せそうじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "この里芋のにっこりがしもおいしいよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "にっこりがし？\\n煮っ転がしのことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "ああ～！\\n間違えちゃったぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "あはは！\\n里芋がにっこりしてどうすんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "えへへ……。\\nでも、食べたらおいしくてにっこりしちゃうから\\n合ってるよね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "マヤちゃんとメグちゃんがいると、\\nにぎやかで楽しいわね。\\n私の妹にしたいくらい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nだめ～！　チノちゃんもマヤちゃんも\\nメグちゃんも、みんな私の妹なんだよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "メグ",
+          "original": "私は、ココアちゃんみたいなお姉ちゃんも\\n千夜さんみたいなお姉ちゃんも、両方ほしいなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "メグちゃんはいい子だねぇ。\\nはい、私が持ってきたチョコをあげるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "メグ",
+          "original": "わあ～、ありがとうお姉ちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "あっ！　メグだけずるい！\\nアネキ、私にもちょうだい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "もう、しょうがないな～。\\nマヤちゃんにもあげるね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "やったぁ！\\nサンキュー、アネキ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "あらあら、ココアちゃんは\\n妹を甘やかしちゃうタイプなのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "き、厳しい時は厳しいんだよ？\\nアメとムチはちゃんと使いわけないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "マヤ",
+          "original": "でもー、千夜みたいなアネキがいたら\\n毎日おいしいご飯が食べられそうだな。\\nこんな料理、お正月にしか食べたことないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "メグ",
+          "original": "私も～。\\nこれって、おせち料理みたいだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "それじゃ、お正月もみんなでおせちを食べない？\\n毎年、つい作りすぎちゃって余らせちゃうのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "ねえ、ココアちゃん。\\nどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "ねえ、ココアちゃん。\\nどうかしら？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "うーん、どうしよう……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "うん、みんなで食べようよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "チノちゃんたちも誘っていい？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、どうしよう……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あら、ココアちゃんは気が進まない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そういうわけじゃないよ。\\nすっごく楽しそうなんだけど……\\nお正月から千夜ちゃんが大変じゃないかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そこは気にすることないわ。\\nさっきも言ったけど、おせち料理は\\n毎年作っているからいつもと変わらないもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、そっか。\\nじゃあ、ご馳走になります！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、みんなで食べようよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ええ、ココアちゃんたちが来てくれたら\\nにぎやかで楽しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "私たちの方こそ、\\nおいしいお料理が食べられて嬉しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "チノちゃんたちも誘っていい？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いいわね、シャロちゃんやリゼちゃんも誘って、\\nみんなでおせちを囲みましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、きっとすっごく盛り上がるよね。\\n盛り上がりすぎて、新年の神様もびっくりして\\nまた去年に戻っちゃう勢いかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あらあら、そうしたら私たち、\\n年を取らずにずっと一緒にいられるかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "でも、私たちがお邪魔しちゃっていいんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "もちろん、大歓迎よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "やったね！\\nこれで、お正月にも楽しみができたよ。\\nもちろん、その前にクリスマスだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "そうだね～。\\nこの地図の謎を解かなくちゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "うーん……。\\n私が思うにはさ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "千夜の家から見つかった１枚の地図！\\nそれを辿っていくと次々と新たな地図が！\\nまさにミステリー！　犯人はこの中にいる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "犯人ってなんの犯人！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "マヤ",
+          "original": "こういう事件は、最終的に\\n殺人に発展するって相場が決まってんじゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "なら、殺されるのはきっと私ね……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "なんでそんなネガティブ方面に自信満々なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "さ、殺人鬼がいるところにいられるかー。\\n私は部屋に戻るー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "メグちゃんも乗らなくていいんだよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ふふふっ！\\nツッコミに徹するココアちゃんって新鮮ね。\\n楽しかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんが楽しんでる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "あ、ねえ！\\nちょっと思いついちゃったかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "なになに？　地図の話？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "メグ",
+          "original": "うん。\\nもしかしてね、この地図って、\\n私たちの諦めない心を試してるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "諦めない心？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "書かれているレシピがす～っごく難しいから、\\n宝物を探す段階でふるいにかけてたり\\nするのかなって思ったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "なるほど、途中で諦めるような人間には\\nレシピは渡さないってわけね。\\nいいわね、燃えきたわ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "何枚地図が見つかっても、\\n私たちは絶対に諦めないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

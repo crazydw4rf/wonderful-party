@@ -1,0 +1,225 @@
+{
+  "identity": "chiya_a04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ああ、ようやくお昼休みだ～。\\nうずうずしすぎて、\\nいつもよりずっと疲れちゃったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "私もよ。\\n早くココアちゃんとお話したくて\\nうずうずしてたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "でも、本当にいいの？\\nなんだかココアちゃんにばかり頼っているようで\\n申し訳ないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ううん、気にすることないよ。\\n私、みんなで楽しいことをするのが大好きなんだ。\\n楽しむためには準備が必要でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でも、クリスマスらしい\\nスペシャルなメニューって、難しいね。\\nなかなかいいのが思い浮かばなかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "えっ？\\nもしかしてココアちゃん。\\n授業中ずっと考えてくれてたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "てへへ……。\\nわくわくしすぎちゃって\\n考えるのが止められなかったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "それは嬉しいけど……\\n授業はちゃんと受けてね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "これでもしココアちゃんがテストで\\n赤点なんて取ったら、\\n私、どうやって責任を取れば……切腹！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えっ、そんなことしなくていいよ！？\\n勉強もちゃんとやるから！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "よかった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "え、えっとね？\\nそれで、考えたんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "２人でどこまでできるか、とか、\\nそういうことまで考えちゃうと\\nますます難しいんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "でも逆に、１人じゃないんだから\\nなんでもできちゃうような気もするわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "だって、そうでしょう？\\nココアちゃんはパンが作れるし、\\n私は和菓子を作れるもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "確かに！\\n和洋兼ね備えた究極の布陣だね！\\n一切の隙がないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そういうこと。\\nだから、作りたいものは\\nどんどんリストアップしていいと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "じゃあ私、マジパン作りたいなぁ。\\nパン作りは得意だからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "マジパンって……\\nケーキとかに乗っている、飾りの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うん、そうだよ。\\nかわいいマジパンで\\nクリスマスを盛り上げたいなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "……マジパンって、\\n砂糖とアーモンドを固めて作った\\nお菓子じゃなかったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "え……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ぱ、パンと名のつくもので\\n私に作れないものはないんだよ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "無理しないで、ココアちゃんっ！\\n大丈夫、私がいるわ！\\n一緒に作り方から調べましょ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "はうう……。\\nありがとう千夜ちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "それじゃ、マジパンは決定として\\n他のメニューも考えなくちゃね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "そうね。\\nでも、さっきも言ったけれど、\\n期末試験も近いから、授業中は勉強に集中してね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "せっかく準備したのに\\nクリスマスは補習、なんてことになったら……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "そ、それは絶対にやだよー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "でしょ？\\n勉強も準備と同じくらい頑張らないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\n私、頑張るよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "だから、はい、これ。\\n午前の授業のノートよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "おおー！\\n千夜ちゃん、なんて優しい……。\\n感謝してもしきれないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "こちらこそ、\\n手伝ってくれてありがとう、ココアちゃん。\\nクリスマスパーティー、絶対に成功させましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

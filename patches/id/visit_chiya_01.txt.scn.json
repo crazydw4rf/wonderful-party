@@ -1,0 +1,286 @@
+{
+  "identity": "visit_chiya_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん！？\\nどうしたの、そんなに慌てて。\\n何かあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "あんこが、あんこがいなくなっちゃったの！\\nここには来てない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あんこが行方不明！？\\nそれは一大事だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "うちには来ていませんが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "そう。\\n愛しのティッピーを求めて\\nここまで来ちゃったのかなと思ったんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ティッピー",
+          "original": "なぬぅ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "はっ！？\\nもしかして、ティッピーを探して\\n街中を走り回っているのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ああ……。\\n数々の苦難を乗り越え\\nやがて２羽は結ばれるのね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "全うさぎが泣く、\\n感動のクライマックスだよ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "断じて結ばれんわ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "いや、そんな壮大な話じゃなくて、\\nいつもみたいにカラスに\\nさらわれただけじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "いや、そんな壮大な話じゃなくて、\\nいつもみたいにカラスに\\nさらわれただけじゃないか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "うん、多分カラスだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "違うよ、ラブアドベンチャーだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "これは……自分磨きの旅に出たんだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うん、多分カラスだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "いいえ、違うわ！\\nあんこは愛に生きているのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "どうしてそう頑なにこだわるんだ……？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "違うよ、ラブアドベンチャーだよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "その通りよ！\\nあんこはあれで情熱的なうさぎなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "いずれ、ラビットハウスさんの扉を颯爽と開いて\\nティッピーをさらっていくんだわ。\\n『君を迎えにきたよ！』って……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ティッピーは渡しません！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "これは……\\nティッピーをめぐる三角関係が勃発ね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "おいおい。\\n人間とうさぎの三角関係ってどんな展開だ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これは……自分磨きの旅に出たんだ！\\nティッピーに相応しい男になるために。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "素敵……！\\nなんて健気なの、あんこ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "もっとビッグになって、\\nいつかお前を迎えに行くぜ。\\nアイラブユー、ティッピー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いやいや、うさぎが自分磨きの旅って。\\nそれはないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "あら、スマホが……\\nシャロちゃんからメールだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "あんこがフルールの店先に落ちてきて\\n大騒ぎになってるから迎えに来なさい！\\nですって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ほらな？\\nやっぱりカラスにさらわれてたんじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "でも、見つかってよかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そうね、ごめんなさい。\\n私、どうやら勘違いをしていたみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "あんこが会いたがっていたのは、\\nティッピーじゃなくてシャロちゃんだったのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "そっちですか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "いつもシャロちゃんに飛びかかっていたのは\\n愛情の裏返しだったんだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "だから、どうしてそういう展開にこだわる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "それじゃ、あんこを迎えに行ってくるわね。\\nお騒がせしちゃってごめんなさい。\\nまた今度、ゆっくり遊びに来るわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "行ってしまいましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "見つかってよかったけど、\\nあんことティッピーのラブロマンスも\\nちょっと見たかったなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ティッピー",
+          "original": "断じてお断りじゃ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": "syaro_a07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "（ふう……。\\n　明日の予習はこれでいいわね。\\n　少し試験勉強もしておこうかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "（って、もうこんな時間か。\\n　今日はここまでにしておいた方がよさそう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（無理して目にクマなんかできたら、\\n　またみんなに心配されちゃうわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（ふふ……。\\n　ホント、みんな心配性なんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（でも、その気持ちに甘えちゃだめだわ。\\n　理由はどうあれ、引き受けたのは私なんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（手伝ってもらう必要は出てくるでしょうけど、\\n　自分でできることは自分でやらないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（みんなの気持ちに応えるために、\\n　最高のクリスマスパーティーにしてみせる！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（そのためには、しっかり体を休めなくっちゃ。\\n　勉強だけじゃなくて、バイトもあるんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（バイト……。\\n　明日は夜まで予定が詰まってるのよね。\\n　大変だけど、頑張らないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "とりあえず……おやすみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

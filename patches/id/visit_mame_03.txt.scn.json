@@ -1,0 +1,408 @@
+{
+  "identity": "visit_mame_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "お邪魔しまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "いらっしゃいませ。\\nマヤさん、メグさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "いらっしゃーい。\\nさあ、こちらのお席にどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "ありがとう、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "あーあ。\\n明日の授業、憂鬱だなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "そうだねぇ。\\nチノちゃんは、ちゃんとやれそう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……正直、私も困っています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "ん？　勉強のこと？\\nそれならこのココアお姉さんに任せてよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "んー、でもなぁ、ココアにできるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "どうだろ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nそんな、お姉ちゃんをもっと頼ってよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "お邪魔しまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "お！　ちょうどいい人が！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "えっ？\\n私がどうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "うん。\\nお願いがあるんだけど……\\n詩を教えてもらえるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "明日の授業でね、詩を作って朗読するの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "へー、そんな授業があるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "千夜のお店のメニューは独創的だし、\\n詩もいけるんじゃないかな。\\nそのセンスを伝授してくれ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "なるほど。\\nわかったわ、私でよければ教えてあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "やった！　ありがとー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "助かったね、マヤちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "千夜さんに教えてもらうって……\\n大丈夫でしょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "うーん……。\\nまあ、ココアよりはマシなんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "詩を作る上で１番大切なこと――\\nそれは、タイトルをつけること！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "名は体を表すもの。\\nタイトルから内容を想像させるのが大事なのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "すごーい！\\nなんか本格的じゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "メグ",
+          "original": "千夜さんに聞いて正解だったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そ、そんな……\\n　これじゃ、私の姉としての威厳がっ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（そ、そんな……\\n　これじゃ、私の姉としての威厳がっ！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "じ、実は私、詩が得意なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "千夜ちゃんにはかなわないよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私も参加する！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じ、実は私、詩が得意なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "え？\\n本当なの、ココアちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "そんなの初耳ですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\n詩はね、頭に浮かんだ言葉を素直に\\n表現すればいいんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "それっぽく聞こえますが、何か不安です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "たとえば――\\nチノちゃんの　頭の上の　モフモフは　\\n見ているだけで　心安らぐ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "おお、さらさらって詩を作った！？\\nやるじゃんココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nまあ、これくらいなら当然だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "いえ、今のは違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ああ、違うな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "に、２回も言う！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんにはかなわないよ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "まあ、何だかんだ言って、\\n千夜のセンスはすごく尖ってるし\\n誰にも真似できないものだしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ですが、学校の授業で\\nあのセンスを認められるかというと……\\n不安しかありません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私も参加する！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ココアさんは仕事をしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えー、私も詩の朗読したーい！\\nなんだかお嬢様っぽいよね、詩の朗読って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "あ、わかる～。\\nお嬢様って、窓辺の椅子に座って\\n詩集を読んでそうだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "あれ？\\nってことはリゼも詩が得意なの？\\nやってみせてよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "えっ！？　わ、私！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こら、脱線してはいけませんよ。\\nきちんとタイトルを考えてください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア＆メグ＆マヤ",
+          "original": "は～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "おい、ココア！\\nなんでお前まで返事してるんだ、仕事しろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "まあまあ、今はお客さんもいないし\\nちょっとくらいならいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "はあ……。\\nわかったよ、店は私が見てるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "あの、できました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "チノ、早いなぁ。\\nなんてタイトルなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "『ティッピーはもこもこ』、です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "あら、いいわね。\\nチノちゃんの好きって気持ちが\\n溢れてきてるのが伝わってくるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "そうなのか？\\nそんな感じでいいのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "やれやれ……。\\n詩を嗜むにはまだまだじゃな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

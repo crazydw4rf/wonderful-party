@@ -1,0 +1,322 @@
+{
+  "identity": "chino_b02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（リゼさんに気を遣わせてしまいました……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（でも、せっかくだから、\\n　おもてなしのヒントを掴むために\\n　市場へ行ってみましょう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（あ、そうだ、クリスマスパーティーの\\n　飾り付けも、そろそろ買わなくちゃ。\\n　どんなものがあるのか見ておきましょう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンでーす。\\nよろしくお願いしまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（あっ！　シャロさん！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "……あら？\\nチノちゃん、こんにちは。\\n制服ってことは何か買い出し？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "いえ、ちょっと休憩です。\\nシャロさんはチラシ配りですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ええ、見ての通りね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "私も１枚、もらってもいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "え？　いいけど、いつものと同じよ？\\nはい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "『心も体も癒します』、ですか。\\nこれがフルールのキャッチコピーなんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "ええ、そんなものね。\\nハーブは体にいいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "あの、シャロさん。\\nこの癒しというのは、\\nおもてなしのことでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "おもてなし？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "そうねぇ、言ってみれば\\n癒しの時間をプレゼントすることで\\nおもてなししてるって言えるのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "……なるほど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "（おもてなしとは癒しでもあるんですね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "（何かをプレゼントすることで\\n　癒しを感じてもらえたのなら、\\n　立派なおもてなしなのかもしれません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "（私も、誕生日にプレゼントをもらって\\n　とても嬉しかったから……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "（私が何かをプレゼントしたら、同じように\\n　みんなも喜んでくれるでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "ところで、おもてなしがどうかしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "（あ……！　クリスマスパーティーの\\n　ことだって知られたら……！\\n　なんとか誤魔化して……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "（あ……！　クリスマスパーティーの\\n　ことだって知られたら……！\\n　なんとか誤魔化して……）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "シャロさんを見習いたいと思いまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "べ、別に何でもありませんので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "今は秘密です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "シャロさんを見習いたいと思いまして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "わ、私を！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "はい、同じ喫茶店の店員として、\\nお客さんにどういったサービスを\\n提供しているのか、知りたかったんです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "へえ……。\\nチノちゃんは本当に真面目ね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "さすがはラビットハウスの跡取りだわ。\\nきっと将来、立派なバリスタになるんでしょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "あ、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "べ、別に何でもありませんので。\\n気にしないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そう？\\nなんだか変だけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "まあ、もし何かあるのならココア――\\nううん、リゼ先輩に相談するといいわ。\\nきっと力になってくれるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい。\\nココアさんではなくリゼさんですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "今は秘密です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "え？　今は？\\nということは、いずれわかるってこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ええっと……\\nそ、そうかもしれないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "ふーん……。\\nああ、もしかしてクリスマスの……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ふふ、楽しみにしてるわね。\\n頑張って、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "それよりも、すみません、\\nお仕事の邪魔をしてしまいました。\\n私はこれで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ええ。\\nそれじゃまたね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（シャロさんからも\\n　いいヒントをもらえたような気がします）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（あやうく、私が何をしようとしているか\\n　バレてしまいそうになりましたが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（……あっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "（よく考えたら、私のお小遣いでは\\n　みんなにプレゼントを買うのは\\n　ちょっと無理なんじゃ……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "（……とりあえず、\\n　お小遣いの範囲で\\n　飾り付けを買って帰りましょう）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

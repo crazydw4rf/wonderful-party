@@ -1,0 +1,193 @@
+{
+  "identity": "flyer_rize_i3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "（チラシを配り始めてから、結構、時間がたったな。\\n　私は平気だけど、ココアは疲れてくる頃か。\\n　様子はどうだろう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "おーい、ココア？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "はい、リゼさん。\\n何かご用ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "な、なんだ？\\n妙にかしこまって、どうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "妙になんて、そんなことはありません。\\nいつも通りです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "とてもそうは見えないぞ？\\nていうか、怒ってないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "いいえ、怒ってなどいません。\\n気のせいです。\\nそれでは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "……明らかにおかしいだろ。\\n私、怒らせるようなことしたかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "よし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "おーい、ココア。\\nキャンディ食べるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "キャンディ？\\nやったぁ、ちょうど甘いものが\\n欲しいなーって――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あ、いえ、お構いなく。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "お構いなくって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "今日のココア、やっぱりなんだか変だぞ？\\n私、何か怒らせるようなことしたか？\\nだったら言ってくれ。ちゃんと謝りたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\n怒ってなんてないよ、ホントだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "でも、むすっとしてるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "これは違うの！\\n頑張って、クールなポーカーフェイスを\\nしようとしてただけで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "はうう……。\\n怒ってるように見えちゃうなんて。\\nごめんね、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ポーカーフェイスって、なんだ、そうだったのか。\\nまったく、驚かせるなよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "やっぱり、慣れないことはしちゃだめだね。\\n顔のこことここ、ピクピクひきつってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "なんだって、そんなに無理して\\nポーカーフェイスをしてたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "だって、カジノといえば\\nポーカーフェイスでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "は？　カジノ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ほら、バニーガールといったらカジノで、\\nカジノといえばポーカーフェイスで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "そんな連想ゲームで\\nクールにしようとしていたのか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "無理するなよ。\\nいつだって明るくニコニコしてるのが\\nココアのいいところなんだからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "リゼちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "うん、そうだね！\\n私は私らしくしてるよ、みんなを照らす\\n太陽の笑顔を絶やさないように！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "いや、そこまで言ってないぞ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

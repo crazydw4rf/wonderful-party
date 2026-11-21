@@ -1,0 +1,147 @@
+{
+  "identity": "chino_d04.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ティッピー",
+          "original": "チノ？　まだ寝ておらんのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "あ……。\\nおじいちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "それが、その……まだケーキを完成させた\\n喜びが抜けないみたいで、眠くならないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あ、マヤさんとメグさんにメールを……\\nケーキが無事に完成したことを報告しなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ティッピー",
+          "original": "そうじゃ、チノ。\\nクリスマスは、２人にもラビットハウスの\\n手助けをしてもらってはどうじゃろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "ココアたちのチラシ配りのおかげもあって、\\nラビットハウスの知名度も上がってきておるし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ティッピー",
+          "original": "クリスマスともなると、普段以上に来客がある。\\n臨時の従業員が必要かもしれん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "なるほど。\\n確かにそうですね。\\nでは、そのこともお願いしておきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……これでいいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "あの……ところで、おじいちゃん。\\n今、怒ってませんか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ティッピー",
+          "original": "なぜじゃ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "私、おじいちゃんが反対していたのに\\n甘兎に通ってましたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ケーキを作るのを習っていたのも……\\nおじいちゃん、本当は嫌だったのかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "でも、私、クリスマスパーティーを\\nどうしても成功させたかったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……ココアさんがこの街に来てくれて以来、\\n私の世界は広がりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "たくさん友達もできて、そのおかげで\\n楽しいこともいっぱい体験できて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "今回のクリスマスパーティーだって、\\nみんながいるから、\\n頑張ろうって気持ちになれました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "私は、そんな自分を止めることが\\nできなかったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "……チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ティッピー",
+          "original": "余計な心配はせんでいい。\\n別に、最初っから怒っとらんわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "おじいちゃん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ティッピー",
+          "original": "わしも、ケーキを楽しみにしとるからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "……はい！\\n必ず、おいしいケーキをご馳走します。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

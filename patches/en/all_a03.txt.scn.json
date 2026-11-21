@@ -1,0 +1,225 @@
+{
+  "identity": "all_a03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ありがとうございました！\\nまたのお越しをお待ちしてます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ふう、やっと一息つけそう。\\n今日はお客さんが多かったねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "ココアさん、休憩をどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ありがと～。\\n忙しすぎて、もうクタクタだよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "気合いが足りないぞ？\\nクリスマスイブの忙しさは\\nこんなものじゃないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "ああ、そうです。\\nクリスマスで思い出しましたが、\\nお泊まり会の件、父に許可をもらいました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、私も千夜ちゃんにお話しして\\nオッケーもらったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "シャロも問題ないそうだ。\\nもちろん私もな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "じゃあ、さっそくだけど\\n今週の土曜日にやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\n早めに話を進めよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "私もそれでかまいません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "じゃあ、リゼちゃんからシャロちゃんに伝えて？\\n千夜ちゃんには私から連絡するよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ああ、わかった。\\nまた世話になるな、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "いいえ、かまいません。\\nみなさんと……その、夜遅くまで\\nお話しできることは、嫌いじゃありませんし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "チノちゃんったら～、\\nそんなにお話ししたいなら、\\n遠慮しないで私に言って？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "ココアさん、\\n話の途中で寝てしまうじゃないですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "それに、こういうのは、たまにだから\\n嬉しいものなんだと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "ああ、いつも一緒にいると\\n飽きられてしまうかもしれないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "そうなの！？\\n私、飽きられちゃってる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "べ、別に、ココアさんに飽きたなんて\\n言ってません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "ココアは行動が読めないから飽きない、\\nって言った方が正しいかもしれないけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "私、珍獣扱い！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "大丈夫です、今のは褒めてます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "褒めてたの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "あっははは！\\n本当に、ココアの反応は見てて飽きないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "うう……。\\nひどいよぅ、２人とも～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "そうすねるなって。\\nじゃあ、お詫びに、今度のお泊まり会には\\n差し入れを持ってきてやるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "あ、そういえば、千夜ちゃんも\\nお泊まり会の時に差し入れ持ってくるって\\n言ってたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "そうなんですか？\\n気を遣わなくてもいいのですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "じゃあ、お返しに私たちで何か作ろっか。\\nそれで千夜ちゃんたちをおもてなしするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "あ、でも、せっかくみんなで集まるんだし、\\n一緒に夕飯を作る方が楽しいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "リゼ",
+          "original": "おお、確かにそれは楽しそうだ！\\nなんだか合宿みたいだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "あの、リゼさん？\\nリゼさんまで本来の目的を忘れないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "な、何を言ってる！\\n私は大丈夫だ！\\nココア、忘れるんじゃないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "私だって忘れないよ～！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "identity": "syaro_b03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンで～す！\\nよろしくお願いしま～す！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ううっ！\\nうう……寒い……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "（上着を着てくるべきだったかしら。\\n　お店の中が暑かったから、油断した）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "（はあ……。\\n　急にチラシ配りを頼まれるなんて、ついてない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "（それにしても、\\n　色々なところで飾りつけが進んで、\\n　もう街中どこもクリスマスムードね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "（……あのお店の飾り、かわいい。\\n　あっちの飾りはミリタリーっぽくて\\n　リゼ先輩が喜びそう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（そうよね……。\\n　パーティーの飾りつけも、そろそろ考えないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "（ううん。\\n　それよりもっと大事な問題が……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "（クリスマスプレゼントかぁ。\\n　マヤちゃんとメグちゃんの話を聞くまで、\\n　すっかり忘れてた）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "（パーティーの準備だけじゃなくて、\\n　プレゼントの用意もしないといけないわね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "（みんなには、いつもお世話になってるし、\\n　今回のことでいっぱい心配させちゃったし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "（でも、みんなの分のプレゼントを\\n　用意するにしても、そのための予算が……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "（バイトで忙しいっていっても、\\n　すぐにお給料が入ってくるわけじゃないし、\\n　そもそも家計のための貯えだし）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "（パーティーだけじゃなくて、こんなことにまで\\n　頭を悩ませることになるなんて\\n　思いもしなかったわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "（……そういえば、私が\\n　クリスマスプレゼントをもらえたのって\\n　いつ頃までだったかしら）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "（なんだかもう、思い出せないくらい\\n　昔のような気が――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "くしゅんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "（さすがに、体が冷えてきちゃった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "（ここで考えていても仕方ないわ。\\n　このままじゃチラシ配りが終わらない）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "（仕事に集中しないと。\\n　よしっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "フルール・ド・ラパンで～す！\\nよろしくお願いしま～す！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

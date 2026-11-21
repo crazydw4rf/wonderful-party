@@ -1,0 +1,69 @@
+{
+  "identity": "rize_d08.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "よいしょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "うん、これで大丈夫だよな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "（ひとまず準備完了だな。\\n　あとはプレゼントを確認して、と）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "（これがココア、これがチノ、\\n　シャロがこれで千夜はこっち。\\n　マヤとメグはこれとこれ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "（うん、揃ってるな。\\n　せっかくのプレゼントなんだ、\\n　渡す相手を間違えないように気をつけないと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（で、これで袋を担げば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "（よしよし、完ぺきなサンタクロースだ！\\n　頑張って衣装を作ったかいがあった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "（この格好を見たら、\\n　みんな、どんな反応をするだろう？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "（やっぱり驚くか？\\n　そこでさらにプレゼントを渡したりしたら……\\n　どんな顔をしてくれるか楽しみだな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "さあ、そろそろ行くか。\\n楽しいクリスマスパーティーの始まりだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

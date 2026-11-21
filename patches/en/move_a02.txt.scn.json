@@ -1,0 +1,374 @@
+{
+  "identity": "move_a02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "こんにちは！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "いらっしゃいませ、ココアちゃん。\\n今日はお仕事、お休み？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、午前中は休みなの。\\nだから千夜ちゃんに会いに来たんだ。\\nお邪魔かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "そんなことないわ。\\nココアちゃんならいつでも大歓迎よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "それに、今、ちょうど\\n一息つこうとしていたところなの。\\nココアちゃんも一緒にどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "本を読もうとしてたの？\\n難しそうな古典に、童話に……呪いの本？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "違うわ。\\nこれはおまじないの本よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "え？　そうなの？\\nこれって『おまじない』って読むんだね。\\n『おのろい』って読んじゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "でも、的外れでもないのよ？\\n呪いっておまじないにも通じるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "だから、好きな人に想いを届けるおまじないも\\n本当なら相手を呪うことになるのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "……ち、千夜ちゃん？\\nそれって、今から誰かに呪いをかけようとか、\\nそういうことじゃないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "大丈夫、そんなことしないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "私が求めているのは新たなインスピレーション。\\n甘兎の新メニューよ。\\nこういう本にも意外なヒントが隠されているの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ああ、よかった！\\n千夜ちゃんに呪われるかと思ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "呪う時は、前もって言うから安心して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "安心できないよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "うふふ、冗談。\\nだってココアちゃんには、\\n想いは全部届いているもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "それでね、ココアちゃん。\\n私１人だと、なかなか\\nインスピレーションが降りてこないの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "じゃあ、一緒に考えればいいんだね。\\n任せて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "ありがとう。\\nじゃあ、この辺りの本なんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ココアちゃんが一緒に読み直してくれたら、\\n何か新しい発見があるんじゃないかと思って。\\nとりあえず、どの本がいいかしら？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "ココアちゃんが一緒に読み直してくれたら、\\n何か新しい発見があるんじゃないかと思って。\\nとりあえず、どの本がいいかしら？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "童話がいいんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "和菓子なら古典かな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "呪い、もとい、おまじない！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "童話がいいんじゃないかな？\\nお菓子だから、子どもに受け入れてもらわないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "でもうちって、小さなお客さんはあまり来ないの。\\nやっぱり小さい子は、大福よりケーキ、\\nあんこよりクリームなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そっかー。\\n確かに、小さな子から見たら\\n和菓子って地味なのかもしれないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "だったら、カラフルにしてみる？\\nピンク色のお汁粉とか、\\nパステルカラーなあんことか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そ、それはなんだか怖いよ！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "和菓子なら古典かな。\\nやっぱり日本の心、\\nわびさびを忘れちゃいけないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ええ、そうよね。\\nじゃあ、これを読んでみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "えーっと……これは……。\\nぎ、ぎ……。\\nなんだっけ、見たことあるんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "『祇園精舎の鐘の声、諸行無常の響きあり』ね。\\n平家物語よ。授業でやったから、\\nテストに出るかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うう……。\\n今度の古典も不安だなぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "今度勉強する時、そこをみっちりやりましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "め、女神様～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "呪い、もとい、おまじない！\\nこれを食べると何かいいことが起きる、\\nそんなお菓子だったら素敵だよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そういうおまじないなら西洋にあるのよ？\\nホールケーキの中に小物を入れて、切りわけた分に\\n入っていたらいいことがある、とか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "へー、面白ーい！\\nやってみようよ、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "でも、小物を入れると\\nお年を召したお客さんが\\n喉につまらせたりしないか心配で……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そっか、そういう問題があったか。\\nでも、おまじない方面で探すのはいいかも。\\n続けてみよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あっ！\\nそうだ、ここ来る前に雑誌を買ったんだ。\\nこれからも何か出てこないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "まあ、かわいい服。\\n小物とのコーディネイトもさり気なくていいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "色も素敵～！\\nこの色のお菓子があったらかわいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "着物のコーナーもあるのね。\\n華やかでモダンねぇ、\\nうちにもこういう雰囲気が必要かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "んー、どうだろ？\\n私は今の甘兎庵の制服が好きだから\\nこのままでいてほしいかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、でも、この着物、シャロちゃんに\\nすっごく似合いそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "そうね、こっちの古風な着物は\\nリゼちゃんが着ると\\n決まって見えそうだと思わない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "わかるよ！\\nきっと姉御って呼びたくなるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "……って、あれ？\\nいつの間にか、お菓子の話じゃなくなってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "あら、そういえば。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "あ、いらっしゃいませー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ごめんなさいココアちゃん、お客さんが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "じゃあ、私、ここでアイディアを練ってるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ありがとう。\\nあとで飲み物、持ってくるわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

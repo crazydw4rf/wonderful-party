@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_syaro_d1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん。\\nやっぱりこの制服はかわいいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "でも、普通の喫茶店でうさ耳はねぇ。\\n最初のうちははずかしかったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "え？　普通の喫茶店？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "うちは普通の喫茶店よっ！\\nこの制服は、店長の趣味なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ふーん。\\nじゃあ、シャロちゃんが店長になったら\\n何耳にするの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "なんでいきなりそんな話になるのよ！\\n私、単なるバイトよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "でもいずれ、バイトからのし上がって\\n店長になるんでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ならないわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "シャロちゃんならいけるよ！\\nさあ、将来のためにも考えてみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "耳って言うと……\\nうさぎ以外だと、猫かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "それとも、犬？\\n犬でも垂れ耳と立ち耳があるよね。\\nビーグルとドーベルマンみたいに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "垂れ耳だと、今のとあまり変わらないわね。\\nだったら立ち耳がいいんじゃない？\\nでも、ドーベルマンみたいな立ち耳は怖いかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nここは意外性を狙って……アルパカ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "あ、アルパカ？\\nどんな耳だったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "他に、耳に特徴があるのは……ゾウ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "あのね……確かにゾウの耳は大きいけど、\\nゾウ耳喫茶は明らかに流行らないでしょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "えー？\\n小さい子どもは大喜びだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "どの客層を狙ってるのよ！\\n喫茶店なのよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "う～ん、そうかぁ。\\nじゃ、やっぱりうさぎが１番？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "そうね。\\nこの街には野良うさぎも多いし、\\n合ってると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "私も、最初の頃は違和感あったけど\\n今じゃロップイヤーがないと落ち着かないし。\\n慣れって怖いわね……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "identity": "flyerhap_syaro_h.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "怪盗ラパンの服って、\\nどきどきわくわくしてきちゃうよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……その言葉、嫌な予感しかしないです。\\n今度は何を言い出すつもりですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "みんなで、怪盗団を結成しよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "怪盗団かぁ。\\n義賊として悪党を懲らしめる、\\nなんて展開がありそうでいいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そう！　私たち５人なら向かうところ敵なし！\\n悪党もばったばったと倒しちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "怪盗が仕事なのか悪党退治が仕事なのか\\nわかんなくなってるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "もし、そうなったとしたら……\\n団のマスコットはティッピーですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、マスコットは大切だよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、チームの構成員には\\nそれぞれ役割があるべきだからな。\\n特に精鋭の特殊部隊ともなれば役割分担は必須だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、他のみんなのも決めようよ。\\n団長は誰がいいかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ココアがいいんじゃない？\\n結成のきっかけもココアなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "私は、参謀の役がいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "……千夜が参謀って、\\nちょっとどころじゃなく不安なんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "あ、そうね、私よりシャロちゃんが適任よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "え？　なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ちょっと影のある感じが参謀って雰囲気だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "それ、褒めてないから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "でも、参謀はシャロさんがいいと私も思います。\\n頭がいいですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "じゃあ、私は……食事係をやろうかしら？\\nおいしい料理を毎日、作ってあげる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "食事係？\\nそれよりも先に\\n決めるべきものがあるんじゃないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "チノちゃんは応援係とかどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "いや、それはもはや怪盗団に必要ないだろ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "というか、なぜ私が応援係に。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "だって、ティッピーを持ってるチノちゃん、\\nポンポンを持ってるチアガールみたいだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "ぷっ……！\\nははは、あの毛玉がポンポンか！\\nココアの発想は本当に面白いな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "まったくもう……\\nココアってばくだらないことばかり言いすぎよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "でも楽しい。\\nこういう時間、前にはなかった。\\nだから、これは当たり前のことじゃないのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "私たち、いつまで……こうやって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "ねえ、シャロちゃん。\\n怪盗ラパンの好きな食べ物って知ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "……え？\\nそんな設定、出てた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "それはね、パンだよ！\\n怪盗ラパンだけに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "ただのダジャレじゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "でも、だったら面白いなーって思わない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "シャロ",
+          "original": "まあ、確かに子どもには受けそうね。\\n単純で面白いから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "シャロ",
+          "original": "ってことは、ココアの発想は\\n子どもレベルってことなんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "はっ！　そ、そんなことないよ？\\n私は大人の魅力溢れるお姉ちゃんなんだから。\\nね、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "そんな人がいてくれたらいいのですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "め、目の前にいるよー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "ふふふっ！\\nホント、飽きずに何度もやるわね、あんたたちも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "よかった、シャロちゃん、笑ってる。\\n……ココアちゃん、ありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

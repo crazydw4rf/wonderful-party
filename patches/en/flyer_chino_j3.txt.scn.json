@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_chino_j3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あれ？　なんだろう今の？\\n鳥の鳴き声かな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "みたいですね。\\nあそこの木の上から聞こえてきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、いた！\\n鳥が２羽とまってる。\\nなんて名前だろう？　すごくきれいな声してる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ええ、聞き惚れてしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "１羽が先に鳴いて、\\n追いかけるみたいにもう１羽も鳴いて……\\nなんだか仲良く歌を歌ってるみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "きっとあの２羽って姉妹だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "何を根拠に断言を……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "だって、私とチノちゃんみたいに\\n息がぴったりなんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……そうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "私もチノちゃんと一緒に歌ってみたいな。\\nそうしたら、アイドルデビュー\\nできちゃったりして。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "アイドルは諦めたんじゃなかったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うーん……。\\n何がなんでもなりたいわけじゃないけど、\\nもしなれちゃったら、それはそれでって感じ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "なんですか、それは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "いいのいいの。\\n今大事なのはそこじゃなくて、\\nチノちゃんと一緒に歌いたいってことなんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "チノちゃんは、私と一緒に歌うのは嫌？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そんなことはありませんけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "じゃあ、今度一緒に歌おうね。\\n約束だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "……仕方ありませんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "えへへ、楽しみだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

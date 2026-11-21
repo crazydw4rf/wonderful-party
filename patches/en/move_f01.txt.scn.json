@@ -1,0 +1,320 @@
+{
+  "identity": "move_f01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は、チノちゃんも私もリゼちゃんも\\n　午前中はお休みで、その分、青山さんが\\n　働きに来てくれてるんだよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（喫茶店の青山さん、どんな感じなのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "青山さん、お仕事はどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "いらっしゃいませ、ココアさん。\\n人生相談ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "あ……。\\n人生相談ではないのですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "あの、ココアさん？\\nよかったら相談に乗りますが\\n何か悩みはないですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（すっごく人生相談して欲しそう！？\\n　どうしよう、何か相談を持ちかけないと。\\n　相談、相談すること……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "……ごめんなさい、特にないです。\\n私、みんなのおかげで\\n毎日楽しく過ごせてますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "まあ、素晴らしい。\\n私もココアさんのように\\n毎日笑って過ごせたらどれだけ幸せか……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "青山",
+        "original": "まあ、素晴らしい。\\n私もココアさんのように\\n毎日笑って過ごせたらどれだけ幸せか……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "どんな毎日だったら笑って過ごせますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "青山さんも毎日、楽しそうですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "何か悩みでもあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "どんな毎日だったら笑って過ごせますか？\\n言葉にしてみたら、青山さんなりの\\n楽しい毎日のコツがわかるかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "なるほど、\\n言語化してみるのは大事かもしれません。\\nそうですね、毎日笑って過ごせる――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "と言いましたが、笑えることが\\n必要というわけではないような――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "そう、普通でいいんです。\\n笑えることがなくても、そこはかとなく\\n楽しい毎日が理想というか――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "ああ、だめですね。\\n言語化しようとしたら、なおさら\\n何が楽しいかわからなくなってしまいました。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "青山さんも毎日、楽しそうですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "……そうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "自分の好きなことをお仕事にして、\\nしかも映画化されたりもしてるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "小説のネタ探しも、苦労はしてますけど\\n楽しそうにやってる感じですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "ええ……。\\n確かに、自分では意識していませんが\\n楽しんでいるのかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "青山",
+          "original": "ですが……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "何か悩みでもあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "ええ……。\\nそれは、こうして人生相談窓口にいても、\\n誰も相談してくれないことです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "大きな悩みでなくてもいいんです。\\n心のどこかに引っかかっているような、\\n些細なことでも聞かせていただければ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "心のどこかに引っかかっている？\\nうーん、ピンとこないんですけど、\\n青山さんにはそういう悩みがあるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "はっ！！\\nもしかして、恋！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "いいえ、違います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "でも、そうですね、恋とそれと\\nどちらを取るのか、と、並べて語られる\\nものではありますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ、わかった！\\nそれって『仕事』ですね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "ええ。\\n人の人生において、恋と同じくらい\\n大きな存在です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "私……\\n何をしていても小説のことが頭を離れないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "道を歩いていても、食事をしていても、\\nとにかく四六時中、小説のことを\\n気にかけています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ええっ？\\nそれって危ないですよ。\\nうっかりケガをしたり事故にあったりしそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "幸い、そういうことはないのですが……\\n頭の片隅を、小説のことが\\n占領してしまっている感じなんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "最近、それでいいのかと\\n思ってしまうことがあって……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん？　それって言い方を変えると、\\n片時も忘れられないくらいに\\n小説が、お仕事が好きだってことですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "え……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "なるほど、嫌々考えているわけではないはず、\\nということですね。\\n一理ありそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "そんなに考えちゃうくらい好きなものがあるって、\\n幸せなことですよ、きっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "青山",
+          "original": "ええ、確かに。\\nふふ……そうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "青山",
+          "original": "ねえ、ココアさん。\\n笑って過ごしたくなったら、\\nここに来て、おしゃべりしてもいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "もちろんです！\\nラビットハウスはいつだって\\n青山さんを待ってますよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "ああ、嬉しいです。\\nココアさん、今日はお話を聞いてくださって\\n本当にありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？　いつの間にか\\n　私が青山さんの人生相談に乗ってたような？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

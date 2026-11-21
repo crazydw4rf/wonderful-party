@@ -1,0 +1,249 @@
+{
+  "identity": "tutorial_02.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "喫茶店モードのチュートリアルを見ますか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "喫茶店モードのチュートリアルを見ますか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*tutorial": {
+          "original": "チュートリアルを見る",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*tutorial_skip": {
+          "original": "チュートリアルを見ない",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*tutorial": {
+      "texts": {
+        "0": {
+          "speaker": "タカヒロ",
+          "original": "では、ラビットハウスでの\\nバイトのやり方について説明をしておこう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "タカヒロ",
+          "original": "ここでは、ココア君を操作して、\\nお客様のおもてなしをしてもらいたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": null,
+          "original": "（喫茶店モードでは、\\n　目標数のお客様をおもてなしすることが\\n　目的です）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": null,
+          "original": "（お客様は自ら席につき、\\n　希望の飲み物をオーダーします）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": null,
+          "original": "（空いている席がない場合\\n　お客様は待っていますが、\\n　席が空き次第自動的に座ります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "タカヒロ",
+          "original": "飲み物は――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "タカヒロ",
+          "original": "オリジナルブレンド、アイスコーヒー、\\nダッチコーヒー、カフェ・オ・レ、\\nカフェ・カプチーノ、紅茶の６種類だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "タカヒロ",
+          "original": "チノが飲み物を作ったら、それを運んで\\nお客様にお出ししてほしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "タカヒロ",
+          "original": "すると、お客様は\\n飲み物を楽しんでからお帰りになる。\\nこれが１セットだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "それから、バイトを行う際、\\n注意してほしいことがある。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "タカヒロ",
+          "original": "間違った飲み物を持っていったり、\\n長い間席で待たせないようにしてほしい。\\nお客様が怒って帰ってしまうからだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "タカヒロ",
+          "original": "５回、お客様を怒らせてしまった場合、\\nこの日のバイトは中止となってしまう。\\n気をつけてくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "タカヒロ",
+          "original": "「知名度」が高いほど、多くのお客様が\\n押し寄せてくるから大変なことになるが、\\n当然、収入も増えるだろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": null,
+          "original": "（また、喫茶店モードには３つのボタンが\\n　用意されています）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": null,
+          "original": "（左から一時停止ボタン、ヒントボタン、\\n　タッチできる場所を表示するボタンに\\n　なります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": null,
+          "original": "（一時停止ボタンを押すと、\\n　喫茶店モードの進行が一時停止します）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": null,
+          "original": "（ヒントボタンを押すと、\\n　お客様が希望している飲み物をリゼが\\n　教えてくれますが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": null,
+          "original": "（営業時間が５秒減りますので、\\n　ご注意ください）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": null,
+          "original": "（タッチできる場所を表示するボタンは\\n　押すと画面にタッチできる場所を\\n　教えてくれます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "タカヒロ",
+          "original": "ラビットハウスの営業が終わると――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "タカヒロ",
+          "original": "「お客様を案内できたか」、「収入」、\\n「ミスの回数」で、ココア君の働きぶりを\\n判断する。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "タカヒロ",
+          "original": "その結果、「知名度」が上がったり\\n下がったりするんだ。\\n知名度を高めるため、頑張ってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "タカヒロ",
+          "original": "その後はチラシ配りだ。\\nチラシ配りでは、まず一緒に配る相手を決め、\\nそれからコスプレの服を選ぶことになる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "タカヒロ",
+          "original": "服の着こなしとコンビネーションによって、\\nラビットハウスの「知名度」がＵＰすることに\\nなるので、こちらも頑張ってほしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": null,
+          "original": "（同じ服とキャラクターの組み合わせを\\n　繰り返すことで着こなし度が上がります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": null,
+          "original": "（着こなし度と衣装ランクの星の数が多いほど\\n　「知名度」が上がりやすくなります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": null,
+          "original": "（ただし、同じ服とキャラクターの組み合わせを\\n　連続して選択することはできません。\\n　ご注意ください）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "タカヒロ",
+          "original": "最後になるけど、「知名度」によって\\nチノの誕生日パーティーの内容が変わる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "タカヒロ",
+          "original": "さらに、最終日の時点で\\n「知名度」が５つ星になっていると――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "タカヒロ",
+          "original": "特定のキャラクターストーリーではなく、\\n「みんなで過ごすストーリー」に\\n移行することができるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "タカヒロ",
+          "original": "ぜひ、チャレンジしてほしい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": null,
+          "original": "（「みんなで過ごすストーリー」の\\n　優先度はキャラクターストーリー\\n　よりも低くなります）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": null,
+          "original": "（「みんなで過ごすストーリー」を\\n　目指す場合は各キャラクターの親密度が\\n　星９個以上にならないように注意ください）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": null,
+          "original": "（また、１周目では\\n　「みんなで過ごすストーリー」\\n　に移行することができません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "タカヒロ",
+          "original": "説明はこれで終わりだよ。\\nではココア君、チノをよろしく。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

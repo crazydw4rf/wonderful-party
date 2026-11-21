@@ -1,0 +1,430 @@
+{
+  "identity": "all_a01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "う～ん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ココアさん、お客さんですよ。\\nちゃんと仕事をしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "わっ、ごめんっ！\\nすぐにお冷や持ってくね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ココアさん、何か考えてたみたいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "ああ。\\n今度は何を企んでるんだろうな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "注文聞いてきたよ。\\nモカを１つ、お願いしまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "……ふう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "どうした、ココア。\\nさっきから憂うつそうにして。\\nため息をつくと幸せが逃げていくって言うぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "そうなの！？\\n逃げちゃだめー！　戻ってきて、私の幸せー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "おいおい、落ち着け。\\nものの例えで本当に逃げるわけじゃない。\\nそれより、何か心配事でもあるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "うん……。\\nほら、クリスマスパーティーは\\nみんなでアイディアを出そうって話になったよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "でね、それぞれ考えたアイディアを\\nどうやってまとめたらいいのかな～って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "バイトも学校もあるし\\n試験勉強もしなくちゃいけないから、\\n話し合う時間、ないんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "確かに、話し合わないで\\nそれぞれのアイディアを全部採用したら、\\n大変なことになりそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "でしょ？\\nでも、みんながせっかく考えてくれるんだし、\\n全員が納得する形にしたいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "だったら、お泊まり会を継続させてみたらどうだ？\\nそこでパーティーの準備や内容の相談をすればいい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あ、そっかぁ！\\nさっすがリゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、前に話したように\\nリゼちゃんの家でやっちゃう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そうしたいところなんだが……\\nしばらくは親父の知り合いが来たりして\\n人の出入りがあるから、難しそうなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あれ、そうなんだ。\\n残念……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "では、やっぱりまた\\nうちでやるのがいいでしょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、でも、リゼちゃんがだめでも\\nシャロちゃんか千夜ちゃんの家で\\nやるのはどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私、交換日記みたいなものを回したら\\nいいのかなぁとか考えてたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "交換日記は効率が悪いのでは……。\\nせめてメールに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "場所はまたここかな？\\nチノ、どうだろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "あ、はい。\\n一応、父に確認しますが、大丈夫だと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "あ、でも、今度のお泊まり会は、\\nラビットハウスじゃなくて\\n他の誰かの家でやってもいいかも。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "それは……\\n大勢で押しかけて、\\nご迷惑にならないでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "それは……\\n大勢で押しかけて、\\nご迷惑にならないでしょうか？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "うーん、そっかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "きっと大丈夫だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "じゃあ、いっそのことキャンプしよう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん、そっかぁ。\\n急にお泊まり会なんて言ったら困っちゃうかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "色々と準備があるしな。\\nチノがいいって言ってるし、\\n今回はここにしておくのが無難だろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい、それがいいと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でも、機会があったら\\n千夜ちゃんやシャロちゃんの家に\\nお泊まりしたいな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "千夜の家かぁ。\\n家主権限で延々と怪談話をされそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はうう……！\\n千夜ちゃんの家にお泊まりする時は\\n覚悟が必要だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "それでは、やっぱりうちですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "きっと大丈夫だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "何を根拠に言い切っているんですか。\\n人に迷惑をかけるようなことをしてはだめです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "確かに、これからの時期は\\nバタバタすることも多いしな。\\nいきなりお泊まり会なんて難しいだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "はーい……。\\nじゃあ、やっぱりやるならここかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい、そうしましょう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、いっそのことキャンプしよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "キャンプ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なんだその斜め上の発想は！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　キャンプだってお泊まりでしょ？\\nみんなで集まって一緒に過ごすんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "夕飯にバーベキューして、\\n夜はたき火を囲んで語り合って……\\nうん、絶対に楽しいよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "……確かに楽しそうだ。\\nうん、悪くない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "みんなで星を観察するのもいいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でしょ？\\nいいよね、キャンプ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "ですが、この季節ではちょっと。\\nそれにキャンプにも準備が必要で、\\n準備のために話し合う必要が出てくるわけで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はっ！　これって堂々巡り！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "やっぱり、お泊まり会は\\nここでやるのが無難ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "そうだな、そうするか。\\nキャンプはまた夏休みにでも企画しよう。\\n今はまずクリスマスだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "それじゃ、みんなに\\nお泊まり会をしようって声をかけないとね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんには私が言っておくよ。\\nリゼちゃんは、シャロちゃんに声かけて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "みんなでお泊まり会しながら\\nクリスマスパーティーのことを話し合う……。\\nうん、とっても楽しそう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "脱線して、本来の目的を忘れないでくださいね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……あのはしゃぎよう、不安です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

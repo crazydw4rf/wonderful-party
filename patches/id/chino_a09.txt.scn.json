@@ -1,0 +1,171 @@
+{
+  "identity": "chino_a09.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、青山さん！\\nいらっしゃいませ、お好きな席へどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（青山さん……！\\n　まさか、昨日の今日で来てくれるなんて）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "ココアさん、\\n青山さんのオーダーは私が聞いてきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "うん、よろしくね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "いらっしゃいませ。\\nご注文をお伺いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "そうですね。\\nでは、今日はブルーマウンテンをお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "じー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "青山",
+          "original": "どうかしました？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "あの、実は……\\n青山さんにお聞きしたいことがあるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "あら、私にですか？\\n一体なんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "（あっ！\\n　そうだ、ここで青山さんに相談したら\\n　ココアさんたちにも聞かれてしまいます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "えっと……その……ここではちょっと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "ああ、なるほど。\\nでは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "すみません、ココアさん、リゼさん。\\nチノさんに取材したいことがあるので、\\n少しお借りしてもよろしいでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "ええっ！？\\nも、もしかして次回作の主人公やヒロインに\\nチノちゃんを！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "青山",
+          "original": "ええ、そんなところです。\\nモデルとして使わせて頂けたらと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "これは、もしかして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "よし。\\nチノ、店は私が見ておくから大丈夫だ。\\n安心して行ってこい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "はい、よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "青山",
+          "original": "すみません、すぐに戻りますので。\\nそれでは行きましょうか、チノさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "ど、ど、どうしようリゼちゃん！\\nこれでチノちゃんが有名人になっちゃったら、\\nここにファンが押し寄せてくるよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "私が、行きすぎたファンから守らなくちゃ！\\nリゼちゃんも、ＳＰとして\\nチノちゃんをガードしないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "気が早すぎだろ。\\nそれに私はＳＰじゃなくてただの店員だ。\\nほら、仕事に戻るぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "はーい……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

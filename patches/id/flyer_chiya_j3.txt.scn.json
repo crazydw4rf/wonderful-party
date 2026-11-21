@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chiya_j3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "……ふう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、大丈夫？\\n疲れちゃった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "少しだけ。\\n私、チラシ配りって\\nあまりしたことがなかったから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そっか。\\n千夜ちゃんは普段、\\nお店の中でのお仕事が多いもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "配達くらいはするけれど……\\nこういうお仕事は、お店とは違う\\n気の使い方するのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "違う気の使い方？\\nうーん、使ってるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "それがわからないのが、\\nココアちゃんの素敵なところだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "私、褒められてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "もちろん褒めてるわよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "あ、でも、私だってチラシ配りは疲れるよ？\\n立ちっぱなしで、声も出っぱなしだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "気力も体力も使うってことね。\\nこれを普段からしているシャロちゃんはすごいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そうだね、シャロちゃんは\\n前からよくフルールのチラシ配りをしてるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "暑い日も寒い日も、いつも笑顔で……\\n本当に頑張り屋さんだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ええ、シャロちゃんは昔からそうなの。\\nちょっと頑張りすぎちゃったりするところも\\nあるのが心配なのだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そこは、千夜ちゃんが幼なじみとして\\nフォローしてるんだね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "……そうね。\\nできてるといいのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あと、シャロちゃん、\\nカップを見ている時とか、目がきらきらして\\n夢中になってる感じがかわいいよね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "私もあの時のシャロちゃん、好きよ。\\nちょっと変わってるけれど、\\n１番、シャロちゃんらしい姿だもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "確かに変わった趣味だけど、\\nそういうところも含めて、シャロちゃんだもんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "……ねえ、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ん？　なに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "シャロちゃんのこと、\\nこれからも見守ってあげてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "もちろんだよ。\\nシャロちゃんも千夜ちゃんもリゼちゃんも、\\n私の大事なお友達だからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "あら？　チノちゃんは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "チノちゃんは大事な大事な妹だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "ふふふ、そうだったわね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,133 @@
+{
+  "identity": "flyer_rize_g1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "なあ、ココア？\\nやっぱり、こういう衣装を着ている時は\\nかわいらしく『ゆるふわ』な感じにすべきなのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ゆるふわ？\\n……ゆる、ふわ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なぜ繰り返した！\\n私からゆるふわなんて言葉が出てくるのが\\nおかしいのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "……なにそれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "うう……！\\n悪かったよ！　私らしくないことを言った！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "え？　なんで？\\nゆるふわってリゼちゃんらしくないものなの？\\n私、それ、わかんないんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "え……。\\nココア、知らないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うん、知らない。\\nリゼちゃんは知ってるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "あっ、当たり前じゃないか！\\n普通の女子高生だったら\\nゆるふわぐらい知ってないとな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "さすがリゼちゃんだね！\\nじゃあ、教えてほしいな。\\nそうすれば私も一緒にゆるふわな感じで配れるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "え、えーと……まず、全身の力を抜くんだ。\\nゆるーく、な。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "それから……それから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ああっ！？　大変だぁ！\\nふわっとしたものが足りないぞぉ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いやー、残念だな。\\nせめてティッピーがいてくれたら\\n存分にゆるふわできたのにな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "そっかー。\\nそれじゃ、残念だけど普通に配ろっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\nあと少しだし、頑張ろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "お店に帰ったら、ゆるふわを教えてね。\\nティッピーだって、お店のためなら\\nきっと協力してくれるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "え！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ああ、まあ、任せてくれ。\\n完璧なゆるふわを\\nココアに見せてやるからな……うん……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

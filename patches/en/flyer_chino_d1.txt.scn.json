@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_chino_d1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "き、喫茶店、ラビットハウスです。\\n……よろしくお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "どうしたの、チノちゃん？\\nなんだか元気ないみたいだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "別にそういうわけではありません。\\nただ……ちょっとはずかしくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "え？　はずかしいってどうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "その……これ、少しスカートが\\n短くないでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "大丈夫、よく似合ってるよ？\\n心配いらないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "いえ、似合ってるかどうかの話では\\nないんですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "それにしても、今日のココアさんは\\nいつにも増して元気なような気がします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ～、フルールの制服を着てるから\\nテンション上がっちゃってるのかも。\\n１度着てみたかったんだよね、かわいいし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "この飾りがうさぎの耳みたいで、\\nぴょんぴょんって飛び跳ねたくなっちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "本当に跳ねないでくださいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "でも、目立った方が、私たちに\\n興味を持ってもらえるかもしれないよ？\\nチノちゃん、やってみない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "嫌です。\\nそもそも、この制服を着るなら\\n私よりもリゼさんの方がよかったのでは？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nそうすると、リゼちゃん、\\n普通にフルールの宣伝しちゃいそうだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……確かに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あ、やっと笑ってくれた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "え？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "やっぱりチノちゃんは\\n笑顔でいてくれた方がお姉ちゃんは嬉しいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "な、なんです、それは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "その調子で一緒にぴょんぴょんしよう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "嫌です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "えー、どうしてー？\\nこの格好でうさぎみたいにしてたら\\n動物に好かれるかもしれないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "そんな簡単に好かれるのなら苦労しません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "それより、そろそろチラシ配りに戻りましょう。\\n日が暮れてしまいます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

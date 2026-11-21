@@ -1,0 +1,181 @@
+{
+  "identity": "flyer_chiya_c3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん。\\nそろそろ着物、着崩れちゃったりしてない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nばっちりだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "……だと思うんだけど、どうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "それじゃ、ちょっと失礼して。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "うん、衣紋も抜けてるし、帯もゆるんでないわ。\\n問題ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんのおかげだよ。\\n着物のおかげで目立てるから、\\nチラシの減りも早いし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ほら、見て！\\nもうこれだけしか残ってないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "私の分も、もうすぐなくなっちゃいそうだわ。\\nいつの間にこんなに配ったのかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "こんなにたくさん配ったんだから、\\nお客さんもいっぱい来てくれるよね。\\nお店、忙しくなりそうだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ええ、今から覚悟しておかないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "心配ないよ。\\nラビットハウスのみんなで力を合わせれば、\\nどんなにいっぱいお客さんが来ても大丈夫！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "まあ、頼もしい。\\nさすがココアちゃんね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ふっふっふ！\\nなんてったって成長期だからね。\\nどんどん成長していくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ええ、この街に来てまだ１年も経っていないのに\\nこんなに成長するなんて……私、嬉しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "……千夜ちゃん、\\nなんでお母さんみたいなの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "もう、ココアちゃん１人でも大丈夫ね。\\n私は引退してもいいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えええっ！？\\nだめだよ、そんな弱気なことを言っちゃ！\\n私には千夜ちゃんが必要なの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ううん、ココアちゃんは大丈夫。\\n心残りは……シャロちゃんのことだけ……。\\nよろよろ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "千夜ちゃーん！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、\\nシャロちゃんを……よろしくね……。\\nあの子……寂しがり屋さんだから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "しっかりして、千夜ちゃん！\\n私たちで、甘兎庵とラビットハウスを\\n盛り上げて行くんでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "そうね、そうだったわ。\\n私にはまだまだ大切な役目があるのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "そうだよ。\\n千夜ちゃん、引退なんかしちゃだめ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "わかったわ。\\n引退は取りやめにする。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "ココアちゃん。\\nチノちゃんたちも一緒に、\\nお互いのお店を盛り上げていきましょうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

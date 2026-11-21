@@ -1,0 +1,205 @@
+{
+  "identity": "flyer_chiya_a2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ふう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ、千夜ちゃん？\\n疲れちゃった？\\n少し休憩しよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "いいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "私もちょっと疲れちゃったし。\\nほら、あそこで休もうよ。\\nうさぎがいっぱいいるよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "あら、本当。\\n心も体も癒されそうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "かわいいわねぇ。\\n本当に癒されるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "見て、千夜ちゃん。\\nあの２匹、仲良しさんだね。\\nまるで私と千夜ちゃんみたいだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "あの子、まだ小さいから、\\n私とココアちゃんと言うよりも\\nココアちゃんとチノちゃんじゃないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nそっかぁ、私とチノちゃん、\\nあんなに仲良しに見えるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ええ、特に小さな子がクールで\\nチノちゃんぽいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ち、チノちゃんは素直になれないだけで、\\nお姉ちゃんのこと、大好きなんだからね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "『チノちゃん！\\n　お姉ちゃんと一緒に遊びましょ？』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あら。\\nじゃあ、チノちゃんならこんな感じかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "『あまりベタベタしないでください。\\n　はずかしいです』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "『姉妹が一緒にいることを\\n　はずかしく思う必要はないよ。\\n　さあ、お姉ちゃんの胸に飛び込んできて！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "『ココアさんはお姉ちゃんじゃないです』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "あううっ！\\n千夜ちゃん、チノちゃんの真似、上手だね。\\n今の、ちょっと心にきたよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ふふ、そう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "……あら、別のうさぎがきたわ。\\nあの子、毛のカール具合が\\nシャロちゃんっぽいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "ああ、チノちゃんうさぎが\\nシャロちゃんうさぎのところへ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "『どこへ行くの！？　マイシスター！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "『私の憧れはシャロさんなんです』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "『そんな～！？\\n　シャロちゃんのお嬢様パワーには、\\n　私、勝てないよ～！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "『だったら、お嬢様以外のところで\\n　魅力を見せてください』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "『わかった！\\n　私、必ずチノちゃんの心を\\n　取り戻してみせるよ！』",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "次回、ココアちゃんうさぎの戦いが始まる！\\n乞うご期待！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "千夜",
+          "original": "――なんてところかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "盛り上がってきたね！\\nこれからどうなるのか目が離せないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "けどね、チノちゃんうさぎは\\nココアちゃんうさぎのところへ\\n必ず帰ってくると思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "うん、もちろんだよ。\\nだってお姉ちゃんはお姉ちゃんだからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "ふふっ。\\n意味はよくわからないけど\\nココアちゃんらしい自信だわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "identity": "chino_c02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "うう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（勢いでここまで来てしまいましたが、\\n　いきなりお邪魔するのは迷惑なのでは……。\\n　前もってメールをしておくべきでした）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（私、昨日の失敗のショックが大きすぎて、\\n　焦っていたのかもしれません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（それに……クリスマスパーティーで\\n　千夜さんも驚かせたかったけど……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（でも、ここでお願いしなければ\\n　ケーキの完成が遠のいてしまいます。\\n　やっぱり、このまま帰るわけにはいきません！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……行きましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "お、お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "あら！\\nチノちゃん、いらっしゃいませ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "こんにちは、千夜さん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "この時間に来てくれたってことは、\\n今日、お仕事はお休み？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "はい、そうなんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "お休みをうちで過ごしてくれるなんて嬉しいわ。\\nでも、ココアちゃんと一緒じゃないのは\\n珍しいわねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "別に、いつもココアさんと\\n一緒なわけではないですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "あら、そう？\\nココアちゃんとチノちゃん、\\n本当の姉妹みたいに仲良しなのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "姉妹じゃないです。\\nココアさんがどう言っているのかは知りませんが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "そ、それよりですね……あの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "ええと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "（早く本題を切り出さないと。\\n　でも、どう言えば……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "（千夜さんはお仕事中で、なのに\\n　いきなりケーキの作り方を教えてほしいと\\n　頼んだら、どう思われるでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "（やっぱり迷惑としか……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あ、そうだわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "は、はい！\\nなんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "ごめんなさいね、席に案内もしないで。\\nまずはコートを脱いで、座って落ち着いて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "それでね、もしチノちゃんがよければ、\\n甘いものをご馳走したいのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "ええっ！？\\nご馳走って、悪いです。\\nそれに今日は――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "いいから、いいから。\\nはい、ここに座ってちょうだい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "はい、あんこ。\\n準備しているあいだ、\\nチノちゃんをおもてなししてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "あ、あの、千夜さん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "それじゃ、少々お待ちください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "（本題を切り出せなかったせいで、\\n　千夜さんに気をつかわせてしまったような……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "（どうしよう。\\n　今日の私はお客さんじゃないのに）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

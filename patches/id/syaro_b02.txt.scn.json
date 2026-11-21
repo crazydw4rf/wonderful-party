@@ -1,0 +1,225 @@
+{
+  "identity": "syaro_b02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "こんにちは、シャロさん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "よーっす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "あら、いらっしゃい。\\n２人は今日も一緒なのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "へへ～！\\n私とメグは一心同体、以心伝心だからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "ねー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "（ふふっ！\\n　なんだかココアと千夜みたい）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "それじゃ、席はそこでいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "はーい！\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "はい、お待たせ。\\nカモミールとリンデンフラワーよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "でも珍しいわね、ラビットハウスじゃなくて\\nうちに来るなんて。\\nもしかして、チノちゃんには秘密の相談？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "マヤ",
+          "original": "ふふーん、秘密ってほどじゃないけど、\\nまあ、ちょっとした打ち合わせをね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "メグ",
+          "original": "チノちゃんに誘われた\\nクリスマスパーティーに向けて、\\nプレゼントのこととかお話しするんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "ク、クリスマスパーティー？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "マヤ",
+          "original": "サプライズってほどじゃないけど、\\nどんなものを贈るとか、\\n知らない人が多い方がいいじゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "メグ",
+          "original": "あ！　そういえば、\\nラビットハウスでやるパーティーって\\nシャロさんが主催するんですよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "え、ええ、まあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "ああ、そうだったっけ。\\nどう？　準備、進んでる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "も、もちろんよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "マヤ",
+          "original": "そっかぁ、楽しみだな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "どんなパーティーになるのかな？\\nわくわくするね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "シャロ",
+          "original": "え、ええ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "（どうしよう。\\n　この子たちにまで、こんなにも\\n　期待されちゃってるなんて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "メグ",
+          "original": "あれ？\\nシャロさん、大丈夫ですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "だ、大丈夫よ！\\nこれから全力でやっていくつもりだし！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "メグ",
+          "original": "え？　そうじゃなくて、\\nなんだか汗をかいてるみたいだから\\n大丈夫かなーって思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "シャロ",
+          "original": "え？　汗？\\nそうかしら……まあ、大丈夫よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "（汗をかくほど取り乱してたのかしら、私。\\n　いけない、平常心、平常心よ。\\n　まだ時間はあるんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "シャロ",
+          "original": "それじゃ、私は仕事があるから。\\n２人ともごゆっくり。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "メグ",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "でさ、プレゼントのことはひとまず置いといて、\\nメグはパーティーにどんな服を\\n着ていくつもりなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "普通の服だよ？\\nマヤちゃんは違うの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "うーん、すっごく豪華な飾りつけとかされてたら\\nどうしようって思ってさぁ。\\nドレスじゃないと似合わないくらいすごいやつ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "メグ",
+          "original": "うーん、そういう時は\\n前もって言ってくれるんじゃないかな？\\nそういうの、ドレスコードっていうんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "マヤ",
+          "original": "ドレスコード！\\nなんか格好いいな～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "（うう……期待が大きすぎる……。\\n　本当に頑張らないと……）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "identity": "all_a02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日、千夜ちゃんに会ったら\\n　昨日決まったお泊まり会のことを話さなきゃ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今からわくわくするな～。\\n　またみんなとお風呂に入ったり、\\n　ゲームで遊んだりできるんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……あれ？\\n　あそこにいるのは……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "はい、新作の和菓子よ。\\nお１つどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "あら、いらない？\\nうーん、やっぱりうさぎは食べないのねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、おはよ！\\nまたうさぎに和菓子あげてるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "あらココアちゃん、おはよう。\\nええ、そうなのだけど、食べてもらえないみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "そっか、残念だね。\\n千夜ちゃんの和菓子、とってもおいしいのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ふふ、ありがとう。\\nココアちゃんもお１ついかが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "いいの？　ありがとう！\\nいただきまーす。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ん～！　おいし～い！\\nさすが千夜ちゃん、いつでも安心の味だねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "たくさんあるから、こっちもどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "ありがとう！\\nホント、いくらでも食べられちゃうよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そう言ってもらえると嬉しいけれど、\\nそろそろ学校に向かいましょうか。\\n遅刻しちゃうものね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あ、ねえ、千夜ちゃん！\\n忘れないうちに聞いておきたいことがあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "あら、何かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "この前、みんなでクリスマスパーティーに向けて\\nアイディアを出そうって話になったでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。\\n楽しいパーティーにしたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うん、私も！\\nそのために、準備を進めないといけないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "でも、みんなバイトで忙しいし、\\n集まって話し合いもできなさそうだから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "お泊まり会をして話し合ったら\\nいいんじゃないかってことになったの。\\nどうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "それはとってもいいアイディアね。\\nもちろん参加させてもらうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "じゃあ、千夜ちゃんは参加で決まりだね。\\nあ、場所は、今までと同じでラビットハウスだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "わかったわ。\\nまたお世話になるんだし、\\n差し入れに何か持っていくわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "差し入れ！？　やったぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "何かリクエストはある？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "ん～、そうだなぁ……。\\n千夜ちゃんおすすめのものなら何でもいいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "お任せってことね。\\nわかったわ、楽しみにしていて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "うん！\\nえへへ～、お泊まり会が\\nますます楽しくなりそうだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

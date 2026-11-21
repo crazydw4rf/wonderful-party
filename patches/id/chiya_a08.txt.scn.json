@@ -1,0 +1,454 @@
+{
+  "identity": "chiya_a08.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "おまたせ、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、千夜ちゃん。\\nお仕事、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "遅くなってごめんなさい。\\n意外とお仕事が多くて、\\nなかなか抜けられなかったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "お茶とお菓子を持ってきたから、\\nよかったらどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "これは……煌めく三宝珠だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "作りたてだからおいしいわよ？\\nこれで休憩しましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ありがと～！\\nやっぱり疲れた時には甘いものだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そんなに疲れちゃったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "えへへ……。\\nレシピが面白くて夢中で読んでたから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "あら、そんなに夢中になっていたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "うん！\\n千夜ちゃんのおばあちゃんは本当にすごいね。\\n目から鱗のレシピばかりだったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "ふふふふ、でしょう？\\n私も見るたびに新しい発見をするもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "んー、でも、残念だけど\\n和菓子のレシピばかりだったから\\nクリスマスメニューに応用するのは少し難しいかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "そう……。\\nこればかりは、どうしようもないかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "クリスマスっぽくて、それでいて\\nスペシャルな感じのメニューって\\n意外と難しいねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "そうねぇ……。\\nちなみに、ココアちゃんは\\nここにあるレシピノートは全部読んだの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "大体、目を通したと思うけど\\n数が多いから、まだ読んでないのもあるかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "……あっ！\\nそこにある古いノートはまだかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "じゃあ、一緒に読んでみましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "……あら？\\nこのノート、何か紙が挟まってるわね。\\nこれもレシピかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "これは……地図？\\nしかも誰かの手書きね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "これは意味深だね！\\n一体なんだろう？　気になるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "あ、もしかしてシストの地図かしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "シスト？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "この街伝統の宝探しゲームよ。\\n街のあちこちに宝の地図が隠されていて、\\nそれをもとに宝探しをするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "それで、宝箱を見つけた人は\\n中から宝物を１つもらう代わりに、\\n自分の宝物を１つ入れておくのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "へぇー！　そんなゲームがあるんだ！\\n私、知らなかったよ。\\n聞いてるだけでわくわくする！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "でも……これはシストの地図じゃ\\nないような気がするわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "え？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "もしこれがシストの地図なら、\\nもう少し人目に付く場所に隠すと思うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "誰にも見つけてもらえなかったら\\n宝探しが始まらないでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "だから、こんなところに挟むのは\\n少しおかしくないかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（確かに……！\\n　すごい、千夜ちゃんの推理が冴えてる！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "それに地図自体も……\\nシストっぽくない、と言えばいいのかしら？\\nまるで特定の誰かに向けて作った気がするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、名推理だね！\\n私も負けていられないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "この地図の謎は、私と千夜ちゃんでずばっと解明！\\nよろしく、相棒！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "ええ、任せて相棒！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "まず、私の推理によると……\\n地図がレシピノートの中に\\n隠されていたということは――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "この地図は、秘密のレシピのありかを\\n示してるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "はっ！！\\nすごいわココアちゃん、\\n私もまったく同じことを考えていたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "おお、さすが相棒だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "それはきっと、このノートを\\n手にする人のためだけに作られた、\\n特別なレシピなんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "千夜",
+          "original": "そんなにすごいメニューなのかしら。\\n気になるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "ねえ、ココアちゃん。\\nクリスマスまで日がないのはわかるけど……\\nせっかくだから２人で、宝探しをしない？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "千夜",
+        "original": "ねえ、ココアちゃん。\\nクリスマスまで日がないのはわかるけど……\\nせっかくだから２人で、宝探しをしない？",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "いいね！　やろうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "時間的に厳しくないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "千夜ちゃんがそう言うなら、やるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "いいね！　やろうよ！\\nこんな面白そうなこと、やらない手はないよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう。\\nココアちゃんなら\\nそう言ってくれると思ってたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "秘密のレシピ探しなんてわくわくするよ。\\n私はまだシストっていうのもやったことないし、\\n千夜ちゃんと一緒に宝探ししたい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、私もココアちゃんと一緒に\\n宝探しがしたいわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "時間的に厳しくないかな？\\n準備もまだ全然進んでないし。\\nこの地図は、確かに気になるけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "それに、もし本当に見つかったとしても\\nクリスマスメニューに使えるかわからないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だから、クリスマスが終わってから\\nゆっくり探すのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そうね、効率を考えたらそれが１番だわ。\\nでも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "私はやっぱり気になるの。\\n隠されたレシピを見つければ素敵なクリスマスを\\n迎えられる、そんな気がする。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そっかぁ。\\nうん、千夜ちゃんがそこまで言うなら\\n私もあえて断る理由はないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんが作るパーティーだもん、\\n千夜ちゃんが納得いくようにしよう。\\n私も全力で手伝うから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんがそう言うなら、やるよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。\\n無理を言ってごめんなさいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "無理なんかじゃないよ。\\n私も千夜ちゃんと一緒に宝探し、してみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "私もよ。\\nココアちゃんがいれば\\n楽しいに決まっているもの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "それじゃ、次の休日に２人で宝探しをしましょう。\\nその日は私もお仕事、お休みするわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "わかった。\\n私も、チノちゃんに\\nバイトお休みさせてって言っておくね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ああ、わくわくしてきた！\\nどんなレシピが私たちを待ってるんだろうね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "想像もつかないわね。\\nすごく楽しみだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（レシピノートから出てきた宝の地図！\\n　これは絶対に何かあるよね……！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

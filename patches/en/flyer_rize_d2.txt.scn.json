@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_rize_d2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "むー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "どうしたんだ、ココア？\\nガラスをじっと見つめて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あのね、ちょっと思ったんだ。\\n確かにこの制服、ロップイヤーがかわいいけど\\n耳を立ててもいいんじゃないかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "立ち耳？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "そう。\\nそこにいる野良うさぎみたいな、\\nピーン！　って立った耳。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "うん……。\\n確かにそれもかわいいかもしれない……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃん？\\nなんだか顔が赤くなってきたよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "い、いや！\\nそんなことはないぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "第一、立ち耳のパーツはないだろう？\\nこのヘッドドレスに立ち耳をつけるのも\\n無理そうだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "そっか、かわいいと思ったんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\n立ってる耳があればいいんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "おいで～、こっちにおいで～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ん？　野良うさぎで何をするんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "この子をチノちゃんみたいに頭に乗せれば、\\n立ち耳ができるんじゃないかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "えっ、ええっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "よしよし、よく来たね～。\\nちょっと抱っこするから大人しくしててね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "んしょっと。\\n頭に……乗るかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "おお！　どうだー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "！！\\nかっ、かわいい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うわわっ！？\\n暴れないで、ちょっと頭に\\n乗ってくれるだけでいいから、ね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "そっかー、嫌なんだね。\\n無理矢理ごめんね。またねー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "やっぱり、野良うさぎだと\\nティッピーとかあんこみたいにはいかないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "……ん？\\nリゼちゃん、もしかして笑ってる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "いっ、いや、何でもないっ！\\nた、立ち耳は、その、なんだ、\\n諦めた方がいいな、うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "ほら、遊んでないでチラシを配るぞっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "identity": "all_d03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "メグさん、失礼します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "突然すみません。\\nこれもサンタさんの仕事ですから、\\n許してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "メグさん。\\n私は今日、夢のような、\\nいえ、夢以上の体験をしているんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "この感動をお話できないのが、本当に残念です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "……そうだ、のんびりとしていられません。\\n今はサンタさんとして、お仕事をしなくては。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "はい、メグさん。\\nクリスマスプレゼントです。\\nサンタさんが用意してくれたんですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "サンタさんのことを信じてくれて、\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "これからも、ずっと信じ続けて……\\nいつか力を取り戻してくれることを\\n一緒にお祈りしてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "では、いい夢を見てくださいね。\\nおやすみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "identity": "flyer_syaro_d3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お腹空いたぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "私も……。\\nけど、少しでも節約しなきゃ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あれ？\\nおいしそうな匂いが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あっ！　焼き栗の屋台だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "あ……。\\n本当だ、おいしそう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "私、ちょっと買ってくるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "ここで買ったら、夕飯がおかずなしになるわよね。\\nそれはさすがにつらいわ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "が、我慢よ。\\n食べたいものが食べられないなんて\\n何度も経験したじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ごめんね、シャロちゃん。\\n待った？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ココアの、思いつきから即行動！　には\\nいい加減慣れたわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "それより、早く食べなさい。\\nチラシを配り終わるまで帰れないんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あ、うん。\\nそれじゃシャロちゃん、はい、どーぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "え？　これって、何？\\n今買ってきた……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "うん、焼き栗。\\n袋、２つにわけてもらったの。\\n半分こしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、栗は嫌いじゃないよね？\\nさっき屋台を見て\\n『おいしそう』って言ってたし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ま、待って！\\n別に、ココアからもらおうと思って\\n言ったわけじゃないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "でも、１人で全部食べたら\\n夕飯がお腹に入らなくなって\\nチノちゃんに怒られちゃうし――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "シャロちゃんと一緒に食べた方がおいしいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "ココア……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "もう……。\\nお人好しなのか天然なのか\\n困るんだけど……でも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "あ……ありがと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "や、焼き栗が大好きだって、そう言ったの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "シャロちゃんもなんだ。\\n私も大好きだよ、甘くておいしいもんね。\\nそれじゃ、いただきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "……いただきます。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

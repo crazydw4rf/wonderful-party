@@ -1,0 +1,121 @@
+{
+  "identity": "flyer_rize_g2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえねえ、リゼちゃん。\\nハロウィンっていうと、こういう魔女の格好が\\n定番だけど、オバケの格好もよく見るよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだな。\\n最近は漫画やアニメのキャラなんかも\\n多いらしいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ああ、もしかして、魔女だけじゃなく\\n他の仮装もしたいのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うん、この魔女の格好もいいけど\\nできるなら色々着たいな～。\\nねえ、リゼちゃんはどんな仮装がしたい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\n定番どころなら……\\nその、プリンセスとかフェアリーとかだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "フランケンシュタインとか、\\nドラキュラもいいよね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "なんでそうかわいげのない方向へ行くんだ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "え？　だめ？\\nリゼちゃんだったら、\\nきっとどれもかわいく着こなせるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "なんて無茶振りだ！\\n大体、ココアが着るんじゃないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "私も着るけど、リゼちゃんにも着て欲しいな。\\nもちろんチノちゃんにも着てもらって、\\nモンスター喫茶店・ラビットハウスに！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "おいおい。\\nお前はラビットハウスをどうするつもりだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "あ、そういえば、\\n和風のモンスターの衣装を着てる人って\\nあんまり見ないね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ずいぶん話が飛んだな！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "どうして和風じゃだめなのかな？\\n風流なモンスターがたくさんいるのにね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "モンスターが風流……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "セリフもこうすれば問題ないよ！\\nトリック・オア・うらめしやー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ああ、もう、意味がわからーん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

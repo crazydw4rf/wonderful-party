@@ -1,0 +1,418 @@
+{
+  "identity": "chino_b07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "うーん、さすがに疲れたなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "なかなか成功しないねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "これで、試作１５回目も失敗ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "で、でもさ、これは結構ふくらんだし、\\n上からクリーム塗ったら、\\nそれっぽくなるんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "見た目がおいしそうに見えても、\\n食べたら生焼けだってバレちゃうよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "マヤ",
+          "original": "そっかぁ。\\nまあ、そうだよなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "材料、なくなってしまいましたね。\\nこれではもう試作できません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "メグ",
+          "original": "何がいけなかったのかなぁ？\\n色々アレンジして、おいしい物に\\nなるはずだったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "（やっぱり、そのアレンジが\\n　失敗する原因だったのかもしれません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "（私もおいしくしたいと気がはやって\\n　つい色々と入れてしまいましたし……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "やっぱり、ケーキは難しいんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "クリスマスまであと何日だっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "（そう、クリスマスまで時間が……\\n　このままでは、ケーキがない\\n　クリスマスパーティーになってしまいます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "（こんなに試作を重ねても失敗するなんて。\\n　でも、ここで買ってきたケーキを出したら\\n　おもてなしの心がみんなに届きません……！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "な、なあ、チノ、元気出せって！\\n次は成功するからさ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "メグ",
+          "original": "ごめんね……。\\nお手伝いしてるのに\\n足を引っ張っちゃったみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "マヤ",
+          "original": "私、もっと色々な本見て研究するよ。\\nそれでチノの力になる！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "マヤ",
+        "original": "私、もっと色々な本見て研究するよ。\\nそれでチノの力になる！",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "まだ時間はあります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私には才能がないんですね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nお２人には、ここまでつき合ってもらって\\n感謝しています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "チノ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "チノちゃん？\\nここまでって……もしかして……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "いえ、大丈夫です。\\n諦めたわけではありません。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "ああ、そうだよな！\\n今日が初めてなんだし、まだまだこれからだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "うん！　もっと頑張ろう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "まだ時間はあります。\\nクリスマスまでに何とかしてみせます。\\n諦めたら、それで終わってしまいますし。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "メグ",
+          "original": "そうだよね、チノちゃん。\\nぎりぎりまで頑張ってみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "ああ、その意気だぜ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "私には才能がないんですね。\\nきっと、私の取り柄なんて、\\nコーヒーを淹れることだけなんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "そ、そんなことないよ！\\nチノちゃん、他にもいっぱいできることがあるよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "そうだよ！\\n失敗は成功のもとっていうじゃん。\\nだから大丈夫だって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "うん！\\nこれだけ失敗したんだから、\\n次はもう成功しか残ってないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "……はい。\\nすみません、気をつかわせてしまって。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "（でも、どうしたらいいのでしょう？\\n　どうすれば、上手く作れるように\\n　なるのでしょうか？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "マヤ",
+          "original": "あのさ、チノ。\\n思ったんだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "本だけだとやっぱ難しいし、誰かお菓子作りが\\n上手い人に習ってみたらどうかな？\\nたとえばココアとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "いえ、ココアさんはパンしか作れないので。\\nそれに……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（ここでココアさんに手伝ってもらうと、\\n　秘密にした意味がなくなってしまいます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "チノちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "いえ、とにかく、なるべくココアさんには\\n頼らずに頑張りたいんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "ん～、でも、他に\\nお菓子作りが上手そうな人って……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "あっ！\\n千夜なら色々教えてくれるんじゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "千夜さんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "マヤ",
+          "original": "だってさ、甘兎庵のお菓子って\\n千夜も作ってるんでしょ？\\nあれ、すっごくおいしいじゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "メグ",
+          "original": "うん、そうだね。\\n和菓子を作るのが得意な千夜さんだったら\\n頼れるかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "ですが、和菓子とケーキでは\\n作り方も違うのでは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "まあ、どっちもお菓子なんだから大丈夫じゃね？\\nこういうのは、当たって砕けろの精神だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "砕けちゃ元も子もないよ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "（千夜さん……。\\n　確かに、和菓子だって繊細に作るものだし\\n　ケーキ作りに通じるのかもしれません）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "（マヤさんの言うとおり、\\n　ここは当たって砕けろの精神で\\n　聞いてみるべきかも……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "わかりました。\\n明日、千夜さんに相談してみます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "うん、それがいいと思うよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "メグ",
+          "original": "力になれなくて本当にごめんね。\\nダイニングキッチンも占領しちゃったし、\\nココアちゃんたちにも謝らなくちゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "いえ、いいんです。\\nお２人とも、今日は\\n本当にありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "マヤ",
+          "original": "ううん、私も楽しかったし\\nこっちこそ、ありがとうって感じだよ。\\n明日は千夜と頑張れ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "何かあったら、また手伝うからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "はい、ありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "それで……\\nとりあえず、この失敗作の群れを\\nどうするかですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "あー、どうしよっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "メグ",
+          "original": "生焼けなのは、\\nもう一度焼けば食べられるかなぁ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "マヤ",
+          "original": "まあ、道具とか片付けてから考えるか！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

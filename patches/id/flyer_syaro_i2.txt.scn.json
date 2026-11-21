@@ -1,0 +1,157 @@
+{
+  "identity": "flyer_syaro_i2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ううっ！\\nさすがに、この格好は寒いわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "大丈夫よ。\\n我慢できないほどじゃないから。\\nココアこそ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "意外と大丈夫そうね。\\nどうして平気なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ふっふっふ、よくぞ聞いてくれました。\\n実は秘訣があるんだよ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "はいはい、秘訣って言いつつ\\nしゃべりたいんでしょ？\\n聞いてあげるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えへへ～、聞きたい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "聞いてあげるって言ってるけど？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "聞きたい～？\\nシャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "……はあ。\\nええ、聞かせて。\\nどうして寒くないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ふふふん。\\nその秘密は――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ばばーん！\\nティッピーをもふもふしまくって\\nもふもふ成分を貯め込んできたからなのだー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "え……？\\nもふもふ成分……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ティッピーのもふもふ成分のおかげで\\n心がもふもふでふかふかだから平気なの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "名付けて、もふもふバリア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "そ、そう。\\nまあ、雰囲気として\\n寒くなさそうではあるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "くしゅんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "あれ？　おかしいな。\\nなんでくしゃみが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "くしょん！　くしゅん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "大丈夫？\\n風邪引いちゃったんじゃない？\\n帰った方がいいんじゃ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "うっ、ううっ！\\nもふもふが……もふもふ成分が切れたぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "まさか、もふもふバリアが破られるとは！\\n敵を侮ってたよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "敵って何よ、敵って……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

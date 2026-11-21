@@ -1,0 +1,404 @@
+{
+  "identity": "move_a03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（この時間なら、フルール・ド・ラパンは\\n　もう開店してるよね。\\n　シャロちゃん、いるかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "って、ココアじゃない。\\nどうしたの？　バイトは休み？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うわあああ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "な、何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "……あっ！\\nごめんごめん、思わず見とれちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "何に見とれたのよ。\\nとりあえず、席に案内するからこっちにきなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "ねえ、シャロちゃん。\\n実はシャロちゃんにしか頼めない\\nお願いがあるんだけど、いいかな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "さっきから変に目が輝いてるし、\\n嫌な予感しかしないんだけど……\\nとりあえず言ってみなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あの……あのね……さっきの……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "さっきの『いらっしゃいませ』が\\nかわいかったの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "かわいいって……\\n今更なに言ってるのよ、何度も見てるでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "そうだけど、お客さん向けのを見たのは\\n久し振りだったから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あのポーズと笑顔が\\nこのお店にお客さんを呼び込む秘訣なんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "まあ、否定はしないわ。\\nどうせならハーブティーを\\n気に入ってほしいんだけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "お願い、もう１回やって！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "……なんでよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "お願い、もう１回！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "はいはい。\\n１回だけよ、はずかしいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "うわー、かわいい～！\\nねえねえ、もう１回やって、もう１回。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "なんで同じお客さんに\\n何回も挨拶しなきゃいけないのよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "お願い、もう１回？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "シャロ",
+          "original": "かわいく言ってもだーめ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "そこをなんとか！\\nお願いします、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "シャロ",
+          "original": "こ、こら！\\nそんなに大きな声を出さないでよ。\\nもう、仕方ないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "なるほど～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "なるほど～！",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "こんな感じ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "もう１回見せて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "プロだね、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "こんな感じ？\\nいらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "違うわ。\\nもうちょっと首を傾げる風で、\\n全開の笑顔で言うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そう、そうよ！\\n笑顔とポーズを忘れないで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "って、なんで指導してるのよ私……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "でも、教えてもらえて嬉しいよ？\\nシャロちゃん直伝の挨拶、\\n自分のものにしてみせるからね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "そ、そう……。\\nどこで使う気か知らないけど、\\nまあ、頑張りなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "実はね、使い方はちょっと考えてるの。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "もう１回見せて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "いい加減にしなさい。\\nうちはそういうお店じゃないのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "はーい……。\\nごめんね、はずかしいのに何回もやらせちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "まあ、今日はいいわ。\\nでも次はないわよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "プロだね、シャロちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "当然でしょ？\\nアルバイトとはいえ、お店の一員として\\nお客さんをもてなす仕事をしてるんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "おおお～！\\nホント、シャロちゃんは真面目だね。\\n尊敬するよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "お、大げさね。\\nココアだって、ラビットハウスで\\nちゃんと働いてるじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ラビットハウス……か）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ねえ、この挨拶をラビットハウスに\\n取り入れたら、評判になるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "あのね……\\nラビットハウスとフルールは、\\nイメージからして全然違うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "ちゃんと、ラビットハウス向けの\\n挨拶を考えた方がいいわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ラビットハウス向け……。\\nやっぱりインパクトのある挨拶がいいよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "……何で私に聞くのよ。\\n聞くのならチノちゃんやリゼ先輩でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "お願い！\\n接客用挨拶の第一人者として、\\nラビットハウス用の挨拶を考えて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "私が！？\\nていうか第一人者って何よ！\\nこの挨拶を考えたのは私じゃないわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "でも、シャロちゃんが\\nここで１番、上手く挨拶できてるから――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あ、お客さんが来ちゃった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "悪いけど、忙しくなりそうだから\\n挨拶はあんた１人で考えなさい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "identity": "flyer_chiya_b1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "まさか、ラビットハウスさんの制服を\\n着られる日が来るなんて思わなかったわ。\\nみんなとお揃いで、嬉しい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "緑色の制服があってよかったね。\\nすごく千夜ちゃんって感じがするし\\nとっても似合ってるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ココアちゃんのピンクもかわいいわよ？\\nすごくココアちゃんって感じがするわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えへへ、そうかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "でも、こうして同じ制服を着ていると、\\n千夜ちゃんもラビットハウスの店員に見えるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "こうなったら、いっそ、千夜ちゃんも\\nラビットハウスで働いてみない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "それはとっても楽しそうだけど、\\n私には甘兎があるから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そうだわ、だったらココアちゃんが\\nうちのお店に来るのはどうかしら？\\nいつでも大歓迎よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "だ、だめだよ！\\nチノちゃんを置いていけないっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "ふふっ！\\nええ、わかってるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "でも、たまにはお手伝いに行くね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "あら、嬉しい。\\nお礼に、私も時々ならラビットハウスさんの\\nお手伝いをしてみようかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "その時には、この制服を着てね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "もちろんよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "……でも、やっぱり正式な店員にならないと\\nあれは支給されないのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "ええ、あれよ。\\nラビットハウスさんには\\n欠かせないと思うのだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "うーん……。\\nもしかしてティッピーのこと？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "でも、ティッピーは\\nチノちゃんの頭の上がお気に入りだからね。\\n私も、もっともふもふしたいんだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ティッピーじゃないわよ。\\nほら、あれよ、あれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ティッピー以外で\\n　欠かせないものってあったかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ほら、リゼちゃんがいつも持ってるじゃない。\\n銃とかナイフとか、あれは正式な店員に\\nならなくちゃもらえないの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "あれはリゼちゃんの私物だよ！？\\nラビットハウスはそんなお店じゃないよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "千夜",
+          "original": "あらあら、そうだったのね。\\n残念。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

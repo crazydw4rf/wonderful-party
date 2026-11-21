@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_chiya_e1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、どうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "似合ってる！　ものすごく似合ってるよ！\\n軍服といえばリゼちゃんって\\n感じだったけど、千夜ちゃんもいいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "立ち振る舞いといい、\\nいかにも軍の偉い人って感じだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "そう？\\n実はね、今日のために、この服に相応しい\\n言葉遣いを練習してきたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "んっ、んんっ！\\nじゃあ、いくわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "何をしている、さっさと準備しろ！\\n戦場では１分の遅れが命取りになるのだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "おおっ！　リゼちゃんみたいだ！\\n千夜ちゃん、本気だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そこっ！\\n上官に向かってちゃん付けとは何事だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そっか、今は上官なんだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "失礼しました！\\n本日の訓練は何でありますか、サー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "地獄の紙渡しだ！\\nこの紙を通行人全員に配れ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "サー、イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "こちら、見てください！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "それではだめだ！\\nもっと素早く、効率的に！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "見ていろ、こう……\\nチラシを通行人の前に\\n滑り出すようにして渡すのだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "甘兎庵をよろしくお願いします！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "はいっ！\\nこのチラシ、受け取ってくださいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "女の子Ｃ",
+          "original": "あの子たち、何やってるんだろ？\\nチラシ、もらっちゃって大丈夫？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "女の子Ｄ",
+          "original": "チラシは普通のチラシだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "女の子Ｃ",
+          "original": "でも、あまり近寄らない方がいいわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "声が小さい！\\nもっとお腹から声を出す！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

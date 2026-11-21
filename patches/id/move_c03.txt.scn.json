@@ -1,0 +1,416 @@
+{
+  "identity": "move_c03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日は時間もたっぷりあるし、\\n　フルール・ド・ラパンでお昼にしようっと。\\n　シャロちゃん、いるかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "――はい。\\nじゃあ、それでお願いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？\\nリゼちゃんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ん？　ココアか。\\nラビットハウスの制服でどうした？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "お休みを長めにもらったから、\\nここでお昼にしようと思って。\\nリゼちゃんも？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "ああ、今だけの限定メニューがあるって\\nシャロに聞いて、気になって食べに来たんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "えっ！　限定メニュー？\\n私も食べたい！　どれが限定なの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "この、ホットケーキのセットメニューだ。\\nトッピングは自由に選べるってさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "へー、トッピングと合うハーブティーが\\nセットになってるんだ。\\nちゃんとお茶も楽しめるんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "ううー、どれもおいしそうだけど……\\nここはベリーソースかチョコレートかなぁ。\\nどっちにしよう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "だったらチョコレートを頼むといい。\\n私はベリーソースを頼んだから、わけてやるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ホント！？\\nありがとう、リゼちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0101": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "へえ、姿が見えないと思ったら、\\nシャロは外でチラシ配りをしてるのか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うん、さっき会ってお話ししてきたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そういえば、今日、\\nシャロちゃんはいないみたいだね。\\n残念。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ああ、休みなのか。\\nそれとも外でチラシ配りでもしてるのかもな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*branch_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "フルール店員",
+          "original": "お待たせ致しました。\\nホットケーキセットでございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "わあ、きたきた！\\nおいしそ～う！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "おお、すごく分厚いホットケーキだな。\\n食べきれるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nこのホットケーキ、分厚いけどふわふわだよ。\\nいくらでも食べられちゃうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "どれ。\\nはむ……んん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "こいつは……溶けてなくなる、と言うと\\n大げさだけど、確かにふわふわだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チョコレートは濃厚でクリームの味に負けないし、\\nハーブティーは渋めでスッキリ。\\nこれは絶妙な組み合わせだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "こっちのベリーソースは酸っぱめだな。\\nそれがクリームとホットケーキの甘さに\\nマッチしている。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "……ベリーもおいしそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "わかってるって。\\nちゃんと約束通り、わけてやるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えへへ～。\\nじゃあ、あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "は？　なんだ？\\n口を開けて……なんの真似だ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "リゼちゃん食べさせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "お、おいおい。\\n子どもじゃないんだから、自分で食べろよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "えー、せっかくなんだから。\\nあーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "まったく、仕方ないな。\\nほら、あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "んん～ん～！\\nすっぱい！　けど、おいしい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "だろ？\\nベリーにして正解だったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "なにを～？\\n私のチョコレートだっておいしいんだからね。\\nほら、あ～ん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "私もやれって言うのか！？\\nそんなことを……！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "私もやれって言うのか！？\\nそんなことを……！",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "このくらい、普通じゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "これも仕事だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "私が嫌いなの？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "このくらい、普通じゃないかな？\\nそんなに恥ずかしい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "普通……なのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "うん、千夜ちゃんともやったりするよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そ、そうなのか！\\nこれくらいは当たり前なのか……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あ、ああ、そうだな！\\n普通の女の子なんだから、\\nこんなことぐらい当然やるよな！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これも仕事だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "え？　仕事？\\nこれのどこが仕事なんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ほら、ラビットハウスでも\\nこういうホットケーキを出す機会が\\n来るかもしれないし、味を研究しておかないと。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そういう可能性はゼロじゃないな、確かに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "私たちはただ他の店のメニューを\\n視察してるだけ……。\\nだったら、まあ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "私が嫌いなの？\\n私が嫌いだから食べないんでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "お、おいココア！\\nそんな妙な言い方をするな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "私のこと嫌いじゃなかったら、\\n食べてくれるよね？　ね！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ、わかった。\\nだから、そんなに騒ぐなって。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "じゃあ、はい、あーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あーん。\\nもぐもぐ……。\\nうん、確かにチョコレートもおいしいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "でしょ？\\nきっと、リゼちゃんと２人で食べてるから\\n余計においしいんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ま、まあ、そうかもしれないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "じゃあ、次は私！\\nあーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "こら、味見はもう充分だろ！\\n私の分も食べ尽くす気か？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

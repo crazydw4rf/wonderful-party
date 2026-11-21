@@ -1,0 +1,730 @@
+{
+  "identity": "chino_d09.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "みんな、お待たせ！\\nいよいよ乾杯だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "飲み物は行き渡りましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "大丈夫だよー。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "よし、それじゃ、パーティー主催のチノに\\n音頭を取ってもらおう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "わ、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "頑張れ、チノちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "それでは、えっと……め、メリークリスマス！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "みんな",
+          "original": "メリークリスマース！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "お腹ペコペコだったんだ～！\\nいっただっきまーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "す、すごいご馳走！\\n夢じゃないわよね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "お料理、こんなにたくさん用意するの\\n大変じゃなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "できるものは昨日から準備していたので。\\nそれに、父にも手伝ってもらっていますから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "とはいえ、ここまできっちり準備するなんて\\nやるじゃないか、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "いえ……そんな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "どれもこれも、おいしいですねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "本当に。\\nこのターキーも、\\nうちの『小麦色の誘惑』に負けてないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "ねえねえ、チノちゃん。\\nさっき、千夜ちゃんと青山さんが\\n何か持ってきたよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "パーティーの主役ってことは、\\nあれって、もしかしてクリスマスケーキかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "ケーキはまだ早くないか？\\n料理を食べ始めたばかりなのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "でも、どんなケーキか気になるんだ。\\nチノちゃん、見せてくれない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "チノ",
+          "original": "わかりました。\\nでは、準備をしますので少し待っていてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "えへへ～、わくわくするね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "メグ",
+          "original": "どんな風になってるのかな～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "マヤ",
+          "original": "こら、メグ。\\nココアたちには、秘密ってことに\\nなってるんだからさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "メグ",
+          "original": "あっ、そうだったぁ。\\nごめーん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "……お待たせしました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "これがクリスマスケーキです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア＆リゼ＆マヤ＆メグ",
+          "original": "おお～っ！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "すっげー！\\nおいしそうじゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "メグ",
+          "original": "デコレーションがとってもかわいい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "これをチノ１人で作った――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "しーっ！　マヤちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "マヤ",
+          "original": "あっ！\\nえ、えっと……\\nなんか食べるのがもったいないなぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "メグ",
+          "original": "だよね、かわいくてもったいないぐらいだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "でっしょ～？\\nしかも、これはね、チノちゃんが作ったんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "シャロ",
+          "original": "ちょっと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "あちゃあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "マヤ",
+          "original": "……あれ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "メグ",
+          "original": "うーん……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "ココア",
+          "original": "えっ？　あれ？\\nなんでみんな黙っちゃったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "チノ",
+          "original": "ココアさん？\\nどうして知ってるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア",
+          "original": "ああっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そ、そうだった！\\n　チノちゃんは、私たちがケーキのことを\\n　知らないって思ってたんだった！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "えっと、そ、それはね？　それはね～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（チノちゃんが心配で尾行した！\\n　なんて言えないし……\\n　どうしよう、リゼちゃん！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（目をそらされたー！？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "千夜",
+          "original": "ごめんなさい、チノちゃん。\\nココアちゃんがとっても心配してたから、\\n私がついしゃべっちゃったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "チノ",
+          "original": "……そうだったんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "千夜",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃん、ナイスフォロー！\\n　じゃあ、私もそれに合わせて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "ココア",
+          "original": "な、何かを作ってるって聞いただけで、\\nこんなかわいいケーキだなんて思わなかったよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "リゼ",
+          "original": "あ、ああ！\\nこんな立派なケーキを作れるなんて！\\nチノ、本当にやるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "メグ",
+          "original": "うんうん、すごいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "マヤ",
+          "original": "チノってやる時はやるよな～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "チノ",
+          "original": "そ、そんなこと、ありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、フォローありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "千夜",
+          "original": "いいのよ、気にしないで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "ココア",
+          "original": "それじゃ、ちょっと早いけど、\\nせっかくなんだし食べさせてもらおうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "チノ",
+          "original": "わかりました。\\nでは、切りわけますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "マヤ",
+          "original": "私の、ちょっと大き目でよろしく～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "千夜",
+          "original": "だめよ、ちゃんと平等にね。\\nもちろん余ったピースがあれば食べてもいいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "リゼ",
+          "original": "……よし、みんな行き渡ったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えへへ～。\\n　デコレーションが\\n　１番かわいいところ、もらっちゃった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "ココア",
+          "original": "じゃあ、いただきます！\\nあむっ！　もぐもぐ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "チノ",
+          "original": "ごくり……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "チノ",
+        "original": "ごくり……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "おいしい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "むっ、むむむ！　これは！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "これは、チノちゃんらしい味だね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "おいしい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ほ、本当ですか？\\n気を遣ったりなんて、しなくていいんですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "使ってなんかないよ！\\nこれ、本当においしいんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "よかった……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん。\\nこれからは、こんなおいしいケーキを\\n頼めば作ってもらえるのかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……いいですよ、たまになら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ホント！？\\nやったぁ！　ありがとう！\\nもちろんお手伝いはするからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "ココア、いいな～。\\n私も作ってもらいたいよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ふふーん、いいでしょ～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "まったく、子どもみたいだな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "むっ、むむむ！　これは！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "ど、どうかしましたか？\\n何かおかしなところがありましたか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "濃厚なクリームがどっしりとしたスポンジと\\n相まって、それでいてさっぱりとして、\\nフルーツの酸味がこれまた効いてて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "えっと……その……なんだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "私に言うな。\\nなんでそんな、グルメマンガみたいなことを\\n言ってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "だ、だって！\\nチノちゃんのケーキがすっごくおいしいって\\n表現したくて～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "だったら、素直に伝えればいいじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "それだけじゃ味気ないよ～！\\nあ、このケーキはすっごくおいしい味がするけど！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "……言いたいことは何となくわかりました。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これは、チノちゃんらしい味だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "私らしい……味？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "えーっとね、\\nケーキの味だけじゃなくて――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "チノちゃんが、みんなを想って\\n作ったんだってことを感じながら食べると、\\nもっとおいしくなるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "これはチノちゃん以外誰にも作れない。\\nだから、チノちゃんらしい味なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "そ、それは、褒めすぎです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "だって、本当にそう思うんだから。\\n一所懸命に作ってくれてありがとう、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "……どういたしまして。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "なるほど。\\n手作りのケーキ、\\nこれがチノさんのおもてなしなんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "はい、こんな形になりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "本当に素晴らしいです。\\nみんなが笑顔になる、素敵なおもてなしです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そうだ！\\nねえ、このケーキ、ラビットハウスの\\n新しいメニューにしてみない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "えっ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "新しいメニューって、\\n年中クリスマスケーキを出すのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "飾りを代えたら大丈夫だよ。\\nこれ、もしかしたら、今日の限定パンケーキより\\n人気が出ちゃうかもしれないよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "そ、そうでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うん！\\n私が保証するよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ココアが保証すると、\\nとたんに不安になるんだけどね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "えーっ！？\\nシャロちゃん、ひどいよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "私も賛成だわ。\\nでも、このケーキがメニューに加わったら\\n甘兎がピンチになっちゃうかも。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "そうね、フルールも\\nうかうかしてられないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "……これを作るのにかかる時間と\\nコストを考えると、値段は……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "チノが本気で考えてる！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "じゃあ、みんなで名前を考えようよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "メグ",
+          "original": "さんせーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "あらあら、これは楽しみですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "……新メニューか。\\nまあ、それもよかろう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

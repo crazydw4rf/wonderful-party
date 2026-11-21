@@ -1,0 +1,291 @@
+{
+  "identity": "main_a01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ここは、木組みの家と石畳の街。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "私、ココアは、春から\\nこの街の高校に通うため、引っ越してきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "下宿先の喫茶店、ラビットハウスで\\nバリバリ働きながら\\n充実した毎日を過ごしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "様々な人に出会い、お友達もたくさんできて、\\n街にもすっかりなじんで――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "気がつけば、秋の風に\\nちょっぴり冷たさを感じる季節になりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "この街で迎える、初めての冬。\\nどんなことが待ってるのか、とっても楽しみです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（よーし、今日の授業はこれで終わり！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（それじゃ、早く帰らないと。\\n　今日はバイトの日だし――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（かわいい妹が待ってるからね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "あら？\\nニコニコしているけど、いいことがあったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "あ、千夜ちゃん。\\nえへへ～、なんでもないよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（この子は、クラスメイトの千夜ちゃん。\\n　この街で出会った大切な親友です）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（甘味処『甘兎庵』の看板娘さんで、\\n　お店のメニューも千夜ちゃんが\\n　考えたりしてます）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ねえ、ココアちゃん。\\n今日も一緒に帰りましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "うん、もちろん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "それでね、これから時間あるかしら？\\nよければ甘兎に寄って、\\n新作メニューの試食をしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "えっ？　新作？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "そうなの。\\nこれからの季節に向けて、\\n温かいメニューを改良していこうと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "甘兎庵で温かいメニュー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "あっ！　わかった！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "さては新作お汁粉だね？\\nそれとも冬仕様のぜんざい？\\nはたまた、お雑煮を出しちゃうとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ふふ、それは見てのお楽しみ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "それで、どうかしら？\\n寄っていかない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "もちろん――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "あ～っ！\\nやっぱりだめだった！\\n今日はこれからバイトなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "千夜",
+          "original": "あら、そうなのね。\\n残念。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "うう～、私も残念。\\n千夜ちゃんの新作、食べたかったなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "じゃあ、また今度、寄っていって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "うんっ！\\n絶対に行くよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "いつでも待ってるわ。\\nぜひ、ココアちゃんの意見を聞きたいから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "え？　どうして？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "それがね、今のままだと\\nひと味足りない気がするのだけど、\\n何が必要なのかピンとこなくて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "ココアちゃんなら、\\nきっといい意見を聞かせてくれると思うの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "そうかな？\\n私、パン以外はまともに作れないって\\n言われちゃうくらいだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "大丈夫よ、だって、ココアちゃんは\\n温かそうな名前を持ってるんだから。\\n温かな食べ物にだって強いはずだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "ええ！？　そうなの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "千夜",
+          "original": "ああ、名前と言えばね？\\nメニューの名前も\\nもういくつか候補を出しているのよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "千夜",
+          "original": "１つは――『闇を纏いし白亜の使者』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "す、すごい！\\n世界を救っちゃいそうっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "もう１つは――『星の海、巡る白き船』！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "おおおー！\\n今度は宇宙的な広がりを感じるね！\\nスケールが大きいよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんは、作ったメニューに\\n　名前を付けるのが大好きなんだけど――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（個性的すぎて\\n　わかりにくいのが難点みたいなんだ。\\n　私は、すっごく素敵でいいと思うんだけど）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "あっ、ごめんなさい。\\nココアちゃん、これからバイトなのに\\nすっかり引き留めちゃったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "ううん、これくらいなら大丈夫だよ。\\n気にしないで。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "千夜",
+          "original": "それじゃ、帰りましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "identity": "holiday.ks.scn",
+  "scenes": {
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "パジャマパーティー\\nキャラ選択",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*pajama_chara_chino": {
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*pajama_chara_chiya": {
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*pajama_chara_rize": {
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*pajama_chara_syaro": {
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

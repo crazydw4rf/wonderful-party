@@ -1,0 +1,69 @@
+{
+  "identity": "chiya_a01.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "（そろそろ学校へ行く時間ね。\\n　早く準備をしなきゃ、\\n　ココアちゃんも待ってるんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "（そうだ、クリスマスパーティーのことも\\n　考えないといけないわね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "（少し緊張するけど……\\n　準備、頑張らなくっちゃ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "（マヤちゃんとメグちゃんも来るのよね。\\n　となると、青山さんも参加になりそう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "（これは大所帯になりそうね。\\n　わくわくしてきたわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "（せっかくなんだもの、スペシャルな\\n　メニューを作っておもてなししなくちゃ。\\n　そう、気合を入れて！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "（……でも、みんなが喜ぶメニューって\\n　一体どんなものなのかしら？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "（あ、そうだわ！\\n　ココアちゃんにも参考意見をもらいましょ。\\n　せっかく一緒に登校してるんだものね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "（ココアちゃんなら、\\n　きっと素敵な意見をくれるわ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "（そうと決まれば、急いで家を出なきゃ。\\n　うふふ、早くココアちゃんと\\n　クリスマスの話がしたいわ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

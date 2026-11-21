@@ -1,0 +1,147 @@
+{
+  "identity": "rize_c02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "聞いてくれ、ワイルドギース！\\nとうとう私のやるべきことを思いついたぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そう！　クリスマスといえばサンタだ！\\nどうして、そんな基本的なことを\\n忘れていたんだろうな、私は。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "サンタになって、みんなにプレゼントを贈る。\\nこんな素敵な役目が残っていたことに\\n気がつかないとは、我ながら呆れるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "私が役割分担の際に挙げていなかったから、\\nこれにはみんなも気づいていないはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "……ん？\\n気づいていないからなんだって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ふふん。\\nわかってないな、お前は。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "気づいていない――\\nつまり、サプライズをやるチャンスということだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "サンタからのサプライズプレゼント。\\nこれほどクリスマスにぴったりなイベント、\\n他にあるか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "だが、そうなると、プレゼントの準備には\\n細心の注意を払わなければ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "サプライズなんだから、\\nみんなに気づかれてしまっては台無しだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "そのための最大のネックは……\\nプレゼントのリサーチか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "いくらサプライズを仕掛けたいからって、\\n欲しがってもいない物を贈っても意味はない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "ちゃんとみんなに喜んでもらうためには、\\n欲しい物のリサーチをしなければならないが――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "直接、尋ねてしまっては\\n私がプレゼントを贈ろうとしていることに\\n気づかれてしまうかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "むう……。\\nどうやってリサーチすればいい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "うん、ここは地道に聞き込みをするのが１番だな。\\nさりげなく話を振るだけなら、\\n気づかれたりしないだろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "だが、そうして情報収集をしたあとも\\n気は抜けないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "クリスマスまでの限られた時間の中で、\\n目的の物を集める必要があるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "さらに、みんなに気づかれないように\\nパーティー会場に運び込む任務も発生する。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "これは、想像以上に\\n過酷なミッションかもしれないが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "だからこそ、逆に燃えるというものだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "見ていてくれワイルドギース！\\nこの極秘任務、必ず成功させてみせる！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

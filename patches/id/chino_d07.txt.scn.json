@@ -1,0 +1,417 @@
+{
+  "identity": "chino_d07.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "いらっしゃいませ。\\n４名様ですね、奥のお席にどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "チノちゃん、\\n限定パンケーキ２つ、注文入ったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "マヤ",
+          "original": "え～っと、こっちは\\nエスプレッソとキリマンジャロとアメリカン。\\nあと限定パンケーキも３つ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい、すぐに用意します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "限定パンケーキ、すごい大人気だね。\\n朝からずーっとで、もう一生分のパンケーキを\\n焼いた気がするよ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "材料は足りますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "うん、材料はまだ大丈夫……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ありがとうございました。\\nまたのお越しをお待ちしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "お待たせしました。\\n２名様、こちらのお席へどうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "マヤ",
+          "original": "さっすがリゼ、\\nこの時間になってもきびきび働くなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "私たちも頑張らなきゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "チノ、オーダーだ。\\n限定パンケーキ４つ、頼んだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "えっと、あといくつ\\n作らなきゃいけないんだっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "９つです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "９つ！　急いで焼かなきゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "マヤ",
+          "original": "チノー！　追加オーダー！\\n限定パンケーキ２つ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "はい、わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "あの、チノちゃん……\\nコーヒーの方はどうなってるかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "あ、すみません！\\nすぐに作ります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "チノちゃん、そのあいだは\\n私がパンケーキ作ってるから、任せといて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "はい、すぐに手伝いに戻りますので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "……えーっと、それで、\\n追加オーダー込みでいくつ焼くんだっけ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "１１個だ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "って、おい、チノ！\\nコーヒーカップにたまごを入れるんじゃない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "はっ！？\\nすみません、パンケーキの種を\\n作っている気になってました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "大人気なのは嬉しいけど、\\nこれはさすがに大変だねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "リゼ",
+          "original": "マヤ。\\n手が空いたら、メグの洗い物の手伝いを\\nしてやってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "マヤ",
+          "original": "了解～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "メグ",
+          "original": "ありがとう～。\\n１人じゃ終わらない量だったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "マヤ",
+          "original": "リゼはすごいなぁ。\\nお店とお客さん全部を見ながら、\\nテキパキ指示を出してくれるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "うん、ホントだね。\\n私なんか忙しくて目が回りそうなのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "でも、マヤさんとメグさんが来てくれなかったら\\nパンクしていたと思います。\\n本当に助かります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "リゼ",
+          "original": "お帰り――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "違う、そうじゃなかった！\\nい、いらっしゃいませー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "リゼちゃんが間違えた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "チノ",
+          "original": "流石のリゼさんも、\\n限界が近づいているのかもしれません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "えーっ！？\\n指揮官のリゼちゃんが倒れたら、\\n私たち、どうなっちゃうの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "マヤ",
+          "original": "全滅じゃね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "チノ",
+          "original": "全滅しては困ります！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "リゼ",
+          "original": "いらっしゃいませ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩！\\nお仕事、お疲れ様です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？　バイトはどうしたの？\\n確か、今日はギリギリまでバイトじゃなかった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "シャロ",
+          "original": "予定よりも早く終わったのよ。\\nだから早めに顔を出そうと思ったんだけど……\\nすごいわね、この混雑っぷり。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "うん、限定パンケーキが\\n街で話題になってるみたいなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "チノ",
+          "original": "おかげで、パンケーキを作るスピードが\\n注文に追いつかないんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "リゼ",
+          "original": "すまない、全て私の指揮官としての技量が\\n足りなかったせいで……くうっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "シャロ",
+          "original": "そんな……！\\nリゼ先輩のせいじゃないです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "シャロ",
+          "original": "……わかりました！\\n私、リゼ先輩のために一肌脱ぎますっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "ココア",
+          "original": "はっ！？\\nシャロちゃんが覚醒した！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "シャロ",
+          "original": "洗い物は私が！\\nメグちゃんはチノちゃんの手伝い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "メグ",
+          "original": "は、はい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "シャロ",
+          "original": "マヤちゃんは、あらかじめ\\n外のお客さんのオーダーを聞いてリストに！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "マヤ",
+          "original": "ラジャー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "私は～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "シャロ",
+          "original": "ココアはひたすらパンケーキを焼く！\\nオッケー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "オッケーでーす！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "リゼ",
+          "original": "ありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "リゼ",
+          "original": "やれやれ、一時はどうなるかと思ったけど、\\nシャロが来てくれたおかげで楽になったよ。\\nありがとう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "シャロ",
+          "original": "い、いえ、そんな。\\nお役に立てて光栄です、先輩。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "チノ",
+          "original": "でも、すみません。\\nパーティーのお客さんとして来てもらったのに\\n働かせてしまいました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "シャロ",
+          "original": "気にしなくていいのよ。\\n私が好きでやってることだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "シャロ",
+          "original": "それに……あんなに頑張ったのに\\nパーティーができなかったら嫌でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "シャロ",
+          "original": "だから、もっと気合いを入れる！\\n特にココア！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "ココア",
+          "original": "わ、私！？\\n頑張ってるつもりだよー！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、洗い物がひと段落したし\\n私もパンケーキ焼くの手伝うね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "ココア",
+          "original": "メグちゃん、ありがと～！\\nよし、残り時間もじゃんじゃん焼いちゃうよ～！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

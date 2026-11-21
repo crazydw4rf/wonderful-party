@@ -1,0 +1,634 @@
+{
+  "identity": "chiya_c02.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "お待たせしました。\\n地図、持ってきました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "ありがとう、チノちゃん。\\nそれじゃ、さっそく調べてみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "まず、地図が見つかった場所に\\n印をつけていきましょう。\\n最初に見つかった甘兎庵は、ここね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "次に見つかった公園はここだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "次は……街角の、このあたりだったはずよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "次は市場！\\nメグが見つけたんだよな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "えへへ～。\\nそれで、その中の地図は\\nラビットハウスを示してたんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "どんどん埋まっていきますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "リゼ",
+          "original": "問題は、これが何かの形になるかどうかだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "……できた。\\nこれで、地図の見つかった場所、すべてに\\n印を付け終わったわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ふう～！\\nなんだかやりきった感じがするねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "まだ何も終わってないぞ？\\nこれから、この印を見て\\n何を表しているのか推理するんだからな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "でも……これって、パッと見、\\n何か法則があるようには見えなくね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "何かの形として考えても……見覚えがないわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "でも、どこかで見たことがあるような気がする～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "私もです。\\nなんとなく見覚えがあるんですが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "本当！？\\nチノちゃん、メグちゃん、頑張って思い出して～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "……あ、よく見ると\\nスプーンのように見えるわね。\\nいえ、スプーンというよりは柄杓かしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "メグ",
+          "original": "あ～っ！　わかったぁ！！\\nこの形、きっと北斗七星だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "ああ、北斗七星か！\\n確かにそうだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "ほくとしちせい……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "おいおい、ココア？\\nまさか北斗七星を知らないのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "し、知ってるよ？\\n北斗七星っていうのは――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "し、知ってるよ？\\n北斗七星っていうのは――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "フランスの王様だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "星座の名前だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "星座の一部だよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "フランスの王様だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "……すまん、その答えは斜め上すぎて\\nツッコむことすらできないんだが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ほら、ルイ１４世とかいるでしょ？\\nだから、ホクト７世っていう王様も\\nいるんじゃないかなーって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "変な名前の国王を作り上げるなっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "その場合だと、『しちせい』ではなく\\n『ななせい』だと思います。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "あははっ！\\nココアちゃん、面白～い！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "その発想の自由さ、さすがねっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "褒めるところか！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "星座の名前だよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "おお、いいセンいってるじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？　違うの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "厳密に言えば違うんだが、\\nまあ、ほぼ正解と言っていいかな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "星座の一部だよね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "正解だ。\\nさすがに知ってたか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "えへへ、このくらい常識だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "ココアちゃん、物知りだね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ふふふふ～、\\nお姉ちゃんをもっと褒めてくれていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "こら、北斗七星ぐらいで調子に乗りすぎだ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "マヤ",
+          "original": "なあ、メグ。\\nこれが北斗七星だとして、それで\\nどこにお宝があるのかもわかってくるのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "メグ",
+          "original": "うん、多分だけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "えっとね、北斗七星はね、\\nおおぐま座の腰からしっぽを作る\\n７つの星のことでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "柄杓の形をしてるから\\n柄杓星とも呼ばれてるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "そうだな。\\nちなみに、柄杓の先端に当たる星を繋ぐ線を\\n５倍伸ばすと、北極星に行き当たるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "メグ",
+          "original": "うん！\\nだから昔から、北極星を探す目印としても\\n北斗七星が使われてるんだよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "それでね、地図が見つかった場所が\\n北斗七星の形だとすると、こことここを\\n繋ぐ線をこっちに５倍伸ばして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "メグ",
+          "original": "このあたりが北極星のある場所だから、\\nもしかしたらここに宝物があるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ",
+          "original": "はあ、なるほどなぁ！\\n冴えてるなぁ、メグ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "メグさん、どうしてそんなことを\\n知ってるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "えへへ、そんなに褒められるほどじゃないよ。\\n学校で習っただけだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "チノ",
+          "original": "あ、そういえば習いました。\\nそれで私も見覚えがあったんですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "へー、そんなのよく覚えてるなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "北斗七星……。\\nそれは思いつかなかったわ。\\nともかく、この北極星の場所を探してみるべきね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "いや、待て。\\n北斗七星にはもう１つ、\\n目印になりそうな星があるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "もう１つあるの？\\nそれって？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "柄杓の手の部分の真ん中、ミザールだ。\\nこいつは、そのすぐ側にあるアルコルって星と\\n連なっているように見えるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "でも、あまりに接近しすぎているせいで\\n目の悪い人には１つの星にしか見えない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "だから、昔の軍隊では\\nこの星を兵士の視力検査に使っていたんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "そういう由来から考えると、もしかしたら\\nこの星の位置に宝物があるかもしれない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "メグ",
+          "original": "へえ～、そうなんだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "さすがリゼさん、博識ですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ず、ずるいよリゼちゃん！\\n妹たちに尊敬のまなざしで見られて……\\n私だって、私だって～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "勝手に張り合って落ち込むな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "とりあえず、今の手掛かりはこれだけだから\\nミザールの場所と北極星の場所、\\n２つとも調べてみましょう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "マヤ",
+          "original": "きっと、このどちらかにお宝があるよな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "逆に、そのどちらにもなかったら\\n探索は完全に行き詰まるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、悪い方にばかり考えちゃだめだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "戦場ではネガティブ思考の人間は\\n生き残れないって聞くよ？\\nそれでもリゼちゃんは軍人なの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "私は軍人じゃない！　普通の女子高生だ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "でも、確かに悪い方にばかり\\n考えるのはよくないことだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "メグ",
+          "original": "そうだね！\\n今回こそ、絶対に宝物があるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "ええ、今回の推理は\\nすごく手応えがあった気がするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "なんて言うのかしら……\\n今まで朧気だったものが一気に形になったような、\\nそんな感じね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "マヤ",
+          "original": "じゃあ、さっそく行こうぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "千夜",
+          "original": "だめよ、マヤちゃん。\\n今日も遅くなっちゃったから、\\n探索はまた今度にしましょ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "マヤ",
+          "original": "えーっ？\\nそんなこと言ってたら、\\nお宝、取られちゃうよ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "リゼ",
+          "original": "いや、大丈夫だ。\\n手がかりの地図が全部残ってたんだから、\\n宝だってまだ残っているはずだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "それに、私たちが地図を持っている以上、\\n他の誰かは宝の場所を辿れない。\\nつまり絶対に安全なんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "マヤ",
+          "original": "あ、そっかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "無理して宝探しをして何か事故があったりしたら、\\n楽しいクリスマスを迎えられなくなっちゃうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "それに、暗い中で物を探すのは大変よ。\\n楽しみな気持ちはわかるけど\\n別の日にしましょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "マヤ",
+          "original": "うん、わかった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "ココア",
+          "original": "ねえねえ、せっかくだから\\n今度はリゼちゃんやチノちゃんも一緒に探そうよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "リゼ",
+          "original": "そうだな、ここまで来ると\\n本当に見つかるのか気になるし、私も行くよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "チノ",
+          "original": "私も、父にお店を頼むことにして参加します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "千夜",
+          "original": "それじゃ、シャロちゃんも誘っちゃいましょうか。\\nきっと喜ぶわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "うん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "マヤ",
+          "original": "もちろん、私たちも参加するからね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "メグ",
+          "original": "今度こそ見つかるといいね～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "リゼ",
+          "original": "しかし、今日、メグは大活躍だな。\\n軍隊なら昇格ものだぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "メグ",
+          "original": "わぁ～、やったぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "マヤ",
+          "original": "あーっ！　メグだけずるい！\\n私だって宝箱を１つ見つけてるし\\n昇格ものだよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "ふふふっ！\\nますます楽しくなってきたわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "ココア",
+          "original": "うん、盛り上がってきたね。\\nいよいよクライマックスって感じだよ。\\n宝探し、頑張るぞーっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

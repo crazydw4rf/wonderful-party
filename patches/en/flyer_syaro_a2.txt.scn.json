@@ -1,0 +1,145 @@
+{
+  "identity": "flyer_syaro_a2.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "見て、シャロちゃん。\\nあの服屋さん、店先に商品を出してるよ。\\n何かいいのがありそう～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ココア。\\n遊んじゃだめよ、今はバイトの時間でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、遊んでないよ？\\nこれも仕事の一環だからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ほら、お日様の下で見ると\\n商品がより素敵に見えたりするよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ラビットハウスでも、コーヒーやパンを\\nお日様の下で見てもらったら\\n注文が増えるかもって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "ふーん……。\\nココアも意外と考えてるのね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、これかわいい～！\\nチノちゃんに似合いそうだなぁ。\\nこっちのリボンはティッピーが付けたらいいかも！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "……何も考えてなかったわけね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "シャロ",
+          "original": "ほら、ココア！　仕事中！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はーい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ねえシャロちゃん。\\n今度、みんなも誘ってお洋服を見に行こうよ。\\nきっと楽しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "た、楽しそうだけど……今月もピンチで……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "その時は、せっかくだし\\nお揃いの服を買っちゃおっか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "え？　お揃い？\\n制服でもないのにお揃いとか、\\nそれはちょっと……はずかしくない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "え？　ぜんぜんはずかしくないよ？\\nリゼちゃんやチノちゃん、\\n千夜ちゃんとお揃いだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩と……お揃い？\\nお揃いの服……それはいいかも……！\\nけ、けど、そんな余裕は……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩とは制服がお揃いなんだから！\\n我慢よ、私！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？\\nどうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "楽しいかもしれないけど、今は仕事中でしょ！\\nほら、ちゃんとチラシ配りなさい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "だから、これ以上誘惑しないで～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "は～い。\\nシャロちゃんは真面目だね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

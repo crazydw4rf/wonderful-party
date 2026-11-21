@@ -1,0 +1,139 @@
+{
+  "identity": "flyer_chiya_a3.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ラビットハウスです。\\nよろしくお願いします……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、どうしたの？\\nさっきから元気がないみたい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん……。\\n私……もうだめかも……。\\nお腹が空いて動けない……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "それは大変だわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "けど、安心して。\\nこんなこともあろうかと、\\nおやつに千夜月を持ってきたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "せんやつき……。\\nそれは……栗ようかんの名前……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "やったぁ！\\n千夜ちゃんの栗ようかんだぁ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "おいしい～！\\nホント、千夜ちゃんの栗ようかんは絶品だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "３本はペロリだったけど、\\n本気になれば５本いけちゃう味だよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "そうだったわね、\\n初めて会ったときにプレゼントした栗ようかん、\\nたくさん食べてくれたのよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "千夜ちゃん、あの時、\\n野良うさぎに栗ようかんあげようとしてたよね。\\nでも、うさぎは食べないんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "うちのあんこは食べるんだけど……\\n他の子はあまり食べないみたいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "でも、それでよかったかも。\\n野良うさぎが食べちゃってたら、\\nココアちゃんが釣れなかったんだもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "私、釣られたの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "ええ、びっくりしたわ。\\nまさか女の子が釣れるなんて。\\nしかも、入学式を１日間違えていた女の子が。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "あれは、その～！\\nち、千夜ちゃんだって、そのあと、\\n間違えて中学校に案内してたよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "そんなこともあったわねぇ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "そんな他人事みたいに～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "どれもこれも、いい思い出ね。\\nこれからも、たくさんの思い出を\\n作っていきましょうね、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "うんっ！\\nこれからもよろしくね、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "identity": "flyer.ks.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy5": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy6": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy7": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy8": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy9": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy10": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy11": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy12": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy13": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy14": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy15": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy16": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy17": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy18": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy19": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy20": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy21": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy22": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy23": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy24": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy25": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy26": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy27": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy28": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy29": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy30": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy31": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy32": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy33": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy34": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy35": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy36": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy37": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy38": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy39": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy40": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "初めてのチラシ配り？\\nハプニングイベント後？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

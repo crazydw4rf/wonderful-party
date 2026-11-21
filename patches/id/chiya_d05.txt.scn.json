@@ -1,0 +1,279 @@
+{
+  "identity": "chiya_d05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（メインのメニューが決まったとはいえ、\\n　クリスマスパーティーに向けて\\n　準備することはたくさん！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（クリスマスまでの残りの日は、\\n　本当に飛ぶように流れていきました――）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "ふう、やっと終わったねぇ。\\n今日はやけに長かった気がするよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "千夜",
+          "original": "私もよ。\\n楽しみなことがあると、時間って長く感じるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "楽しい時間はすぐに過ぎちゃうのにな。\\n逆だったらいいのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "うふふっ、本当ね。\\nそれじゃココアちゃん、始めましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "千夜",
+          "original": "ようやく準備も仕上げね。\\nあとは、この招待状を書くだけよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "準備に買い出しに、大忙しだったよ～。\\n勉強やお仕事をしながら進めるのは\\n大変だったけど、楽しかったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "千夜",
+          "original": "ええ、ずっとわくわくしながら準備ができたわ。\\n招待状はココアちゃんの発案だけど、\\nこれもすごく楽しいもの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "えへへ、よかった。\\nやっぱりパーティーだもん、\\n招待状がないと締まらないよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "千夜",
+          "original": "ええ、こういうのも形から入るべきね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "渡し方はどうしよっか。\\n手渡しもいいけど、ポストに入れておくって\\nいうのも雰囲気あるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "ポストのなかに招待状が入ってる、なんて\\nきっとどきどきするわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "青山さんの連絡先は……\\nあ、そっか、青山さんは当日、厨房のお手伝いを\\nしてくれることになったんだっけ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "そうなの。\\n念のために、クリスマスの予定が空いているか\\n聞いてみたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "千夜",
+          "original": "そういうことなら私はお手伝いに回りますって\\n言われちゃったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "気にしなくていいって言ったけど、\\n当日はみなさんで楽しんでくださいねって\\n返されちゃって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "だから、お言葉に甘えちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "でも、ラビットハウスにはいるんだから\\nクリスマスのお祝いは一緒にできるよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ええ、そうね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "……ねえ、ココアちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ん？　どうしたの、千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "私ね、毎日がすごく楽しいの。\\nどうしてだと思う？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "うーん、なんでだろ？\\nクリスマスが近いから？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "ううん。\\nきっと、みんなに出会えたからだと思うわ。\\nみんなと一緒だから、何をしていても楽しいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "そうだね。\\nクリスマスはもちろん楽しみだけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "みんなと一緒だったら、\\nなんでもない普通の日だってすごく楽しいよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "千夜",
+          "original": "この前、公園でココアちゃんと話したわよね。\\n『出会いは不思議だ』って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "うん、千夜ちゃんの家で\\n地図を見つけた日だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "千夜",
+          "original": "ええ、そう。覚えていてくれて嬉しいわ。\\n私ね、あの時に話したことが\\nずっと心に残ってるの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "千夜",
+          "original": "ココアちゃんに出会うことができたから、\\nみんなにも出会うことができた。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "千夜",
+          "original": "私が今、こんなにも楽しいのは、\\nココアちゃんのおかげ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "だからココアちゃん。\\nこれからも、よろしくね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "ココア",
+          "original": "そ、そんな、改めて言われると照れちゃうよ。\\nでもね、私もずっと思っていたことがあるんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "千夜",
+          "original": "あら、何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "私たち、入学式前にあの公園で出会ってなかったら\\nこんなに仲良くなってなかったかもって、\\nあの時、言ってたでしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "でも、そんなことないよ。\\nもし私が入学式の日を間違えなくて、\\nあの公園で千夜ちゃんと出会ってなくても――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "千夜ちゃんとは、絶対に、今と同じように\\n仲良しになってたよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "ココア",
+          "original": "だって、一緒にいてこんなに楽しいんだもん。\\nどんな出会い方だったとしても、私たち、\\nこうして２人で過ごしてたと思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "千夜",
+          "original": "ココアちゃん……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "千夜",
+          "original": "そうよね、出会いは不思議だけど、\\nこの関係を育んできたのは私たち自身だわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "千夜",
+          "original": "出会いはきっかけをくれただけ。\\n今、こうしているのは、\\n私たちが望んだからなのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\nだから、こちらこそ、これからもよろしくね。\\n千夜ちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "千夜",
+          "original": "ありがとう、ココアちゃん。\\nずっとずっと、私の大切な親友でいてね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "ココア",
+          "original": "うん！\\nずっとずっと一緒だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "identity": "visit.ks.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "チノ\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "千夜\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "リゼ\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy4": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "シャロ\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy5": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "マヤ＆メグ\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy6": {
+      "texts": {
+        "0": {
+          "speaker": "エラー",
+          "original": "青山\\n訪問イベント\\n４回目",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,165 @@
+{
+  "identity": "chino_d06.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そして、いよいよ開店時間。\\n　その瞬間から、ラビットハウスは\\n　大賑わいになりました！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "いらっしゃいませ！\\n２名様ですね、こちらのお席へどうぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "お待たせしました。\\nこちら、限定パンケーキです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "メグ",
+          "original": "チノちゃん。\\n使い終わったお皿、洗っておくね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "はい、よろしくお願いします。\\n私はコーヒーに集中しますので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "マヤ",
+          "original": "リゼー！\\n外見てきたんだけど、すっごい行列できてるよ。\\nどうする？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "どうするもなにも、待ってもらうしかないだろう。\\nしかし、開店して間もないというのに\\n今日はすごいな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "いつもでは考えられません。\\nなんだか、ラビットハウスじゃないみたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "これはこれでありがたいことですが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "メグ",
+          "original": "どうかしたの、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "いえ、その……あまりに忙しすぎて、\\nクリスマスパーティーが\\n開けなくなるのではないかと思ってしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "大丈夫だよ。\\nパーティーは、みんなも楽しみにしてるしな。\\nその辺りは上手いことやろう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "そうだね、なんとかなるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "マヤ",
+          "original": "そうそう、気にしすぎだって。\\n私たちが手伝いに来たんだし、\\n大船をこいだつもりでいろよな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "メグ",
+          "original": "それは、大船に乗ったつもり、じゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "マヤ",
+          "original": "あれ、そうだっけ？\\nとにかく、任せろってことだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "はい、そうですね。\\nみんながいればきっと何とかなります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "メグ",
+          "original": "そうそう。\\nだから、今日は楽しくお仕事しようね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "さて、おしゃべりはほどほどにな。\\nオーダーがどんどん入ってきてるぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "あっ！\\nす、すみません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "やっぱり、今日のお客さんは、\\nほとんどが限定パンケーキ目当てか。\\nこれは、１人で焼いていたら間に合わないな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "リゼ",
+          "original": "よし、フォーメーション変更だ。\\nココアとチノ、２人でどんどん作ってくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "はーい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "マヤ",
+          "original": "あれ、行列の人、また増えたみたいだ。\\nこれはマジで大変な１日になりそうだなぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "恐れるな！　自分を、そしてみんなを信じろ！\\n改めて気合いを入れていくぞっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

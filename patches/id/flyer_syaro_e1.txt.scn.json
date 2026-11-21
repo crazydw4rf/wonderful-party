@@ -1,0 +1,151 @@
+{
+  "identity": "flyer_syaro_e1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "ほああああ～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、どうしたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "軍服……！\\nリゼ先輩みたい……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ああ、もしかして\\nリゼちゃんっぽく軍服が着られて嬉しいの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "そっ、そうよ！\\n悪い！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "私も、こういう格好になると\\nリゼちゃんに近づけたような気がしてくるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "もし私たちが軍人だったら、\\nきっとリゼちゃんが１番偉い人だよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "ほああああ～……。\\nリゼ先輩が上官……リゼ先輩の部下……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あっ！\\nでも待って、リゼちゃんが上官だと……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "鬼軍曹なリゼちゃんの部下になるには、\\n体力とか、精神力とか、色々なものが\\nいるんじゃないかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ついてこられなければ帰れ！\\nとか言われそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "シャロ",
+          "original": "た、確かに……もっともな話ね。\\nリゼ先輩、普段は優しい人だけど、\\n戦場では厳しそうだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "それに、先輩と後輩ならともかく\\n上官と部下じゃ、役に立てるかどうかって\\n重要よね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩の部下になるには\\n今の私じゃ力不足……！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "シャロ",
+          "original": "ううん、だとしても、先輩の部下になるために\\n今からやれることをやればいいのよっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "おお！？\\nシャロちゃんが燃えてる……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "まずはチラシ配りを頑張って\\n基礎体力を身につけるわ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "チラシ配りってそんなに体力つくかな？\\nシャロちゃん、結構やってるよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "シャロ",
+          "original": "心がけとやり方次第ね。\\n配る時の立ち方を工夫すれば、\\n鍛えることができるはずよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "シャロ",
+          "original": "リゼ先輩が認めてくれる優秀な部下になるには、\\n小さなことからこつこつと積み上げていかないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（……そもそも、リゼちゃんって\\n　部下募集してたかなぁ？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,649 @@
+{
+  "identity": "test.ks.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "てすと",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": null,
+          "original": "好感度アップ 小",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": null,
+          "original": "好感度アップ 大",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": null,
+          "original": "友情度アップ 小",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": null,
+          "original": "友情度アップ 大",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": null,
+          "original": "ティッピーテスト",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": null,
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": null,
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*shop": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "喫茶店イベント",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "choice_0": {
+          "original": "Ａ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "Ｂ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "Ｃ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "Ｄ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "Ｅ判定",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "ゲームオーバー",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*kigae": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "チラシ選択",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "チラシ配りイベント\\nキャラ選択",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "choice_0": {
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect2": {
+      "choices": {
+        "choice_0": {
+          "original": "学校制服",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "ラビットハウス",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "甘兎庵",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "軍服",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "サンタ風",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_6": {
+          "original": "ハロウィン風",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_7": {
+          "original": "怪盗ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_8": {
+          "original": "バニー",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_9": {
+          "original": "バレンタイン",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*move": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "移動テスト",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect3": {
+      "choices": {
+        "choice_0": {
+          "original": "ラビットハウス",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "甘兎庵",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "フルール・ド・ラパン",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "自然公園",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_4": {
+          "original": "街角",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_5": {
+          "original": "市場",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*pajama": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "パジャマパーティ選択",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect4": {
+      "choices": {
+        "choice_0": {
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*chk": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "訪問イベント",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect5": {
+      "select_prompt": {
+        "speaker": null,
+        "original": "チラシ配りイベント\\nキャラ選択",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "choice_0": {
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_1": {
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_2": {
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "choice_3": {
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_chino": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "チノ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_chiya": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "千夜",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_rize": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "リゼ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_syaro": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "シャロ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_mayamegu": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "マヤメグ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_aoyama": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "青山",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*visit_none": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "起きないよ",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*popularitycalc_test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "知名度計算テスト",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*freind_test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "ここで変数をいじってテスト\\nｆｒｉｅｎｄ\\n閾値は２００",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "ラビットハウス内 Ｘｍａｓ夜明屋内",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは、木組みの家と石畳の街。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect6": {
+      "select_prompt": {
+        "speaker": "リゼ",
+        "original": "（あとは、みんなに役割を割り振るだけだが……\\n　誰に何を任せるのがいいだろう？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "ココアは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "チノはこれだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "千夜にはこれをお願いしよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0104": {
+          "original": "これはシャロが適任だな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "表情を指定しないと口パクしない説",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは口パクするかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "表情を指定しないと口パクしない説",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは口パクするかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "表情を指定しないと口パクしない説",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは口パクするかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0104": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "表情を指定しないと口パクしない説",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは口パクするかな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そして、選択肢合流前に表情を指定してみると\\n口パクするか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*link_test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "バスト",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": null,
+          "original": "アップ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": null,
+          "original": "ニー",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": null,
+          "original": "ウエスト",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": null,
+          "original": "チノ びょんびょん",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": null,
+          "original": "Ｂポーズ",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": null,
+          "original": "同時にポーズ変え",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": null,
+          "original": "けしてみる",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": null,
+          "original": "リンク解除",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": null,
+          "original": "チノ登場",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*se_test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "まつ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*test": {
+      "texts": {
+        "0": {
+          "speaker": null,
+          "original": "ラビットハウス内 Ｘｍａｓ夜明屋内",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ここは、木組みの家と石畳の街。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "表情を指定しないと口パクしない説",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "ここは口パクするかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "２つまえのセリフにバックログジャンプしてみよう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*backlogtest": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "１２３４５６７８９０１２３４５６７８９０１２３４\\n１２３４５６７８９０１２３４５６７８９０１２３４\\n１２３４５６７８９０１２３４５６７８９０１２３４",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "一２３４５６７８９０１２３４５６７８９０１２３４\\n一２３４５６７８９０１２３４５６７８９０１２３４\\n一２３４５６７８９０１２３４５６７８９０１２３４",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "タカヒロ",
+          "original": "１２３４５６７８９０１２３４５６７８９０１２３４\\n１２３４５６７８９０１２３４５６７８９０１２３４\\n１２３４５６７８９０１２３４５６７８９０１２３４",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,141 @@
+{
+  "identity": "chino_d08.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "みんな",
+          "original": "ありがとうございました～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "お……終わったぁ～……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "メグ",
+          "original": "やったね、マヤちゃん！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "マヤ",
+          "original": "ああ、なんとか乗り切ったぜ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "終わりましたね……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "みんな、ここまでよく頑張ったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "シャロさん、手伝っていただいて\\n本当にありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "シャロ",
+          "original": "いいのよ。\\nあんな状況で見てるだけなんて、\\n自分を許せないし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "あ～、今日はもうお風呂に入って\\n眠りたい気分だよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "何言ってるのよ、ココア。\\n本番はこれからじゃない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "はっ！？　そうでした！\\n急いでクリスマスパーティーの準備をしないと！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "チノちゃんまで忘れてたの！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "マヤ",
+          "original": "いよいよ今日のメインイベントだな！\\n楽しみ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "こんばんは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "こんばんは、お邪魔しますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "あっ！　千夜ちゃん、青山さん！\\nようこそ、クリスマスパーティーへ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "それは気が早いだろ。\\nしかも、チノが言うべきセリフだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "あら、シャロちゃん、もう来てたの？\\nそんなにパーティーが楽しみだったのかしら。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "な、何言ってるの！\\n早く来たのはたまたまよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "青山",
+          "original": "この度は、私まで招待してくださって\\nありがとうございます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "マヤ",
+          "original": "ねえねえ、２人でなんか\\n大きい物持ってきてるけど、それって何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ふふふふ！\\n今日の主役を持ってきたのよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

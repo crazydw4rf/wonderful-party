@@ -1,0 +1,177 @@
+{
+  "identity": "chiya_c03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "あの、おじいちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "なんじゃ、チノ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "今日、おじいちゃんがいない時に\\nみんなで宝の地図について話し合ったんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "……わしには関係のない話じゃな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "それで、地図の謎が解けて、\\nようやく宝物が見つかりそうなんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "なんじゃと！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "その反応……\\nやっぱり、おじいちゃん、\\n何か知ってるんじゃないですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ティッピー",
+          "original": "わ、わしはなーんも知らんぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "では、どうしてこっちを見ないんですか。\\nいつもは私の顔を見て話してます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ティッピー",
+          "original": "そんな気分の時もあるんじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "宝物の話をしている時のおじいちゃんは、\\nいつも様子がおかしいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ティッピー",
+          "original": "たまたまじゃ、たまたま。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "普段はお店を休むことなんてないのに、\\n今日はなぜか休んでましたね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ティッピー",
+          "original": "気分がすぐれなかったからだと言ったはずじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "……なるほど。\\nわかりました、何か深いわけがあるんですね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ティッピー",
+          "original": "そ、そんなものは何もないぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "そうですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "今度、みんなで宝探しに行きます。\\n私も行くつもりですが、\\nおじいちゃんもついてきてくれますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ティッピー",
+          "original": "むう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "おじいちゃんが何も知らないなら、\\nついてきても問題なんてありませんよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ティッピー",
+          "original": "当たり前じゃ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "なら、一緒に宝物を探してください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ティッピー",
+          "original": "も、もちろんじゃ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "それから……\\nもし宝物が見つかって、それがレシピだった場合、\\nクリスマスメニューに使ってもいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ティッピー",
+          "original": "そ、それは……ううむ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "チノ",
+          "original": "だめですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ティッピー",
+          "original": "だ、だから、わしは何も知らん！\\n聞かれても困るわい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "……そうですか。\\nわかりました。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

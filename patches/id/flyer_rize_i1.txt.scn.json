@@ -1,0 +1,163 @@
+{
+  "identity": "flyer_rize_i1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ふーむ……うむむむむ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "なんだ？\\nさっきから何を唸ってるんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "なるほどー……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "１人で納得するな！\\nしかも、なんで私を見ながらなんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "これはまさに、素材を活かしつつも\\n新境地の味付け――だね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "素材？　新境地？　味付け？\\nどういう意味だ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "つまりね、素材から想像できるものを超えた\\n味付けだってことかな。\\nしかもすっごくおいしくできるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "なんで料理みたいな言い方になってるんだ？\\nこの服の話だろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "うん、服の話だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "……そ、そうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "そうも断言されると、こっちが\\n間違っている気分になってくるな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "まあ、いいか。\\nよくわからないけど、\\nココアなりに褒めてくれてるんだろ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "もちろんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "あっ、そうだ。\\n私はどうかな？\\nこの衣装、ちゃんと着こなせてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "ん～、そうだな……。\\nうん、いつもより大人っぽい感じがする。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "おおっ！\\nホントに？　今の私、大人っぽい？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "あくまで、見た目だけ、な。\\nそうやって食いついてくるあたりは\\nいつものココアだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "はうっ！\\n確かにそうかも……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "でも、私も素材を\\n活かせるようになってきたんだね。\\n１歩前進だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "だから、それはどういう意味なんだ？\\n素材ってなんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "それじゃリゼちゃん、\\nさっそくチラシ配り始めよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "私とリゼちゃんの味のハーモニーで\\n街行く人をとりこにしちゃおう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "リゼ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "いつもながら、\\nココアの言うことはよくわからないな。\\n楽しそうだからいいけどさ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

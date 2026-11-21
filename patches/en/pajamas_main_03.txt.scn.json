@@ -1,0 +1,568 @@
+{
+  "identity": "pajamas_main_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "そわそわ……そわそわ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "ふむ、なるほど。\\nラビットハウスの評判はこんなところか。\\n妥当ってところだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "頑張った分だけ結果が出たって感じね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "よし、それじゃ、今週の報告はここまでだ。\\nココア、始めていいぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "はーいっ！\\nそれじゃ、みんな、言っておいたもの、\\nちゃんと持ってきた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "張り切ってるわねぇ。\\nそんなに楽しみにしてたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "えへへ～、\\nもう昨日からそわそわしっぱなしだったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "そんなココアちゃんの期待に応えられるか\\nわからないけど、用意してきたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "でもココアさん、どうしてこのタイミングで\\nプレゼント交換をするんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "ああ、プレゼント交換をするから\\n用意しろって突然言われて、私も驚いたぞ？\\n今日は何かの記念日なのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "ううん、なんの記念日でもないよ？\\nむしろこれから記念日にするの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "えっと……どういうことかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "こうして、みんなでお泊まり会って\\nそんなにたくさんできることじゃないよね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "だからね、みんなで一緒に過ごした記念に\\nプレゼントを交換すれば、\\n絶対に忘れたりしないかなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "そういうことだったのね。\\nふふ、素敵な考えだと思うわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "はい……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "ココアも、たまにはいいこと思いつくんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "シャロ",
+          "original": "そうですね。\\nいつもは、急によくわかんないこと言い出して\\nこっちを振り回してくるし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "え！？　私、みんなを振り回しちゃってる？\\n嫌だったら嫌って言ってくれていいんだからね？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "安心しろ、こっちだって\\n楽しくなければわざわざ振り回されたりしないさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "それじゃ、さっそく始めましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "うん！\\nじゃあ、みんなが持ってきたプレゼントを\\nお布団の中に隠して――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "ココア",
+          "original": "ここから、１つ選んで取り出すの。\\n自分のを引いちゃったら、やり直しで！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "チノ",
+          "original": "わかりました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "わくわくするわね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "なんとしてもリゼ先輩のプレゼントを……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "では、みんな持ち場についたか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "イエッサー！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "リゼ",
+          "original": "では……３、２、１、取れっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（えいっ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "リゼ",
+          "original": "……どうだ？\\n自分のを引いてないか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "ココア",
+          "original": "私は大丈夫！\\nえへへ、これは誰のプレゼントかな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "チノ",
+          "original": "どきどきします……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "開けるのが楽しみだわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "シャロ",
+          "original": "これは先輩のプレゼントなのかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "リゼ",
+          "original": "よし、大丈夫みたいだな。\\nじゃあ、さっそく確認するか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "ココア",
+          "original": "うんっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（わあ～！\\n　これ、ミニチュアの銃のストラップだ！\\n　すごい、小さいけどまるで本物みたい！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（わあ～！\\n　これ、ミニチュアの銃のストラップだ！\\n　すごい、小さいけどまるで本物みたい！）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "これ、格好いい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（あれ？　他にも何かついてる？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "これ、リゼちゃんのプレゼントだね。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これ、格好いい～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "そ、そうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あれ？\\nこれってリゼちゃんのプレゼントだったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ああ。\\n自分がもらって嬉しいものって\\n基準で選んだら、これになってしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "……やっぱり、\\nもっとかわいいものがよかったか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ううん、これもかわいいよ。\\nちんまりしてて微笑ましい感じがする。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだよな！\\nこいつには、格好よさとかわいさ、\\nその両方があると思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "千夜",
+          "original": "２つの要素がお互いを引き立て合う。\\n甘いものとしょっぱいものの\\n食べ合わせみたいな感じね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "そうそう、それと同じだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "同じ……なんでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "……ん？　あれ？\\n銃と一緒に何かついてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、それはドッグタグだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　他にも何かついてる？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "この板、なんだろ？\\n小判かな？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "そいつは、小判じゃなくてドッグタグだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ドッグタグ？\\nドッグって犬だよね？\\nってことは、これ、犬につけるの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "違うんじゃない？\\nドッグタグって、軍人がつけてる\\nイメージなんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "ココアもシャロも両方正解だ。\\nこれは軍人が持つ認識票なんだが、\\nスラングでドッグタグ、犬の鑑札って呼ぶんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "まあ最近では、ＩＤタグと呼ぶのが\\n一般的になってるみたいだけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "そうなんだ。\\nそんなに詳しいってことは、\\nこれ、リゼちゃんのプレゼント？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "リゼ",
+          "original": "あ、ああ。\\nこんな物しか思いつかなくてさ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "これ、リゼちゃんのプレゼントだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "なぜ決めつけた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "だって、すごくリゼちゃんっぽいよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "そうか……。\\nやっぱり、普通の女の子は\\nもっと別のものを選ぶんだな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "ううん、嬉しいよ！\\n自分では買わないものがもらえたんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ならいいんだが……\\n自分がもらって喜べる物、と考えたら\\nこれになってしまって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "……ん？\\n銃と一緒に何かついてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ああ、それはドッグタグだよ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あれ？\\nこのタグ、何か刻んであるね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "わあ！\\n見て見て、今日の日付が刻んである！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "本当です。\\nリゼさん、わざわざ刻印を入れたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "その、ココアがなんのために\\nプレゼント交換をするのかわからないけど、\\n今日って日の記念になればいいと思ってさ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "こんなすぐに気付かれるとは\\n思ってなかったんだけど……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "リゼちゃん……！\\n私たち、同じことを考えたんだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ああ、みたいだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "嬉しい！\\nありがとう、大事にするね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "私たちも、このストラップを\\n見るたびに今日のことを思い出せるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "シャロ",
+          "original": "さすがリゼ先輩！\\nさり気なさが素敵です……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "さ、さて！\\nプレゼント交換も終わったし、そろそろ寝るぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "え？　まだ早くない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "リゼ",
+          "original": "いいだろう？\\n少し早く寝るぐらいが健康にいいんだ。\\nさあ、準備開始！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "ココア",
+          "original": "は～い。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（リゼちゃん、照れちゃってる？\\n　だから早く寝ようって言い出したのかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、リゼちゃんのおかげで\\n　今日はいい夢を見れそう……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "（今日は誰と一緒に寝ようかな）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

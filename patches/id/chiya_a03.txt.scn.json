@@ -1,0 +1,214 @@
+{
+  "identity": "chiya_a03.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんとクリスマスパーティーの準備かぁ。\\n　楽しみだなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（２人でみんなに招待状を書いて、\\n　料理を考えて、飾りつけをして……\\n　考えただけでわくわくが止まらないよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でもやっぱり、１番大事なのは料理だよね。\\n　パーティーにはおいしい料理が欠かせないよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（だからこそ料理に妥協は許されない！\\n　ただでさえ、私たちは喫茶店で\\n　働いてるんだからね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（クリスマスと言えば、まずはターキー！\\n　ラビットハウスにはオーブンもあるし\\n　じっくりこんがり焼けちゃうよ！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（他には……\\n　クリスマスパーティーのスペシャルメニュー、\\n　どんなのがいいかな？）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "（他には……\\n　クリスマスパーティーのスペシャルメニュー、\\n　どんなのがいいかな？）",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "（やっぱりケーキだね！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "（そこは千夜ちゃんにお任せしよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "（おいしいパンを焼こう！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（やっぱりケーキだね！\\n　クリスマスといったらケーキ、\\n　これはターキーと同じくらい重要だよ）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（クリスマスの特製ケーキ……。\\n　きっと手作りの方がみんな喜ぶよね。\\n　難しそうだけど、きっと作るのだって楽しいよ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（クリスマスなんだから、\\n　普通のケーキじゃなくて\\n　何か特別なケーキを作りたいなぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（みんなが喜んでくれる特別なケーキ……。\\n　どんなものがいいかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（ティッピーの形をしたふわふわケーキとか、\\n　リゼちゃんっぽい戦車ケーキとかもいいかも）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（そこは千夜ちゃんにお任せしよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（って、それじゃだめだよ！\\n　私は千夜ちゃんのお手伝いをするんだから）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うん、別に変に考え込む必要はないよ。\\n　今までクリスマスに食べてきた\\n　料理を思い出して……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（やっぱり、ケーキかな？\\n　あ、クリスマス特製パンなんていいかも！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おいしいパンを焼こう！\\n　クリスマスにちなんだかわいいパンを作れば\\n　きっとみんな喜んでくれるよね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（サンタさんやトナカイやツリーのパンとか、\\n　クリスマスらしい物をいっぱい作ろう！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（それから、冬らしく雪の結晶や\\n　星の形のパンもいいなぁ～）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（さあ、ここは腕の見せ所！\\n　聖夜に向けて私のパン魂を解き放っちゃうよ！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うーん、夢が広がるなぁ～）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、何を作るにしても準備が大変だし\\n　私と千夜ちゃんだけでできるのか\\n　不安な部分もあるよね……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（やっぱり、パーティーをやるのって\\n　簡単じゃないんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（千夜ちゃんも、\\n　きっとこんな風に考えてたんだね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（１人で考えると不安になっちゃう。\\n　できるかできないかは、\\n　千夜ちゃんと２人で考えた方がいいかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（うん！　決めた！\\n　まずはやりたいことだけ考えて、\\n　お昼休みに千夜ちゃんと相談しよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（早く千夜ちゃんとクリスマスの話が\\n　したいけど……今は授業中だし、\\n　ちゃんと集中しないとね）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

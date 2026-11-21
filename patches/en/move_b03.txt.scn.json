@@ -1,0 +1,356 @@
+{
+  "identity": "move_b03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（今日はシャロちゃんと\\n　お喋りしてすごそうかな）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（シャロちゃんにハーブについて教えてもらって、\\n　おいしい飲み方も習って……\\n　そうやって優雅な休日を過ごすのもいいよね）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、遊びに来たよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "１名様ですね？\\nこちらのお席へどうぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、あの、シャロちゃん？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "それでは、ご注文がお決まりの頃にお伺いします。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（行っちゃった。\\n　私だってわからなかったのかな？\\n　さすがにそれはないと思うけど……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（あれ？　席、全部埋まってる。\\n　そっか、ちょうど混んでる時間に\\n　来ちゃったんだ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（これじゃ、シャロちゃんと\\n　お話しするのは無理かぁ）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（でも、そのうちお客さんも引くよね。\\n　シャロちゃんの手が空くまで待とうっと）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "ありがとうございました！\\nまたのお越しをお待ちしています。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（だいぶ、お客さんが減ったけど……\\n　そろそろシャロちゃんとお話しできるかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "シャロ",
+          "original": "はぁ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "シャロちゃん、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "シャロ",
+          "original": "疲れた……。\\n今日は開店から、お客さんが途切れなくて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "シャロ",
+          "original": "こればかりは予測不可能だから、\\n前もって準備することもできないし……\\nもう体力も気力も限界よ……。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "シャロ",
+        "original": "こればかりは予測不可能だから、\\n前もって準備することもできないし……\\nもう体力も気力も限界よ……。",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "頭、なでてあげるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "コーヒーを飲んでみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "お店、手伝おうか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "頭、なでてあげるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "はっ？\\nなでるって、それで何になるのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "よく頑張ったねー。\\nシャロちゃん、えらいえらい。\\nなでなで～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "こ、こら！\\nまだなでていいって言ってない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "今日のお仕事はもうちょっとあるけど、\\n頑張ってね。\\n私、応援してるよ。なでなで。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "う……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "ああ、もう、髪飾りの位置がずれちゃうでしょ！\\nやめなさいったら！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "大丈夫、そこは気をつけたからね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "そ、そう。\\nあんたにしては気が利いてたじゃない。\\nそれに……ちょっと癒された感じだし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "え？　何？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "な、なんでもない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あれ？\\nシャロちゃん、少し元気になった？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "コーヒーを飲んでみよう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "飲めるわけないでしょ！\\n仕事中に酔ったら店長に叱られて減給確実、\\n下手したらクビよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "あ、そっか、ここって\\nコーヒー置いてないんだっけ？\\nちょっと待って、今、買ってくる。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "話聞いてた！？\\nそんなことしなくていいの！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "お？\\nシャロちゃん、ちょっと元気になった？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "……そうね。\\nなんだか無理矢理、元気を\\n引きずり出された感じだけど。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "お店、手伝おうか？\\n同じ喫茶店でバイトしてるんだし、\\n飛び入りでも何とかなると思うんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そんなことしなくていいわよ。\\nこれは私の仕事、いくら疲れてるからって\\n人にやらせるなんてできないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "それにココア、\\nハーブの種類と効能、今すぐ説明できる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "うっ……！\\nそれは難しそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "シャロ",
+          "original": "この店じゃ、まず\\nハーブの知識を身につけないといけないの。\\nココアがすぐに覚えられるとは思えないわ。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy3": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "でも、その……ココアの気持ちは嬉しいのよ？\\nありがと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あれ？\\nシャロちゃん、少し元気になった？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "シャロ",
+          "original": "まあ、残りの時間を乗り切るくらいの\\n気合いは入ったかしら。\\n疲れた顔見せて悪かったわね、ココア。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "ううん！\\nシャロちゃんが元気になってよかったよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "シャロ",
+          "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "それじゃ、私、まだ仕事中だから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "うん、笑顔を忘れずに頑張ってね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "わかったわよ、もう！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

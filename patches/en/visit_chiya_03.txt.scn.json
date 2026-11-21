@@ -1,0 +1,442 @@
+{
+  "identity": "visit_chiya_03.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "こんにちは。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、千夜ちゃんにシャロちゃん！\\nいらっしゃいませ！\\nお仕事、終わったの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ、そうなの。\\nタイミングがよかったから\\n一緒に来ちゃった。ね、シャロちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "私は……仕事の邪魔になるといけないから\\nやめた方がいいって言ったんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "大丈夫だよ。\\n邪魔になるっていうほど\\n忙しいこともあまりないしね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ティッピー",
+          "original": "ふん、わしは隠れ家的な店を望んでいたからの。\\n今ぐらいでちょうどいいわい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チノちゃんが腹話術で強がりを言い始めた！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "ココアが余計なことを言うからだろ！\\nチノ、無理しなくていいんだからな？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "いえ、大丈夫です。\\n今のはちょっとした冗談ですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "でも、チノちゃんの腹話術はすごいよね。\\nたまに、本当にティッピーが話してるのかと\\n思うことがあるよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "えっ……。\\nそ、そんなこと、あるわけないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "ああ、わかってる。\\nティッピーがしゃべったら\\nオカルトとかホラーになるもんな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "千夜",
+          "original": "あ、そういえば……\\nティッピーで思い出したんだけど、\\n今日、すごくかわいい動物を見たのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "え？　それってかわいい野良うさぎとか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "それが、うさぎのようで\\nうさぎじゃないような……\\nちょっとよくわからない動物だったの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "それはミステリーだね。\\nもしかしたら、新種のもふもふかもしれないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "チノ",
+          "original": "新種のもふもふ……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "リゼ",
+          "original": "この街に未知の生物が……そいつは気になるな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "見間違えただけじゃないの？\\n結局うさぎだった、なんてオチが\\n想像できるんだけど。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "千夜",
+          "original": "ううん、あれはうさぎ以外の何かだと思う。\\nそれじゃ、私が特徴を言うから\\nみんなで絵にしてみるっていうのはどう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "面白そう！\\nうん、やってみよう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "チノ",
+          "original": "では、紙と描くものを持ってきますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "じゃあ、始めるわよ。\\nまず……もふもふな毛で覆われていたわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "もふもふ～、もふもふ～。\\nいいね、私の筆ものっちゃうよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "形はうさぎに近いけど、耳は短いの。\\nそれから……尻尾は長かったわね。\\n背中には羽も生えていたような……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "シャロ",
+          "original": "羽！？\\nそれ、絶対に記憶がどこかで\\n改ざんされてるでしょ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "ココア",
+          "original": "できたー！\\nもふもふ新種発見だよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "チノ",
+          "original": "ええ！？\\n今のヒントで描けたんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "ココアちゃん、どんな動物を描いたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "ココア",
+          "original": "うん、私が思うにこれは――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "うん、私が思うにこれは――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "第２形態のティッピーだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "新種の羽うさぎだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "人工生命体だよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "第２形態のティッピーだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "なぬ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "だ、第２形態？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "そう！\\n実は、ゲームのボスキャラみたいに\\n本当の姿を隠してるんだよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "そうだったの！？\\nまさか……ティッピー、あなたが\\nこの街を裏で支配していたなんて……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ティッピー",
+          "original": "勝手に決めるなっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "そうか、このもふもふの毛玉は\\n油断を誘うためのカモフラージュだったのか！\\nくっ！　すっかりだまされた！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ティッピー",
+          "original": "リゼまで何を言っておるか！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "ふふっ！\\nわかってるわ、冗談よ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "ああ、ティッピーを経験値に\\nするつもりはないから、安心しろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "シャロ",
+          "original": "い、意外にノリノリでしたね、先輩。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "新種の羽うさぎだよ！\\nきっと耳を羽にして空を飛ぶんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "そんなうさぎがいたら怖いわよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "うーん、７０点ね。\\nとてもメルヘンチックだけど、\\nそこに至るまでの過程が欲しいわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "えっ？\\nこれ、何かのテストだったんですか？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "人工生命体だよ！\\nきっと、どこかの研究所で極秘裏に誕生した子が\\n脱走して、夜な夜な人間を襲ってるんだ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy2": {
+      "texts": {
+        "0": {
+          "speaker": "千夜",
+          "original": "まあ……！\\nこの街にそんな秘密が隠されていたなんて！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "秘密の研究所なんて、\\nそんなのフィクションでしかあり得ないわよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "いや、可能性はゼロじゃない。\\n世界には様々な陰謀が隠されていても\\nおかしくないしな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "えっ！？\\n先輩までそんな……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "そう、今この瞬間にも、この街のどこかで\\n悲劇が起こってるのかもしれないわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "シャロ",
+          "original": "この流れ、続けていくの！？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "うーん。\\n結局、正体はわからずじまいかぁ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "シャロ",
+          "original": "でも……このリゼ先輩の絵、かわいいですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "なっ！？\\nか、勝手に見るな！\\nお返しにシャロの絵も見てやるぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "シャロ",
+          "original": "どうぞっ！\\n思う存分見てください！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "リゼ",
+          "original": "え、そう来るのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ほえー。\\nチノちゃんの絵はやっぱり個性的だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "……もっと普通の絵が描きたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "千夜",
+          "original": "ちなみに私も描いてみたんだけど……\\nどうかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "こ、これは……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "シャロ",
+          "original": "なんていうか……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "鳥獣戯画みたいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "それだっ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

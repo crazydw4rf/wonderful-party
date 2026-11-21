@@ -1,0 +1,225 @@
+{
+  "identity": "main_a06.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "はあ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "チノ",
+          "original": "（お父さんが教えちゃうから\\n　ココアさんが張り切っちゃった）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "チノ",
+          "original": "（このままだとすごく大ごとにしそう……。\\n　そんなの、はずかしい）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "（でも……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "チノ",
+          "original": "（世界で１番素敵な日……。\\n　どんな日になるのかな？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "えっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "チーノちゃん！　一緒に入ろう！\\nお誕生日の前祝いだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "チノ",
+          "original": "ま、前祝いでお風呂って……\\n意味がわからないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "いいからいいから。\\nこういうのは気持ちが大切なんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "……わかりました、いいですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "おおっ！\\nそれじゃ、ココア風呂、お誕生日バージョンだよ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "ねえ、チノちゃん。\\nお誕生日だけど、何かして欲しいことはある？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "いえ、特にはありません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "もー、チノちゃんは本当に控えめだね。\\nお姉ちゃんにはもっと甘えちゃっていいんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "チノ",
+          "original": "だから、妹じゃないです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "チノ",
+          "original": "あの、ココアさん。\\n私のことばかり知られるのは不公平です。\\nココアさんのお誕生日も教えてください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "ココア",
+          "original": "私？　私は春だから当分先だよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "チノ",
+          "original": "（春なんだ……。\\n　なんだかココアさんらしいかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "ココア",
+          "original": "それよりもチノちゃんのお誕生日だよ！\\n楽しみだな～、どんな風にお祝いしようかな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "チノ",
+          "original": "いえ、その……\\nそんなに大げさにしなくていいですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "大げさにするつもりなんてないよ。\\nただ、チノちゃんにね、私の感謝の気持ちを\\n全部伝えたいの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "私、この街に来てから\\nチノちゃんにいっぱいお世話になってるもん。\\n少しでもそのお礼をしたいなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "チノ",
+          "original": "ココアさん……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "だから、私にできる精一杯のお祝いをさせて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "チノ",
+          "original": "……はい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "おおっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "チノ",
+          "original": "な、なんですか？\\nどうしてそこで驚くんですか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "ココア",
+          "original": "さっきも思ったけど、\\n今日のチノちゃんはなんだか素直だなって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "ココア",
+          "original": "よーし！\\nじゃあ、今日は一緒の布団で寝よう！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "チノ",
+          "original": "それはちょっと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "ココア",
+          "original": "えー！　なんで？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "チノ",
+          "original": "だって、ずっと誕生日の話をして\\n眠らせてくれそうにないですから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "ココア",
+          "original": "あー、確かにそれは否定できないかな～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "チノ",
+          "original": "やっぱりですか。\\n明日も学校です、早く寝ないとだめですよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\nじゃあ、一緒に寝るのはまた今度！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "チノ",
+          "original": "……わかりました。\\nまた今度、一緒に、です。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

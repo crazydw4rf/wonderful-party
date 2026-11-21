@@ -1,0 +1,171 @@
+{
+  "identity": "chino_b05.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "ありがとうございました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "またのお越しをお待ちしてます！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "お客さん、いなくなっちゃった。\\n今日は何だか寂しいね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "まあ、今日はチノがいないし、\\nあまり忙しくなっても困るけどな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "大丈夫！\\nそういう時は私に任せて？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "……余計に不安だ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "なんで！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "タカヒロ",
+          "original": "やあ、お疲れ様。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "あれ、どうしたんですか？\\nまだバーの開店には早すぎですよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "タカヒロ",
+          "original": "ああ、チノに部屋を追い出されてしまってね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "リゼ",
+          "original": "追い出された！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "ティッピーまで！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "タカヒロ",
+          "original": "なんでも、今日はチノの許可が出るまで\\nダイニングキッチンに立ち入り禁止だそうだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "えええええ～！？\\nチノちゃんが立てこもり！？\\nもしかして、反抗期！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "いや、そんなわけないだろ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "で、で、でも！\\nキッチン立ち入り禁止にされたら\\nご飯はどうするの～！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "リゼ",
+          "original": "そっちの心配か！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "タカヒロ",
+          "original": "確かに、大変なことになったな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "そのわりには、なんだか嬉しそうですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "タカヒロ",
+          "original": "ああ、まあね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "タカヒロ",
+          "original": "今まであまり自己主張をしてこなかったが、\\n最近は色々と言うようになった。\\nチノも、いつの間にか成長したんだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "わ、私、心配だからちょっと見てくる～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "リゼ",
+          "original": "やめとけ、ココア。\\nここはそっとしておいてやれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア",
+          "original": "で、でも～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "タカヒロ",
+          "original": "何も心配ないさ。\\n少し待っていてあげよう。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "identity": "visit_aoyama_01.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "青山",
+          "original": "……お邪魔します。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "あ、青山さん。\\nいらっしゃいませ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "はい……。\\nあの、そちらのお席、いいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "チノ",
+          "original": "はい、どうぞ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（青山さん、元気がないみたい。\\n　どうしたんだろう？\\n　ちょっと聞いてみよう）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "青山さん、どうかしたんですか？\\n元気ないみたいですけど。\\n私でよかったら、相談に乗りますよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "青山",
+          "original": "……聞いてくれますか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "はい、何でもどんと言っちゃってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "青山",
+          "original": "実は……スランプ気味で、\\n小説のインスピレーションが全然湧かないんです。\\nこんなことでは、小説家としてやっていけません。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "へー、そうだったんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "リゼ",
+          "original": "こら、ココア。\\n真面目な話なんだぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "ココア",
+          "original": "だったら、小説のアイディアを\\n私たちが考えてあげればいいんじゃない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "チノ",
+          "original": "それは……ちょっと難しいと思いますが。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア",
+          "original": "そうかな？\\nえっと、例えば――",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummyselect1": {
+      "select_prompt": {
+        "speaker": "ココア",
+        "original": "そうかな？\\nえっと、例えば――",
+        "translation": "",
+        "status": "untranslated"
+      },
+      "choices": {
+        "*sel_0101": {
+          "original": "心機一転、ホラーを書いてみたらどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0102": {
+          "original": "爽快なアクションなんてどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "*sel_0103": {
+          "original": "ラブストーリーとかいいかもしれませんよ？",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0101": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "心機一転、ホラーを書いてみたらどうですか？\\n例えば――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "舞台は寂れた農村で、にんじん畑が一晩にして\\n全滅する怪現象から物語は始まります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "まあ、それは大変。\\nそれでどうなるんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "農夫さんは、畑を荒らす泥棒を見つけるために\\n徹夜で見張ることにしました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "明かりを消して、物陰でじっと泥棒が来るのを\\n待っていると、周りからかりかり、かりかり、と\\nなにか音が聞こえてきます。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "…………。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "その音が気になって、\\n思わず明かりをつけたら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "にんじんを囓る１００万羽のうさぎが！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "そ、そんなにたくさん！？\\nそれで、うさぎたちはどうなるんですか？\\n農夫さんも……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "ココア",
+          "original": "はい、話はここで終わります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "チノ",
+          "original": "解決してませんよ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "青山",
+          "original": "そうですねぇ。\\nそこは、きちんと聞いておかないと。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "チノ",
+          "original": "ココアさん！？\\n話はまだ終わってませんよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0102": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "爽快なアクションなんてどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "アクション……。\\nうん、それもいいかも。\\nどんなお話なんでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "頭にうさぎをのせた美少女探偵が、\\n街の悪党と戦うんです。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "チノ",
+          "original": "……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "うさぎみたいにぴょんぴょん側転しながら、\\n拳銃をバンバン撃つアクションシーンが\\n盛りだくさん！　なんてどうですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "へえ、面白そうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "ええ、いいお話が書けそう……。\\nそれは、アイディアとしていただいても\\nよいのでしょうか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "どうぞ！\\n使ってもらえると嬉しいです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_0103": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "ラブストーリーとかいいかもしれませんよ？\\n例えば――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "朝、遅刻するー！　ってパンをくわえて\\n走ってる女の子に、どーん！　って\\nぶつかるうさぎとか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "青山",
+          "original": "うさぎですか？\\nそこは、同じような遅刻寸前の男の子では……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "それだと簡単に展開が読めちゃいますから。\\nひねった方が面白くなるはずです！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "青山",
+          "original": "なるほど、マンネリ防止ですね。\\nそれで、そのうさぎと\\nどんなラブストーリーが始まるのでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "ココア",
+          "original": "ふっふっふ、気になります？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "チノ",
+          "original": "私も気になります。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "チノ",
+          "original": "ココアさん！？\\n話はまだ終わってませんよ！",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*sel_01_join": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "まったく、ココアはマイペースだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "青山",
+          "original": "でも、こんな私のために\\n色々考えてもらえて嬉しかったです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "ココア",
+          "original": "おまたせー！\\n焼き立てのパンだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "青山",
+          "original": "まあ、おいしそう……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "ココア",
+          "original": "疲れた時や悩んでる時は、\\nおいしいパンを食べればいいんだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "チノ",
+          "original": "今日のパンは、何だか不思議な香りがしますね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア",
+          "original": "あ、わかった？\\n今日のパンは、ココア特製\\nオリジナル具材パンなんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "青山",
+          "original": "つまり、中身がオリジナルなんですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "はい！\\nカレーパンの代わりになるパンを\\n新しく作ってみようと思って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "チノ",
+          "original": "これは……\\n前にも作った焼きうどんパンですね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "そう！\\nそして、これが新作の梅昆布茶パン！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "リゼ",
+          "original": "おいしいのか、それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "青山",
+          "original": "こっ、これは！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "青山",
+          "original": "常識的に組み合わせることがない素材を\\nあえて混ぜ合わせたパン！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "青山",
+          "original": "まるで、苺と大福が出会って\\n最高のハーモニーを奏でたかのような一体感！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "青山",
+          "original": "相反する存在として、長年戦ってきた具材。\\n自分たちには独立したフィールドがあるからと、\\nあえて共闘の道を歩まなかった２大勢力！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "青山",
+          "original": "しかし、この２大勢力が手に手を取って\\n和解の道を選んだ時……新たな道が開かれる！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "青山",
+          "original": "私、書けるかも……！\\nありがとうございます、ココアさん！！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "チノ",
+          "original": "あ、青山さん！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "すごい勢いで行っちゃったね……。\\nパン、食べていけばよかったのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "リゼ",
+          "original": "ココアのパンが刺激になるなんて、\\n何がきっかけになるかわからないものだな。",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

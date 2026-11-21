@@ -1,0 +1,591 @@
+{
+  "identity": "rize_d09.txt.scn",
+  "scenes": {
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "リゼ",
+          "original": "メリークリスマ――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "リゼ",
+          "original": "……ス？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "リゼ",
+          "original": "ど、どうして誰もいないんだ？\\nまさか、みんな急に用事ができて帰ったのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "リゼ",
+          "original": "いや、さすがにそんなことがあるわけない。\\n仮にそうだとしても、\\n誰か声をかけに来てくれるだろうし……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "マヤ",
+          "original": "どうする？\\n声かけそびれちゃったぞ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "リゼ",
+          "original": "（……ん？）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "メグ",
+          "original": "だって、マヤちゃんが\\n隠れて驚かそうって言うから……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "リゼ",
+          "original": "おい、カウンターに隠れてる２人。\\nいるのはわかっている、出てこい。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "マヤ＆メグ",
+          "original": "あ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "リゼ",
+          "original": "これはどういうことなんだ？\\n他のみんなはどこに行った？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "メグ",
+          "original": "それはね～？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "マヤ",
+          "original": "まあまあ、すぐにわかるって。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "いくよ、みんな！\\nせーのっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "ココア＆チノ＆千夜＆シャロ",
+          "original": "メリークリスマース！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "リゼ",
+          "original": "なっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "どう、リゼちゃん！\\n驚いた？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "リゼ",
+          "original": "お、お前たち、その格好は一体？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "千夜",
+          "original": "リゼちゃんとお揃いにしようと思って、\\nみんなで用意したのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "シャロ",
+          "original": "要は、逆サプライズってやつです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "リゼ",
+          "original": "逆サプライズ……？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "ココア",
+          "original": "おお、リゼちゃんがぽか～んって顔してる！\\nこれは貴重だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "千夜",
+          "original": "ええ。\\n急に決めたことで\\n用意するのは大変だったけど――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "こんなリゼちゃんを見られたんだから、\\nやったかいがあったわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "リゼ",
+          "original": "まさか……\\nその衣装は自分たちで作ったのか！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "ココア",
+          "original": "うん！\\nリゼちゃんとお揃いだよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "リゼ",
+          "original": "（そうか、だからココアの指が\\n　絆創膏だらけだったんだな。\\n　朝から気になってはいたんだが……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "26": {
+          "speaker": "リゼ",
+          "original": "だが、どうしてわざわざ自分たちで\\n衣装を作ったりしたんだ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "27": {
+          "speaker": "シャロ",
+          "original": "その答えは、多分先輩と一緒です。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "28": {
+          "speaker": "千夜",
+          "original": "どんなに大変でも、自分の手でやった方が\\n楽しいことってあるわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "29": {
+          "speaker": "リゼ",
+          "original": "それは……まあ……\\nだが、どうしてこのことがわかったんだ？\\n周りには秘密にしていたのに。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "30": {
+          "speaker": "チノ",
+          "original": "リゼさんが風邪をひいた時、\\nうちへの連絡の中で、\\n服を作っていると言ってました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "31": {
+          "speaker": "リゼ",
+          "original": "（あ……！\\n　そういえば、熱のせいでついうっかり……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "32": {
+          "speaker": "千夜",
+          "original": "あと、みんなに欲しい物を\\n聞いて回っていたでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "33": {
+          "speaker": "千夜",
+          "original": "だから、きっとリゼちゃんは\\nサンタさんになろうと考えているんじゃないかって\\n思ったのよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "34": {
+          "speaker": "リゼ",
+          "original": "し、しかし、確証はなかっただろう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "35": {
+          "speaker": "ココア",
+          "original": "うん、だからこっそり\\nリゼちゃんの家の人に聞きに行ってみたの。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "36": {
+          "speaker": "リゼ",
+          "original": "なんだって！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "37": {
+          "speaker": "ココア",
+          "original": "みんな、リゼちゃんのこと心配してたよ？\\n夜遅くまで作業してるし、\\n風邪なんかひいちゃうし。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "38": {
+          "speaker": "リゼ",
+          "original": "……そうか。\\nそれは、ちゃんと謝っておくよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "39": {
+          "speaker": "リゼ",
+          "original": "って、そこじゃなくてだな！？\\n使用人たちは、私が何をしているか\\n気づいていたのか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "40": {
+          "speaker": "ココア",
+          "original": "うん、手伝いたいのに頼ってもらえないって\\nちょっと残念そうだったよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "41": {
+          "speaker": "リゼ",
+          "original": "くう……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "42": {
+          "speaker": "リゼ",
+          "original": "（極秘任務のはずだったのに、\\n　ここまでバレバレだったとは！）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "43": {
+          "speaker": "シャロ",
+          "original": "あの、先輩？\\n気を落とさないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "44": {
+          "speaker": "千夜",
+          "original": "そうよ？\\n私たち、リゼちゃんに感謝の気持ちを込めて、\\nこの逆サプライズを計画したんだから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "45": {
+          "speaker": "チノ",
+          "original": "リゼさんのおかげで、こうして無事に\\nクリスマスパーティーを開くことが\\nできたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "46": {
+          "speaker": "リゼ",
+          "original": "そんな……。\\n私は何もしていない。\\n準備を頑張ったのは、みんなじゃないか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "47": {
+          "speaker": "ココア",
+          "original": "もう！\\nだからね、リゼちゃんは\\n何もしてなくなんてないってば。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "48": {
+          "speaker": "シャロ",
+          "original": "そうですよ。\\n先輩がしっかり計画を立ててくれたから、\\n私たち、準備に集中することができたんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "49": {
+          "speaker": "リゼ",
+          "original": "だが……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "50": {
+          "speaker": "千夜",
+          "original": "仕方ないわねぇ。\\nみんながここまで言ってるのに\\n納得してくれないのなら――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "51": {
+          "speaker": "千夜",
+          "original": "リゼちゃんには、\\nパーティーの主催を降りてもらった方がよさそう。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "52": {
+          "speaker": "リゼ",
+          "original": "な、なにっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "53": {
+          "speaker": "千夜",
+          "original": "でもその代わり、今からリゼちゃんは\\n今日のパーティーの主賓になってもらうわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "54": {
+          "speaker": "リゼ",
+          "original": "はっ！？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "55": {
+          "speaker": "シャロ",
+          "original": "さあ、先輩！\\nこっちに来て座ってください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "56": {
+          "speaker": "ココア",
+          "original": "おとなしく私たちにもてなされてね、リゼちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "57": {
+          "speaker": "リゼ",
+          "original": "ま、待て！\\nそんなに引っ張るな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "58": {
+          "speaker": "ココア",
+          "original": "だって、早くこれを見てほしいんだもん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "59": {
+          "speaker": "ココア",
+          "original": "じゃーん！\\n特製ケーキをご覧あれ～！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "60": {
+          "speaker": "リゼ",
+          "original": "こ、これは……\\nもしかして、このマジパンは私たちか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "61": {
+          "speaker": "ココア",
+          "original": "そうだよ！\\n特別に作ってもらっちゃった。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "62": {
+          "speaker": "シャロ",
+          "original": "チノちゃんの頭の上にティッピーまでいるわ。\\nすごくよくできてるわね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "63": {
+          "speaker": "ココア",
+          "original": "えへへー、でしょ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "64": {
+          "speaker": "リゼ",
+          "original": "……さすがだな。\\nココアに任せれば間違いないと思ってはいたが、\\nこんなに素敵なケーキを用意してくれるなんて。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "65": {
+          "speaker": "メグ",
+          "original": "料理、運んできたよ～。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "66": {
+          "speaker": "マヤ",
+          "original": "ほらほら、どんどん並べるぞ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "67": {
+          "speaker": "リゼ",
+          "original": "おお！\\nこれは、見るからにおいしそうだな。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "68": {
+          "speaker": "千夜",
+          "original": "もちろん、実際においしいわよ？\\nね、チノちゃん。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "69": {
+          "speaker": "チノ",
+          "original": "はい、腕によりをかけました。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "70": {
+          "speaker": "シャロ",
+          "original": "グラスも並べたから、\\nみんな好きな飲み物を注いでね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "71": {
+          "speaker": "シャロ",
+          "original": "あっ！　先輩には私が！\\n何がいいですか？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "72": {
+          "speaker": "リゼ",
+          "original": "ええと……じゃあ、そこのジュースを頼む。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "73": {
+          "speaker": "シャロ",
+          "original": "はいっ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "74": {
+          "speaker": "ココア",
+          "original": "リゼちゃん、どう？\\n始まる前から最高のパーティーって感じがしない？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "75": {
+          "speaker": "リゼ",
+          "original": "ああ、そうだな。\\nもう……これ以上ないくらいだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "76": {
+          "speaker": "千夜",
+          "original": "さて、そんな最高のパーティーを\\n企画したのは誰だったかしら？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "77": {
+          "speaker": "リゼ",
+          "original": "それは……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "78": {
+          "speaker": "シャロ",
+          "original": "先輩が、みんなのことを考えて\\n企画を練ったり、役割を振ってくれたから、\\nこんな素敵なパーティーを開けるんです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "79": {
+          "speaker": "チノ",
+          "original": "だから、自分だけ何もしていないなんて\\n思わないでください。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "80": {
+          "speaker": "ココア",
+          "original": "今、リゼちゃんが感じてる空気は\\nリゼちゃん自身が作り出したものなんだよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "81": {
+          "speaker": "リゼ",
+          "original": "わ、わかったよ！\\nもう、そんなに言わないでくれ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "82": {
+          "speaker": "ココア",
+          "original": "ふふーん、ようやく認めてくれたねぇ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "83": {
+          "speaker": "千夜",
+          "original": "ええ。\\nこれでやっとパーティーを始められるわ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "84": {
+          "speaker": "シャロ",
+          "original": "やっぱり、先輩にも\\n心から楽しんでもらいたかったので。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "85": {
+          "speaker": "チノ",
+          "original": "ありがとうございます。\\nリゼさんのおかげで、\\n素敵なクリスマスパーティーになりそうです。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "86": {
+          "speaker": "リゼ",
+          "original": "みんな……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "87": {
+          "speaker": "ココア",
+          "original": "あれ？　リゼちゃん、泣いてる？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "88": {
+          "speaker": "リゼ",
+          "original": "な、泣いてなんかない！\\nこれは、目にゴミが入っただけだ！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "89": {
+          "speaker": "シャロ",
+          "original": "先輩、ハンカチを……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "90": {
+          "speaker": "リゼ",
+          "original": "いや、大丈夫だ。\\nすまない。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "91": {
+          "speaker": "チノ",
+          "original": "無理はしなくていいんですよ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "92": {
+          "speaker": "リゼ",
+          "original": "本当になんでもないんだ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "93": {
+          "speaker": "千夜",
+          "original": "ふふふふふ！\\nリゼちゃんって、意外と素直じゃないわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "94": {
+          "speaker": "リゼ",
+          "original": "うるさいぞ、そこ！\\nちゃんと聞こえてるからな！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "95": {
+          "speaker": "リゼ",
+          "original": "（まったく！　なんなんだ、これは。\\n　みんなそろって、こんなにも\\n　私のことを気にかけて……）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "96": {
+          "speaker": "リゼ",
+          "original": "（もう、悔しいくらい嬉しいじゃないか！\\n　こんなの反則だ～！！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}

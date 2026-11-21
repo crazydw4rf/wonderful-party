@@ -1,0 +1,175 @@
+{
+  "identity": "flyer_chiya_g1.txt.scn",
+  "scenes": {
+    "*start": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    },
+    "*dummy1": {
+      "texts": {
+        "0": {
+          "speaker": "ココア",
+          "original": "あれ？\\n千夜ちゃん、もしかして――",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "1": {
+          "speaker": "ココア",
+          "original": "やっぱり、あんこだ！\\n連れてきたの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "2": {
+          "speaker": "千夜",
+          "original": "ええ。\\nだって魔女にはお供の使い魔が\\nいるものでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "3": {
+          "speaker": "ココア",
+          "original": "あ、そっか！\\n確かにこの格好、魔女だったね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "4": {
+          "speaker": "千夜",
+          "original": "使い魔といえば黒猫がポピュラーだけれど、\\n黒いうさぎを連れている魔女が\\n１人ぐらいいたっていいわよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "5": {
+          "speaker": "千夜",
+          "original": "ね、あんこ？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "6": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（おお、なんだかあんこが\\n　胸を張ってるように見えてきたよ。\\n　案外その気なのかも）",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "7": {
+          "speaker": "ココア",
+          "original": "うん、そうだね。\\nこれだけ堂々とできるのなら、\\nあんこだって立派な使い魔だね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "8": {
+          "speaker": "ココア",
+          "original": "特にぴんと伸びた耳に風格すら漂ってるよ。\\nむしろ、あんこが黒幕っぽい！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "9": {
+          "speaker": "千夜",
+          "original": "え？　黒幕っぽい？\\n……あんこなだけに？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "10": {
+          "speaker": "ココア",
+          "original": "え？　なにが？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "11": {
+          "speaker": "千夜",
+          "original": "だから、あんこなだけに？\\n……って。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "12": {
+          "speaker": "ココア",
+          "original": "あんこ？　あんこだから？\\n千夜ちゃん、ごめんね。\\nよくわかんないや。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "13": {
+          "speaker": "千夜",
+          "original": "……通じてない！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "14": {
+          "speaker": "千夜",
+          "original": "まさか、わかってもらえないなんて！\\n私、ココアちゃんの親友として\\nまだ何かが足りないのね……！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "15": {
+          "speaker": "ココア",
+          "original": "そ、そんなことないよ！\\n千夜ちゃんに足りないものなんてないから！\\n私の、大事な親友なんだから！",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "16": {
+          "speaker": "千夜",
+          "original": "本当に？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "17": {
+          "speaker": "ココア",
+          "original": "本当だよ。\\n私が言うんだから間違いないよ。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "18": {
+          "speaker": "千夜",
+          "original": "よかったぁ……。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "19": {
+          "speaker": "ココア",
+          "original": "でも、どうして、あんこなだけになの？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "20": {
+          "speaker": "千夜",
+          "original": "え？\\nだって、あんこは黒いから。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "21": {
+          "speaker": "ココア",
+          "original": "ああ、なるほど！\\n黒いから黒幕、そういうことだったんだね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "22": {
+          "speaker": "千夜",
+          "original": "黒幕っていうからには\\nやっぱり黒い方がいいでしょう？",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "23": {
+          "speaker": "ココア",
+          "original": "それに、黒いと\\nハロウィンのかぼちゃ色とも合うし、\\nちょうどいいよね。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "24": {
+          "speaker": "千夜",
+          "original": "さあ、ココアちゃん。\\nあんこと一緒に\\nチラシを配ってしまいましょうか。",
+          "translation": "",
+          "status": "untranslated"
+        },
+        "25": {
+          "speaker": "ココア（Ｍ）",
+          "original": "（く、黒幕がずっとこっち見てる……。\\n　なんだか緊張してきたよ～！）",
+          "translation": "",
+          "status": "untranslated"
+        }
+      }
+    }
+  }
+}
