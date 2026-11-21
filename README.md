@@ -69,7 +69,7 @@ For agentic contributors and LLMs, see [AGENTS.md](AGENTS.md).
 ## CLI Reference
 
 ```text
-usage: cli.py [-h] {setup,extract,validate,apply,build,progress} ...
+usage: cli.py [-h] {setup,extract,validate,apply,build,progress,list} ...
 
 Available subcommands:
   setup               Bootstrap workspace tools and extract game binaries
@@ -78,4 +78,5 @@ Available subcommands:
   apply <lang>        Apply patch files to staging workspace
   build <lang>        Build patched binaries (and optional --repatch zip)
   progress            Calculate progress statistics and update Shields.io badges
+  list [lang]         List per-scenario translation progress (interactive TUI/pager)
 ```

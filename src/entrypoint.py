@@ -5,6 +5,7 @@ from .constants import SUPPORTED_LANGUAGES
 from .extractor import extract_all_patches
 from .patcher import apply_patches, build_binaries
 from .progress import update_progress_and_badges
+from .scenario_list import show_scenario_progress
 from .utils import ensure_workspace_setup
 from .validator import validate_all
 
@@ -38,6 +39,45 @@ def main():
     # progress
     subparsers.add_parser("progress", help="Calculate progress statistics and update Shields.io badges")
 
+    # list
+    list_parser = subparsers.add_parser(
+        "list",
+        aliases=["status"],
+        help="List per-scenario translation progress with TUI/pager",
+    )
+    list_parser.add_argument(
+        "lang",
+        nargs="?",
+        choices=list(SUPPORTED_LANGUAGES.keys()),
+        help="Target language code (en or id). If omitted, displays both languages.",
+    )
+    list_parser.add_argument(
+        "-s", "--search",
+        default="",
+        help="Filter scenarios by name, route, or keyword",
+    )
+    list_parser.add_argument(
+        "--sort",
+        choices=["name", "progress-desc", "progress-asc", "lines-desc"],
+        default="name",
+        help="Sort ordering (default: name)",
+    )
+    list_parser.add_argument(
+        "--pager",
+        action="store_true",
+        help="Force display in system pager (less)",
+    )
+    list_parser.add_argument(
+        "--plain",
+        action="store_true",
+        help="Force direct plain output without TUI or pager",
+    )
+    list_parser.add_argument(
+        "--tui",
+        action="store_true",
+        help="Force interactive curses TUI mode",
+    )
+
     args = parser.parse_args()
 
     if not args.command:
@@ -63,6 +103,23 @@ def main():
 
     elif args.command == "progress":
         update_progress_and_badges()
+
+    elif args.command in ("list", "status"):
+        if args.plain:
+            mode = "plain"
+        elif args.pager:
+            mode = "pager"
+        elif args.tui:
+            mode = "tui"
+        else:
+            mode = "auto"
+
+        show_scenario_progress(
+            lang=args.lang,
+            search=args.search,
+            sort=args.sort,
+            mode=mode,
+        )
 
 
 if __name__ == "__main__":

@@ -87,6 +87,7 @@ python cli.py validate [lang]       # Validate patch syntax and original text in
 python cli.py apply <lang>          # Overlay patches onto staging workspace
 python cli.py build <lang> [--repatch] # Compile modified scenarios and pack release archives
 python cli.py progress              # Recalculate translation stats and update badges
+python cli.py list [lang]           # List per-scenario translation progress (interactive TUI/pager)
 ```
 
 ## Agent Guidelines
