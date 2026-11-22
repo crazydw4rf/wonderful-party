@@ -45,11 +45,11 @@ VALID_STATUSES = {STATUS_UNTRANSLATED, STATUS_MACHINE_TRANSLATED, STATUS_PROOFRE
 FREEMOTE_DOWNLOAD_URL = {
     "linux": {
         "file_name": "FreeMote-Linux-x64.zip",
-        "download_url": "https://github.com/crazydw4rf/FreeMote/releases/download/v4.9.5/FreeMote-Linux-x64.zip",
+        "download_url": "https://github.com/crazydw4rf/FreeMote/releases/latest/download/FreeMote-Linux-x64.zip",
     },
     "windows": {
         "file_name": "FreeMote-Windows.zip",
-        "download_url": "https://github.com/crazydw4rf/FreeMote/releases/download/v4.9.5/FreeMote-Windows.zip",
+        "download_url": "https://github.com/crazydw4rf/FreeMote/releases/latest/download/FreeMote-Windows.zip",
     },
 }
 
