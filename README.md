@@ -17,20 +17,23 @@ A fan translation patch project for the PlayStation Vita game:
 
 ## Playing with Translation Patch (PS Vita)
 
-### Method 1: Using rePatch (Recommended)
+### Method 1: Game Directory Patch (Vita / Vita3K)
+1. Download the latest `wonderful-party-patch-{lang}.zip` from the [Releases](https://github.com/crazydw4rf/wonderful-party/releases) page.
+2. Extract the files (`patch_body.bin`, `patch_info.psb.m`, `script_body.bin`, `script_info.psb.m`) directly into your game directory:
+   - On PS Vita: `ux0:app/PCSG00786/`
+   - On Vita3K: `<Vita3K-pref-path>/ux0/app/PCSG00786/`
+3. Launch the game.
+
+### Method 2: Using rePatch
 1. Ensure your PS Vita is running Henkaku/Enso with the [rePatch reLoaded](https://github.com/SonicMastr/rePatch-reLoaded) plugin installed.
 2. Download the latest `wonderful-party-repatch-{lang}.zip` from the [Releases](https://github.com/crazydw4rf/wonderful-party/releases) page.
 3. Extract the zip archive directly to the root of your Vita storage (`ux0:`).
    The files will extract to:
    ```text
-   ux0:rePatch/PCSG00786/data/scenario/scenario_body.bin
-   ux0:rePatch/PCSG00786/data/scenario/scenario_info.psb.m
+   ux0:rePatch/PCSG00786/scenario_body.bin
+   ux0:rePatch/PCSG00786/scenario_info.psb.m
    ```
 4. Launch the game from LiveArea.
-
-### Method 2: Direct Binary Replacement
-1. Download `wonderful-party-binaries-{lang}.zip` from [Releases](https://github.com/crazydw4rf/wonderful-party/releases).
-2. Replace the original `scenario_body.bin` and `scenario_info.psb.m` inside your decrypted game directory.
 
 ---
 

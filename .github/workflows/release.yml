@@ -41,9 +41,9 @@ jobs:
         uses: softprops/action-gh-release@v2
         with:
           files: |
-            workspace/build/en/wonderful-party-binaries-en.zip
+            workspace/build/en/wonderful-party-patch-en.zip
             workspace/build/en/wonderful-party-repatch-en.zip
-            workspace/build/id/wonderful-party-binaries-id.zip
+            workspace/build/id/wonderful-party-patch-id.zip
             workspace/build/id/wonderful-party-repatch-id.zip
           generate_release_notes: true
           draft: false

@@ -74,8 +74,8 @@ The `setup` command downloads the game binaries into `./workspace/` (which is gi
    ```
 
    This produces:
+   - `workspace/build/en/wonderful-party-patch-en.zip` (overlay patch for Vita & Vita3K)
    - `workspace/build/en/wonderful-party-repatch-en.zip` (for PS Vita `rePatch`)
-   - `workspace/build/en/wonderful-party-binaries-en.zip` (standalone)
 
 5. **Update progress stats**:
    ```bash

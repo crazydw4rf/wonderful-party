@@ -10,6 +10,7 @@ from .constants import (
     CACHE_DIR,
     FREEMOTE_DOWNLOAD_URL,
     GAME_SCENARIO_FILE_URL,
+    GAME_SCRIPT_FILE_URL,
     INFOPSB_JSON_PATH,
     MDF_KEY,
     OUT_EXTRACTED_DIR,
@@ -19,6 +20,10 @@ from .constants import (
     SCENARIO_EXTRACTED_DIR,
     SCENARIO_INFOPSB_FILENAME,
     SCENARIO_INFOPSB_PATH,
+    SCRIPT_BODY_FILENAME,
+    SCRIPT_BODY_PATH,
+    SCRIPT_INFOPSB_FILENAME,
+    SCRIPT_INFOPSB_PATH,
     TOOLS_DIR,
     WORKSPACE_DIR,
 )
@@ -110,6 +115,20 @@ def ensure_game_binaries():
         download_file(
             GAME_SCENARIO_FILE_URL[SCENARIO_INFOPSB_FILENAME],
             SCENARIO_INFOPSB_FILENAME,
+            WORKSPACE_DIR,
+        )
+
+    if not os.path.exists(SCRIPT_BODY_PATH):
+        download_file(
+            GAME_SCRIPT_FILE_URL[SCRIPT_BODY_FILENAME],
+            SCRIPT_BODY_FILENAME,
+            WORKSPACE_DIR,
+        )
+
+    if not os.path.exists(SCRIPT_INFOPSB_PATH):
+        download_file(
+            GAME_SCRIPT_FILE_URL[SCRIPT_INFOPSB_FILENAME],
+            SCRIPT_INFOPSB_FILENAME,
             WORKSPACE_DIR,
         )
 

@@ -10,16 +10,22 @@ from .constants import (
     BUILD_DIR,
     MDF_KEY,
     MDF_KEY_LEN,
+    PATCH_BODY_FILENAME,
+    PATCH_INFOPSB_FILENAME,
     PATCHES_DIR,
     RAW_DIR,
     SCENALIST_FILENAME,
     SCENARIO_BODY_FILENAME,
     SCENARIO_EXTRACTED_DIR,
     SCENARIO_INFOPSB_FILENAME,
+    SCRIPT_BODY_FILENAME,
+    SCRIPT_BODY_PATH,
+    SCRIPT_INFOPSB_FILENAME,
+    SCRIPT_INFOPSB_PATH,
     SPEAKERS_FILENAME,
     TITLE_ID,
 )
-from .utils import get_psbuild_path
+from .utils import ensure_game_binaries, get_psbuild_path
 
 
 def translate_speaker(orig_spk: Optional[str], speaker_map: Dict[str, Any]) -> Optional[str]:
@@ -63,10 +69,12 @@ def apply_patches(lang: str) -> List[str]:
 
     build_lang_dir = os.path.join(BUILD_DIR, lang)
     build_scn_dir = os.path.join(build_lang_dir, "scenario")
+    patch_scn_dir = os.path.join(build_lang_dir, "patch", "scenario")
 
     if os.path.exists(build_lang_dir):
         shutil.rmtree(build_lang_dir)
     os.makedirs(build_scn_dir, exist_ok=True)
+    os.makedirs(patch_scn_dir, exist_ok=True)
 
     # Copy raw scenario slices as base
     raw_scenario_dir = os.path.join(RAW_DIR, "scenario")
@@ -119,25 +127,6 @@ def apply_patches(lang: str) -> List[str]:
         patch_scenes = patch.get("scenes", {})
 
         for scene in scenario_data.get("scenes", []):
-            # Translate speakers in dialogue and selectInfo
-            if speaker_map:
-                if "texts" in scene:
-                    for entry in scene["texts"]:
-                        if isinstance(entry, list) and len(entry) >= 1 and entry[0]:
-                            orig_spk = entry[0]
-                            translated_spk = translate_speaker(orig_spk, speaker_map)
-                            if translated_spk and translated_spk != orig_spk:
-                                entry[0] = translated_spk
-                                has_modifications = True
-
-                if "selectInfo" in scene and scene["selectInfo"]:
-                    orig_spk = scene["selectInfo"].get("name")
-                    if orig_spk:
-                        translated_spk = translate_speaker(orig_spk, speaker_map)
-                        if translated_spk and translated_spk != orig_spk:
-                            scene["selectInfo"]["name"] = translated_spk
-                            has_modifications = True
-
             label = scene.get("label")
             if not label or label not in patch_scenes:
                 continue
@@ -190,6 +179,23 @@ def apply_patches(lang: str) -> List[str]:
                                 has_modifications = True
 
         if has_modifications:
+            if speaker_map:
+                for scene in scenario_data.get("scenes", []):
+                    if "texts" in scene:
+                        for entry in scene["texts"]:
+                            if isinstance(entry, list) and len(entry) >= 1 and entry[0]:
+                                orig_spk = entry[0]
+                                translated_spk = translate_speaker(orig_spk, speaker_map)
+                                if translated_spk and translated_spk != orig_spk:
+                                    entry[0] = translated_spk
+
+                    if "selectInfo" in scene and scene["selectInfo"]:
+                        orig_spk = scene["selectInfo"].get("name")
+                        if orig_spk:
+                            translated_spk = translate_speaker(orig_spk, speaker_map)
+                            if translated_spk and translated_spk != orig_spk:
+                                scene["selectInfo"]["name"] = translated_spk
+
             target_build_json = os.path.join(build_scn_dir, raw_json_name)
             with open(target_build_json, "w", encoding="utf-8") as out_f:
                 json.dump(scenario_data, out_f, ensure_ascii=False, indent=2)
@@ -197,6 +203,11 @@ def apply_patches(lang: str) -> List[str]:
             src_resx = os.path.join(SCENARIO_EXTRACTED_DIR, f"{identity}.m.resx.json")
             if os.path.exists(src_resx):
                 shutil.copy2(src_resx, os.path.join(build_scn_dir, f"{identity}.m.resx.json"))
+
+            # Also copy to patch directory
+            shutil.copy2(target_build_json, os.path.join(patch_scn_dir, raw_json_name))
+            if os.path.exists(src_resx):
+                shutil.copy2(src_resx, os.path.join(patch_scn_dir, f"{identity}.m.resx.json"))
 
             modified_files.append(raw_json_name)
 
@@ -247,6 +258,11 @@ def apply_patches(lang: str) -> List[str]:
             if os.path.exists(src_sl_resx):
                 shutil.copy2(src_sl_resx, os.path.join(build_scn_dir, f"{SCENALIST_FILENAME[:-5]}.resx.json"))
 
+            # Also copy to patch directory
+            shutil.copy2(target_sl_json, os.path.join(patch_scn_dir, SCENALIST_FILENAME))
+            if os.path.exists(src_sl_resx):
+                shutil.copy2(src_sl_resx, os.path.join(patch_scn_dir, f"{SCENALIST_FILENAME[:-5]}.resx.json"))
+
             modified_files.append(SCENALIST_FILENAME)
 
     print(f"Applied patches for '{lang}': {len(modified_files)} scenario files modified.")
@@ -257,36 +273,73 @@ def build_binaries(lang: str, repatch: bool = False) -> Dict[str, str]:
     psbuild = get_psbuild_path()
     build_lang_dir = os.path.join(BUILD_DIR, lang)
     build_scn_dir = os.path.join(build_lang_dir, "scenario")
+    patch_scn_dir = os.path.join(build_lang_dir, "patch", "scenario")
 
     modified_files = apply_patches(lang)
 
     print(f"Compiling {len(modified_files)} modified scenario JSONs to binary slices...")
     for m_file in modified_files:
-        json_path = os.path.join(build_scn_dir, m_file)
-        compiled_m_path = json_path[:-5]  # strip .json -> .m
+        json_path = os.path.join(patch_scn_dir, m_file)
+        compiled_m_path = json_path[:-5]  # strip .json -> .scn.m
 
         cmd = [psbuild, json_path, "-o", compiled_m_path]
         res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
         if res.returncode != 0:
             raise RuntimeError(f"Failed to compile '{m_file}':\n{res.stderr}")
 
-        # The slice name in archive is filename stripped of .scn.m.json
-        slice_name = m_file[:-11]
-        target_slice_path = os.path.join(build_scn_dir, slice_name)
-
-        if os.path.exists(compiled_m_path):
-            shutil.move(compiled_m_path, target_slice_path)
-
-        # Cleanup source json and resx from build dir so info-psb sees only the binary slice
+        # Clean up source json and resx from patch_scn_dir
         if os.path.exists(json_path):
             os.remove(json_path)
         resx_path = json_path[:-5] + ".resx.json"
         if os.path.exists(resx_path):
             os.remove(resx_path)
 
-    print("Repacking scenario archive (info.psb.m & body.bin)...")
-    info_json_path = os.path.join(build_lang_dir, f"{SCENARIO_INFOPSB_FILENAME}.json")
-    pack_cmd = [
+        # For the full scenario archive (build_scn_dir), slice name is stripped of .scn.m
+        slice_name = m_file[:-11] if m_file.endswith(".scn.m.json") else m_file[:-5]
+        target_slice_path = os.path.join(build_scn_dir, slice_name)
+        shutil.copy2(compiled_m_path, target_slice_path)
+
+        # Clean up uncompiled json/resx in build_scn_dir
+        raw_json_in_scn = os.path.join(build_scn_dir, m_file)
+        if os.path.exists(raw_json_in_scn):
+            os.remove(raw_json_in_scn)
+        raw_resx_in_scn = raw_json_in_scn[:-5] + ".resx.json"
+        if os.path.exists(raw_resx_in_scn):
+            os.remove(raw_resx_in_scn)
+
+    print("Building patch archive (patch_info.psb.m & patch_body.bin)...")
+    patch_info_json = {
+        "expire_suffix_list": [".psb.m"],
+        "file_info": {},
+    }
+    patch_info_resx = {
+        "PsbVersion": 2,
+        "PsbType": "ArchiveInfo",
+        "Platform": "none",
+        "CryptKey": None,
+        "ExternalTextures": False,
+        "Context": {
+            "MdfKeyLength": MDF_KEY_LEN,
+            "FileName": PATCH_INFOPSB_FILENAME,
+            "MdfKey": f"{MDF_KEY}{PATCH_INFOPSB_FILENAME}",
+            "PsbZlibFastCompress": False,
+            "PsbShellType": "MDF",
+            "ArchiveSource": ["patch"],
+            "MdfMtKey": MDF_KEY,
+            "ArchiveItemFileNames": [],
+            "BodyBinName": PATCH_BODY_FILENAME,
+        },
+        "Resources": None,
+    }
+
+    patch_info_json_path = os.path.join(build_lang_dir, f"{PATCH_INFOPSB_FILENAME}.json")
+    patch_info_resx_path = os.path.join(build_lang_dir, f"{PATCH_INFOPSB_FILENAME}.resx.json")
+    with open(patch_info_json_path, "w", encoding="utf-8") as f:
+        json.dump(patch_info_json, f, indent=2)
+    with open(patch_info_resx_path, "w", encoding="utf-8") as f:
+        json.dump(patch_info_resx, f, indent=2)
+
+    pack_patch_cmd = [
         psbuild,
         "info-psb",
         "-k",
@@ -294,41 +347,76 @@ def build_binaries(lang: str, repatch: bool = False) -> Dict[str, str]:
         "-l",
         str(MDF_KEY_LEN),
         "-b",
-        SCENARIO_BODY_FILENAME,
+        PATCH_BODY_FILENAME,
         "-o",
         build_lang_dir,
-        info_json_path,
+        patch_info_json_path,
     ]
-    pack_res = subprocess.run(pack_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    pack_res = subprocess.run(pack_patch_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
     if pack_res.returncode != 0:
-        raise RuntimeError(f"Failed to pack archive:\n{pack_res.stderr}")
+        raise RuntimeError(f"Failed to pack patch archive:\n{pack_res.stderr}")
 
-    out_body = os.path.join(build_lang_dir, SCENARIO_BODY_FILENAME)
-    out_info = os.path.join(build_lang_dir, SCENARIO_INFOPSB_FILENAME)
+    out_patch_body = os.path.join(build_lang_dir, PATCH_BODY_FILENAME)
+    out_patch_info = os.path.join(build_lang_dir, PATCH_INFOPSB_FILENAME)
 
-    if not os.path.exists(out_body) or not os.path.exists(out_info):
-        raise FileNotFoundError(f"Expected output binaries not found in {build_lang_dir}")
+    if not os.path.exists(out_patch_body) or not os.path.exists(out_patch_info):
+        raise FileNotFoundError(f"Expected patch binaries not found in {build_lang_dir}")
+
+    # Ensure script binaries exist and copy them
+    ensure_game_binaries()
+    out_script_body = os.path.join(build_lang_dir, SCRIPT_BODY_FILENAME)
+    out_script_info = os.path.join(build_lang_dir, SCRIPT_INFOPSB_FILENAME)
+    shutil.copy2(SCRIPT_BODY_PATH, out_script_body)
+    shutil.copy2(SCRIPT_INFOPSB_PATH, out_script_info)
 
     artifacts = {
-        "body": out_body,
-        "info": out_info,
+        "patch_body": out_patch_body,
+        "patch_info": out_patch_info,
+        "script_body": out_script_body,
+        "script_info": out_script_info,
     }
 
-    # Standalone zip
-    bin_zip_path = os.path.join(build_lang_dir, f"wonderful-party-binaries-{lang}.zip")
-    with zipfile.ZipFile(bin_zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
-        zf.write(out_body, SCENARIO_BODY_FILENAME)
-        zf.write(out_info, SCENARIO_INFOPSB_FILENAME)
-    artifacts["zip_binaries"] = bin_zip_path
+    # Standalone patch zip (contains patch_* and script_*)
+    patch_zip_path = os.path.join(build_lang_dir, f"wonderful-party-patch-{lang}.zip")
+    with zipfile.ZipFile(patch_zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
+        zf.write(out_patch_body, PATCH_BODY_FILENAME)
+        zf.write(out_patch_info, PATCH_INFOPSB_FILENAME)
+        zf.write(out_script_body, SCRIPT_BODY_FILENAME)
+        zf.write(out_script_info, SCRIPT_INFOPSB_FILENAME)
+    artifacts["zip_patch"] = patch_zip_path
 
-    # rePatch zip
+    # rePatch zip (Option B: full scenario_body.bin & scenario_info.psb.m)
     if repatch:
+        print("Repacking full scenario archive for rePatch (scenario_info.psb.m & scenario_body.bin)...")
+        info_json_path = os.path.join(build_lang_dir, f"{SCENARIO_INFOPSB_FILENAME}.json")
+        pack_scenario_cmd = [
+            psbuild,
+            "info-psb",
+            "-k",
+            MDF_KEY,
+            "-l",
+            str(MDF_KEY_LEN),
+            "-b",
+            SCENARIO_BODY_FILENAME,
+            "-o",
+            build_lang_dir,
+            info_json_path,
+        ]
+        pack_res = subprocess.run(pack_scenario_cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+        if pack_res.returncode != 0:
+            raise RuntimeError(f"Failed to pack scenario archive:\n{pack_res.stderr}")
+
+        out_scenario_body = os.path.join(build_lang_dir, SCENARIO_BODY_FILENAME)
+        out_scenario_info = os.path.join(build_lang_dir, SCENARIO_INFOPSB_FILENAME)
+        artifacts["scenario_body"] = out_scenario_body
+        artifacts["scenario_info"] = out_scenario_info
+
         repatch_zip_path = os.path.join(build_lang_dir, f"wonderful-party-repatch-{lang}.zip")
         with zipfile.ZipFile(repatch_zip_path, "w", zipfile.ZIP_DEFLATED) as zf:
-            arc_body = f"rePatch/{TITLE_ID}/data/scenario/{SCENARIO_BODY_FILENAME}"
-            arc_info = f"rePatch/{TITLE_ID}/data/scenario/{SCENARIO_INFOPSB_FILENAME}"
-            zf.write(out_body, arc_body)
-            zf.write(out_info, arc_info)
+            arc_body = f"rePatch/{TITLE_ID}/{SCENARIO_BODY_FILENAME}"
+            arc_info = f"rePatch/{TITLE_ID}/{SCENARIO_INFOPSB_FILENAME}"
+            zf.write(out_scenario_body, arc_body)
+            zf.write(out_scenario_info, arc_info)
         artifacts["zip_repatch"] = repatch_zip_path
 
     print(f"Build complete for '{lang}'!")

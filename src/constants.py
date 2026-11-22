@@ -6,6 +6,10 @@ MDF_KEY_LEN = 131
 
 SCENARIO_BODY_FILENAME = "scenario_body.bin"
 SCENARIO_INFOPSB_FILENAME = "scenario_info.psb.m"
+PATCH_BODY_FILENAME = "patch_body.bin"
+PATCH_INFOPSB_FILENAME = "patch_info.psb.m"
+SCRIPT_BODY_FILENAME = "script_body.bin"
+SCRIPT_INFOPSB_FILENAME = "script_info.psb.m"
 SCENALIST_FILENAME = "scenelist.scn.m.json"
 SPEAKERS_FILENAME = "speakers.json"
 
@@ -24,6 +28,8 @@ PROGRESS_FILE = os.path.join(ROOT_DIR, "progress.json")
 
 SCENARIO_BODY_PATH = os.path.join(WORKSPACE_DIR, SCENARIO_BODY_FILENAME)
 SCENARIO_INFOPSB_PATH = os.path.join(WORKSPACE_DIR, SCENARIO_INFOPSB_FILENAME)
+SCRIPT_BODY_PATH = os.path.join(WORKSPACE_DIR, SCRIPT_BODY_FILENAME)
+SCRIPT_INFOPSB_PATH = os.path.join(WORKSPACE_DIR, SCRIPT_INFOPSB_FILENAME)
 INFOPSB_JSON_PATH = os.path.join(OUT_EXTRACTED_DIR, f"{SCENARIO_INFOPSB_FILENAME}.json")
 
 SUPPORTED_LANGUAGES = {
@@ -50,4 +56,9 @@ FREEMOTE_DOWNLOAD_URL = {
 GAME_SCENARIO_FILE_URL = {
     SCENARIO_BODY_FILENAME: "https://files.catbox.moe/eouffa.bin",
     SCENARIO_INFOPSB_FILENAME: "https://files.catbox.moe/pl12v0.m",
+}
+
+GAME_SCRIPT_FILE_URL = {
+    SCRIPT_BODY_FILENAME: "https://files.catbox.moe/ipymuw.bin",
+    SCRIPT_INFOPSB_FILENAME: "https://files.catbox.moe/tq1dtt.m",
 }
