@@ -9,10 +9,14 @@ from sys import platform
 from .constants import (
     CACHE_DIR,
     FREEMOTE_DOWNLOAD_URL,
+    GAME_MOTION_FILE_URL,
     GAME_SCENARIO_FILE_URL,
     GAME_SCRIPT_FILE_URL,
     INFOPSB_JSON_PATH,
     MDF_KEY,
+    MOTION_DIR,
+    MOTION_MAIN_FILENAME,
+    MOTION_MAIN_PATH,
     OUT_EXTRACTED_DIR,
     RAW_DIR,
     SCENARIO_BODY_FILENAME,
@@ -130,6 +134,13 @@ def ensure_game_binaries():
             GAME_SCRIPT_FILE_URL[SCRIPT_INFOPSB_FILENAME],
             SCRIPT_INFOPSB_FILENAME,
             WORKSPACE_DIR,
+        )
+
+    if not os.path.exists(MOTION_MAIN_PATH):
+        download_file(
+            GAME_MOTION_FILE_URL[MOTION_MAIN_FILENAME],
+            MOTION_MAIN_FILENAME,
+            MOTION_DIR,
         )
 
 

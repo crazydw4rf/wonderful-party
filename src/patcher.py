@@ -15,6 +15,8 @@ from .constants import (
     BUILD_DIR,
     MDF_KEY,
     MDF_KEY_LEN,
+    MOTION_MAIN_FILENAME,
+    MOTION_MAIN_PATH,
     PATCH_BODY_FILENAME,
     PATCH_INFOPSB_FILENAME,
     PATCHES_DIR,
@@ -374,6 +376,11 @@ def build_binaries(lang: str, repatch: bool = False, jobs: Optional[int] = None)
                 executor.shutdown(wait=False, cancel_futures=True)
                 raise
 
+    ensure_game_binaries()
+    patch_motion_dir = os.path.join(build_lang_dir, "patch", "motion")
+    os.makedirs(patch_motion_dir, exist_ok=True)
+    shutil.copy2(MOTION_MAIN_PATH, os.path.join(patch_motion_dir, MOTION_MAIN_FILENAME))
+
     print("Building patch archive (patch_info.psb.m & patch_body.bin)...")
     patch_info_json = {
         "expire_suffix_list": [".psb.m"],
@@ -429,8 +436,6 @@ def build_binaries(lang: str, repatch: bool = False, jobs: Optional[int] = None)
     if not os.path.exists(out_patch_body) or not os.path.exists(out_patch_info):
         raise FileNotFoundError(f"Expected patch binaries not found in {build_lang_dir}")
 
-    # Ensure script binaries exist and copy them
-    ensure_game_binaries()
     out_script_body = os.path.join(build_lang_dir, SCRIPT_BODY_FILENAME)
     out_script_info = os.path.join(build_lang_dir, SCRIPT_INFOPSB_FILENAME)
     shutil.copy2(SCRIPT_BODY_PATH, out_script_body)

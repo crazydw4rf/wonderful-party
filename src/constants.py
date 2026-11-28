@@ -10,6 +10,7 @@ PATCH_BODY_FILENAME = "patch_body.bin"
 PATCH_INFOPSB_FILENAME = "patch_info.psb.m"
 SCRIPT_BODY_FILENAME = "script_body.bin"
 SCRIPT_INFOPSB_FILENAME = "script_info.psb.m"
+MOTION_MAIN_FILENAME = "main.psb.m"
 SCENALIST_FILENAME = "scenelist.scn.m.json"
 SPEAKERS_FILENAME = "speakers.json"
 
@@ -30,6 +31,8 @@ SCENARIO_BODY_PATH = os.path.join(WORKSPACE_DIR, SCENARIO_BODY_FILENAME)
 SCENARIO_INFOPSB_PATH = os.path.join(WORKSPACE_DIR, SCENARIO_INFOPSB_FILENAME)
 SCRIPT_BODY_PATH = os.path.join(WORKSPACE_DIR, SCRIPT_BODY_FILENAME)
 SCRIPT_INFOPSB_PATH = os.path.join(WORKSPACE_DIR, SCRIPT_INFOPSB_FILENAME)
+MOTION_DIR = os.path.join(WORKSPACE_DIR, "motion")
+MOTION_MAIN_PATH = os.path.join(MOTION_DIR, MOTION_MAIN_FILENAME)
 INFOPSB_JSON_PATH = os.path.join(OUT_EXTRACTED_DIR, f"{SCENARIO_INFOPSB_FILENAME}.json")
 
 SUPPORTED_LANGUAGES = {
@@ -59,6 +62,10 @@ GAME_SCENARIO_FILE_URL = {
 }
 
 GAME_SCRIPT_FILE_URL = {
-    SCRIPT_BODY_FILENAME: "https://files.catbox.moe/ipymuw.bin",
-    SCRIPT_INFOPSB_FILENAME: "https://files.catbox.moe/tq1dtt.m",
+    SCRIPT_BODY_FILENAME: "https://files.catbox.moe/i1p0it.bin",
+    SCRIPT_INFOPSB_FILENAME: "https://files.catbox.moe/al8flm.m",
+}
+
+GAME_MOTION_FILE_URL = {
+    MOTION_MAIN_FILENAME: "https://files.catbox.moe/yg5gm3.m",
 }
