@@ -6,80 +6,80 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "どうぞ、ラビットハウスです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one. We're Rabbit House.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（そーっと、そーっと……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊sneaky＊)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ココアちゃん？\\nこそこそして、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan? What are you doing sneaking \\naround like that?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "しーっ！\\nリゼちゃんがチラシ配りに夢中だから、\\nびっくりさせようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shh! Rize-chan is completely immersed in her\\nhandouts, so I think I have a chance to \\nsurprise her.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（もうちょっと、もうちょっと……\\n　よし、今なら――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Not yet, not yet... \\nGood, now's my chance...)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "何者だ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who's there!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うわあ！？\\nて、敵じゃないよ！　味方だよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaa!? \\nI-I'm not the enemy! I'm on your side!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "なんだ、ココアか。\\n急に後ろに立つな、びっくりするだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's just Cocoa. Don't stand in my \\nblind spots like that, you startled me.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（むしろ私がびっくりしたんだけど……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(If anything I was the one who \\ngot startled...)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃんを驚かせるのは\\n　無理そうだから……チノちゃんにしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I guess it's pretty much impossible \\nto give Rize-chan a scare. I'll try Chino-chan\\ninstead!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -88,20 +88,20 @@
         "0": {
           "speaker": "チノ",
           "original": "喫茶店ラビットハウスです。\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House. \\nPlease, take one.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（私には気付いてないね。\\n　そーっとそーっと、後ろから近づいて――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She hasn't noticed me. If I'm \\nperfectly quiet, and sneak up right behind \\nher...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "だ～れだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who iiis it?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
@@ -112,158 +112,158 @@
         "4": {
           "speaker": "ココア",
           "original": "さてチノちゃん、問題です。\\n目隠しをしているのは一体誰でしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's the question, Chino-chan. \\nJust who is the one covering your eyes \\nright now.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ココアさんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "大正解～！\\nさすがチノちゃん、お姉ちゃんのことは\\n声だけでわかるんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's absolutely correct! That's my Chino-chan,\\nyou can recognize your big sister just \\nby the sound of her voice!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "いえ、こんなことをするのは\\nココアさんしかいませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, you're just only one who would do \\nsomething like this.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ええっ！？\\nそんな理由なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? \\nSo that's how you could tell?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "それよりも、離してください。\\nチラシ配りが終わりません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, please unhand me. \\nI'm not done with my flyers yet.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "さすがチノ、クールな反応だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino being cold as always.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "でも、楽しそうね。\\n私もやってみたくなっちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it looks like they're having fun. \\nMakes me wanna give it a try.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……言っとくけど、私にやらないでよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't get any funny ideas. \\nLeave me out of this.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃん私にはいつもツンツンだよね。\\n　もちろん、そんなところもかわいいけど）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan is always so prickly \\ntowards me. But it's still pretty cute \\nof her.)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "え！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wha-",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "だーれだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who iiis it?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア（Ｍ）",
           "original": "（これはもしかして……！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Is this who I think it is!?)",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "チノちゃんだね！\\nもしかしてさっきの仕返し？\\nも～、かわいいんだから～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's Chino-chan! Let me guess, this is revenge\\nfor what I did? Gosh, you're so cuuuute!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "残念、私でした～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Too bad, it's just me.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "あれ？　千夜ちゃんだったんだ。\\n絶対チノちゃんだと思ったのになぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? So it was you. I was convinced it \\nwould be Chino-chan.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "どうやったら\\n私と千夜さんを間違えるんですか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It baffles me that you could possibly get me \\nand Chiya-san mixed up...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "きっと、チノちゃんだ、と言うより、\\nチノちゃんだといいなって思っちゃったのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You said ”It's Chino-chan!”, but really, you \\nwere just wishing it was Chino-chan.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "こうだって思い込むと、\\n他の可能性を思いつかなくなるってあるもんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She was clinging so desperately to one belief \\nthat she became unable to think anything \\nelse was possible.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "千夜ちゃんのだ～れだ、もよかったけど、\\nやっぱりチノちゃんにやって欲しかったな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Playing the game with Chiya-chan is fine I guess,\\nbut what I really wanted was for \\nChino-chan to do it to me.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "そんな、ねだるように言われても困ります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know why you think begging me will \\naccomplish anything.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "ああー！\\nチノちゃんがまたツンツンだよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gaaaah! \\nChino-chan is being mean to me again!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "だって……今は身長差があって大変なんです……。\\nココアさんと同じぐらいになったら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you want me to do... \\nThere's a difference in height between us. \\nCome back once I've caught up to you.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "ん？　何？\\n何か言った？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? \\nWhat? did you say something?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "な、なんでもないです。\\n気にしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I didn't say a thing. \\nDon't worry about it.",
+          "status": "machine_translated"
         }
       }
     }

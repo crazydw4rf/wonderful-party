@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？\\nあのお店って、シャロちゃんが前に\\nバイトしてたクレープ屋さんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look over there. Isn't that the same stand\\nthat you used to sell crepes at?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ああ、そうね。\\n同じ屋台だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's right. It's the same stall.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "おおー、行列ができてる。\\n人気のお店なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh~ \\nThat's a long line. \\nThat little stand must be popular.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "……ん？\\n違うわ、あれって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm? \\nThat's not right. That's...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あれれ？\\n列のお客さんが離れていっちゃった？\\n買わなくていいのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no! Someone gave up and left the line. \\nAre they fine with not buying anything?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "人気だからじゃないのよ。\\n店員の手際が悪いから列ができてるんだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That stand isn't that popular. The line formed\\nbecause the worker there doesn't know what \\nthey're doing.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、そうなんだ。\\n新人さんなのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, is that why? They must be new to the job.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "多分そうね。\\n慣れないうちは段取りがわからなくて\\n焦っちゃうのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Probably. It puts you under a lot of pressure,\\nwhen you're just starting out and don't\\nknow exactly what to do.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ああ、生地が焼けるのを見守ってないで、\\nその間にトッピングを出せばいいのに……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Don't worry about burning the batter, \\nuse that time to get our the toppings...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "違うわ、イチゴは２段目！\\nそれじゃ生クリームがこぼれる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you doing! Do the strawberries second!\\nYou're gonna make the whipped cream \\nspill out!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あああ、失敗しちゃったよ、\\nますますお客さんを待たせちゃう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah, they ruined it. \\nThey're going to make the customers wait even \\nlonger.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "くう……！　見てられないわ！\\nココア、チラシ持ってて。\\nちょっと行ってくる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah! I can't stand to watch this. \\nCocoa, hold my flyers. \\nI'm going over there for a second.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "え？　シャロちゃん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the? Sharo-chan!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（すごい、シャロちゃんがアドバイスしただけで\\n　お客さんの列がどんどん短くなった！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wow! Sharo-chan's advice is working \\nimmediately to shrink the line of customers!)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "ふう、もう大丈夫そうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊phew＊\\nThey should be in the clear now.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\n大活躍だったね！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! That was impressive!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "……え、ええ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...S-Sure.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "あれ、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's wrong?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "私ったら、もうクレープ屋の\\nバイトじゃないのに余計なことを……。\\nお節介だったわよね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't even work at a crepe stand anymore,\\nand I had to go butt in like that... \\nWhat's wrong with me...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "ちっとも余計じゃないよ！\\nあの店員さんだって感謝してたよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You weren't being meddlesome at all! \\nThe worker there even thanked you for your \\nhelp!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "シャロちゃんはいつも真剣で、真面目で、\\n優しい頑張り屋さんで……\\nそれって素敵なことだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're always such a nice, no-nonsense\\nworkaholic who takes everything seriously!\\nI think that's amazing!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ココア……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "私の計画も手伝ってくれてるし、\\nすっごく、すっごく！　感謝してるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you're even helping my out with my plan, \\nso I'm extremely, extremely grateful!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "べ、別に……手伝ってるのは\\nココアのためじゃなくてチノちゃんのためだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's not like... \\nI'm doing it for your sake or anything. \\nIt's for Chino-chan.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "だね。\\nチノちゃんのために頑張ろう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right. \\nLet's keep doing our best for Chino-chan!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "そうね、頑張りますか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. \\nLet's keep trying.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "……ありがと、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Thank you, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

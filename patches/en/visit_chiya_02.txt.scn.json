@@ -6,134 +6,134 @@
         "0": {
           "speaker": "千夜",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good afternoon.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、千夜ちゃん！\\nらっしゃい、いいネタ入ってるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Chiya-chan! \\nG'day, we just got in a fresh shipment!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "なんで寿司屋みたいになってるんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you suddenly a sushi chef!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "じゃあ、このティッピー握りをもらおうかしら。\\nあんこへのお土産にお持ち帰りするわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I'll have one of these Tippy rice \\nballs. I'll have it to go, as a gift for \\nAnko.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "お客さん、お目が高いね！\\nこいつはとれたて新鮮ピチピチの\\nティッピー握りだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure have a good eye, ma'am! That Tippy\\nball there was just caught, and so fresh that\\nit's still moving!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ティッピー",
           "original": "わ、わしを売り渡すつもりかっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Do you plan on selling off little old me!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "うふふ、ごめんなさい。\\nティッピーってご飯みたいだから\\n間違えちゃったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe, forgive me. Tippy imitates rice so \\nwell that I mistook him for some.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "私もだよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So did I~.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "どう考えてもわざとだろ。\\nしかし、千夜もよくココアの無茶ぶりに\\nついていけるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No matter how you look at it, that was on \\npurpose. I'm impressed Chiya can keep up with \\nCocoa's antics so well.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "だって私たち、親友だもの。\\nねー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's because we're the best of friends. \\nRiiight?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Riiight?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "ココアさんと千夜さんは波長が合うんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san and Chiya-san sure are on the \\nsame wavelength.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あ、そういえば、お寿司で思い出したけど、\\n甘兎庵って配達もやってるんだよね？\\nラビットハウスに配達を頼むこともできるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, sushi just reminded me that Ama Usa An \\ndoes delivery too, right? Can we order \\ndelivery to Rabbit House?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ええ、もちろん大丈夫よ。\\n自信作の和菓子をいつでもお届けするわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mhm, no problem with that. We'd be happy \\nto ship out our lovingly made sweets \\nanytime.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "だったら、甘兎庵から配達してもらったお菓子を\\nうちで販売するってのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If that's the case, why don't we get a \\ndelivery of sweets from Ama Usa and resell \\nthem from here?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "な、なにか、さりげなくとんでもないことを……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What the...You say the most ridiculous \\nthings so casually...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "コーヒーを飲みながら\\nおいしい和菓子を食べられる店って、\\nきっと評判になるよ！　ねえ、どうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A cafe where you can sip your coffee while\\nnibbling on some delicious wagashi, it'll be\\nsensational! You think so too, right?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "そうねぇ、ラビットハウスさんの商品を\\nうちでも出させてくれるなら、考えてもいいわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a bad idea. If we bring out some of \\nRabbit House's items at Ama Usa too, would \\nyou at least consider it?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "まあ、条件としてはフェアだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I guess the conditions are fair.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "そういうことなら、\\nうちの商品を甘兎庵に配達するのは\\n全部ココアさんにやってもらいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you want to go through with this, you'll \\nbe the one doing all the deliveries to \\nAma Usa for us.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ええええっ！？\\nわ、私１人で？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeh!? M-Me, by myself?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "言い出したのはココアなんだしなぁ。\\nそれでもやるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were the one to suggest it. Well, will \\nyou still go through with it?",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,24 +141,24 @@
       "select_prompt": {
         "speaker": "リゼ",
         "original": "言い出したのはココアなんだしなぁ。\\nそれでもやるのか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "You were the one to suggest it. Well, will \\nyou still go through with it?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "も、もちろんやるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Of course I'll do it!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "ごめんなさい……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I take it back!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "２人ともひどいよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You two are terrible!",
+          "status": "machine_translated"
         }
       }
     },
@@ -167,8 +167,8 @@
         "0": {
           "speaker": "ココア",
           "original": "も、もちろんやるよ！\\nラビットハウスと甘兎庵のためなら、\\n私、パンとコーヒーを抱えて何往復でもするよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Of course I'll do it! If it'll help \\nRabbit House and Ama Usa An, I'll make as many\\nround trips hauling bread and coffee as it takes!",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,14 +177,14 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん……！\\nその気持ちは嬉しいけど、無理しないでっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan! I appreciate the thought, \\nbut don't attempt the impossible!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ココアちゃんのアイディアは難しいとしても、\\nラビットハウスさんとうちで\\nコラボはしてみたいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if Cocoa-chan's idea is rather \\nback-breaking, I'd still like to try a \\ncollab together with Rabbit House.",
+          "status": "machine_translated"
         }
       }
     },
@@ -193,8 +193,8 @@
         "0": {
           "speaker": "ココア",
           "original": "ごめんなさい……！\\nやっぱり難しかったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I take it back! This is biting off \\nmore than I can chew.",
+          "status": "machine_translated"
         }
       }
     },
@@ -203,20 +203,20 @@
         "0": {
           "speaker": "千夜",
           "original": "でも、夢のある素敵なお話だったわ。\\nいつかどこかで合同出店なんてできたら素敵ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I think it's a wonderful dream to \\nhave. I'd be thrilled if we could one day \\njointly run a cafe.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "いいですね。\\n街のイベントに出店するのも楽しそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a bad idea. It'd be fun to open a shop \\nfor one of the town's events.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ココアちゃんのアイディアは難しいとしても、\\nラビットハウスさんとうちで\\nコラボはしてみたいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan's idea is a bit ambitious, but \\nI'd still like to try a collab between \\nRabbit House and Ama Usa sometime.",
+          "status": "machine_translated"
         }
       }
     },
@@ -225,38 +225,38 @@
         "0": {
           "speaker": "ココア",
           "original": "２人ともひどいよ～！\\nだめな理由ばかり探していたら、\\n未来は何も変わらないんだよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You two are terrible! Nothing around \\nhere will ever change if you only point out \\nreasons why nothing will ever work!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "変わらないままでいいこともあります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing wrong with things staying \\nas they are.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ああ、そうだな。\\n耳当たりのいい言葉で押し切ろうとするな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I agree with that. Don't try to go \\nforward with every little idea that pops \\ninto your head.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "素敵なアイディアだとは思うけど、\\n実現するのは難しいと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think it's a lovely idea, but it's \\nprobably too difficult to put into practice.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そっかー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ココアちゃんのアイディアは難しいとしても、\\nラビットハウスさんとうちで\\nコラボはしてみたいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan's idea is a bit ambitious, but \\nI'd still like to try a collab between \\nRabbit House and Ama Usa sometime.",
+          "status": "machine_translated"
         }
       }
     },
@@ -265,56 +265,56 @@
         "0": {
           "speaker": "チノ",
           "original": "それでしたら、こちらも大歓迎です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If the time comes, we'll welcome it \\nwith open arms.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃあ私、今度、抹茶パン作ってみようかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sounds like I need to start working on some \\nmatcha bread from now on.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "私も、もっと自然に和菓子にコーヒーを\\n取り入れるための研究を始めるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I, too, need to do my research on how to \\nnaturally work coffee into wagashi.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん！　お互い頑張ろうね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! May we both do our best!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ええ、頑張りましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed, let's do our best!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "なんだかんだ言って丸く収まってるし、\\n本当に、ココアと千夜は波長が合うんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everything's been set straight with just the \\nexchange of a few words. Cocoa and Chiya \\ntruly are on the same wavelength.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "……なんだか少しだけ、羨ましいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...For some reason, it makes me slightly \\njealous.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "チノちゃん？　どうかした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan? Did you say something?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "な、なんでもありません。\\n気にしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's nothing. Don't mind me.",
+          "status": "machine_translated"
         }
       }
     }

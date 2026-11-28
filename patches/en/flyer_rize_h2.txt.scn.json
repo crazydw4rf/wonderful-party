@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "リゼ",
           "original": "ラビットハウスです……。\\nお願いしまーす……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're Rabbit House. Please come visit us.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リゼちゃん？\\nどうしたの？　もしかして眠い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, are you feeling alright?\\nAre you feeling sleepy?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "い、いや！　そんなことはない！\\n戦場で居眠りしたら命がないからな、\\nコンディションはいつも整えておかなければ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No way! You've got it all wrong!\\nFeeling sleepy means death on the\\nbattlefield! My condition is perfectly--",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ふわぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊yawn＊",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "無理することないよ。\\nこの時間って眠くなるもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't give me that.\\nIt's not unusual to get drowsy about now.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ああ、実は昨日の夜――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To tell you the truth, last night--",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "はっ！！\\nもしかしてリゼちゃん、\\n二重生活をしてるせいで眠いの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Rize-chan, you're secretly\\nliving another life at night!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "は？　二重生活？　どういうことだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Another life? What's\\nthat supposed to mean?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "リゼちゃんがそんなに眠いのは、\\n夕べ、怪盗として活動してたからなんでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're so sleepy in the daytime because\\nyou're an active phantom thief after dark!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "おいおい、何を言い出すかと思ったら。\\nそんなことあるわけないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on now, don't be absurd.\\nThat's obviously not it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "その否定が怪しい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Denying it makes you look even more guilty.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "あのなぁ、眠いのは昨日の夜、\\nつい本に夢中になって夜更かししたからだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine, I'll explain. I got sucked into a\\nbook I was reading, and ended up not going\\nto bed until late. That's why I'm drowsy.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ははーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Suuuuure.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "ん？　なんだその目は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you looking at me like that?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うん、そうだよね。\\n秘密なんだよね。\\n怪盗なのを明かしたら面白くないもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what they all say. Don't worry,\\nyour secret is safe with me. The ride\\nends once the phantom thief gets exposed.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "はあ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "だから言わないんだよね。\\nうんうん、わかってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, I won't tell a soul!\\nMy lips are sealed!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "なにもわかってないだろ……。\\nなんで理解したつもりになってるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There is no secret to keep! Why are you\\nacting like you're in some conspiracy?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "はっ！　怪盗でもあるってことは……\\nリゼちゃんって軍人で企業スパイで\\n怪盗だったの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Wait, if you're a phantom thief...\\nRize-chan, you're a soldier, a corporate\\nspy, and a phantom thief all at once!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "設定盛りすぎだろ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of character are\\nyou making me out to be!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "はあ……。\\nココアと話してたらすっかり目が覚めたよ。\\nさっさとチラシ配りをすませよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Listening to you talk always\\nchases the drowsiness away. Let's\\nfinish this before it comes back.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん……。\\n　リゼちゃん、本当は何重生活してるんだろ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm.\\nI wonder what she's really up to at night?)",
+          "status": "machine_translated"
         }
       }
     }

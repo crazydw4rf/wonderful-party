@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんと一緒に寝ようかな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I suppose I’ll sleep with Rize-chan tonight.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "ココア",
           "original": "はあ……。\\n千夜ちゃんの話って本当に怖いよ。\\n雰囲気あるって言うか、ゾクゾクするよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Chiya-chan’s ghost stories really\\ndisturb me. How would you describe it?\\nIt really freaks me out.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "しかも、今回の怪談は最後まで聞いてないから\\nあれこれラストが想像できるしなぁ。\\nつい、余計なことを考えるよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And we never got to hear the ending, so now\\nwe’re left to fill in the blanks on our own. It\\nmakes my imagination run wild.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そっかー。\\nやっぱり、リゼちゃんも怖いんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So she managed to frighten even you,\\nRize-chan.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "い、いや！　怖いわけじゃない！\\n余計なことを考えて眠れなくなるだけだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-Not true! I’m not scared! I just can’t sleep\\nbecause my imagination is running wild!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そっか、リゼちゃん、お化けは怖くないんだ。\\nじゃあ怪談話も平気なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So you’re not scared of ghosts,\\nRize-chan. Ghost stories are a piece of cake\\nfor you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ああ、平気だとも。\\nまったく怖くない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, piece of cake. I’m not the\\nslightest bit scared!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "はっ！\\nリゼちゃん……後ろに……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Rize-chan, behind you!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "は、はははは！\\nそんなおどかし方で私が驚くわけないだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha, hahahaha! You can’t get me with a stupid\\ntrick like that!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あれ？　怖くなかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, you’re not even a little bit scared?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "全然！　まったく！　怖くない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all! Not even a little! I’m perfectly fine!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "うーん、じゃあ、\\nもしかして一緒に寝るの迷惑だった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw. So you didn’t want me to sleep with you\\ntonight?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "そそ、そ、そんなことはない！\\n迷惑なんかじゃないぞ！\\n大丈夫だ、心配するな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tha-Tha-That’s not true! You’re perfectly\\nwelcome! It’s perfectly fine to sleep here! All\\nis well!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃん、もしかして……\\n　本当は怖いんじゃないかな？\\n　慌てるリゼちゃん、かわいい～！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Look who allegedly isn’t scared at all. I love\\nwatching her squirm!)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふっふっふ！\\n　ここはさらに怖がらせちゃおう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hehehe. Time to twist the knife.)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そっか、ならいいんだけど。\\nリゼちゃんの後ろにいる子は、\\nもしかして知り合い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, fine. Whatever you say. So, do you\\nhappen to know the little girl behind you?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "その手は通じないぞ？\\nいい加減にしろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did you really think that would work? Cut it\\nout already.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "え？　でも、本当にいるんだよ？\\nいいの？　放っておいて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? But she’s right there, honest. Are you\\nfine with ignoring her like that?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "意外にしつこいな。\\nどうせ、いるのは\\nうさぎのぬいぐるみかなんかだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re being surprisingly stubborn today. Let\\nme guess. There’s nothing but a stuffed rabbit\\nor something back there?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あれ？　どうしてわかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? How’d you know?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "実はな、私には訓練で培った第六感があるのさ。\\nだから見えないものを感じられる。\\nココアの後ろにいる存在も、だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, I’ve actually been cultivating a sixth\\nsense. I can feel the presence of invisible\\nspirits, including the one right behind you.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "え……。\\nそ、それって……まさか……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? So what you’re trying to say is...!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "なーんてな！\\n冗談だよ、冗談。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just kidding! I merely jest.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "なんだぁ！\\nリゼちゃんも怪談上手だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You got me! Rize-chan, you’re good at these\\nscary stories too.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "いや、千夜には敵わないよ。\\nあれはやっぱり別格だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, I’m no match for Chiya. She’s got real\\ntalent, no doubt.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "じゃあ、そろそろ寝るぞ。\\n明日の朝、起きれなくなるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, let’s get some shut-eye. We’re going\\nto end up sleeping in at this rate.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "はーい。\\nそれじゃ、おやすみなさいリゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okey dokey. And with that, have a good\\nnight, Rize-chan.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "ああ、おやすみココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right. Sleep tight, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "ラビットハウスでーす！\\nよろしくお願いしまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're Rabbit House! Please take one!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ど、どうぞ～。\\nぜひ、来てください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-If you don't mind... Please come\\nfor a visit.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "よろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うんうん！\\nなかなか様になってるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Very impressive!\\nYou've got the hang of this already!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日は、マヤちゃんとメグちゃんが\\n　チラシ配りのお手伝いに来てくれたんだよね。\\n　妹たちが頑張ってくれて、お姉ちゃん嬉しい！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maya-chan and Megu-chan are helping\\nus out today! I love seeing my little\\nsisters taking the bull by the horns!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,212 +58,212 @@
         "0": {
           "speaker": "リゼ",
           "original": "こうしてチマメ隊が揃って\\nチラシ配りしてると、なんか微笑ましいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seeing Chimame Squad in action handing out\\nflyers almost brings a tear to my eye.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "もー！\\nだから、チマメはやだって言ってるじゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How many times do I have to tell you!\\nI hate it when you call us “Chimame!”",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そういえば、チマメ隊の名付け親って\\nリゼちゃんなんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. Rize-chan was the one\\nthat named them Chimame, wasn't she?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "別に、名付けたってほどじゃないけどな。\\nまとめて呼んだだけだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I didn't exactly name them,\\nI just abbreviated them.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "まさか、私までひとくくりにされるとは\\n思いませんでしたが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't believe I let myself get lumped in\\ntogether with these two...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "ねー、この際だから言うけどさ、\\nチマメ以外の名前にしてくれよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While we're on the topic, can't\\nyou think of something better to\\ncall us than that stupid name?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "そんなに嫌なのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you really hate it that much?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "リゼ先輩がせっかく名付けてくれたのに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Receiving a title from Rize-senpai is a\\nblessing! Are you really going to waste it?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "嫌って言うか、なんだか痛々しい感じだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hate is a strong word.\\nIt's more cringeworthy than anything.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "そうそう！\\nだからさ、みんなで新しいチーム名を\\n考えてくれよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What she said! Since you've got\\nyour whole gang together, surely\\nyou can think up something better!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "新しいチーム名かぁ。\\nうーん……じゃあ、ノヤグ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A new team name, huh. Hm... maybe... Noyagu?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "ええ？\\nそれってどういう意味？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What does that mean?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "チノちゃんの『ノ』、マヤちゃんの『ヤ』、\\nメグちゃんの『グ』、まとめて『ノヤグ』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan's “no” plus Maya-chan's “ya” plus\\nMegu-chan's “gu” adds up to Noyagu.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "マヤ",
           "original": "まとめて言ってるのには変わんねーじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's no different from before!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "むむー、じゃあ……『ラビット戦隊』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not acceptable? Then... Rabbit Sentai!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "戦隊！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sentai?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "戦隊なのに３人しかいないし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of Sentai only has three members!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ツッコむところ、そこでいいのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's your only complaint?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、そうだよ！\\n名付けって言ったら千夜ちゃんだよね。\\n何かいい案ないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, why am I doing this? Chiya-chan's\\nour certified naming expert. Surely\\nyou've got some good ideas for us?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "うーん、そうねぇ。\\nチノちゃんたちを言い表すとしたら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Let me think.\\nTo represent the three of them...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "創生の絆背負いし３つ星……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The Three Stars shouldering the Creative Bond.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "なんて、どうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sound good to you?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "マヤ",
           "original": "長いよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Too long!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "３つ星ってレストランですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Three stars? What are we, a restaurant?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "メグ",
           "original": "私たち、そんなにおいしそうなのかなぁ？\\nマメだから？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are we supposed to be yummy like a restaurant?\\nSince Mame means beans?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "マヤ",
           "original": "あー、もういいや！\\nチマメのままにする！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is stupid, I'm bored.\\nChimame will have to do.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "え？　いいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Giving up already?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "マヤ",
           "original": "まあ、ちょっと痛々しいけど\\n言いやすいし覚えやすいしさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It makes me wince a bit,\\nbut at least it's easy to say and remember.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "メグ",
           "original": "それに、実は結構、愛着あるのかも。\\n言われ慣れてきてるからかなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And, to be honest, it's kind of\\ngrown on me. Once you get used\\nto hearing it, it's not so bad.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "そうですね。\\nこの名前を背負っていく覚悟はできています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, you're right. I've mentally prepared\\nmyself to endure that nickname from now on.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "そんなに大げさなことなのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it that big of a deal!?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "リゼ",
           "original": "で、でも、まあ、少しでもそう思って\\nもらえてるのなら、名付け親としては嬉しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-But, as the one who coined the name,\\nI'm glad you've started to like it.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "シャロ",
           "original": "先輩に命名してもらえるとか……\\nちょっと羨ましい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Lucky you, getting a nice new name from\\nRize-senpai. I'm almost envious...",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "あら、それじゃ、私とシャロちゃんのコンビにも\\n名前を付けてもらいましょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You want a new name, is that it?\\nLet's have her name our comedy duo.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "い、いらないわよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine without it!",
+          "status": "machine_translated"
         }
       }
     }

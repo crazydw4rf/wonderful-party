@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんは外で仕事中だけど\\n　甘兎庵で一休みしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan is working outdoors right now,\\nbut I feel like taking a break at Ama Usa An\\nanyway.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,14 +16,14 @@
         "0": {
           "speaker": "ココア",
           "original": "こんにちは！\\n千夜ちゃん、遊びに来たよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello! Chiya-chan, I’m here to see you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？　千夜ちゃん、いない？\\n　今日はバイトじゃないのかな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Huh, it seems like Chiya-chan isn’t here. I\\nguess she’s not working today?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -32,98 +32,98 @@
         "0": {
           "speaker": "青山",
           "original": "あら、ココアさん。\\nよければ、席、ご一緒しませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa-san. Would you like to share a\\ntable with me?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "青山さん！\\nそれじゃ、失礼しまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san! I’ll take you up on that offer.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "今日は、原稿用紙を広げてないんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t see you with your manuscript today.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ええ、今日は違うんです。\\n散歩をしていたら少し疲れてしまって、\\n糖分を補給しにきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, I’m doing something else today. I\\ngot worn out from a walk, so now I’m here to\\nconsume some sugar to compensate.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "ここの甘味はとてもおいしくて、\\n気持ちもリフレッシュしますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The sweets here are second to none, making\\nit the perfect place to refresh my spirits.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "わかります！\\n甘兎庵の甘味って魔法がかかってる\\nみたいですよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know what you mean! Ama Usa An’s\\nsweets are so good they seem almost\\nmagical.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "魔法……。\\nもし、その魔法でカロリーも\\nなかったことにできたのなら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Magic... If only we had magic to reduce the\\ncalorie count...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（そ、それは全国の乙女共通の悩み！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A worry I’m sure is on the mind of every girl\\nin the country!)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "寒天はローカロリーですよね。\\nでも、このコクのある黒蜜を\\nたっぷりからめて食べる快感といったら……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agar is low in calories, right? But imagine the\\nimpact of eating it coated in thick, brown\\nsugar syrup!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "抹茶のアイスクリームも、\\nバニラのアイスクリームも、\\nとても舌触りがなめらかで幸せの味で……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And the smooth texture and blissful flavor in\\nmatcha ice cream, and vanilla ice cream...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "そしてなんといっても、こしあんが絶品です。\\nはあ、おいしかった……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And then there’s anko, that stunningly\\nsmooth anko. Goodness, that was delicious...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（気になる気になるといいつつ、\\n　ぺろりと食べちゃったよ。\\n　やっぱり青山さんも大人とはいえ女の子なんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She’s not imagining eating them, she’s\\nalready had them all! It turns out she’s more\\ngirly at heart than I thought.)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "ああ、幸せ……。\\n甘兎庵のあんみつは、もはや芸術品ですね。\\n他のメニューも食べたくなってしまいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah, I’m in heaven. Ama Usa An’s anmitsu\\nis a work of art. Now I want to go for yet\\nanother thing on the menu.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "これは、どんなおいしさのひと皿でしょうか。\\nこちらのメニューもどんなものか気になります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at this one, just how delicious is this\\ndish? And this one here is making me curious\\nas well.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "青山",
           "original": "注文してみようかしら……。\\nああ、でも、これ以上カロリーを摂っては……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I’ll go ahead and order it. Gah, but to\\nconsume any more calories in one sitting...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "食べたい……でも……食べない方が……。\\nああ、どうすれば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want it... but... I’m sure to regret it later...\\nAaaa, what should I do!",
+          "status": "machine_translated"
         }
       }
     },
@@ -137,18 +137,18 @@
       "choices": {
         "*sel_0101": {
           "original": "その分、運動しましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Work off those extra calories!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "我慢は体に毒ですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Resisting cravings is bad for you!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "青山さんはスリムだから大丈夫ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t worry, you’re still slim!",
+          "status": "machine_translated"
         }
       }
     },
@@ -157,26 +157,26 @@
         "0": {
           "speaker": "ココア",
           "original": "その分、運動しましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just work off those extra calories!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "ですが、私は運動があまり得意ではないのです。\\n困りました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But unfortunately, I’m terrible at exercise.\\nHow troublesome.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "大丈夫です、得意かどうかじゃなくて\\n運動量が大事なんですから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t worry about that. Burning calories is\\nabout quantity more than quality!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "はっ……！\\nそう言われてみればそうですね！\\nココアさん、なんて的確な……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Now that I think about it, that’s right.\\nCocoa-san, you make a good point!",
+          "status": "machine_translated"
         }
       }
     },
@@ -185,50 +185,50 @@
         "0": {
           "speaker": "ココア",
           "original": "我慢は体に毒ですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Resisting cravings is bad for you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "そうでしょうか？\\nカロリーを摂りすぎる方が\\n毒かと思っていたのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? I get the feeling that excessive\\ncalorie intake is most certainly bad for you...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "我慢してるとストレスがたまるでしょう？\\nあとで反動が出て、\\n逆に食べすぎちゃったりしたら大変ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Resisting your desires does nothing but\\ncauses stress. Eventually you’ll break down\\nand just end up overeating.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "そ、それは……！\\n確かに、あり得ます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "G-Good point! That’s highly likely to happen.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ですよね！　私だって、もふもふを我慢したら\\n反動でティッピーを手放せないくらいに\\nなっちゃいますよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? In my case, trying to resist the urge to\\ncuddle with Tippy always ends up in me\\nbeing unable to keep my hands off of her!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そうなると、きっとチノさんと\\nティッピーさんの取り合いで\\nケンカになってしまいますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which will inevitably leave you in conflict with\\nChino-san over who gets to have Tippy-san.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "そ、そんなことになったら大変だ～！\\nほら、やっぱり我慢はよくないですよ、青山さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I can’t possibly allow that to happen! See,\\nresisting your urges is bad thing after all,\\nAoyama-san!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "ええ、そうですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, we’re in agreement.",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,38 +237,38 @@
         "0": {
           "speaker": "ココア",
           "original": "青山さんはスリムだから大丈夫ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t worry, you’re still slim!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "ほ、本当ですか？　私、スリムでしょうか。\\nココアさんのようなかわいい方に\\n褒められると、とても嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "R-Really, you think so? I look slim to you? I\\nappreciate the compliment coming from\\nsomeone petite like you.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "でも、ここで食べたら、せっかく\\n褒められた体型が崩れてしまうことに。\\nそれは悲しいですね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, if I continue eating like this, I’m\\nsure to destroy this praiseworthy physique of\\nmine. How tragic...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（はっ、食べるのをすすめるつもりが\\n　逆効果に……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊gasp＊ I thought that would encourage her,\\nbut it had the opposite effect!)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "い、今のは、少し食べたくらいじゃ\\n変わらないくらいにスリムだから大丈夫、\\nってことですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You’re slim enough right now that just\\neating a little bit won’t change anything.\\nThat’s what I meant.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そうですか、ありがとうございます。\\nそれなら食べても大丈夫ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? Thank you. I’ll take that to\\nmean it’s safe to continue eating.",
+          "status": "machine_translated"
         }
       }
     },
@@ -277,86 +277,86 @@
         "0": {
           "speaker": "青山",
           "original": "ココアさんは、本当に優しい方ですね。\\n人の気持ちを軽くしてくださる天才だと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re such a nice person, Cocoa-san.\\nYou’re a genius when it comes to alleviating\\nnegative emotions.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "て、天才？\\nそんなことないですよ、\\n私、立派なことなんて言えないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A g-genius!? No no, you’re exaggerating. I\\ndidn’t say anything special at all.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "いえいえ、何気ない言葉こそが、\\n人の心を動かすものなのですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I think you did. The most casual remarks\\nare usually the ones that touch people’s\\nhearts.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "では、せっかくなので注文してみますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, time to make my next order.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "これは……！\\n目にも楽しく気高く尊い、\\nつまりとってもおいしそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness me! Just a glimpse at the menu is\\nblissful, awe-inspiring, sacred... In other\\nwords, unspeakably delicious looking.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そうだ。\\nココアさん、半分こしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have an idea. Cocoa-san, would you mind\\nsplitting this with me?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "え？　いいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh? Sure, I guess?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "注文するに至ったのは、\\nココアさんの励ましのおかげです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s all due to your encouragement that I was\\nable to order such a thing, after all.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "ぜひ一緒に、おいしいスイーツを食べる幸せを\\nかみしめましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s sink our teeth into the raw joy of these\\ndelectable sweets together.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "わーい！　これ、とっても\\nおいしそうだなって思ってたんです。\\nそれじゃ遠慮なく、いただきます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Look at this one, I think it looks\\nsuper yummy. I’ll take you up on your offer.\\nLet’s eat!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "はあ、おいし～い！\\nありがとうございます、青山さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah, this is great! Thanks a bunch,\\nAoyama-san.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "いいえ、こちらこそ助かります。\\n実は、半分こすれば摂取カロリーも\\n半分になる、という目論見もありまして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I should thank you for helping me attain\\nmy goal. If I eat half as much, I’ll only be\\nconsuming half the number of calories.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（はうっ！？\\n　こ、この人、意外に策士！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊gasp＊ I never expected her to hatch such\\na plan!)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、私もおいしいスイーツが\\n　食べられてよかったし、\\n　めでたしめでたしでいっか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But it doesn’t matter, I got some sweets out\\nof it. All’s well that ends well!)",
+          "status": "machine_translated"
         }
       }
     }

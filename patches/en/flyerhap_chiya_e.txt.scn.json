@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,188 +28,188 @@
         "0": {
           "speaker": "千夜",
           "original": "あふ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊yawn＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん？\\n眠そうだけど、大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan? You look tired. What’s wrong?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ごめんなさい。\\n最近寝付きが悪くて、睡眠不足気味なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry about this. I’ve had trouble falling\\nasleep, so I’m really drowsy today.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "眠れないとつらいですよね。\\n少し休んでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not being able to sleep is the worst. Please\\ntake a break.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "無理しないで、家に帰って寝たらどうだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t overdo it. Why don’t you go home and\\nget some shuteye?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "それがね、お布団に入ると眠気が消えちゃうの。\\nそんなことを繰り返していて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As much as I’d like to, I seem to become\\nwide awake the moment my head hits the\\npillow. I’ve tried over and over...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うーん。\\n千夜ちゃんがぐっすり眠れる方法、何かないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Is there any way we can help Chiya-\\nchan get a good night’s sleep?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "３人寄れば文殊の知恵、ですね。\\nこちらは４人いますから\\nきっといいアイディアが浮かびます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Two heads are better than one, as they say.\\nWe’ve got four heads, so I’m sure we’ll be\\nable to brainstorm at least one good idea.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "みんな……。\\nありがとう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You guys... Thank you.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "眠れない時はアロマを焚くといいわよ。\\nラベンダーの香りは眠気を誘うから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You should burn some fragrances whenever\\nyou’re having trouble sleeping. Lavender is\\ngood for causing drowsiness.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "アロマじゃなくても、\\nラベンダーのドライフラワーを部屋に飾っても\\nよく眠れるようになるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Other than that, decorating your bedroom\\nwith lavender flowers is said to help you sleep\\nas well.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "ラベンダーの香り……。\\nなるほど、試してみるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The scent of lavender? Interesting. I’ll try\\nthat.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "他には、考えることもできなくなるくらい\\nみっちり運動すれば、嫌でも眠れるんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know. Go exercise so long and hard that\\nyou can’t even think. Won’t that force you to\\nsleep?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "それって、眠るって言うより\\n気絶じゃないかしら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t think that’s sleep, that’s passing out...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃあ、ティッピーはどう？\\nティッピーをもふもふしていれば\\n間違いなく眠れるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then how about Tippy? Cuddling with her is\\nguaranteed to make you sleepy!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "ココアさん！\\nティッピーを勝手に\\n安眠グッズにしないでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san! You can’t just turn Tippy into a\\nsleep aid like that!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "それに、もふもふで眠れるのは\\nココアさんだけですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I seriously doubt anyone but you could\\nfall asleep just by petting a rabbit.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ええっ！？\\nそんなことないよ、もふもふに触れば\\nそれだけで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! There’s no way I’m alone on that. Just\\none fluffy hug, and you’re drifting off--",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "想像しただけで……眠くなってきた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just thinking about it... is making me sleepy...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "あんたが寝てどうするのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not the one who’s supposed to be\\nsleeping!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "だから、ティッピーは安眠グッズじゃありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, Tippy is not a sleep aid!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "そっかー。\\nじゃあ、何か別の――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine. Let me think, what else...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "……あれ？\\n千夜ちゃん、寝てる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. She’s asleep?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "いつの間に……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since when?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "え、えっと、どうしよう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, um. Now what?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "そのままにしてあげて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stay where you are.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "ああ、そうだな。\\nせっかく眠れたんだ、そっとしておこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed, just stay put. It’d be a waste to wake\\nher, so don’t move a muscle.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "チラシ配りは私たちに任せてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ll handle the flyers.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "うん、わかった。\\n千夜ちゃんが起きるまでここにいるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, got it. I’ll hold tight until she wakes\\nup.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "千夜のこと頼んだわよ、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Keep an eye on her for us, Cocoa.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "うん、頼まれたよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure! Will do.",
+          "status": "machine_translated"
         }
       }
     }

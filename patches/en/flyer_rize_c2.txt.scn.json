@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,134 +16,134 @@
         "0": {
           "speaker": "ココア",
           "original": "はうっ！\\nか、髪の毛が～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaa! My hair!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "大丈夫か？\\n今日は風が強いな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You alright?\\nThe wind's quite strong right now.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あうう、前髪がぐちゃぐちゃだ～！\\nねえ、変じゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauu~ My hair's flying all over the place.\\nI don't look funny, do I?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "変じゃないぞ、いつも通りだ。\\nしかしこれじゃ、そのうち\\n髪がバサバサになりそうだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope, you look fine. But at this rate,\\nyour hair will turn into a mess.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そうなっちゃう前に、\\nおさげにでもしようかなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I should probably tie up my hair\\nbefore that happens.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "リゼちゃんは、みつあみにしたらどうかな？\\nそれならバサバサにならないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, you should tie your hair into\\nbraids! It won't get all messy that way.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "みつあみか。\\nなるほど、いいかもしれないな――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Braids, huh. Not a bad idea.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ひゃあ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaa!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、ああああ～！！\\nチラシがぁ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaaaa! No, my pamphlets!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "む！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "え？　リゼちゃん、どこから銃出して？\\nていうか何で出したの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Rize-chan, where were you hiding\\nthat gun! Wait, why did you pull out a gun!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "すまん！　射撃訓練のクセが出てしまったんだ。\\nこう、不意を突いて飛んでくる的を\\n狙う訓練があって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoops! I did that instinctively.\\nI've practiced shooting so many clay\\npigeons that it's become second nature.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "か、かっこいい……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That was awesome!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "かっこいいよ、リゼちゃん！！\\n着物に銃！　モダンだよ、モダン！！\\nモダンでロマンだよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're awesome, Rize-chan! Guns\\nand kimonos! That's so modern!\\nSo modern! Modern and romantic!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "おい、ココア。\\nモダンの意味をわかって言ってるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oi, Cocoa. Do you know what modern means?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "え？　それはその……\\nも、もちろんわかってるよ！\\nモダンっていうのは――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, uh... O-Of course I do! Modern means...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "うわっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaa!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "あああああ～！\\nリゼちゃん、チラシがまたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaaaaaaaa! Rize-chan, your flyers!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "というか、最初に飛ばされた分のことを忘れてた！\\n急いで拾いに行くぞ、ココア！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And wait, we forgot about your\\nstack of flyers! Let's hurry and\\npick them up before they blow away!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On it!",
+          "status": "machine_translated"
         }
       }
     }

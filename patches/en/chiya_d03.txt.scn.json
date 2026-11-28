@@ -6,44 +6,44 @@
         "0": {
           "speaker": "ココア",
           "original": "さあ、ここが北極星の場所だね！\\n宝物は間違いなくここにあるはずだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, here's where the North Star is. \\nThe treasure has to be around here somewhere.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "お腹もいっぱいになったし、\\n張り切って探そうぜ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My tank is full! \\nTime to spend all my energy finding it!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "私も、頑張って探します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I will do my best as well.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "探索任務も佳境だな。\\n気合を入れていくぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our whole quest depends on this moment. \\nLet's give this our best effort!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "リゼ先輩、私、戦死覚悟で頑張りますっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai, I'm prepared to give my life \\non this battlefield!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "みんな、気合は充分ね。\\nじゃあココアちゃん、\\nまずはどこを探しましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our morale is as high as can be. Cocoa-chan, \\nwhere shall we look first?",
+          "status": "machine_translated"
         }
       }
     },
@@ -51,24 +51,24 @@
       "select_prompt": {
         "speaker": "千夜",
         "original": "みんな、気合は充分ね。\\nじゃあココアちゃん、\\nまずはどこを探しましょうか。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Our morale is as high as can be. Cocoa-chan, \\nwhere shall we look first?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "噴水の中に宝物があるんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The treasure is in the fountain!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "茂みの中は要チェックだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We must check the bushes!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "……食休みしてもいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Can we just take a lunch break?",
+          "status": "machine_translated"
         }
       }
     },
@@ -77,38 +77,38 @@
         "0": {
           "speaker": "ココア",
           "original": "噴水の中に宝物があるんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The treasure is in the fountain!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "なるほど、可能性はあるな！\\n水の中に沈むお宝なんてロマンじゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. That does seem likely! A treasure \\nchest submerged in the water is a classic!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "でも、こんな寒い時期に水に入ったら\\n風邪ひいちゃうよ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be careful. If you get wet in this \\ncold weather, you'll catch a cold.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "仕方ないわね。\\n私、水遁の術に挑戦するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it has come to this. \\nI'll activate my water release technique.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "できないでしょ、そんなこと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if you could do that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ていうか、噴水の中に宝があったら\\n掃除の時に見つかってるだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on. If the treasure was hidden down \\nthere, wouldn't someone have found it \\nwhen the fountain was cleaned?",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,8 +117,8 @@
         "0": {
           "speaker": "ココア",
           "original": "茂みの中は要チェックだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We must check the bushes!",
+          "status": "machine_translated"
         }
       }
     },
@@ -127,32 +127,32 @@
         "0": {
           "speaker": "リゼ",
           "original": "ああ、ここは外せないよな。\\nよし、手分けして探そう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, we can't skip the plants! Everyone, \\nsplit up and search the shrubbery!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア＆千夜＆マヤ＆メグ",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, sir!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "よし、いい返事だ！\\n全員散開！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what I like to hear! Get moving!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "みんな、息ぴったりです……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They're in perfect sync!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "の、乗り遅れた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We-We're not keeping pace!",
+          "status": "machine_translated"
         }
       }
     },
@@ -161,20 +161,20 @@
         "0": {
           "speaker": "ココア",
           "original": "……食休みしてもいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Can we just take a lunch break?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ええっ！？\\nさっきまでの気合はどこに……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? You were so excited \\njust a moment ago...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "それがね、千夜ちゃんのお弁当も\\nリゼちゃんのサンドイッチもおいしくて、\\nつい食べすぎちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So yeah, Chiya-chan's lunch and Rize-chan's \\nsandwiches were oh-so delicious \\nthat I may have eaten too much...",
+          "status": "machine_translated"
         }
       }
     },
@@ -183,38 +183,38 @@
         "0": {
           "speaker": "メグ",
           "original": "実は私も～。\\nお腹いっぱいすぎるから、\\nちょっとお休みしたいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too~ I overate and now I kind \\nof need to stop and rest.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "わ、私も……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "M-Me too...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "シャロまでか？\\nお前がそんな行動を取るなんて珍しいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You too!? I never thought I'd see you \\nadmit to that.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "だって、リゼ先輩のサンドイッチを\\n残すなんてできませんからっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, there's no way I can let your \\nprecious sandwiches go to waste!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "いや、ただのサンドイッチだぞ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me? It's just a sandwich.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "それじゃ、ちょっと休憩してから\\n探しましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then. Let's take a quick break before \\nwe continue.",
+          "status": "machine_translated"
         }
       }
     },
@@ -223,14 +223,14 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん、見つからないねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ We're not finding anything.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "なあココア、次はどこを探すんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yo, Cocoa, what do we do now?",
+          "status": "machine_translated"
         }
       }
     },
@@ -238,24 +238,24 @@
       "select_prompt": {
         "speaker": "マヤ",
         "original": "なあココア、次はどこを探すんだ？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Yo, Cocoa, what do we do now?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0201": {
           "original": "噴水の柱に注目だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's check the pillar in the fountain!",
+          "status": "machine_translated"
         },
         "*sel_0202": {
           "original": "街灯に秘密があるのかもしれないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The streetlights might have a secret for us!",
+          "status": "machine_translated"
         },
         "*sel_0203": {
           "original": "あずまやの屋根の上は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe the roof of the gazebo?",
+          "status": "machine_translated"
         }
       }
     },
@@ -264,8 +264,8 @@
         "0": {
           "speaker": "ココア",
           "original": "噴水の柱に注目だ！\\n暗号を入れると開いたりするのかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's check the pillar in the fountain! \\nMaybe it will open up if we input a code.",
+          "status": "machine_translated"
         }
       }
     },
@@ -274,20 +274,20 @@
         "0": {
           "speaker": "マヤ",
           "original": "おおー！\\n古代遺跡みたいで格好いい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Cool, like an ancient ruin!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "私の勘が告げている……！\\n噴水には隠された古代遺跡へのカギが！\\n真実はいつも闇の中に！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can feel my spidey sense tingling! The key \\nto the ancient ruins is within the fountain! \\nThe truth is always shrouded in darkness!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "まったく解決に導けてない！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This has literally nothing \\nto do with the treasure!",
+          "status": "machine_translated"
         }
       }
     },
@@ -296,38 +296,38 @@
         "0": {
           "speaker": "ココア",
           "original": "街灯に秘密があるのかもしれないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The streetlights might have a secret for us!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "街灯に～？\\nたとえば、どんな秘密？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the streetlights? What kind of secret?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "夜中の２時になると\\n街灯がいっせいに１つの場所を照らし出して、\\nそこに宝物が隠されてる、とか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At exactly 2 a.m., the light of all the \\nstreetlights converges on the spot where \\nthe treasure is buried. Or something.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "そんな大がかりな仕掛け、\\nできるわけないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You really think the hider had \\nthe ability to do such a thing?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "私、夜中の２時、街灯の下に\\nうさぎの亡霊が出るっていう噂なら\\n聞いたことがあるけど？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I heard a rumor that at 2 in the morning, \\nthe ghost of a rabbit \\nemerges from the shadow of a streetlamp.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ストーップ！\\n怪談話ならよそでやって！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｓｔｏｐ！ Tell your cursed ghost stories \\nwhen I'm not around!",
+          "status": "machine_translated"
         }
       }
     },
@@ -336,8 +336,8 @@
         "0": {
           "speaker": "ココア",
           "original": "あずまやの屋根の上は？\\nそこに隠してあるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe the roof of the gazebo? \\nSomething could be hidden there.",
+          "status": "machine_translated"
         }
       }
     },
@@ -346,44 +346,44 @@
         "0": {
           "speaker": "千夜",
           "original": "なるほど、確かにあそこなら\\n誰にも見つけられないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a bad idea. Something could \\nbe hidden there for a long time \\nwithout anyone coming across it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "でも、どうやってあんな場所を確認するのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But how do we get up there?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "よし、私がシャロを抱えて持ち上げるから\\n様子を見てくれないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know. Sharo, I'll lift you up there. \\nSee if you can find anything.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "り、リゼ先輩が私を抱えて！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You-You're going to be lifting me!?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "シャロは軽そうだし\\nチマメよりは背が高いからな。\\nちょうどいいと思うんだけど、だめか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're taller than Chimame and lighter \\nthan the others. I think you're best \\nsuited to the job. Do you object?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "い、いえ！\\n精一杯頑張らせていただきますっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No objections! I beg of you, \\nallow me to try this!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "小さくてよかったぁ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's good to be slim!",
+          "status": "machine_translated"
         }
       }
     },
@@ -392,506 +392,506 @@
         "0": {
           "speaker": "ココア",
           "original": "やっぱり見当たらないね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're still not finding anything...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "むう……。\\n推測が間違っていたのかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Maybe we were wrong about all this.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "それとも、北斗七星じゃなかったのかな～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Does this mean it wasn't \\nthe Big Dipper at all?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "でも他に手がかりはないのよね。\\n困ったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though that was the last clue we had. \\nWe've reached a dead end.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……おじいちゃん？\\nどこ見てるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Grandpa? Where are you looking?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ティッピー",
           "original": "うっ！？\\nべ、別にどこも見ておらんぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? I-I wasn't looking anywhere!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "目をそらすということは……反対側ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were looking away, which means... \\nit's in the exact opposite location.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "みなさん、\\nあっちの方向を調べてみてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Attention, everyone! \\nWe need to investigate over there!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ティッピー",
           "original": "い、いかん！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, shoot!!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "リゼさん、ティッピーを抑えていてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-san, arrest Tippy at once!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "よくわからないが、了解した！\\nティッピー、大人しくしろ！　動いたら撃つ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know what this is about, but an order \\nis an order! Tippy, put your hands in the air! \\nAny sudden movements and I'll use lethal force!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ティッピー",
           "original": "くうう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Grrr...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "あっちを探すんだな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're searching here, right?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "チノちゃんを信じるよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, we believe in you!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "宝箱を探せばいいのよね。\\nええと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So we're probably looking for \\na treasure chest. Let's see...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "あったわ！\\nこれじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's here! This is it!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "おお！　うさぎの刻印もある！\\nこれに間違いないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! It has the rabbit insignia! \\nThere's no mistaking it!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "チノちゃん、どうしてわかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, how did you know?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "ティッピーが嗅ぎつけました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy sniffed it out for me.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "すっげー！\\nティッピー、本当にお宝を嗅ぎつけられたんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Holy cow! Tippy actually \\nsniffed out the treasure!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ティッピー",
           "original": "ぐ、ぐぬぬ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Grrr...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "じゃあ、さっそく開けてみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, shall we see what's inside?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（今度こそ宝物でありますように……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Please have the treasure this time!)",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "小さなノートが入ってるわ。\\n開いてみるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a small piece of paper inside. \\nAllow me to read it.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "こ、これは……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Th-This is...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "これは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it...?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "間違いない、オリジナルレシピだわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is, without a doubt, a collection of\\noriginal recipes!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "や……やったぁ！\\nついに宝物を見つけたよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes! YEEEES! We finally found the treasure!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "マヤ",
           "original": "やったーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "苦労した甲斐があったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All that hard work paid off.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "おめでとうございます、ココアさん、千夜さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Congratulations, Cocoa-san, Chiya-san.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "おめでと。\\n最後しか参加できなかったけど、\\n結構楽しかったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Congrats. I was only here for the tail end, \\nbut it was pretty fun.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "メグ",
           "original": "よかったぁ～。\\nでも、ちょっとだけ……残念かも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a happy ending. \\nBut it's slightly bittersweet.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? And why's that?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "メグ",
           "original": "それは、みんなと宝探しするの、\\nすごく楽しかったからです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, because I had a lot of fun \\non our treasure hunt.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "マヤ",
           "original": "確かにメグ、今回は張り切ってたもんなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What an understatement! \\nYou had the time of your life today.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "じゃあ次は、みんなでシストに挑戦しましょうか。\\n地図を見つけたらになってしまうけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, we'll all have to hunt down \\na Ciste sometime! \\nThough we'll have to find a map first.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "マヤ",
           "original": "うん、やるやるっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! I'm in.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "メグ",
           "original": "わ～い！　楽しみ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! I can't wait!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "私もシストはやったことないし、\\nわくわくだよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've never done a Ciste before! How exciting!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ティッピー",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "リゼ",
           "original": "！！\\n千夜、気をつけろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!! Chiya, look out!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "千夜",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ティッピー",
           "original": "むぎゃあ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah!",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "リゼ",
           "original": "おい毛玉、今、千夜に怪しくにじり寄って\\n何しようとしてたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I saw you creeping up on her just now, \\nfurball! What the hell are you after!?",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ティッピー",
           "original": "べ、別に何もしとらんわい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I wasn't doing anything.",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm...",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "チノ",
           "original": "千夜さん、レシピはどんなものなんですか。\\n教えてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-san, what kind of recipes are they? \\nPlease tell me.",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "千夜",
           "original": "ええと……\\nコーヒーを使った和菓子と料理のレシピだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see... They're recipes for sweets\\nand meals made using coffee.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "チノ",
           "original": "やっぱり……。\\nこれを作ったのはおじいちゃんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just as I suspected. Grandpa, you were the one \\nwho made this, weren't you?",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "ティッピー",
           "original": "むう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Grrr...",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "千夜",
           "original": "あら、これはラビットハウスさんのマスターさんが\\n作ったレシピなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? This was made by the \\nMaster of Rabbit House?",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "チノ",
           "original": "はい、間違いありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes. There's no mistaking it.",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "千夜",
           "original": "そういえば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That reminds me...",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "千夜",
           "original": "おばあちゃんに聞いたのだけど、\\n昔ね、うちとラビットハウスさんで\\nコラボしたことがあったんですって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My grandma once told me that she \\ncollaborated with Rabbit House long ago.",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "千夜",
           "original": "これは、その時のために作られた\\nレシピなのかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe these recipes were made \\nfor that occasion? Who knows.",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "千夜",
           "original": "ただね、お客さんの評判はよかったのだけど、\\nおばあちゃんとマスターさんは\\nお互いに拗ねちゃったみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While the customers liked it, \\nit seems like the shared recipes caused \\na fight between my grandma and the Master.",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "ココア",
           "original": "拗ねちゃったの？\\nどうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They had a fight? Over what?",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "千夜",
           "original": "おばあちゃんは、自分の和菓子なのに\\nコーヒーの味が評価されて悔しかったみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think my grandma liked the fact \\nthat the coffee flavoring was more \\npopular than the sweets themselves.",
+          "status": "machine_translated"
         },
         "59": {
           "speaker": "チノ",
           "original": "祖父も同じような理由だと思います。\\n自分のコーヒーに自信を持っていましたから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I believe my grandfather was upset \\nfor a similar reason. \\nHe took great pride in his coffee.",
+          "status": "machine_translated"
         },
         "60": {
           "speaker": "シャロ",
           "original": "でも、ラビットハウスのマスターが作ったレシピが\\nなんで甘兎庵に隠されてたわけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, what's with these recipes made \\nby the Master of Rabbit House \\nbeing hidden in Ama Usa An?",
+          "status": "machine_translated"
         },
         "61": {
           "speaker": "シャロ",
           "original": "というか、甘兎庵のレシピノートに\\n地図が隠されてたら、普通、\\n千夜のおばあさんも気がつくんじゃないかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And to begin with, why was the map \\nhidden in a cookbook at Ama Usa An not \\nfound by Chiya's grandma before us?",
+          "status": "machine_translated"
         },
         "62": {
           "speaker": "チノ",
           "original": "それは、きっと……\\n祖父ははずかしかったのだと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, if I had to guess, it's because \\nGrandpa was too shy about it.",
+          "status": "machine_translated"
         },
         "63": {
           "speaker": "シャロ",
           "original": "はずかしい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Too shy?",
+          "status": "machine_translated"
         },
         "64": {
           "speaker": "チノ",
           "original": "はい、想像ですけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I think that's why.",
+          "status": "machine_translated"
         },
         "65": {
           "speaker": "ティッピー",
           "original": "違うわい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's not...",
+          "status": "machine_translated"
         },
         "66": {
           "speaker": "千夜",
           "original": "そうね、きっと\\nおばあちゃんもはずかしかったんだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think you're right. I think my grandma \\nwas embarrassed about it too.",
+          "status": "machine_translated"
         },
         "67": {
           "speaker": "千夜",
           "original": "メニューは評判になった。捨てるには忍びない。\\nでも、ちょっと悔しい。\\nだから見て見ぬ振りをした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was a big hit. She couldn't just throw \\nout the recipes. But it was so vexing \\nthat she couldn't stand the sight of it.",
+          "status": "machine_translated"
         },
         "68": {
           "speaker": "千夜",
           "original": "うふふっ！\\nそんなところかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Maybe it was something like that?",
+          "status": "machine_translated"
         },
         "69": {
           "speaker": "ココア",
           "original": "へえ～、チノちゃんのおじいちゃんも\\nかわいらしいところあったんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So Chino-chan's grandpa \\ncould be cute too.",
+          "status": "machine_translated"
         },
         "70": {
           "speaker": "ティッピー",
           "original": "わ、わしはかわいらしくなんかないぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who do you think you're calling cute!",
+          "status": "machine_translated"
         },
         "71": {
           "speaker": "ココア",
           "original": "ティッピーがかわいいから脱却！？\\nまさかのイメチェン宣言！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy is pivoting away from being cute!? \\nI never thought I'd hear \\nthis rebranding announcement!",
+          "status": "machine_translated"
         },
         "72": {
           "speaker": "マヤ",
           "original": "チノって、たまにすごい冗談言うよな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino makes the craziest jokes \\nwhen you least expect it.",
+          "status": "machine_translated"
         },
         "73": {
           "speaker": "千夜",
           "original": "ねえ、せっかくなんだから、\\nこのメニューの中から１つ作ってみましょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While we're at it, shall we go ahead \\nand make one of these recipes?",
+          "status": "machine_translated"
         },
         "74": {
           "speaker": "シャロ",
           "original": "ていうか、もともと\\nそのつもりだったんでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was what you planned on \\ndoing the whole time, right?",
+          "status": "machine_translated"
         },
         "75": {
           "speaker": "マヤ",
           "original": "じゃあ、ちょうどおやつの時間だし\\nケーキにしようぜ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect, it's time for a snack. \\nLet's bake a cake!",
+          "status": "machine_translated"
         },
         "76": {
           "speaker": "千夜",
           "original": "ええ、最初のページに書いてあった、\\nコーヒーケーキを作ってみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good suggestion. There's one written on \\nthe first page. Let's bake a coffee cake.",
+          "status": "machine_translated"
         },
         "77": {
           "speaker": "メグ",
           "original": "コーヒーケーキ？\\nおいしそ～！　楽しみ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Coffee cake? Sounds yummy! Let's do it!",
+          "status": "machine_translated"
         },
         "78": {
           "speaker": "千夜",
           "original": "私も楽しみよ。\\nおばあちゃんとラビットハウスさんの\\nマスターさんが作り上げたレシピなんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want to do it too. \\nThis was something invented by my grandma \\nand the Master of Rabbit House after all.",
+          "status": "machine_translated"
         },
         "79": {
           "speaker": "チノ",
           "original": "私も気になります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm interested in this as well.",
+          "status": "machine_translated"
         },
         "80": {
           "speaker": "シャロ",
           "original": "そうよね。\\nチノちゃんにとっては、マスターが\\n遺してくれた、かけがえのない宝物だものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As you should be. For you, this is a precious \\ntreasure left behind by the Master himself.",
+          "status": "machine_translated"
         },
         "81": {
           "speaker": "チノ",
           "original": "はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes.",
+          "status": "machine_translated"
         },
         "82": {
           "speaker": "チノ",
           "original": "では、さっそくですが\\nラビットハウスに向かいましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This might be abrupt, but let's all \\nreturn to Rabbit House right away.",
+          "status": "machine_translated"
         },
         "83": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure thing!",
+          "status": "machine_translated"
         }
       }
     }

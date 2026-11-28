@@ -6,56 +6,56 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "こうかな？\\nうーん、それとも、こう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like this!? Hm, no. How about like, this!?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "ココアさん、何やってるんですか？\\nさっきからチラシも配らず落ち着きなく動いて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, what are you doing? You’ve still\\ngot all your flyers, and I don’t see you doing\\nanything but spaz out.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ポーズの研究をしてるの。\\nもしこの衣装で映画を撮ったら、\\nどんな決めポーズがいいかなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m working on my pose for the camera. I\\nneed a signature pose picked out for if I ever\\nwear this costume in a movie.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "またココアが妙なことを言い出したわね。\\n映画って、どうしてそういう発想になるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa’s dreamed up something strange\\nagain. A movie? What makes you think of\\nthat?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "だって、かわいい服で、色違いで、お揃いでしょ？\\nチームを組んで戦う魔法少女とかの\\n映画が撮れそうじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at us, we’re all in matching uniforms of\\nassorted colors! Doesn’t it look like we’re on\\na set, about to film a magical girl film?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "さすがに、それは無理がないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s a bit of a stretch.",
+          "status": "machine_translated"
         }
       }
     },
@@ -64,188 +64,188 @@
         "0": {
           "speaker": "千夜",
           "original": "いいえ！\\n素晴らしいアイディアだわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s where you’re wrong! She has an\\nastonishingly good idea!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ああ、千夜が食いついちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, now Chiya’s joined in her antics.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "甘兎・ザ・ムービーを現実のものにする時は、\\nみんなに主演をお願いするわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m counting on you all to accept lead roles\\nonce Ama Usa: The Movie is put into\\nproduction!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "お前の野望はどこまで広がっていくんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just how ambitious are you!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "前から思ってるけど、\\n甘味処の枠をはみ出してない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve been starting to wonder if you understand\\nthe limitations of a pastry shop.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "シャロちゃん、時代は多角経営よ。\\n手広くやっていかなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, a business must diversify their\\noperations. You have to expand wherever\\nopportunity arises!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "手を広げすぎるのも問題では……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I do believe you can diversify too much...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ねえねえ、千夜ちゃん。\\n甘兎・ザ・ムービーはどんなジャンルなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chiya-chan, what genre will Ama Usa:\\nThe Movie be?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "そうね……。\\n色々考えられるけど、王道なら\\n甘味処を舞台にしたラブロマンスかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good question. I’ve thought about it long and\\nhard, but I think I’ll settle on a classic\\nromance, set in a pastry shop.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "おお、いいね。\\n栗ようかんを巡る恋の三角関係、新メニューと\\n共に新展開が！　なんて盛り上がりそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that’s perfect! A love triangle around the\\nchestnut youkan! But wait, a new menu item\\nenters the fray! Something like that!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "どういう話なのよ！？\\nしかも私たちの出番ないわよね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the hell are you talking about! And that\\nwouldn’t leave us any room to participate!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "それ、ラブロマンスじゃなくて、\\n食べ物の恨みは怖ろしい、みたいな\\nサスペンスにならないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That wouldn’t be a romance. That’d be a\\nthriller centering on the food’s envy and\\nrevenge.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "サスペンスもいいわね！\\nそこにホラー要素を足してみたらどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A thriller would be fine too! Perhaps we\\nshould add in the horror element as well?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "千夜のホラーはシャレにならないから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We can’t let Chiya make a horror movie!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "でも、真夏に公開したら\\n冷房の代わりになっていいかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we can have it released in the summer, a\\nchilling horror story would double as air\\nconditioning for us.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "冷気と一緒に妙なものまで呼ぶからやめて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ll only feel cool because of the life leaving\\nyour corpse!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ホラーもだめかー。\\nじゃあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So horror won’t work either. What else...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "なあ、アクションはどうだ？\\n飛び交う銃弾、迫力のカーチェイス、\\nクライマックスは手に汗握る１対１の決闘！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, how about an action flick? With a\\nhuge gunfight, a tense car chase, and ending\\nwith a climactic duel!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "甘味処が舞台なのに、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All set inside a pastry shop?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "無理か？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something wrong with that?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "な、なかなか難しいんじゃないでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-The director’s going to have to get\\ncreative.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "じゃあ、いつも通りの日常を撮るのはどうかな？\\n甘兎庵とラビットハウスとフルール・ド・ラパンで\\n私たちが楽しく仕事してるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh well, we’ll just have to shoot a slice-of-life.\\nWe’ll record ourselves having fun at Ama\\nUsa An, Rabbit House and Fleur de Lapin.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "日常？　それでいいのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Slice-of-life? Why would anyone watch that?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "さすがに日常だけじゃだめでしょうけど、\\n千夜と甘兎庵のサクセスストーリーを\\n絡めていけば映画になると思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That on its own would be too boring, but if\\nyou transform it into a documentary on Ama\\nUsa An’s success story, it could work.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "素敵です……！\\n将来、いい思い出として見られそうですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s a fantastic idea! The daily events will\\nturn into precious memories, looking back.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "私たち５人の青春物語と\\n甘兎庵のサクセスストーリー……！\\nええ、甘兎・ザ・ムービーに相応しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The story of our youths, weaved into Ama Usa\\nAn’s success story! Perfect, that’s exactly\\nwhat Ama Usa: The Movie should be about!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "となると、今の私たちが主役だから、\\n今から撮影を始めないといけないのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. Since it’s a documentary starring us,\\nwon’t we have to start filming ourselves right\\nnow?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "映画撮影ってどれくらいかかるのかしら？\\n今の甘兎の経営状況じゃ厳しいかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How much does it cost to shoot a movie?\\nGiven Ama Usa’s current financial situation, I\\ndon’t think we can have much of a budget.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "リゼ",
           "original": "待った待った、甘兎庵が全国チェーンに\\nなってから作る予定なんだろ？\\n今からなんて、さすがに気が早すぎだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa whoa! I thought you were only starting\\nonce Ama Usa An gets on the Fortune 500?\\nThere’s no way you can start filming now.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "そう……。\\nじゃあ、この日常をちゃんと再現できるように\\nしっかり心に焼き付けていかなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re right. Well then, we’ll just have to bake\\nthese slice-of-life memories permanently into\\nour hearts, for future reference.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "いつまでも忘れないように、ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know you won’t forget a moment. Right?",
+          "status": "machine_translated"
         }
       }
     }

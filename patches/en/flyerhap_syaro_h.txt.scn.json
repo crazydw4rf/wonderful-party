@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "怪盗ラパンの服って、\\nどきどきわくわくしてきちゃうよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wearing this Phantom Thief Lapin costume sure\\nis exciting, don't you think?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……その言葉、嫌な予感しかしないです。\\n今度は何を言い出すつもりですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I've got a bad feeling about this. \\nLet me guess, you're up to something again.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "みんなで、怪盗団を結成しよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up everyone, let's all form a gang of\\nphantom thieves!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "怪盗団かぁ。\\n義賊として悪党を懲らしめる、\\nなんて展開がありそうでいいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A gang of thieves, huh. So we'd act like\\nRobbin Hood, trying to beat some sense\\ninto the bad guys.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そう！　私たち５人なら向かうところ敵なし！\\n悪党もばったばったと倒しちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Precisely! When the five of us work together,\\nwe become unstoppable! Time to knock down\\nall the villains of the world!",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,218 +58,218 @@
         "0": {
           "speaker": "シャロ",
           "original": "怪盗が仕事なのか悪党退治が仕事なのか\\nわかんなくなってるわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So which is it? Are we phantom thieves,\\nor are we out to swear vengeance against\\ncriminals?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "もし、そうなったとしたら……\\n団のマスコットはティッピーですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Either way, if we were to form a gang...\\nOur mascot would definitely be Tippy.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、マスコットは大切だよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Spot on! Our mascot is indispensable!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、チームの構成員には\\nそれぞれ役割があるべきだからな。\\n特に精鋭の特殊部隊ともなれば役割分担は必須だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, and we also need to divide up our\\nmembers into roles. Specialization is\\nespecially vital in elite, special forces.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、他のみんなのも決めようよ。\\n団長は誰がいいかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, let's assign roles to everyone.\\nFirst off, who ought to be our leader?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ココアがいいんじゃない？\\n結成のきっかけもココアなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why don't you take that job? This whole thing\\nwas your idea after all.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "私は、参謀の役がいいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I volunteer to be the team's strategist.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "……千夜が参謀って、\\nちょっとどころじゃなく不安なんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I have a really, really bad feeling about\\nhaving Chiya be our strategist.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "あ、そうね、私よりシャロちゃんが適任よね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm, maybe you're right. You're much more\\nsuited to that position than I am.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "え？　なんで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What makes you say that?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "ちょっと影のある感じが参謀って雰囲気だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because being slightly cold and calculating\\nfits the character of a strategist.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "それ、褒めてないから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a backhanded compliment!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "でも、参謀はシャロさんがいいと私も思います。\\n頭がいいですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think you would make good strategist as well.\\nYou have the intelligence for the job.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "じゃあ、私は……食事係をやろうかしら？\\nおいしい料理を毎日、作ってあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then how about I be the gang's cook? I'll whip\\nup delicious meals for you every day.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "食事係？\\nそれよりも先に\\n決めるべきものがあるんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A cook?\\nDon't we have other roles to prioritize\\nbefore that?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "チノちゃんは応援係とかどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, how about you take charge of\\nproviding us with moral support?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "いや、それはもはや怪盗団に必要ないだろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh come on, what do we need that for in a \\nphantom thief gang!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "というか、なぜ私が応援係に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That, and what do I have to do with moral \\nsupport?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "だって、ティッピーを持ってるチノちゃん、\\nポンポンを持ってるチアガールみたいだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Obviously because you look like a cheerleader\\nwith a pom pom when you're holding Tippy.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "ぷっ……！\\nははは、あの毛玉がポンポンか！\\nココアの発想は本当に面白いな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pu... Hahaha! \\nTurning that little furball into a pom pom! \\nCocoa, you always have the funniest ideas.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "まったくもう……\\nココアってばくだらないことばかり言いすぎよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. \\nCocoa needs to learn to watch what she says.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "でも楽しい。\\nこういう時間、前にはなかった。\\nだから、これは当たり前のことじゃないのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I must admit this is fun.\\nI really shouldn't take this for granted, \\nconsidering how things used to be.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "私たち、いつまで……こうやって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Makes me wonder...\\njust how long...\\nwe'll be together like this...",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "ねえ、シャロちゃん。\\n怪盗ラパンの好きな食べ物って知ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Sharo-chan. Do you know what \\nPhantom Thief Lapin's favorite food is?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "……え？\\nそんな設定、出てた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Have they released any information about that?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "それはね、パンだよ！\\n怪盗ラパンだけに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see... \\nIt's a muffin! \\nGet it, cause she's Lapin!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "ただのダジャレじゃない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was terrible!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "でも、だったら面白いなーって思わない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, don't you think it'd be in character?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "まあ、確かに子どもには受けそうね。\\n単純で面白いから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I think the kids would like it. \\nIt's funny in a very simple manner.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "ってことは、ココアの発想は\\n子どもレベルってことなんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Which means that your thinking is on a \\nchild's level, isn't it?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "はっ！　そ、そんなことないよ？\\n私は大人の魅力溢れるお姉ちゃんなんだから。\\nね、チノちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊\\nTh-That's not true! I'm like a big sister, \\noverflowing with maturity. Right, Chino-chan?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "そんな人がいてくれたらいいのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How I wish I had someone like that to be around.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "め、目の前にいるよー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-But she's standing right in front of you!",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "ふふふっ！\\nホント、飽きずに何度もやるわね、あんたたちも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. That skit never gets old, even after\\nhearing it countless times.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "よかった、シャロちゃん、笑ってる。\\n……ココアちゃん、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank goodness, Sharo-chan's smile has been\\nrestored. Cocoa-chan, well done.",
+          "status": "machine_translated"
         }
       }
     }

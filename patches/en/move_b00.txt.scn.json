@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日のバイトは午前中でおしまい！\\n　午後はどこかにおでかけしよっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today's work ends before noon! \\nI should go somewhere this afternoon.)",
+          "status": "machine_translated"
         }
       }
     },

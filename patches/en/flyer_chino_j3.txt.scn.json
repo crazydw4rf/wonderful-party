@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm handing out flyers with my\\nlittle sister Chino-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？　なんだろう今の？\\n鳥の鳴き声かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. What was that just now? A bird?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "みたいですね。\\nあそこの木の上から聞こえてきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Probably. It sounded like it came\\nfrom the top of that tree over there.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、いた！\\n鳥が２羽とまってる。\\nなんて名前だろう？　すごくきれいな声してる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, look! There's two of them\\nup there. I wonder what they're\\ncalled. I really like their call.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "ええ、聞き惚れてしまいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. How fascinating.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "１羽が先に鳴いて、\\n追いかけるみたいにもう１羽も鳴いて……\\nなんだか仲良く歌を歌ってるみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One calls out first, and the other\\none calls out in reply. It's like\\nthey're singing a friendly duet.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "きっとあの２羽って姉妹だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Those two little birds must be sisters!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "何を根拠に断言を……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You claim with absolutely no evidence...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "だって、私とチノちゃんみたいに\\n息がぴったりなんだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon, they're two peas in a pod,\\njust like us!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "……そうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "私もチノちゃんと一緒に歌ってみたいな。\\nそうしたら、アイドルデビュー\\nできちゃったりして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna sing a song with you the\\nway they do. Then we'll be able\\nto say we've had our idol debut.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "アイドルは諦めたんじゃなかったんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Didn't you say you gave up on being an idol?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うーん……。\\n何がなんでもなりたいわけじゃないけど、\\nもしなれちゃったら、それはそれでって感じ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Let me put it this way--I won't commit\\nto becoming one, but if I happen to stumble\\ninto becoming an idol, I'll give it a shot.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "なんですか、それは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I suppose I'll never understand\\nwhat you're thinking.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "いいのいいの。\\n今大事なのはそこじゃなくて、\\nチノちゃんと一緒に歌いたいってことなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But who cares about all that! What\\nI want to get across is that I'd\\nlike to sing with you sometime.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "チノちゃんは、私と一緒に歌うのは嫌？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan,\\ndo you not want to sing a song with me?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "そんなことはありませんけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I never said that.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "じゃあ、今度一緒に歌おうね。\\n約束だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then let's have a duet sometime.\\nPinky promise?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "……仕方ありませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fine.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "えへへ、楽しみだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. I'll be looking forward to it.",
+          "status": "machine_translated"
         }
       }
     }

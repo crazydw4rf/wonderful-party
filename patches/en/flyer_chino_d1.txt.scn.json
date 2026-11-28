@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "チノ",
           "original": "き、喫茶店、ラビットハウスです。\\n……よろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-We're the cafe... Rabbit House... \\nPlease come for a visit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、チノちゃん？\\nなんだか元気ないみたいだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's wrong, Chino-chan? You seem out of it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "別にそういうわけではありません。\\nただ……ちょっとはずかしくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not like anything is the matter. \\nBut, you know... \\nThis is a little embarrassing...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "え？　はずかしいってどうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? What makes you say that?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "その……これ、少しスカートが\\n短くないでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well... To start, don't you think this skirt \\nis a bit too short?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "大丈夫、よく似合ってるよ？\\n心配いらないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, it looks great on you. \\nYou'll be fine!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "いえ、似合ってるかどうかの話では\\nないんですが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You misunderstand, I wasn't talking about how \\nit looked...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "それにしても、今日のココアさんは\\nいつにも増して元気なような気がします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But anyway, Cocoa-san, you seem to be even \\nmore energetic today than usual.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えへへ～、フルールの制服を着てるから\\nテンション上がっちゃってるのかも。\\n１度着てみたかったんだよね、かわいいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ I just can't seem to contain myself \\nwhile wearing Fleur's uniform. I always wanted to try it on.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "この飾りがうさぎの耳みたいで、\\nぴょんぴょんって飛び跳ねたくなっちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "These things look like bunny ears, so it \\nmakes me wanna go hop hop away.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "本当に跳ねないでくださいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please don't actually go hopping away on me.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "でも、目立った方が、私たちに\\n興味を持ってもらえるかもしれないよ？\\nチノちゃん、やってみない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if we do something to make us stand out, \\nwe'll attract more attention for the cafe. \\nChino-chan, shall we?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "嫌です。\\nそもそも、この制服を着るなら\\n私よりもリゼさんの方がよかったのでは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not in a million years. Also, instead of me, \\ndon't you think Rize-san should be the one \\nwearing this outfit?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うーん……。\\nそうすると、リゼちゃん、\\n普通にフルールの宣伝しちゃいそうだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm... If she did that, she'd basically turn \\ninto a walking Fleur advertisement.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "……確かに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You're right.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ、やっと笑ってくれた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, you finally smiled for me!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "やっぱりチノちゃんは\\n笑顔でいてくれた方がお姉ちゃんは嬉しいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No matter what, seeing you smile always makes \\nyour big sister happy.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "な、なんです、それは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What's with that out of the blue.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "その調子で一緒にぴょんぴょんしよう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And on that note, shall we go hopping away \\ntogether?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "嫌です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No thanks.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "えー、どうしてー？\\nこの格好でうさぎみたいにしてたら\\n動物に好かれるかもしれないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehh? Why not? You look kinda like a bunny in \\nthat, so maybe the animals will like \\nyou more?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "そんな簡単に好かれるのなら苦労しません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If only it was that easy to be liked so much.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "それより、そろそろチラシ配りに戻りましょう。\\n日が暮れてしまいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, let's return to handing these out. \\nIt's getting late.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         }
       }
     }

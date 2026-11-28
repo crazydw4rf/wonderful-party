@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（日曜日、お天気は上々！\\n　ここは街１周、野良うさぎ探しの旅に\\n　挑むしかないね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What a lovely day! Time to make a \\nlap around town on a safari for stray \\nrabbits!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "きゃああっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kyaaa!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（はっ！？\\n　この声はシャロちゃんだよね、\\n　一体どこから！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Huh!? That was Sharo-chan's voice, \\nbut where did it come from!?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,86 +28,86 @@
         "0": {
           "speaker": "シャロ",
           "original": "はぁっ、はぁっ、はぁっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊pant＊\\n＊pant＊\\n＊pant＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "シャロちゃん、どうしたの！？\\n何かあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, what's wrong? \\nDid something happen?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "コ、ココア？\\nねえ、あいつはついてきてない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa? Did you see if that guy \\nis still after me?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あいつ？　誰？\\nもしかして悪者に追われてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That guy? Who? Is someone up to no \\ngood and chasing you?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "そうよ！\\n人の仕事の邪魔をする、凶暴で横暴な――\\nあの、不良野良うさぎに追われてるの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! He's disrupting my work, \\nthat savage and brutalーー\\ndelinquent rabbit, he's on my tail!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "なんだ、うさぎかぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, just a bunny.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "なんだじゃないわよ！\\nこっちは必死なの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not just a bunny! \\nI'm running for my life right now!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "不良野良うさぎって、そこまで凶暴だった？\\nシャロちゃんが怖がりすぎなんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is a delinquent rabbit really that violent? \\nAren't you exaggerating just a little bit?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、来た！\\nかわいい～、おいでおいで～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh there he is! How adorable~ \\nCome get a big hug~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "何で呼ぶのよ！\\n逃げてきたって言ったでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you calling him here!? I just said \\nI was trying to get away from him!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "私が抱っこしてるから大丈夫だよ。\\nこれなら、シャロちゃんに\\n飛びかかることもないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've got him all wrapped up here, so you're \\nsafe. He won't be pouncing on you while \\nI have him like this.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "うう……。\\n絶対、放さないでよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... \\nDon't you dare let him go.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ほら見て。\\nうさぎ、かわいいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, look. \\nDon't you think bunny rabbits are cute?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "でも、邪魔するし、噛みつくし……\\nそんな生き物のどこがかわいいわけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it always disturbs me,\\nand knows how to bite...\\nWhat's so cute about this creature?",
+          "status": "machine_translated"
         }
       }
     },
@@ -115,24 +115,24 @@
       "select_prompt": {
         "speaker": "シャロ",
         "original": "でも、邪魔するし、噛みつくし……\\nそんな生き物のどこがかわいいわけ？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "But it always disturbs me,\\nand knows how to bite...\\nWhat's so cute about this creature?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "このもふもふ具合がたまらないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This fluffy texture is second to none!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "鳴き声が意外にかわいいんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Its cry is surprisingly cute.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "口元と動きが最高～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Its mouth and the way it hops!",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,56 +141,56 @@
         "0": {
           "speaker": "ココア",
           "original": "このもふもふ具合がたまらないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This fluffy texture is second to none!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "そんなの、他の動物だってもふもふじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So? Aren't all kinds of animals fluffy?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ううん、うさぎの毛はひと味違うよ。\\n触るとふわって感じで、もふって押し返して、\\n抱っこしてるとすっごく幸せになるんだ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, the rabbit's texture is special. It's soft\\nto the touch, and has resistance when you \\ncuddle it. Hugging it just makes me so happy!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うさぎが怖いってことは、\\nその極上のもふもふを失うことになるんだよ？\\n悲しくない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you're scared of rabbits, you'll miss out \\non this top class cuddliness. Doesn't that \\nmake you sad?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "どれだけふわっとしていても\\nもふってしていても、襲ってくる限り、嫌よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't care how soft or cuddly that thing \\nis, I hate anything that attacks me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "でも今なら襲ってこないよ。\\nね？　触ってみない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But he's not attacking you right now, right? \\nWhy don't you just try touching him?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "……じゃあ、ちょっとだけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...If you insist, I'll try just a little.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "って、わあ！？\\n急にどうしたの、暴れちゃだめだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, woah! \\nWhat's the matter with you, getting so rough all \\nof a sudden?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ひいっ！？\\nほ、ほら！　撫でることすらできないじゃない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hya!? \\nL-Look, I can't even give him a pet!",
+          "status": "machine_translated"
         }
       }
     },
@@ -199,44 +199,44 @@
         "0": {
           "speaker": "ココア",
           "original": "鳴き声が意外にかわいいんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Its cry is surprisingly cute.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ちょっと待って。\\nうさぎははっきりとは鳴かないって、\\n前に言ってなかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait a minute. Didn't you say before that \\nrabbit's don't make any sound?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、うん、あれから調べてみたんだけどね、\\nうさぎって『ぶう』って鳴くんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes I did, but I've since learned that \\nrabbits will call out with a ”BOO”.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ぶ、ぶう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-Boo?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "滅多に鳴かないけど、\\nこんなかわいい顔してて『ぶう』だよ？\\nギャップがすごいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't hear it very often, but this \\nadorable little face will occasionally let out a \\n”BOO”. You would never expect such a thing!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ぶうって？　本当なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "”BOO” you say. Are you being serious?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うん、前に野良うさぎが鳴くまで待ってたけど、\\n本当に『ぶう』だった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, I once waited around a stray rabbit \\nuntil it did its call. It really sounded \\nlike it was saying ”BOO”.",
+          "status": "machine_translated"
         }
       }
     },
@@ -245,14 +245,14 @@
         "0": {
           "speaker": "シャロ",
           "original": "意外ね……。\\nちょっと聞いてみたいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who would have guessed... \\nI kind of want to hear it now.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "でも、かなりの忍耐が必要だよ。\\n本当に、滅多に鳴かないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you have to be quite patient. The rabbit \\nonly allows its voice to be heard on \\nrare occasion.",
+          "status": "machine_translated"
         }
       }
     },
@@ -261,8 +261,8 @@
         "0": {
           "speaker": "ココア",
           "original": "口元と動きが最高～！\\nほら見て、いつも何か、もぐもぐもぐもぐって\\n口を動かしてるでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The shape of its mouth and the way it \\nhops is the best! Look, it seems like it's \\ngoing om nom nom on something all the time.",
+          "status": "machine_translated"
         }
       }
     },
@@ -271,20 +271,20 @@
         "0": {
           "speaker": "シャロ",
           "original": "確かに口がもぐもぐしてるわね。\\nうん……ちょっとだけ、かわいいかも。\\nでも、私の場合、この口で噛みつかれて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, it always seems to be gnawing on\\nsomething, and I admit that's pretty cute. The\\nproblem is that it's always gnawing on me...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、もしかして、シャロちゃんが\\n噛みつかれるのってハーブの香りがしてるからかな。\\n餌だと勘違いしてるかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, maybe the reason it's always trying to \\nbite you is because you smell like herbs? It \\nmust be mistaking you for food.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "え……。\\n私、草と同じ扱い……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh... \\nI'm being treated the same as a weed...",
+          "status": "machine_translated"
         }
       }
     },
@@ -293,62 +293,62 @@
         "0": {
           "speaker": "シャロ",
           "original": "はあ……。\\n色々言ってくれたけど、やっぱり\\nうさぎを好きになるのは難しいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ You've made quite an argument \\nfor these things, but it's still going to be \\nhard for me to start liking rabbits.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ええ？\\nこんなにかわいいポイントを教えたのに、\\nそれでもだめなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeh? I've pointed out lots of good things \\nabout rabbits, but that's still not enough?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "苦手なのはどうにもならないのよ。\\nココアも、苦手なものに追いかけられたら\\n全力で逃げるでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't help what I don't like. I'm sure if \\nsomething you hated was chasing you around \\ntown, you'd run away at top speed too.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "う～ん、確かに\\nあれに追いかけられたら絶対、逃げるよ。\\n捕まって流し込まれたら気絶する！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, I can't deny it. If ＊that＊ was after me\\nI'd definitely try to flee. If I was caught\\nand pumped full of that stuff I'd probably faint.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "流し込む？　気絶？\\nあんたは何に追いかけられると逃げるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Filled with? And then faint? What sort of \\nthing are you running from?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "トマトジュース！\\nどうしても苦手で……巨大トマトジュースの瓶に\\n追いかけられたら、地の果てまで逃げるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tomato juice! I just can't stand that stuff...\\nIf a huge bottle of tomato juice was after \\nme I'd run to the ends of the earth.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "……確かに、それは私でも逃げるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I'm sure I'd run away from that too.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "でも安心しなさい。\\nトマトジュースが追い掛けてくるなんて\\nあり得ないから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But rest assured. Being run down by \\ntomato juice is obviously ridiculous.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えー？　あるかもしれないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? But what if it actually happened?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "あり得ないわよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ridiculous!",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえチノちゃん！\\nこの服って、\\nカジノのディーラーさんぽくないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Chino-chan, don't you think this \\ncostume looks like a dealer at a casino?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……いきなりですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a random thing to say.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "チノちゃんを見てたら思ったの。\\nカジノにこういう格好の人がいるなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It popped into my mind when I looked at you. \\n”That sure seems like what someone at a \\ncasino would look like”.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "カジノ、行ったことがあるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you ever even been to a casino before?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ううん。\\nドラマとか映画で見たことあるだけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope. I've only seen them on TV and in movies.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "カジノって、なんかかっこいいよね。\\n裏社会の情報とか取引してそうで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Casinos sure look cool. Seems like the place \\nwhere shady deals take place and you can \\nget info on the dark side of society.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "ココアさんは、バーやカジノに\\nどういうイメージを持っているんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, just what impression do you have \\nof bars and casinos?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "でも、そういうのを抜きにしても、\\nルーレットとかやってみたいなーって思うよ？\\nボールを回すのとか面白そうだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But leaving that aside, I kinda want to try \\nplaying roulette. It's so silly the way the \\nball rolls around.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "……賭ける側じゃないんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Not interested in the betting, huh.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "てへへ……。\\nそういうのって私、多分苦手だし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tehehe... I'd, uh, probably not be the \\nbest at that.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そうだ！\\nラビットハウスでポーカーとか\\nできるようにしたらどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! How about we get Rabbit House ready \\nfor playing poker?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "お客さんが増えるかもしれないし、\\n私もディーラーをやれて一挙両得かも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll gain customers and I get to be the dealer.\\nTwo birds with one stone!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "それはもはや喫茶店じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not what a cafe is all about.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "えー、いいアイディアだと思ったんだけどなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? I thought it was a pretty good idea...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃあ、チノちゃん、\\n今夜一緒にポーカーやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, Chino-chan, how about we play \\nsome poker together?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "はい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "お店でやるわけじゃないし、いいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not like we'd play in the cafe, so \\nshouldn't it be fine?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "それは構いませんけど……\\n２人で楽しむのなら神経衰弱がいいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm willing to play, but since it's just \\nthe two of us, I'd rather play a memory game.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うん！\\nじゃあ神経衰弱ね。\\nふふ、夜が楽しみだな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that! The memory game! Hehe, I \\ncan't wait until tonight!",
+          "status": "machine_translated"
         }
       }
     }

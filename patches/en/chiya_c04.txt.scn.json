@@ -6,104 +6,104 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日はどきどきの１日だったね。\\n　宝探しが一気に進んだよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today sure was exciting! We made massive \\nprogress in our treasure hunt.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（ああ～っ！　興奮しちゃって眠れない！\\n　チノちゃんの部屋にお邪魔しちゃおうかな？\\n　それとも千夜ちゃんに電話してみようかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah! I'm so excited I can't sleep! \\nShould I go invade Chino-chan's room? \\nOr maybe give Chiya-chan a call?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、千夜ちゃんからだ！\\n　やっぱり千夜ちゃんと私は\\n　通じあってるんだね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, Chiya-chan just called me! The two of \\nus really are on the same wavelength!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "もしもし、千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Chiya-chan?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ココアちゃん、こんばんは。\\nごめんね、遅くに電話して。\\nなんだか興奮して、眠れなくなっちゃったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good evening, Cocoa-chan. \\nSorry to call so late. \\nI've been so excited that I couldn't sleep.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "私もだよ。\\nそれでね、今ちょうど千夜ちゃんに\\n電話しようかと思ってたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm in the same boat. In fact, \\nI was just thinking about giving you a call.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "そうだったの。\\nやっぱり私たち、波長が合うのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so? We really are \\non the same wavelength.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "えへへ、そうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ It's true.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "宝探し、上手くいきそうね。\\nみんなのおかげで一気に進展したわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks like our search for treasure \\nis going well. Our group discussion has \\nhelped us take a great leap forward.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "もしかしたら、本当に宝物が\\n見つかっちゃうかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we're lucky, we might find the \\ntreasure for real this time.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "そうねぇ……。\\nでも、隠した人はどうして\\nこんな手の込んだ仕掛けをしたのかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. But the question of why the hider made \\nsuch an elaborate scheme is still unanswered.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "街中に７枚も地図を隠すなんて、\\n大変な手間よね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Imagine the effort it took to hide \\nall seven of the maps.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うーん……。\\n宝探しを楽しんでもらいたかったのかな？\\nそんな、お茶目な人だったのかもしれないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Whoever did it probably wanted us to enjoy \\na treasure hunt. \\nI'm sure such a prankster could exist.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "そうだったのならいいけど、\\nもしかしたら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope you're right. But it's possible that...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "もしかしたら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's possible what?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "よほど見つけてほしくないものが\\n隠されているのかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's possible that they're hiding something \\nthat they don't want us to find.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "見つけてほしくないものを隠してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hiding something that they \\ndon't want us to find?",
+          "status": "machine_translated"
         }
       }
     },
@@ -111,24 +111,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "見つけてほしくないものを隠してるの？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Hiding something that they \\ndon't want us to find?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "それってツンデレだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a tsundere!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "そんなにすごい物なのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it something that impressive?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "なら、最初から隠さないんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then they shouldn't be hiding it?",
+          "status": "machine_translated"
         }
       }
     },
@@ -137,8 +137,8 @@
         "0": {
           "speaker": "ココア",
           "original": "それってツンデレだね！\\n見つけてほしくないと思ってるのに\\n地図を残しちゃうなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a tsundere! You shouldn't \\nhave left us all these maps if \\nyou didn't want us to find it!",
+          "status": "machine_translated"
         }
       }
     },
@@ -147,20 +147,20 @@
         "0": {
           "speaker": "千夜",
           "original": "うふふっ、そうね。\\nよほどのツンデレさんね。\\nもしくははずかしがり屋さんかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tehehe. Indeed. Quite the tsundere. \\nShe must be shy.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "見つけるなよ！　見つけるなよ！\\n絶対に見つけるなよ！　って言いながら\\n地図を用意するんだもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "\"Don't find it! Don't find it! Don't you dare \\nfind it!\" she says while making all the maps.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それはツンデレっていうより\\n芸人さんのノリじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instead of a tsundere, \\nmaybe they're more of a performer?",
+          "status": "machine_translated"
         }
       }
     },
@@ -169,8 +169,8 @@
         "0": {
           "speaker": "ココア",
           "original": "そんなにすごい物なのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you think it's something that impressive?",
+          "status": "machine_translated"
         }
       }
     },
@@ -179,26 +179,26 @@
         "0": {
           "speaker": "千夜",
           "original": "そうかもしれないわね。\\n楽しみだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who could say? I can't wait to find out.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "むむむむ～、何が出てくるのかな？\\n金銀財宝とか？　国家機密とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mumumumu. Just what is in store for us? A \\nvault of gold and silver? A national treasure?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "地下迷宮の魔王なんて\\n掘り出しちゃったら大変ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're in trouble if we stumble \\ninto the lair of a demon lord.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "それは絶対掘り当てちゃいけないよ～！\\n私たちのせいで世界が滅んじゃう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We definitely cannot let that happen! \\nThe end of the world will be all our fault!",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,26 +207,26 @@
         "0": {
           "speaker": "ココア",
           "original": "なら、最初から隠さないんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then they shouldn't be \\nhiding it to begin with?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ええ、そうなのよね。\\nそこが不可解だけれど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, indeed. \\nBut that's what's so mysterious about it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "何か深い意味があるのかも。\\nきっと、私たちにはわからない\\n意図が隠されているんでしょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There might be a deeper meaning to this. \\nI think there is some hidden purpose \\nthat we don't yet understand.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うーん、宝物もだけど\\nその辺の事情も気になってくるなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. It's not just the treasure that's \\npuzzling. The background to this \\nwhole ordeal is perplexing too.",
+          "status": "machine_translated"
         }
       }
     },
@@ -235,92 +235,92 @@
         "0": {
           "speaker": "ココア",
           "original": "でも、本当に見つけてほしくないものだったら……\\n私たちが探し出しちゃって大丈夫なのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if this really is something we're \\nnot supposed to find, is it really okay \\nfor us to go through with finding it?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ううん、大丈夫よ。\\nきっと私の考えすぎだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, don't take it that way. \\nI'm probably overthinking it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それより、パーティーの飾りつけの準備も\\nそろそろ始めないといけないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, it's high time I started working \\non the decorations for the party.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そうだね。\\nせっかくだし、かわいらしくしたいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I almost forgot. What a nice opportunity. \\nI hope it comes out nice and cute.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "窓にティッピー型の\\nスノースプレーを吹き付けたり、\\nきらきらライトアップさせたり。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You could spray Tippy-shaped window frosting! \\nAnd hang some glittering lights!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "それも素敵ね。\\n私もね、みんなをびっくりさせるような\\n驚きの飾りつけをしたいと思ってるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Those are some wonderful ideas. \\nI was thinking of some shocking decorations \\nthat would get a response out of everyone.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "いいね、クリスマスサプライズとか\\n絶対思い出に残るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great thinking! Everyone will have \\nlasting memories of a Christmas surprise!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "でしょう？\\nそれで、ちょっと聞きたいんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? So I have something \\nI need to ask you...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ラビットハウスさんって、\\n床をせり上げたり\\n天井を開いたりとかできるかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it possible to raise up the floor \\nor open the ceiling of Rabbit House?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "一体どんなサプライズを仕掛けるつもりなの！？\\nラビットハウスにそんな変形機構は\\n備わってないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of surprise do you have in mind!? \\nRabbit House wasn't built \\nwith that kind of machinery installed!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あら、残念。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, what a shame.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あはは……。\\n千夜ちゃんの本気の恐ろしさを\\n垣間見た気がするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha... I feel like I just found out \\nmore of what you're capable of...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "あっ……。\\nごめんなさい、すっかり話し込んじゃったわね。\\n今日はそろそろ寝ましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I'm sorry. I've been keeping you up for \\ntoo long. It's about time we got some sleep.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うん。\\nそれじゃ、おやすみなさい千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good call. Sweet dreams, Chiya-chan.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "おやすみなさい、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sweet dreams, Cocoa-chan.",
+          "status": "machine_translated"
         }
       }
     }

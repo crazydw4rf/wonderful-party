@@ -6,8 +6,8 @@
         "0": {
           "speaker": null,
           "original": "ゲームのチュートリアルを見ますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Would you like to view the tutorial?",
+          "status": "machine_translated"
         }
       }
     },
@@ -15,19 +15,19 @@
       "select_prompt": {
         "speaker": null,
         "original": "ゲームのチュートリアルを見ますか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Would you like to view the tutorial?",
+        "status": "machine_translated"
       },
       "choices": {
         "*tutorial": {
           "original": "チュートリアルを見る",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "View the tutorial",
+          "status": "machine_translated"
         },
         "*tutorial_skip": {
           "original": "チュートリアルを見ない",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ignore the tutorial",
+          "status": "machine_translated"
         }
       }
     },
@@ -36,74 +36,74 @@
         "0": {
           "speaker": "タカヒロ",
           "original": "さて、それではゲームの説明をしておこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, I will now explain the \\ngame.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "タカヒロ",
           "original": "このゲームは、君がココア君になって、\\n友人達と仲良く日々を過ごすゲームだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In this game, you will become Cocoa \\nand spend time getting along with your \\nfriends.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "タカヒロ",
           "original": "文章選択の内容や\\n休日のおでかけ先で出会うことで、\\nチノやリゼ君達の「親密度」がＵＰする。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Via text choices, or by choosing \\nmeetups on your off days, you can increase \\nyour “Intimacy” level with your friends.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": null,
           "original": "（チノの誕生日のあと、親密度が星９つ以上の\\n　キャラクターストーリーに移行するように\\n　なっています）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(After Chino's birthday, you will transfer into a \\n“Character Story” with an Intimacy level of \\nat least nine stars.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": null,
           "original": "（ただし、キャラクターストーリーには\\n　優先度が存在します）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The Character Stories each have their own \\npriority level.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": null,
           "original": "（チノ、リゼ、千夜、シャロの順に\\n　優先度がありますのでご注意ください）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The priority, in order, is Chino, Rize, \\nChiya, Sharo.)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": null,
           "original": "（キャラクターストーリーでは\\n　「親密度」に代わり、「友情度」が\\n　ＵＰしていくようになります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Once within a Character Story, the \\n“Intimacy” level will be replaced with a \\n“Friendship” level.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": null,
           "original": "（「友情度」の状態によって\\n　エンディングが変化します）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The ending you receive will depend on your \\nFriendship level.)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "タカヒロ",
           "original": "また、ラビットハウスでのバイトぶりによっては\\n特定のキャラクターストーリーではなく――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furthermore, based on your time spent \\nworking at Rabbit House, it will be possible \\nto avoid a specific Character Story...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "タカヒロ",
           "original": "「みんなで過ごすストーリー」に\\n移行することもできるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...and transfer instead into the harem \\nending.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "タカヒロ",
           "original": "詳しくは、ラビットハウスでのバイトの時に\\n説明しよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The details will be explained while \\nworking at Rabbit House.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "タカヒロ",
           "original": "では、ココア君、チノをよろしく。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, Cocoa-kun, take good care \\nof Chino.",
+          "status": "machine_translated"
         }
       }
     }

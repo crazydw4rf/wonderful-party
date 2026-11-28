@@ -6,68 +6,68 @@
         "0": {
           "speaker": "ココア",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん……。\\n　さっきから背中に視線を感じる）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm. I feel like I’m being watched.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（誰が私を見てるの？\\n　まさか、私、狙われてるの！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Who’s watching me right now? Wait, does\\nthis mean I have a stalker!?)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ！　もしかして、私をお姉ちゃんだと思って\\n　遠くから見つめている誰かがいるのかも）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, I know! Someone thinks I’d make a\\ngreat big sister and they’re watching me from\\nafar.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（お姉ちゃんって呼びたくて、でも呼べなくて\\n　切ない想いを抱いてるの？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(They’re tortured by the thought of wanting to\\ncall me their Onee-chan but never having the\\nopportunity to do so.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（そんな……！\\n　遠慮なんていらないよ！\\n　さあ、私をお姉ちゃんと呼んで――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(How awful! You don’t need to be shy! Come,\\ncall me your big sister to your heart’s\\ncontent!)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "青山さんだった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was Aoyama-san!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "驚かせてしまって申し訳ありません。\\n実は、小説のヒントになるかと\\nココアさんを尾行していました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forgive me for surprising you. Allow me to\\nexplain. I’ve been stalking you in an attempt\\nto find inspiration for my writing.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "尾行を堂々と告白！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you admit you were stalking me!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "ですが、あっさり見つかってしまいましたね。\\n残念です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But alas, I was discovered almost\\nimmediately.",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,18 +81,18 @@
       "choices": {
         "*sel_0101": {
           "original": "尾行をするのならサングラスです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can’t stalk people without sunglasses!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "もっとかわいい服を着ていればよかったなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I should have put on some fancier clothes.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "私ってそんなにヒロインっぽいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think I’d make a good heroine?",
+          "status": "machine_translated"
         }
       }
     },
@@ -101,26 +101,26 @@
         "0": {
           "speaker": "ココア",
           "original": "尾行をするのならサングラスです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can’t stalk people without sunglasses!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "え？　サングラス？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Sunglasses?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "サングラスと帽子、\\nそれにマントで正体を隠さないと。\\n尾行はそこから始まるんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re supposed to don a pair of sunglasses\\nand a hat, and wear a trench coat. Those are\\nthe basics of stalking people!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "な、なるほど……！\\n確かに、正体を隠すことは重要ですね。\\n次に尾行する時は気をつけます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Oh, yes, I see! It’s vital to hide your\\nidentity. I’ll be sure to do that next time I stalk\\nyou.",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,38 +129,38 @@
         "0": {
           "speaker": "ココア",
           "original": "もっとかわいい服を着ていればよかったなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I should have put on some fancier clothes.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "あら、どうしてですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and why is that?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "かわいい服を着ていれば、私の何気ない行動が\\n素敵に見えるかもしれませんよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Every little action I take is sure to look\\nwonderful if I’m well dressed.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "素敵に見える方が、きっと、\\n尾行していて楽しいんじゃないかなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t you think it’d be more pleasant to stalk\\nsomeone who’s looking their best?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "尾行している人の楽しさのため、ですか。\\nココアさんは変わったことを仰るのですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you’d be doing it for the stalker’s sake,\\nhuh. You sure say the strangest things at\\ntimes.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そのような反応をしてくださったのは\\nココアさんが初めてで……興味深いです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re the first person who has responded in\\nsuch a way to me. Very interesting.",
+          "status": "machine_translated"
         }
       }
     },
@@ -169,26 +169,26 @@
         "0": {
           "speaker": "ココア",
           "original": "私ってそんなにヒロインっぽいですか？\\n尾行したくなるほどに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think I’d make a good heroine? So good\\nthat you’ve decided to stalk me?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "ええ、ココアさんはとても個性的ですから。\\nその行動を観察していると、\\nはっとさせられることも多いです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s correct. You’re such a unique person\\nthat, at times, simply watching your actions\\ncan take my breath away.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "ヒロインとしても大変魅力的ですし、\\n主人公を支える役でも輝くでしょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think you’d make an incredibly attractive\\nheroine. A heroine that would shine brightly in\\nsupport of the main character.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そ、そうなんですか～。\\nえへへ、なんか照れちゃいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You really think so? Ehehe~ You’re gonna\\nmake me blush.",
+          "status": "machine_translated"
         }
       }
     },
@@ -197,116 +197,116 @@
         "0": {
           "speaker": "ココア",
           "original": "それで、私を尾行した結果、\\nどんなネタが浮かんだんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, have you gained any inspiration as\\nthe result of stalking me?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "そうですね。\\nココアさんを尾行して――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me think. After stalking you--",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、わかった！\\n華麗な街の国際バリスタ弁護士の\\n波瀾万丈な冒険小説ですね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, let me guess! You were inspired to write\\na dramatic adventure story about the town’s\\nbeautiful international barista lawyer!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "いえ、違います。\\n実は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that’s not it. You see--",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、キュートな街の国際バリスタ弁護士の\\n優雅な日々を描くミステリー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So instead, you’re creating a mystery about\\nthe patrician life of the town’s cute\\ninternational barista lawyer!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "それも違います。\\n実はですね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not that either. So you see, I’m---",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あっ！　そうだ！\\n才気溢れる街の国際バリスタ弁護士の\\n斬新な発想を描くＳＦですね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I’ve got it! You’re writing science fiction\\nabout the startling new inventions of the\\ntown’s cerebral international barista lawyer!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "い、いえ、そうではなく――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No, that’s not it--",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あれれ？\\nじゃあ、なんなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Then, what do you have in mind?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "何も思いつかなかったんです。\\n困りました……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I haven’t had any ideas at all yet. I don’t know\\nwhat to do...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ええー！\\n私がモデルの小説のアイディアは\\n一体どこへ行っちゃったんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh come on! What happened to all those\\nideas I gave you about a novel based on\\nme!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "さあ……。\\nしかし、ココアさんでもだめとなると、\\nどうしたらいいのやら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alas. Anyway, if I can’t even find inspiration\\nthrough you, Cocoa-san, I truly am stuck.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "……わかりました！\\nじゃあ、これからも私を尾行してください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I see the problem! Here’s what you need to\\ndo: continue stalking me!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "今度はちゃんと小説のネタに\\nなるようなことをしますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This time, I guarantee I’ll do something that\\nwill work as inspiration for your writing.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "まあ、それは大変助かります。\\nありがとうございます、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness, that would be most helpful. Thank\\nyou very much, Cocoa-san.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "……ところで、青山さん。\\n小説のネタになるようなことってなんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...By way, Aoyama-san, what exactly will work\\nas inspiration for your writing?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "ええっと……\\nそれがわかったら苦労しないのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Umm... If I knew the answer to that, I\\nwouldn’t be in this situation.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あはは……そうですね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha... True...",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "ふう～。\\nちょっと疲れたね、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh.\\nThis is hard work, isn't it, Sharo-chan?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "そう？\\n私はまだいけるけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think? It seems pretty easy to me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "またまた、シャロちゃんってば\\n頑張り屋さんなんだから。\\nたまには休憩しなくちゃだめだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you go again, trying to be such a\\nworkhorse. It's perfectly fine to take a break\\nwhen you need one.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "別に頑張り屋でもないし、\\n休憩もまだいらないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What an overstatement.\\nI'll be perfectly fine without a break.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そんなこと言わないで～、\\n温かい飲み物でも飲まない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't be so modest. Couldn't you go for a nice,\\nhot drink right about now?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "……仕方ないわね。\\nじゃ、休憩にしましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fine, if you insist. We'll take a break.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "わーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "やっぱり、ココアが休憩したかっただけじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aha, so you were the one who needed to take\\na break.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そ、そんなことないよ？\\nそれよりも、さっそく\\n温かい飲み物を買ってこないとね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're overthinking it. Anyway, I'm off to\\ngo pick up something hot to drink.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ふう～、あったまるねえ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahh, that hits the spot.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "そうね。\\n思ったよりも冷えてたみたい、\\n温かさが身に染みるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again. Only after drinking\\nthat did I realize just how how cold I was.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あー。\\nココア、甘くておいし～い。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh, this cocoa's so sweet. I love it.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "ふふっ！\\nなんだかおかしい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. That came out weird.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ん？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What did?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "ココアがココア飲んでる。\\nふふふっ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa's drinking down cocoa.\\nTehehe.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "じゃあ、シャロちゃんも\\n私を飲むといいよ～、はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, you can have a turn sipping on me as\\nwell. Here ya go.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "別にいいわよ。\\n自分で買った分があるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm good. I've got my own to drink.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "なっ、なんで断るの？\\n私じゃいけないの？　私のこと嫌いなの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You turned me down? What don't you like\\nabout me? So you hate me after all!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "ご、誤解を招く発言はやめてよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "L-Listen to what you're saying!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "私はシャロちゃんにも\\nココアを味わって欲しいのに、\\nシャロちゃんは嫌なんだ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All I wanted was to share the experience of this\\ncocoa with you, but you shot me down!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと！\\nココア！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Calm down! Cocoa!?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "そうだよ、私はココアなのに\\nココアがいらないなんて！\\nシャロちゃんはココアを愛してないのね～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see how it is! You don't wanna have anything\\nto do with cocoa! You don't love cocoa\\nafter all!!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "ストップ、ストップ！\\n周りの人が聞いたら\\nどう思うかわからないでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｓｔｏｐ！Ｓｔｏｐ！\\nWhat are the locals going to think if they\\nhear all this!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "じゃあ、はい。\\nどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If that bothers you, then take a sip.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "まったくもう。\\nじゃあ、ちょっとだけもらうわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable. Fine, I'll have a tiny bit.",
+          "status": "machine_translated"
         }
       }
     }

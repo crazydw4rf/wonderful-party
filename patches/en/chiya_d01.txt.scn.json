@@ -6,98 +6,98 @@
         "0": {
           "speaker": "ココア",
           "original": "さあ、今日は待ちに待った宝探し！\\nもうテンション有頂天だよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Behold! Today is our much-anticipated \\ntreasure hunt! I'm so excited I could scream!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "今日は、絶対に宝物を見つけましょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're absolutely going to \\nfind the treasure today!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん！\\n今日ですべての謎に終止符を打つんだよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! We're going to crack all these enigmas!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "おい、ココア？\\n楽しみなのはわかるけど、\\nはしゃぎすぎて途中でバテるなよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hold your horses, Cocoa. I understand \\nyour excitement, but don't burn out halfway.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "大丈夫だよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll be fiiiine.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "まったく大丈夫じゃなさそうなんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what people say when they're not fine.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "でも、こういう時のココアさんのバイタリティは\\n目を見張るものがあります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though I must admit that Cocoa-san's \\nvitality is something to see.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "確かに、そうね。\\nそういう素直なところ、\\nちょっとだけ羨ましいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's right about that. I'm a little bit \\nenvious of how open she can be at times.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "お宝もだけど、\\n私は千夜のお弁当も楽しみだな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Treasure is cool and all, but I for one \\nam most excited about Chiya's handmade lunch.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "うふふっ、ありがとう。\\n今日はさらにおいしくできてると思うから\\n期待していてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. I appreciate it. I made today's \\nespecially delicious, so look forward to it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "メグ",
           "original": "わ～い！\\nよーし、宝探し、頑張る～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yay! Alright, a treasure hunt! \\nLet's do our best!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "みんな、気合が入ってます。\\nこの分なら、今日は宝物を見つけられそうですよ、\\nおじいちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They're all in a good mood. Grandpa, it looks \\nlike we're on pace to discover the treasure.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ティッピー",
           "original": "わしには関係ないと言っとるわい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like I said, this has nothing to do with me.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "この辺りが、北斗七星でいうところの\\nミザールのある場所ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If my calculations are correct, \\nthis area around here is where \\nMizar is placed in the Big Dipper.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここって、前に\\n　２枚目の地図を見つけた公園だよね。\\n　まさか戻ってくることになるなんて……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This here is where we found the second map. \\nI didn't think we'd come back for more...)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "詳しい手がかりはないから、\\n手当たり次第に探してみるしかなさそうね。\\nココアちゃん、最初はどこを探しましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We don't have any detailed information to go \\noff of, so we have no choice but to search \\nrandomly. Cocoa-chan, where shall we look first?",
+          "status": "machine_translated"
         }
       }
     },
@@ -105,24 +105,24 @@
       "select_prompt": {
         "speaker": "千夜",
         "original": "詳しい手がかりはないから、\\n手当たり次第に探してみるしかなさそうね。\\nココアちゃん、最初はどこを探しましょうか。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "We don't have any detailed information to go \\noff of, so we have no choice but to search \\nrandomly. Cocoa-chan, where shall we look first?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "運動ができる広場の方を探そう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's search the field!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "まずは植え込みの中を探してみようよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's start with the shrubs.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "公園にいる野良うさぎの耳！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The ears of the wild rabbits!",
+          "status": "machine_translated"
         }
       }
     },
@@ -131,14 +131,14 @@
         "0": {
           "speaker": "ココア",
           "original": "運動ができる広場の方を探そう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's search the field, where we can exercise!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "あっちの方？\\n……あら、バレーボールを\\nしている人たちがいるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Over there? Oh, I see some people \\nplaying volleyball.",
+          "status": "machine_translated"
         }
       }
     },
@@ -147,32 +147,32 @@
         "0": {
           "speaker": "千夜",
           "original": "そういえば、前、ココアちゃんと\\nバレーボールの練習をしたことがあったわねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That reminds me of the time when the two of us\\npracticed playing volleyball.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あの時は大変だったよねぇ。\\n２人で倒れちゃって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That didn't go very well for us. \\nWe both ended up collapsing...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "２人とも、脱線してないで早く探すわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't get distracted, you two! \\nWe need to hurry up and find this thing!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "シャロちゃんはあの時、\\n気の抜けた服で来ちゃった上に、\\nカフェインで酔っ払っちゃったわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan showed up wearing that \\ncasual hoodie and got completely \\nhammered on caffeine in public.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "千夜～っ！\\n思い出させないでよ、もう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiyaaaa! Don't make me remember that!",
+          "status": "machine_translated"
         }
       }
     },
@@ -181,8 +181,8 @@
         "0": {
           "speaker": "ココア",
           "original": "まずは植え込みの中を探してみようよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's start with the shrubs.",
+          "status": "machine_translated"
         }
       }
     },
@@ -191,38 +191,38 @@
         "0": {
           "speaker": "リゼ",
           "original": "物を隠す定番だな。\\n出だしとしては悪くない判断だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A classic hiding spot. \\nNot a bad place to start.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "でも、全部調べるとなると大変だよ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But looking through all of \\nthem is a lot of work.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "大丈夫だよ、全員で探せばすぐだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a problem! We have the \\nmanpower to get it done.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、数の利を活かして一気に探索するぞ。\\nみんな、私についてこい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! Let's use our numbers \\nto systematically search them all. \\nEveryone, follow me!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "おーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oorah!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "い、いつの間にかリゼちゃんが\\n隊長になっちゃってる～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-When did we decide that Rize-chan \\nwas our squad leader!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -231,56 +231,56 @@
         "0": {
           "speaker": "ココア",
           "original": "公園にいる野良うさぎの耳！\\nここに隠されている可能性もあるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's search the ears of the wild \\nrabbits in the park! It's possible \\nsomething is planted in one of them!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "う、う、う、うさぎの耳の中！？\\nそんな宝物、絶対いらない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the ear of a ra-ra-ra-rabbit!? \\nNo treasure is worth that!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "大丈夫です、そんなのあり得ませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Calm down. \\nThat suggestion is obviously ridiculous.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "だよなぁ。\\nなんでうさぎの耳にお宝が隠されている、なんて\\n思うんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again. Treasure hidden in \\nthe ear of a rabbit? What is she thinking?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "だって、もふもふに宝物が隠されてたら\\nすごく素敵じゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wouldn't it be wonderful if the treasure \\nwas hidden in something cute and cuddly?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "も、もふもふに宝物……！\\nそれは確かに素敵かもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Treasure in something cute and cuddly!? That \\nis certainly a wonderful idea you have there!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "チノが感化されてる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino's that easily influenced!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ていうか、昔の地図に記された宝物が\\n生き物についてるわけないでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait a second! There's no way \\na super old map could be leading \\nus to treasure attached to an animal!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、そっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh. Huh.",
+          "status": "machine_translated"
         }
       }
     },
@@ -289,14 +289,14 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん……見当たらないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. We're not finding much of anything.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "そうですね……。\\n次はどこを探しましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes... Where should we look next?",
+          "status": "machine_translated"
         }
       }
     },
@@ -304,24 +304,24 @@
       "select_prompt": {
         "speaker": "チノ",
         "original": "そうですね……。\\n次はどこを探しましょうか。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Yes... Where should we look next?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0201": {
           "original": "きっと木の根元に埋まってるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It must be buried under a tree!",
+          "status": "machine_translated"
         },
         "*sel_0202": {
           "original": "道の途中に落ちてるかもしれないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It might have fallen onto a road.",
+          "status": "machine_translated"
         },
         "*sel_0203": {
           "original": "ベンチの下とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe under a bench?",
+          "status": "machine_translated"
         }
       }
     },
@@ -330,8 +330,8 @@
         "0": {
           "speaker": "ココア",
           "original": "きっと木の根元に埋まってるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It must be buried under a tree!",
+          "status": "machine_translated"
         }
       }
     },
@@ -340,32 +340,32 @@
         "0": {
           "speaker": "マヤ",
           "original": "それ、お宝っぽいじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That seems like where \\ntreasure would be buried!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "でも、前に地図を見つけた時も\\n木の根元に埋まってたわよね。\\n同じ方法では隠さないんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But the last time we found treasure here, \\nit was under a tree. Do you think \\nthey would pull the same trick twice?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そう思わせておいて、実は！\\nなんてこともあるかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe that's what they want us to think! \\nYou never know.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "確かに、ダミーを使って\\n本物の存在に目を向けにくくする手法もあるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. It's possible the \\nfirst one was a dummy meant to \\ndistract us from the real treasure.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、手分けして木の根元を掘ってみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, let's split up and dig around \\nall these trees.",
+          "status": "machine_translated"
         }
       }
     },
@@ -374,38 +374,38 @@
         "0": {
           "speaker": "ココア",
           "original": "道の途中に落ちてるかもしれないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It might have fallen onto a road.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "それは……\\nちょっと考えにくいんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um? Doesn't that seem extremely unlikely?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ココアさん、真面目にやってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you need to take this seriously.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うう……。\\n私なりに真面目だったんだけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw. But I was trying to take this seriously.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ああ、そんなに落ち込まないで。\\nココアちゃんの自由な発想は、\\nいつも助けになってるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, don't take it that way. The way you always \\nspeak your mind has been helpful to us \\nmany times before.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "千夜ちゃん……！\\nありがとうっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Thank you~",
+          "status": "machine_translated"
         }
       }
     },
@@ -414,20 +414,20 @@
         "0": {
           "speaker": "ココア",
           "original": "ベンチの下とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe under a bench?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "そういえば、以前、ベンチの下に\\n青山さんの万年筆が落ちていたことがありました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it, \\nI once found Aoyama-san's fountain \\npen under one of these benches.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、青山さんにとっての宝物は\\nベンチの下で見つかったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You did? So you could say that you found \\nAoyama-san's treasure beneath a bench.",
+          "status": "machine_translated"
         }
       }
     },
@@ -436,26 +436,26 @@
         "0": {
           "speaker": "千夜",
           "original": "それって、ちょっとしたジンクスね。\\n私たちが探している宝物も、\\nベンチの下にあったりして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That would be quite the coincidence! \\nWhat are the odds that we find \\nour treasure under the same bench?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "でも、昔から隠されていたわけですから\\n今回は違うと思いますが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, this treasure was hidden long ago. \\nI don't think it's going to be sitting \\nunder a bench out in the open.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、でも、ベンチの下の目立たない部分に\\nくっつけられたりしてたら気づかないかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "True, but it might be attached to part \\nof the bench out of sight. You never know.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "そうね、ベンチの下をまじまじと覗く人は\\nあまりいないと思うし、一応探してみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good point. I doubt anyone checks \\nthe undersides of these benches very often. \\nLet's take a look just in case.",
+          "status": "machine_translated"
         }
       }
     },
@@ -464,44 +464,44 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん、やっぱりない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, there's nothing here.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "なあなあ、もうお昼だし\\n休憩してご飯食べない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Time out. It's already noon, \\nso can we stop and eat?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "お前は宝探しに来たのか\\n弁当を食べに来たのか、いったいどっちなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did you come here to find treasure, \\nor to eat lunch?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "宝探しも千夜のお弁当も\\n同じくらい楽しみだから決められないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was looking forward to the treasure hunt \\nand Chiya's lunch with equal enthusiasm!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "うふふ、作る側としてはすごく嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. I'm very glad to hear that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "じゃあ、もう１か所だけ探してから\\nご飯にしましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's cut a deal. We'll search one more place, \\nand then we'll stop to eat.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "さんせーい！\\nじゃあ、最後はどこを探すんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sounds good! Alright, where to next?",
+          "status": "machine_translated"
         }
       }
     },
@@ -509,24 +509,24 @@
       "select_prompt": {
         "speaker": "マヤ",
         "original": "さんせーい！\\nじゃあ、最後はどこを探すんだ？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Sounds good! Alright, where to next?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0301": {
           "original": "前回の地図が埋まっていたがわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The same place we found the first map!",
+          "status": "machine_translated"
         },
         "*sel_0302": {
           "original": "ここにはないのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe it's not here?",
+          "status": "machine_translated"
         },
         "*sel_0303": {
           "original": "木の上を探そうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's search the treetops.",
+          "status": "machine_translated"
         }
       }
     },
@@ -535,14 +535,14 @@
         "0": {
           "speaker": "ココア",
           "original": "前回の地図が埋まっていたがわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The same place we found the first map!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ミザールって２つの星が連なってるんだよね？\\nなら、前回ここで見つけた地図の近くに\\nあるのかもしれないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The star Mizar is supposed to have a second \\nstar right beside it, remember? Which \\nmeans the second chest might be very close.",
+          "status": "machine_translated"
         }
       }
     },
@@ -551,50 +551,50 @@
         "0": {
           "speaker": "千夜",
           "original": "確かに……！\\nすごいわココアちゃん、名推理ね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent idea! Very nice, Cocoa-chan! \\nYou're a genius!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "確かに説得力があるな。\\nココアらしくもなく鋭いじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That does make sense. \\nThat was pretty smart, for Cocoa at least.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "『らしくもなく』って何！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you mean, for me!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "それで、前回見つけた木ってどこなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, which tree was hiding the first one?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "えっと……んーと……どれだっけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, uhhh... I forgot.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ええっと、確か広場の東の……あの木ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, it was east of the \\nmain square... That one.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "では総員、探索開始！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All hands on deck! Commence the hunt!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "ら、らじゃー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "R-Roger!",
+          "status": "machine_translated"
         }
       }
     },
@@ -603,26 +603,26 @@
         "0": {
           "speaker": "ココア",
           "original": "ここにはないのかな？\\nこんなに探してるのに見つからないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe it's not here at all? We've done \\na lot of looking with nothing to show for it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうかもしれないわね……。\\nでも、もう少しだけ探してみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, that's possible. \\nBut let's look a little while longer.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "はい。\\n私も納得いくまで探したいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. I want to look until I'm \\nthoroughly convinced it's not here.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうだね。\\nじゃあ、もう少しここを探してみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then. Let's keep combing this area.",
+          "status": "machine_translated"
         }
       }
     },
@@ -631,8 +631,8 @@
         "0": {
           "speaker": "ココア",
           "original": "木の上を探そうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's search the treetops.",
+          "status": "machine_translated"
         }
       }
     },
@@ -641,26 +641,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "なるほど、上か。\\nそいつは盲点だった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Above us? Interesting. \\nThat's a total blind spot.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "でも私、木登りなんてできないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just so you know, I can't climb a tree.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "台を借りたりして、何とかやってみようよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll borrow a step stool \\nand see what we can do.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "そうね、頑張りましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. Let's give it one more shot!",
+          "status": "machine_translated"
         }
       }
     },
@@ -669,20 +669,20 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん、やっぱり見つからない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. We're still not finding anything...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "じゃあ、いったん休憩ね。\\nお昼ご飯にしましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, break time. Let's have some lunch.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "待ってましたぁ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've been waiting for this!",
+          "status": "machine_translated"
         }
       }
     }

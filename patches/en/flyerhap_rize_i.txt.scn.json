@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "うわぁ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaa!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "うおお！\\nこれはすごい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ohhh! Now we're talkin'.",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,278 +40,278 @@
         "0": {
           "speaker": "リゼ",
           "original": "あれ、マヤにメグじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there's Maya and Megu.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "今帰りなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Making your way home?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "そうなんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that was our intention...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "なんだか落ち込んじゃうね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But seeing this is making me depressed...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "はっ？\\nいきなりなんでだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? What for?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "あれ？\\nマヤさん、メグさんも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Maya-san, Megu-san.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "チラシ、受け取りに来てくれたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you come for a pamphlet?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "よう、チノ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yo, Chino!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "ふう、ちょっと安心した～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, that\\nmakes me feel a wee bit better about myself.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "安心？\\nどうかしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What makes you feel better?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "メグ",
           "original": "あのね、リゼさんもだけど、\\nココアちゃんも結構大きいんだな～って思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, how Cocoa-chan's gotten pretty big\\nlately. And Rize-san goes without saying.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "マヤ",
           "original": "それで、チノとシャロを見て安心したって言うか。\\nあはは！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seeing another mortal like you or Sharo\\nmakes me feel better about myself! Hahaha!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "……そういうことですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ugh. So that's what you're talking about.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……すごーく複雑なんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know how I feel about this.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "なあ、リゼ。\\nどうやったら、そんな風に大人っぽくなれるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize, what'd you do to end up looking\\nso grown up like that?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "私も知りた～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna know too!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "私も興味があります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm interested in this as well!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ま、待って！\\nどうしてお姉ちゃんじゃなくて\\nリゼちゃんに聞くの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!? Why would you ask Rize-chan\\nabout that instead of your big sister!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "マヤ",
           "original": "だって、リゼに聞いた方がいいもーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cause you should learn from the best.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "メグ",
           "original": "千夜さんでもいいかも～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think we could go wrong by asking\\nChiya-san either.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "確かに……\\nココアさんより大人っぽいですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. They've both matured better\\nthan Cocoa-san has.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア（Ｍ）",
           "original": "（ががーん！\\n　妹たちに尊敬されてないの、私！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This can't be real! You're\\ntelling me that none of my little\\nsisters respect me!? At all!?)",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "私は、ココアちゃんと同い年よ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Little old me?\\nI'm the same age of Cocoa-chan, you know?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "私だって１つ上なだけだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I'm only a year older than them.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "マヤ",
           "original": "でも、ココアにないものがあるからさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, but you've got a nice\\nsomething-something that Cocoa lacks.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ええー！？\\n私、何が足りないの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat! You find me lacking!?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "フルール・ド・ラパンをよろしくお願いしまーす。\\nフルール・ド・ラパンでーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｗｅ’ｒｅ　Ｆｌｅｕｒ　ｄｅ　Ｌａｐｉｎ．\\nＰｌｅａｓｅ　ｃｏｍｅ　ｆｏｒ　ａ　ｖｉｓｉｔ．\\nＷｅ’ｒｅ　Ｆｌｅｕｒ　ｄｅ　Ｌａｐｉｎ．",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "シャロちゃーん！\\n私に足りないものってなに！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "SHARO-CHAAAAN!\\nWHAT IS IT THAT I'M LACKING!?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "うるさーい！\\n私のことはほっといてよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "SHUT UP! DON'T TALK TO ME!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "なんで怒るの！？\\nあ、じゃあ、リゼちゃん！\\n私に足りないものってなんなの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you mad at me for? Rize-chan,\\nwhat is it that you possess but I lack?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "うーん、思いつくことはあるが、\\nまず自分で考えてみたらどうだ？\\n自身を省みることは大切じゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, I think I know what it is, but you\\nshould come to your own conclusion.\\nThink it over on your own for a while.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア（Ｍ）",
           "original": "（私に足りないもの、足りないもの。\\n　リゼちゃんや千夜ちゃんにあって\\n　私に足りないもの……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm lacking in... I'm lacking\\nin what? Something that both\\nRize-chan and Chiya-chan have...)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "落ち着き、かなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe... composure?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "……年齢とか言い出すかと思ったんだが、\\n意外としっかり分析したな。\\n正直、驚いた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I figured you'd say seniority or something.\\nThat was an uncharacteristically decent\\nanalysis. I'm genuinely surprised.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "えへへ、よく言われるんだ。\\nココアさんは落ち着きが足りません、って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ I get that a lot, actually. “Cocoa,\\nyou need to regain your composure.”",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "ああ、チノに言われてるのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I get the feeling Chino tells you\\nthat every day.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "そうなんだよー！\\nお姉ちゃんに意見する妹ってのもまたかわいくて。\\nそういうことができるのは仲良し姉妹の証だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup! It's so cute how my little\\nsister always speaks her mind! That's\\nher way of proving our sisterly love!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "ココアちゃんはどんな時も前向きね。\\nそこは、私にはないところだと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan manages to maintain her\\nKafkaesque optimism no matter what. I don't\\nthink I'm capable of that, to be honest.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "チノ",
           "original": "千夜さん、下手に褒めないでください。\\nあとが大変なので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, don't give her praise lightly.\\nYou'll only make things worse.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "マヤ",
           "original": "でさ、ココアはともかくとして、\\nリゼみたいになるのにはどーすんの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever, I don't care about Cocoa.\\nWhat do I have to do to end up like Rize?",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "リゼ",
           "original": "そうだな……。\\n私のような身のこなしを手に入れるには\\n訓練あるのみだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You wanna know? All my reflexes and abilities\\nhave come from a strict regimen. Nothing more.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "メグ",
           "original": "訓練あるのみ……。\\nうん、きっと成長に対する\\nストイックな精神が重要なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A strict regimen. I see. What's important is\\na stoic attitude towards your personal growth.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "マヤ",
           "original": "ええー。\\n大人っぽくなるのは大変そうだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bleh. Growing up is no fun.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "チノ",
           "original": "こつこつ頑張るしかありませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing we can do\\nbut work hard at it little by little.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "リゼ",
           "original": "ああ。\\n頑張れよ、チマメ隊。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep. Good luck, Chimame Squad.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "シャロ",
           "original": "私だって頑張ってるのに……。\\n牛乳だって飲むようにしてるし……。\\nなのにどうして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I am working hard at it! I hold my nose and\\nforce down milk... but why isn't it working?)",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,260 +28,260 @@
         "0": {
           "speaker": "千夜",
           "original": "こんなことじゃだめよね。\\n今は仕事に集中しなくちゃいけないのに……\\nでも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can’t be doing this, I have to concentrate.\\nBut it’s on my mind...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん？\\nどうしたの、手が止まってるけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan? You’ve stopped moving, what’s\\nthe matter?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "あっ！\\nごめんなさい、ちょっと考え事をしていて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Sorry about that, I was just thinking\\nabout something.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "困った顔してたけど、もしかして悩み事？\\nなんでも相談にのるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is there something on your mind? You look\\ntroubled. Feel free to tell me about it.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "それは、その……気にしないで。\\n小さなことで、相談するほどじゃないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, um... Never mind. It’s nothing important,\\nand not something worth talking about.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ううん、悩みに大きいとか小さいとかない。\\n千夜ちゃんにとっては、\\nどんなことだって大きな悩みのはずだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t say such a thing. There’s no worry so\\nsmall as to not be worth discussing. To me,\\nall your problems are big problems.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "だから、一緒に考えさせて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, let’s talk it over.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "ココアちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "何を悩んでいるのか知らないけど、水くさいぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Can’t you just tell us what it is? I thought we\\nwere friends.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "相談もしてもらえないのは、\\nその、ちょっと、寂しいって言うか……\\nむ、無理にとは言わないけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Having something you can’t discuss with anyone\\nis, well... kind of sad. B-But we’re not forcing\\nyou to talk about it!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "私も、もしかしたら\\nお役に立てるかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If there’s anything I can do to help, please tell\\nme.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "みんな……ありがとう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All of you... Thank you so much!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "それで、何を悩んでるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, what’s on your mind?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ええ……。\\n実はね、こしあんとつぶあん、\\nどちらが強いのか気になりだして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. You see, I was conflicted on whether\\ncoarse anko or fine anko is stronger.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "……は？　こしあん？　つぶあん？\\nそれってあんこの？\\nそんなことで悩んでたの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Come again? Coarse or fine anko? That’s\\nit? You’re worried about types of anko?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "ちょ、ちょっと待ってくれ！\\n話についていけないんだが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-Time out now! I don’t think this is\\nsomething I have an opinion on...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "私もです。\\nやっぱりお役に立てそうにありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither. I don’t think I’ll be of any use in\\nresolving this.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "うーん、こしあんとつぶあんの勝負か。\\nこれは和菓子界の根本を揺るがす大問題だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So I see. The great debate over fine and\\ncoarse anko. The timeless question that\\nkeeps the wagashi community divided!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "ええ、そうでしょう？\\n１度気にしてしまうと、もう頭から離れなくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, you understand? Once you consider the\\nquestion, your soul ends up torn between the\\ntwo sides!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "話についていってる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She has an opinion about this!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "さすがココア……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, I’m impressed!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ねえ、みんなはどっちが強いと思う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen everyone, which one do you think is\\nstronger?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "そう言われてもな……。\\nまあ、相談にのるって約束したし、\\nとにかく考えてみるか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t know what you want me to say. Well,\\nwe did promise to help you resolve your\\nworry, so I’ll try thinking it over.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "はい、努力はしてみるべきですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Same here. I’ll try to help you come to a\\nconclusion.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "じゃあ、まずは、\\nそれぞれの強いところを考えてみよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s start at the beginning. Let’s overview\\neach camp’s strong points.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "つぶあん……。\\nあんになっても主張するつぶには\\n力強さを感じるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Coarse anko... Its rough texture survives\\neven when made into paste, which gives it a\\nsense of raw power.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "うーん……？\\nわかるような、わからないような。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I’m not sure if I get it or not.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "それに対して、こしあんには\\nスマートなしなやかさがあるわね。\\n間違いなく技巧派だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That, versus fine anko, which is trim and\\nsmooth and without a doubt wants to show\\noff its flashy techniques.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "こしあんがスマート？\\nえーっと……つぶあんよりカロリーが\\n少ないってこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine anko is trim? Uh... Is that supposed to\\nmean that it’s lighter in calories than coarse\\nanko?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "力のつぶあん、技のこしあん。\\nねえ、ココアちゃんはつぶあんとこしあんが\\n戦ったらどちらが勝つと思う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The powerful coarse anko, versus the agile\\nfine anko. Cocoa-chan, which one do you\\nthink would win in a fight?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "あんこが戦う機会はないと思うんですが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you seriously imagining two types of\\nanko fighting?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア（Ｍ）",
           "original": "（これは難しい問題だね。\\n　こしあん、つぶあん、どちらが強いか。\\n　う～ん……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What a difficult question to answer! Who\\nwould win, coarse anko or fine anko?\\nHmmmmmm.)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "どっちもおいしい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like them both!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "えっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "答えになってないわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s not an answer!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "えー、でも、どっちも比べられないぐらい\\nおいしいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uee~ But they’re both delicious, and can’t be\\ncompared to the other!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "今考えているのは\\nおいしさじゃなくて強さです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No one asked about how they taste, the\\nquestion is their strength!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "いいえ！\\nすばらしいわ、ココアちゃん！\\nそうよね、争いは何も生まないのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, she’s right! What a wonderful way of\\nlooking at things, Cocoa-chan! You’re right,\\nnothing good comes from conflict!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "うん、そうだよ。\\nあんこはおいしさで勝負しないと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see? The debate is only over their\\ndeliciousness!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "ごめんね、私、間違っていたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I would like to apologize. It seems I was\\nmistaken from the very beginning.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "なんで勝手に納得してるのよ～！\\nこっちが真面目に考えてあげてたのに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you taking that for an acceptable\\nanswer! We were taking the question\\nseriously!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "リゼ",
           "original": "なんていうか、ココアも千夜も自由だよな。\\nあの発想の柔軟さは真似できないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess you could say Cocoa and Chiya think\\noutside the box. It’s hard to emulate that\\ndegree of flexible thinking.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "チノ",
           "original": "はい。\\nまあ、真似したいかと言うと微妙なところですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. Though I can’t say I’d want to think\\nthat far outside the box.",
+          "status": "machine_translated"
         }
       }
     }

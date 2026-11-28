@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,242 +28,242 @@
         "0": {
           "speaker": "千夜",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん、どうしたの？\\n難しい顔してるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, what’s the matter? You look\\ntroubled.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ちょっと思い出せないことがあって。\\n占いの名前で、チノちゃんが得意な……\\nカフェ・ド・マンサーだったかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What was it called... Remember that one\\nfortune telling technique, that Chino-chan\\nwas good at? Caffe-de-mancer?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "カフェ・ド・マンシーです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was caffe-de-mancy.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "チノちゃんのカフェ・ド・マンシーは\\nよく当たるんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan’s caffe-de-mancy fortunes were\\nalways spot on.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "いえ、私はカプチーノでしか当てられないので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, the only predictions I was ever able to\\nmake was with cappuccinos.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "それでもすごいわ。\\nでも実はね、私も占いが得意なの。\\n手相なんだけど、チノちゃんをみてもいいかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s still an impressive feat. Speaking of\\nwhich, I can tell fortunes too. Chino-chan, do\\nyou mind if I read your palms?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はい、ぜひ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all. Go ahead.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "それじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here I go.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ふんふん……。\\nチノちゃんには、素敵なお姉さんができる\\n相が出てるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm, hm. Chino-chan, it appears that you’re\\nready to have a wonderful big sister.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please no.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "それ、当たりだよ！\\nさすが千夜ちゃんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, a perfect prediction! Chiya-chan,\\nyou’re the best!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "へえ、手相って\\nそんな細かいことまでわかるのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I never knew palm readings could\\noutput such detailed predictions.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "リゼ先輩。\\n千夜の言うことを本気にしちゃだめです。\\nあれ、ココアに合わせてるだけですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai, don’t take Chiya so seriously.\\nShe’s only telling Cocoa what she wants to\\nhear.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "私も、千夜ちゃんに教えてもらったから\\n少しは手相占いができるんだよ？\\nチノちゃん、見てあげる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can read palms a little bit too, since Chiya-\\nchan’s been teaching me. Chino-chan, show\\nme your palms.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "遠慮します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m fine.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "いいから、いいから。\\nはい、手を出して？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, come on! C’mon, give me your hand.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ほあ～。\\nチノちゃんの手はちっちゃくてかわいいねぇ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Awww. You’ve got the cutest little hands!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "占いは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you telling fortunes or not!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "あ、そうだった。\\nふむふむ、チノちゃんには\\n素敵なお姉ちゃんに甘えるといい相がでてるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right! Hmmm. Chino-chan, it appears\\nthat it’d be good luck for you to let your\\nwonderful big sister pamper you.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please no.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "さあ、チノちゃん。\\nお姉ちゃんに甘えていいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You heard me, Chino-chan! Feel free to trust\\nin your big sister!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "シャロさん。\\n宿題でわからないところがあるので、\\nあとで教えてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san, I’ve been having some trouble\\nwith my homework. Can you help me?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "任せて。\\nチノちゃんは飲み込みが早いから\\n教えるのも楽しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No problem. You’re a fast learner, which\\nmakes teaching you a pleasure.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "そっちのお姉ちゃんじゃないよ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re picking the wrong big sister!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "でも当たってるわ。\\nすごいわね、ココアちゃん。\\n私の手相も見てくれないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The prophesy was true! I’m impressed,\\nCocoa-chan. Can you do mine too?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "いいよ。\\nどれどれ、千夜ちゃんの手相は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Let me see... Chiya-chan’s palms\\nsay...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "おお、あずきに愛される相が出てる！\\nまさに甘兎庵を盛り上げるために\\nあるような相だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! You’re loved by adzuki beans! It’s almost\\nas if this is an omen of Ama Usa An’s coming\\nprosperity.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "まあ、あずきに愛されるだなんて。\\n考えてもいなかったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, the possibility of being loved by adzuki\\nis something that I’ve never thought of\\nbefore.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "道理で、甘兎のお菓子が\\nあんなにおいしいわけだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You must be, considering how tasty Ama\\nUsa’s sweets always are.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "ふふ、そう？\\nありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. You think so? Thanks.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "あ、あとね、私たちがずーっと仲良しな相も\\n出てるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and one more thing. It appears that we’ll\\nbe friends from now on, forever.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "それは、手相を見てもらう前から\\nわかっていたわよ？\\n私たち、親友だものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s something I knew without any fortune\\ntelling. We’re best friends after all.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "えへへ……。\\nじゃあ、次はリゼちゃんを見てあげようかな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. Now then, I think I’ll give Rize-chan a\\ngo!!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "いや、遠慮しとくよ。\\nていうか、お前は占い、やめておいた方がいいぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I’m good. Actually, I think you should call\\noff the fortune telling for now.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Why’s that?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "リゼ",
           "original": "なんというか……\\nその、あれだ、当たりすぎるからだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How to put it? Because, you know... You’ve\\nbeen on a winning streak.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "今みたいないいことだけなら問題ないけど……\\n自分の身は大切にしろよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ve gotten lucky, only calling good things\\nso far. You should take better care of\\nyourself.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "うん？　そうなの？\\nよくわかんないけど、\\n心配してくれてありがとう、リゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, okay? I’m not quite sure what you mean,\\nbut thanks for looking out for me, Rize-chan.",
+          "status": "machine_translated"
         }
       }
     }

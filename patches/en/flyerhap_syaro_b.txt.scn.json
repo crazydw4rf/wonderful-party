@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,272 +28,272 @@
         "0": {
           "speaker": "シャロ",
           "original": "きゃっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kya!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、シャロちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter, Sharo-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "今、顔に何か落ちてきたような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something just fell on my face just now...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "あら？\\n私も顔に何か……もしかして雨かしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? It's happening to me too... \\nIt must be raining?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "こんなに晴れているのにか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even though it's still so sunny?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ええっ！？\\nふ、降り出しました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!? \\nI-It's starting to rain!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "まあ、狐の嫁入りね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh my, it's a sunshower.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "このくらいの降り方なら、\\n木陰にいれば濡れなさそうだな。\\nちょっと休憩して止むのを待つか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If the rain stays this light, we can probably\\njust take shelter under a tree. Let's stop\\nfor now and wait for it to let up.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "私たちはいいですが、\\nこのままではチラシが濡れてしまいます。\\nどこかに持っていかないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We may be fine, but our flyers are going to\\nbe ruined if we don't do something. Let's\\nhurry and find a place to hide them.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ああ、そうだわ。\\n私、折りたたみ傘を持ってるの。\\nちょっと待ってね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, now that you mention it, I happen to be\\ncarrying a folding umbrella with me. \\nOne moment...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "（千夜ちゃんは準備がいいなぁ。\\n　前にみんなで映画を見に行った時も、\\n　折りたたみ傘を持ってたよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan always comes prepared. She was\\nready with that umbrella last time when we\\nwent to the movies too.)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "よかった、これでチラシは濡れませんね。\\nありがとうございます、千夜さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect. Now the flyers will be spared. \\nThank you very much, Chiya-san.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "いえいえ、役に立てて嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was nothing. \\nI'm glad I could be of service to you.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "うーん、思ったより降ってきたな。\\nかと言ってこの傘に全員入るのは無理だし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, it's starting to look like it's going to\\nrain more than expected. And we can't exactly\\nfit everyone under one umbrella.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "ティッピー！？\\n傘を持ってきてくれたんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy! \\nHave you brought me an umbrella?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "頭の上に傘を乗っけてる！？\\n器用だな、毛玉！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's hauling an umbrella on her head!? \\nYou sure are making yourself useful, \\nfurball!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ティッピー",
           "original": "この程度、造作もないわい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A simple task like this is a piece of cake.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "助かりました、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're a tremendous help. \\nThank you very much.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "ともかく、これで傘が２本か。\\n３人と２人で入れば\\nなんとか濡れずにすみそうだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, now we have a second umbrella. If we\\nput three under one umbrella and two under the\\nother, we should all be able to stay dry.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "どういう組み合わせにしましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How shall we team up?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア（Ｍ）",
           "original": "（ん？　シャロちゃんがリゼちゃんを見てる？\\n　ふむふむ、なるほど――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hm? Sharo-chan is eyeballing Rize-chan.\\nAh yes, I get it.)",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "千夜ちゃん、チノちゃん、一緒に入ろ？\\nリゼちゃんとシャロちゃんはそっちの傘でいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, Chino-chan, wanna share an\\numbrella? Sharo-chan and Rize-chan, do you \\nmind taking the other?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "ええ、私はいいわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'm fine with that.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "もう……ココアってば変な気を利かせて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh... \\nIt's weird how well Cocoa picks up on \\nthis sort of thing...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "いや、その組み合わせはやめとこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I disagree, let's do it a different way.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "ええっ！？\\nどうして……私とじゃ嫌ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!? \\nBut why... Do you hate being around me?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "いや、身長が合わないだろ？\\nティッピーが持ってきてくれた大きい傘に私と千夜、\\nそれと１番小さいチノが入るのがいいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not that. We won't all fit properly that\\nway. It'd be better if we put me, Chiya and\\nChino all under Tippy's big umbrella.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "じゃあ、私の折りたたみ傘には、\\nココアちゃんとシャロちゃんね。\\nそれでいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then that leaves Cocoa-chan and Sharo-chan\\ntogether under my folding umbrella. \\nIs that acceptable?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "リゼ先輩の決めたことなら文句はないわ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If Rize-senpai says so then I won't argue...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "それじゃ、シャロちゃんは私と相合い傘だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great, that means me and Sharo-chan get to \\nshare a lover's umbrella!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "変な言い方しないでよ。\\nじゃ、私が傘を持つから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't make this weird. \\nOkay then, I'll hold the umbrella.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "ううん、私が持つよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, I'm holding the umbrella.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "ちょっとココア。\\n２人で持つ必要なんてないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quit that, Cocoa. It's not necessary for us \\nboth to be holding it.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "でも、シャロちゃんだけに持たせるのも悪いから。\\nこの方が傘も安定するよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it would be terribly rude to make you \\nhold it for me. It'll be more stable this \\nway.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "……まあ、ココアがいいなら私はいいけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Whatever, I'm happy with anything you're \\nhappy with.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "わあ！\\nすごいよシャロちゃん、きれい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa! \\nLook Sharo-chan! This is gorgeous!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "え？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What is?",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "街の景色だよ。\\n雨に濡れて、でもお日様にも照らされて\\nキラキラしてるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The whole town! The sun shining while it's \\nstill raining makes everything glisten!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "……確かにきれい。\\nこの景色なんて何度も見てるはずなのに、\\nこんなにきれいだなんて、気付かなかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...It really is gorgeous. I've seen this\\nscenery countless times, but I never really\\nrealized just how beautiful it all was.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "シャロちゃんたちがうらやましいなぁ、\\nこんなきれいな景色の中で\\nずっと暮らしてきたなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm so jealous of all of you. You've been\\nable to live in a such a picturesque village\\nyour whole lives.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "シャロ",
           "original": "……それに気付かせてくれたのはココアじゃない。\\nココアがいなかったら見逃してたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...And you're the reason why I ever noticed\\nit. Before you were around I let all of \\nthis pass me by.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "シャロ",
           "original": "ココアといると、こういう些細で\\n忘れがちなことを思い出せるのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All these little, easy to forget things \\nstart to stand out whenever you're around.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ココア",
           "original": "ん？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? \\nWhat was that?",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "シャロ",
           "original": "何でもないわ。\\n……教えてくれてありがとね、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was nothing. \\nThank you for showing this to me, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

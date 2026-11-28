@@ -6,134 +6,134 @@
         "0": {
           "speaker": "シャロ",
           "original": "（今日も遅くなっちゃった。\\n　まあ、試験勉強をする必要がなくなったから、\\n　今までよりは時間に余裕があるけど）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm late again tonight. Well, at least I\\ndon't have finals to worry about anymore.\\nI've got a little bit more spare time than before.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（でも今日は、なんだかすごく疲れてるのよね。\\n　早く寝たいかも……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But for some reason I feel completely drained\\ntoday. I really want to just go to bed...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "（って、いけないいけない。\\n　これ以上遅れたら、\\n　本当にどうしようもなくなっちゃう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(No no no! If I get any more behind than I \\nalready am, this really will be a disaster.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "（とりあえず、帰ったら夕食をすませて、\\n　すぐにパーティーのことを――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(First things first, get home and get your \\nsupper over with, then get straight to work \\non the partyーー)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "あっ！\\n夕食、買ってくるの忘れてた！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I forgot to buy my dinner!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "（だめね、なんだかボーッとしちゃってる。\\n　とにかく何か買いに――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Terrible. I'm totally out of it right now. \\nAnyway, off to buy somethingーー)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "お帰りなさい、シャロちゃん。\\n遅くまでバイトお疲れ様。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome back, Sharo-chan. \\nWell done working so late tonight.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "千夜？\\nどうしたのよ、こんなところで何してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya? What's the matter, why are you standing\\naround out here?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "偶然ね、窓の外に目をやったら、\\nシャロちゃんが帰ってくるところが見えたから\\nお出迎えしてあげようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "By chance, I happened to peer out the window \\nand happened to see you on your way home, so \\nI thought I'd come to greet you.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "嘘おっしゃい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Liar liar.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "きゃっ！？\\nどうしたの、急に？\\n私の頬に何かついてた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kya!? \\nWhat was that for? Was there something \\nstuck on my cheek?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "とぼけるんじゃないの。\\nすっかり体が冷えてるじゃない。\\nわざわざ外で待ってたんでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't play dumb. \\nYou're freezing to death out here. You've been \\nwaiting outside for a while now, haven't you?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "……バレちゃった。\\nふふ、シャロちゃんの手、温かいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You got me. \\nHehe, Sharo-chan, your hands sure are warm.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "それで、何か用？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, what's this about?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "あ、ちょっと待ってて。\\n店の中に置いてあるから取ってくるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait here a second. \\nI left it in the shop, I'll go and get it.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "（取ってくるって？\\n　何か渡すものがあるってことかしら？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Go and get what? I guess she has something \\nto give me?)",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "お待たせ。\\nはい、これ、持っていって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for the wait. Here, take this.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "え？　なにこれ、なんでお重？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? What's this, a box of food?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "夕食、まだでしょう？\\n作りすぎちゃったから、\\nよければ食べてもらおうと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You haven't ate dinner yet, have you? I made\\ntoo much, so I thought I'd let you finish it,\\nif you don't mind.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "中はね、シャロちゃんの好きな物ばかりかも\\nしれないけれど、たまたまなの。\\n私が食べたいなって思ったから作っただけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This just so happens to be made of\\nnothing but your favorite ingredients. I randomly\\nfelt like eating this sort of thing today.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "千夜……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya...",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,24 +141,24 @@
       "select_prompt": {
         "speaker": "シャロ",
         "original": "千夜……。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Chiya...",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "……ありがと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Thanks.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "千夜はとぼけるのが下手ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure are terrible at playing dumb.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "受け取れない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't accept this.",
+          "status": "machine_translated"
         }
       }
     },
@@ -167,26 +167,26 @@
         "0": {
           "speaker": "シャロ",
           "original": "……ありがと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Thanks.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（作りすぎちゃったなんて\\n　嘘なのがバレバレだけど、\\n　ここは黙って受け取るべきよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(”I made too much” is the most obvious lie \\never, but I should just hold my tongue and \\naccept it.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "（だって、千夜は\\n　私を心配してくれてるんだから……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(After all, she cares for me...)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "本当にありがとね、千夜。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seriously, thank you Chiya.",
+          "status": "machine_translated"
         }
       }
     },
@@ -195,20 +195,20 @@
         "0": {
           "speaker": "千夜",
           "original": "そんな、余り物なのに感謝されたら困っちゃうわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop it, I can't be accepting thanks over \\njust a few leftovers.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいじゃない。\\nこの前だって、朝食を作ってもらったし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't it fine? You even went so far as to \\nmake me breakfast the other day.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ふふふ、そういえばそうだったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. \\nNow that you mention it, that's right.",
+          "status": "machine_translated"
         }
       }
     },
@@ -217,44 +217,44 @@
         "0": {
           "speaker": "シャロ",
           "original": "千夜はとぼけるのが下手ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure are terrible at playing dumb.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "え？　なんのこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? That are you talking about?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "私の好物ばかり入れておいて、\\n作りすぎちゃったも何もないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're not fooling anyone by saying you \\nhappened to make too much using my favorite \\ningredients.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "それは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "だって、作っておいた、なんて言ったら\\nシャロちゃんが遠慮するかもしれないと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, if I went and said I made it for you, \\nyou'd probably act too politely to accept it.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "遠慮はしたいけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I admit I'd like to refuse...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "そんな余裕はないっていうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I don't really have the energy to spare\\nright now.",
+          "status": "machine_translated"
         }
       }
     },
@@ -263,44 +263,44 @@
         "0": {
           "speaker": "千夜",
           "original": "あらあら、そうみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh my. So I see.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "仕方ないじゃない。\\n夕食買ってくるの、忘れちゃったんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What can I say. \\nI forgot to buy my dinner today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "じゃあ、受け取ってくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, you'll accept this?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "……うん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Sure.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "よかったわ、無駄にならなくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent. It won't go to waste.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "悪いわね。\\nこの前だって、朝食を\\nご馳走になったばかりなのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry to do this to you. \\nJust recently I got a free breakfast off you too.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ああ、そういえばそうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I almost forgot about that.",
+          "status": "machine_translated"
         }
       }
     },
@@ -309,56 +309,56 @@
         "0": {
           "speaker": "シャロ",
           "original": "受け取れない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't accept this.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "どうして？\\n遠慮なんてしなくていいのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And why is that? There's no need to be overly \\npolite about this sort of thing.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "でも、この前だって朝食をご馳走になったし、\\nさすがに悪いわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I just recently got a free breakfast off \\nof you. I can't be making this a habit.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "私とシャロちゃんは、そんなことを\\n気にするような仲じゃないでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We've known each other since forever. \\nSomething like that is no problem whatsoever.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "さあ、受け取って？\\nせっかく作ったんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, just take it? I already went to all \\nthe trouble of making it.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "……やっぱり、\\n私のためにわざわざ作ったんじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I knew it. \\nYou made this just for me, didn't you?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "あら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoops...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "細かいことは気にしなくていいの。\\nお腹、空いてるんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry about something like that. \\nAren't you starving right now?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "……わかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fine.",
+          "status": "machine_translated"
         }
       }
     },
@@ -367,80 +367,80 @@
         "0": {
           "speaker": "千夜",
           "original": "こうして食事の差し入れをしていると、\\nなんだか私、シャロちゃんの通い妻に\\nなったみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though we live apart, making all your meals\\nfor you is starting to make me feel\\nlike your housewife.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "な、何をばかなこと言ってるのよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What stupid nonsense are you saying now!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "まあ、シャロちゃんってば照れてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, Sharo-chan, are you blushing?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "違うわ、呆れてるだけ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all! I've just had it with you!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "まったくもう。\\n素直に感謝もさせてくれないんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it with you? \\nWhy can't you just take an honest compliment.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "だって、面と向かってお礼なんて言われたら、\\n私だってはずかしいもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it, getting an honest thank you \\nface-to-face like that. For me at least, \\nit's pretty embarrassing.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "なんでもないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Never mind.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "それじゃ、また明日ね。\\nお重は洗わずに返してくれていいから。\\nおやすみなさい、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, see you tomorrow. You can return the\\nbox without washing it. \\nGoodnight, Sharo-chan.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "あ、うん。\\nおやすみなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, okay. Goodnight.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "（お重、まだ温かい。\\n　私の帰る時間に合わせて作ってくれたんだ。\\n　本当にもう、千夜ってば……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The box is still warm. She waited until\\nI came home to make this. Oh Chiya, \\nwhat am I going to do with you...)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "……ありがと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Thank you.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "少し冷えてきましたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s getting a bit nippy out.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "もう、チノちゃんは甘えん坊だね。\\nいいよ、お姉ちゃんがだっこして温めてあげる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, what would you do without me? Fine,\\ncome get warmed up in your big sister’s\\narms!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "結構です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m fine.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "め、明確な拒絶だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve been shot down!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "でも、確かに冷えるわね。\\n温かいものが食べたくなるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It really is getting cold out. I wish I had a hot\\nmeal waiting on me to warm me up.",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,140 +58,140 @@
         "0": {
           "speaker": "千夜",
           "original": "温かい物……。\\nお鍋なんていいわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A hot meal... How about a hot pot?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうだわ、甘兎庵の冬メニューに\\nお鍋料理を加えようかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! I’ll add some hot pot meals to Ama\\nUsa An’s winter menu!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ああ、また千夜の暴走が始まる予感が。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, she’s cooking up a new bad idea\\nagain.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "というか、甘味処でお鍋ってありなのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ew. Do you really think a hot pot with pastries\\nis such a good idea?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "深く考えない方がいいです……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t overthink it, Rize-san.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "お鍋っぽいメニューかぁ。\\nじゃあ、具の形のお菓子はどうかな？\\nしいたけ型の羊羹とか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hot pot with pastries... How about you make\\nsweets into the shape of the ingredients?\\nLike a mushroom-shaped youkan.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "練り切りだったら、\\n人参やネギや大根も作れるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I could do that with nerikiri, its dough is like\\nclay. I could sculpt it into carrots or onions or\\ndaikon.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ほたて、鶏、魚の切り身も和菓子で作って、\\n土鍋に盛り付けて出すの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You should make scallops and chicken and\\nfish fillet pastries, and serve them all together\\nin a big pot!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "いいわね。\\n見て楽しくて、食べて満足できそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice idea! It’d be almost too beautiful to eat.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "でも土鍋はちょっと大きすぎるし、\\nお汁粉用の器を使って、お鍋から取りわけた風に\\n見せるのがよさそうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But instead of a big pot, I think I’d rather put\\nthem into small, personal bowls, as if they’re\\nindividual servings of the hot pot.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "でもそれって、結局、お菓子の盛り合わせよね？\\n鍋なら温まるメニューじゃないとだめじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Either way, that’s just an assortment of\\nwagashi. Isn’t a hot pot supposed to be a hot\\nmeal?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "あら、そうだったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. I forgot about that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "まあ、普通にお汁粉を食べた方がよさそうだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever, I’d rather just have a normal bowl\\nof hot oshiruko soup instead.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "お汁粉……。\\n熱々のお汁粉……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oshiruko... Steaming hot oshiruko...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "……ごくり。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gulp＊",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "じゃあ、このあと、みんなでうちに来て\\n温まっていかない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine. Once we’re done, you all can come\\nover to warm up.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "えっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seriously!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "やったー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "正直、ありがたいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I sincerely appreciate it.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "でも、いいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that really okay with you?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "実は、こうしてみんなを招いて、\\nこっそりお鍋メニューの試作を作って\\n試食してもらおうかなー、なんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I was plotting to invite all of you over\\nto stealthily have you try my secret new\\nhot-pot-themed recipes. Or was I?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "普通のお汁粉がいい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just gimme some oshiruko!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "うふふ、冗談よ。\\nさあ、温かいお汁粉を楽しみに\\nみんな、頑張りましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. Just kidding. Anyway, let’s get back\\nto work. You’ve got hot soup waiting for you\\nonce you’re done.",
+          "status": "machine_translated"
         }
       }
     }

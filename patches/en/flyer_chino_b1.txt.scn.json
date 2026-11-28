@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,176 +16,176 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "どうかしましたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、ちょっとティッピーの様子が気になって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I think something's up with Tippy...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "ティッピーですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "With Tippy?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ティッピー",
           "original": "わしがなんじゃ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the problem?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "もしかしてなんだけど、ティッピー、\\nお腹空いてるんじゃないかな？\\nなんだか、そういう顔してない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm thinking that, just maybe, \\nTippy's getting hungry? \\nIsn't she making that kind of face?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "ええと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ティッピー",
           "original": "別に腹など空いておらん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not particularly hungry right now.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "――です。\\n心配いりません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "――desu. There's nothing to worry about.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "そうかな～。\\n私には、空いてるように見えるんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so~? She looks awfully hungry to \\nme though...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nじゃあこれを、どうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know!\\nHere, enjoy!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "ココアさん？\\nティッピーの前でチラシを揺らして……\\n何がしたいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san? Flapping a flyer in front of Tippy \\nlike that... What are you expecting to \\nhappen?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "お腹が空いてるなら食べるかと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's really hungry, so I thought she might \\nwant to eat one.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "え……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ティッピー",
           "original": "紙など食べんわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if I'd eat paper!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "そもそも、紙を食べるのはヤギです。\\nいくら白くてもふもふだからといって、\\n一緒にしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goats eat paper, not rabbits. Don't go \\nconfusing them just because they're both white \\nand cuddly.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "えー、でもー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhh? But...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "あうっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Auu!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "……ココアさん、\\n実は、自分がお腹が空いているから\\nそんな話をしてたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san, let me guess. You're only \\nbringing this up because you're the one that's \\nhungry, correct?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "違うよ。\\n本当に、ティッピーが\\nお腹空いて切なそうに見えたんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No! I swear, Tippy looked like she was \\nstarving to me!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "あ、だけど、確かにちょっと\\n空いてきちゃったかな、てへへ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but I must admit I'd getting a tiny bit \\nhungry. Tehehe.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "まったく……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "う……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu...",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "あれ？\\n今、チノちゃんのお腹も……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's this? Just now, did your stomach...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "き、気のせいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're imagining things.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "あはは、もういい時間だもんね。\\nじゃあ、残りのチラシをぱぱっと配って\\n急いで帰ろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha. Now's a pretty good time. Let's finish \\noff these flyers and get back home.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "今のは気のせいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That just now was all in your head!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "うん、そういうことにしておいてあげる。\\nお腹が空いたのは私とティッピーってことで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, whatever you say. The only ones who \\nare hungry right now are me and Tippy.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ティッピー",
           "original": "わしは空いておらんと言っとるわい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How many times must I tell you, I'm not \\nhungry!",
+          "status": "machine_translated"
         }
       }
     }

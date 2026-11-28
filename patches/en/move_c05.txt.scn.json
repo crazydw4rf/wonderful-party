@@ -6,104 +6,104 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？\\n　青山さんだ、\\n　こんなところで何してるのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, look. There’s Aoyama-san. What’s she\\ndoing here?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "ああ、かわいい。\\nそれにふかふか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah, how cute. You’re so soft...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "こんにちは、青山さん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Aoyama-san!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "あら、ココアさん。\\nこんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa-san. Hello.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、うさぎを触ってたんですね。\\nかわいいですね、この子。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see you’ve been petting a bunny rabbit. He\\nsure is cute, this little guy.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "ええ……。\\n生き物と戯れると心が洗われます。\\nずっとこうしていたいです……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. Playing with small animals is a way to\\ncleanse your soul. I wish I could go on doing\\nthis forever...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（青山さん、なんだか変？\\n　何かあったのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Something seems a bit off about Aoyama-\\nsan today? I wonder if something happened\\nto her.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "青山さん、どうしたんですか？\\n元気がないみたいですけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, are you feeling alright? You\\ndon’t seem to be yourself.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "その……実は、追われていまして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, well... You see, it’s closing in on me.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えっ！　追われてる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! Closing in!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（何かの事件に巻き込まれちゃったの？\\n　すごい、こんなスリリングなことが\\n　ホントにあるんだ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She’s gotten involved in something\\ndangerous? It’s hard to believe something so\\nexciting could happen around here.)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "じゃあ、うさぎと戯れてる場合じゃないですよ！\\n早く逃げなくちゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If that’s true, then this is no time to be playing\\nwith bunnies! You need to run away!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "そうなのですが、うさぎの魅力には抗えず……。\\nああ、癒されます～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know that, but I still cannot resist the charm\\nof these rabbits. Ah, how it heals my weary\\nheart.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "だめですよ！\\nこうしている間にも、魔の手が迫ってきて……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cut that out! It’s closing in on your at this\\nvery moment!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "青山",
           "original": "ですが、どうすれば逃げきれるのか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That being said, I have no idea how exactly I\\nam to escape from it...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "私に任せてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Leave it to me!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "青山",
           "original": "ココアさん、助けてくださるんですか？\\nでもどうやって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you’re willing to help me? But\\nhow?",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,18 +117,18 @@
       "choices": {
         "*sel_0101": {
           "original": "私が悪の手からかくまいます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll keep you hidden!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "私が代わりに戦います！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll fight instead of you!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "それは……これから考えます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well... Let’s think it over.",
+          "status": "machine_translated"
         }
       }
     },
@@ -137,38 +137,38 @@
         "0": {
           "speaker": "ココア",
           "original": "私が悪の手からかくまいます！\\nひとまずラビットハウスに行きましょう。\\nまずは、少し落ち着いた方がいいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll keep you hidden! Let’s flee to Rabbit\\nHouse. You need to start by finding a place\\nyou can feel safe.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "まあ、頼もしい。\\nですが……ご迷惑をおかけするのは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness, what a useful suggestion.\\nHowever, I can’t impose this issue upon you\\nall over there.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、そうだ、敵だって\\nいつも青山さんが行く場所は\\nチェックするはずですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I see. The enemy is sure to search all the\\nplaces you visit regularly.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "となると、変装して敵の目をごまかさないと。\\n私の服を貸します！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which means that you need to change your\\noutfit to fool it. I’ll lend you my clothes!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あと、サングラスをかけて帽子をかぶれば――\\nううん、帽子よりティッピーを乗せるのがいいかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, if you put on some sunglasses\\nand a hat--no, you’ll be better off wearing\\nTippy than a hat.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "変装はともかく、ティッピーさんを\\n頭に乗せたら、とっても癒されそうですね。\\n想像しただけで少し元気が出てきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The outfit aside, putting Tippy on my head\\nsounds quite rejuvenating. Just the thought\\nof it is making me feel better.",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,38 +177,38 @@
         "0": {
           "speaker": "ココア",
           "original": "私が代わりに戦います！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll fight instead of you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "気持ちはとても嬉しいですが、いけません。\\nココアさんを戦わせて、私だけ逃げるなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I appreciate the thought, but I refuse. I cannot\\nrun away, leaving you to bear the burden.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "そう、これは……私の戦いなのですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is, after all... my battle to fight.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "青山さんがそう言っても、私は助太刀します！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m going to back you up whether you like it\\nor not!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ええと、装備はバケツのふたと\\nバドミントンのラケット？\\nおたまの方が頑丈かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me see... I guess I’ll defend myself with a\\ntrash can lid and a badminton racket? But\\nthat won’t protect my head...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そんなに親身になってくださって……\\n少し元気が出てきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How so very kind of you. You’ve managed to\\nlift my spirits a little.",
+          "status": "machine_translated"
         }
       }
     },
@@ -217,32 +217,32 @@
         "0": {
           "speaker": "ココア",
           "original": "それは……これから考えます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well... Let’s think it over.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "いえ、無理に考えなくてもいいんです。\\nこれは……私が１人で戦い、解決しなくては\\nいけないことなのですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It won’t be necessary to overthink this. This,\\nafter all... is something I must struggle with\\nand resolve on my own.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "で、でも、私、青山さんの力になりたいです。\\nこの街で出会った、大切な人なんですから。\\nだから、そんな寂しいことを言わないでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-But, I want to be able to help you. You’re\\none of my precious new friends. Don’t say\\nsomething so that makes you seem so alone!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ココアさん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "ああ、その言葉だけで\\n私の心が温かいものでいっぱいになります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After hearing that, I can’t help but feel all\\nwarm inside.",
+          "status": "machine_translated"
         }
       }
     },
@@ -251,38 +251,38 @@
         "0": {
           "speaker": "青山",
           "original": "ありがとうございます、ココアさん。\\nこれで、立ち向かうだけの力を得た気がします。\\nどうか無事を祈っていてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much, Cocoa-san. I feel like\\nI’ve gained the courage to stand and fight.\\nPlease pray that I’ll make it through this.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "そんな！？\\nだめですよ、まだ諦めちゃ！\\n勝ちましょう！　逃げきりましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no! Don’t give up, it’s not over yet! You\\ncan still win! You can still escape!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "ココアさんは本当に優しいですね。\\nでも締め切りは、逃げきるのではなく\\n守るべきものですから……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re a very nice person, aren’t you. But a\\ndeadline is not something to escape from, but\\nto face.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（え？　締め切り？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Huh? Did she say deadline?)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "では……またお会いしましょう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must be off. Let’s meet again some day.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（そっか、悪者に追われてるんじゃなくて\\n　締め切りに追われてたんだ……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Huh. So it wasn’t an enemy closing in on\\nher, but her deadline.)",
+          "status": "machine_translated"
         }
       }
     }

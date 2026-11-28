@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,146 +16,146 @@
         "0": {
           "speaker": "シャロ",
           "original": "はぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "シャロちゃん？\\nどうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan? \\nWhat's on your mind?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ううん、何でもないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry about it. \\nIt's nothing.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "何でもないって顔じゃないよ？\\nもしかして、何か悩み事？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't look like it's nothing. \\nLet me guess, you're worried about something.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "それは、その……私の問題だから。\\nココアは付き合わなくていいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, um... It's my problem to deal with, \\nit's nothing you need to worry about.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "そんな！\\n寂しいこと言わないで、シャロちゃん。\\n私たち、友達なんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? \\nDon't say such a thing! \\nSharo-chan, we're friends, aren't we?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "それとも、友達にも言えないほど\\n深刻なことなのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Or is this so serious that you can't even \\nmention it to your friends?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "……ちょっと落ち込んだだけ。\\nこの服を、リゼ先輩みたいに\\n格好よく着こなせてない気がして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I'm just feeling a little down. I get the \\nfeeling that I look nowhere near as good in\\nthis uniform as Rize-senpai does.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "形が同じになったところで、\\nリゼ先輩のようにはなれないのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just copying the look of her doesn't actually \\nmake me more like Rize-senpai in any way.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "えーっと、それってつまり、\\n今のシャロちゃんとリゼちゃんには\\n違いがあるってことだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Umm, so in other words, there's a difference\\nbetween the way you are now and how \\nRize-chan is?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "まあ、そうとも言うわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I guess you could say that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "う～ん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと？\\nそんなにじろじろ見ないでよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What are you doing? \\nDon't stare at me like that.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "わかった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what it is!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "何が！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is what!?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "もちろん、シャロちゃんとリゼちゃんの違いだよ。\\nリゼちゃん、いつも\\n背筋をピンって伸ばしてるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm talking about the difference between you\\nand her, of course. Rize-chan always has her \\nback perfectly straight.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "だから軍服も似合うんだよ。\\nそういう所から真似してみたらどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what makes her look so good in a military\\nuniform. Why don't you try adopting that \\nposture of hers?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "シャロちゃんも姿勢が悪いわけじゃないけど、\\nもっと意識してみたらいいと思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not saying you have bad posture or anything,\\nbut I think you should be a bit more\\nconscious of how you stand, that's all.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "確かに……リゼ先輩は、\\nいつもまっすぐ立って堂々としてる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right... Rize-senpai always stands up \\nstraight and proud.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "自分らしくて……周りにも流されなくて……\\n私……リゼ先輩のそういう所に憧れて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I love that about her, how she is always being\\nherself, and never gets swept up in the \\npeople around her...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "……ココアの言う通りね。\\nこの服を着るのなら堂々としてなきゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, I think you're right. \\nIf I'm going to wear this uniform, \\nI need to wear it proudly.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "うん、その感じ！\\n何かリゼちゃんっぽいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that's the spirit! \\nYou're starting to sound like Rize-chan!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "ううん、まだまだリゼ先輩には遠いわ。\\nけど、努力してみる。\\nリゼ先輩のようになるために。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'm still a long way away from being\\nanything like her. But I need to put forth the\\neffort. The effort to be more like Rize-senpai!",
+          "status": "machine_translated"
         }
       }
     }

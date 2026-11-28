@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out flyers with\\nChiya-chan!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House!\\nPlease come for a visit!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We take pride in our coffee!\\nPlease stop by whenever you'd like!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one!\\nIt's full of useful information!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,20 +34,20 @@
         "0": {
           "speaker": "千夜",
           "original": "甘味処、甘兎庵です。\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the pastry shop Ama Usa An.\\nPlease come for a visit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "お抹茶からスイーツまで取りそろえています。\\nぜひ、お立ち寄りくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We have everything from tea to sweets.\\nMake sure to give us a visit!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "和の心でおもてなしします。\\nどうぞ、お気軽に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll show you traditional Japanese\\nhospitality.\\nMake yourself at home.",
+          "status": "machine_translated"
         }
       }
     }

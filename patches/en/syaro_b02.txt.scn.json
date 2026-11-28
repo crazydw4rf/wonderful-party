@@ -6,218 +6,218 @@
         "0": {
           "speaker": "シャロ",
           "original": "いらっしゃいませ～！\\nフルール・ド・ラパンへようこそ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings~! Welcome to Fleur de Lapin!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "こんにちは、シャロさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Sharo-san.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "よーっす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yo!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あら、いらっしゃい。\\n２人は今日も一緒なのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, greetings. The two of you together?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "へへ～！\\n私とメグは一心同体、以心伝心だからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You got it. Me and Megu are one in the same, \\ntwo bodies sharing the same heart.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "ねー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "（ふふっ！\\n　なんだかココアと千夜みたい）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hehe. These two sort of reminds me of \\nCocoa and Chiya.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "それじゃ、席はそこでいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, will this table be fine?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "はーい！\\nありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yessss! Thank you very much.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "はい、お待たせ。\\nカモミールとリンデンフラワーよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for the wait. Chamomile and linden.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "でも珍しいわね、ラビットハウスじゃなくて\\nうちに来るなんて。\\nもしかして、チノちゃんには秘密の相談？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How peculiar of you to come here instead of \\nRabbit House. Let me guess, you're here to \\ntalk behind Chino-chan's back?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "マヤ",
           "original": "ふふーん、秘密ってほどじゃないけど、\\nまあ、ちょっとした打ち合わせをね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe~ I wouldn't go that far, but I guess \\nwe're having a sort of secret meeting.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "メグ",
           "original": "チノちゃんに誘われた\\nクリスマスパーティーに向けて、\\nプレゼントのこととかお話しするんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We were invited to a Christmas party by \\nChino-chan, and we're here to discuss what \\nkind of present to get for her.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "ク、クリスマスパーティー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Christmas party?!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "サプライズってほどじゃないけど、\\nどんなものを贈るとか、\\n知らない人が多い方がいいじゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not exactly a surprise, but the fewer \\npeople who know about it the better.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "あ！　そういえば、\\nラビットハウスでやるパーティーって\\nシャロさんが主催するんですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I just remembered. The party at\\nRabbit House is being organized by you,\\nright?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "え、ええ、まあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, you could say that...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "ああ、そうだったっけ。\\nどう？　準備、進んでる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so it was you. \\nWell? How are things coming along?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "も、もちろんよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-All is well?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "そっかぁ、楽しみだな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I can't wait to see it.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "メグ",
           "original": "どんなパーティーになるのかな？\\nわくわくするね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder how it'll turn out. How exciting.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "え、ええ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "（どうしよう。\\n　この子たちにまで、こんなにも\\n　期待されちゃってるなんて……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh no. Now even these two are getting \\ntheir hopes up...)",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "メグ",
           "original": "あれ？\\nシャロさん、大丈夫ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Sharo-san, are you feeling okay?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "だ、大丈夫よ！\\nこれから全力でやっていくつもりだし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm totally fine! I swear I'll work at it as \\nhard as humanly possible from now on!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "メグ",
           "original": "え？　そうじゃなくて、\\nなんだか汗をかいてるみたいだから\\n大丈夫かなーって思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? That's not what I meant. You seem to be \\nsweating a lot, so I was wondering if \\nsomething was the matter.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "え？　汗？\\nそうかしら……まあ、大丈夫よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Sweat? \\nMaybe I am...\\nWell, it's nothing to worry about.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "（汗をかくほど取り乱してたのかしら、私。\\n　いけない、平常心、平常心よ。\\n　まだ時間はあるんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What are you doing, losing your composure and\\nsweating like that. Calm down, it'll be all\\nright. You still have time, it's not over yet.)",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "それじゃ、私は仕事があるから。\\n２人ともごゆっくり。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, back to work. \\nYou two, please enjoy yourselves.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "メグ",
           "original": "はい、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We will, thank you very much.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "マヤ",
           "original": "でさ、プレゼントのことはひとまず置いといて、\\nメグはパーティーにどんな服を\\n着ていくつもりなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Putting the present aside for a second, Megu, \\nwhat do you want to wear for the party?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "メグ",
           "original": "普通の服だよ？\\nマヤちゃんは違うの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Normal clothes. Maya-chan, were you planning \\non wearing something else?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "マヤ",
           "original": "うーん、すっごく豪華な飾りつけとかされてたら\\nどうしようって思ってさぁ。\\nドレスじゃないと似合わないくらいすごいやつ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I was wondering what I'd do if this party \\nturns out to be super extravagant. Like, if \\nit'd be awkward if I didn't show up in a dress.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "メグ",
           "original": "うーん、そういう時は\\n前もって言ってくれるんじゃないかな？\\nそういうの、ドレスコードっていうんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Wouldn't you be told ahead of time in that\\nsituation? You know, that thing called \\na ”dress code.”",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "マヤ",
           "original": "ドレスコード！\\nなんか格好いいな～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｄｒｅｓｓｃｏｄｅ! Somehow that sounds awesome!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "（うう……期待が大きすぎる……。\\n　本当に頑張らないと……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uuu... You guys are expecting way too much...\\nNow I really can't mess this up...)",
+          "status": "machine_translated"
         }
       }
     }

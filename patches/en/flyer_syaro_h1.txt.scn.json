@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,8 +16,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "ま、まさか怪盗ラパンの格好だなんて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I can't believe you actually have\\nPhantom Thief Lapin costumes...",
+          "status": "machine_translated"
         }
       }
     },
@@ -26,14 +26,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（そう、今、私たちが着てるのは\\n　『怪盗ラパン』の衣装！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Yep! What we're wearing today is none\\nother than the 『Phantom Thief Lapin』\\ncostume!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（『怪盗ラパン』は、今人気のアニメ。\\n　子ども向けだけど、すっごく面白いの。\\n　私やチノちゃんも大好きなんだけど……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Phantom Thief Lapin is a popular anime.\\nIt's quite interesting, for a kids show.\\nI thought Sharo-chan liked it too...)",
+          "status": "machine_translated"
         }
       }
     },
@@ -42,140 +42,140 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん、もしかして嫌？\\nラパン、嫌いなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, do you not like this costume?\\nI thought you were into Lapin.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "き、嫌いじゃないわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's not as if I dislike it!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そっか、よかったぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Thank goodness.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ただ、その……自分がこの衣装を着るなんて\\n思いもしなかったし。\\nなんでこの衣装なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's just, you know... I never thought I'd ever\\nbe wearing this. Why this of all costumes?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ずばり！\\n１度、着てみたかったから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be frank, I just wanted to try wearing it at\\nleast once!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "そう……。\\nわかりやすい理由でなんだか安心したわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... I'm glad there wasn't a complicated\\nreason behind this.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "シャロちゃんは？\\n着てみたくなかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What about you, Sharo-chan?\\nEver thought about trying it on before?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ま、まあ、私も……\\n着てみたくなくもなかったし……\\n別に、い、いいけどね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, It's... It's not like I didn't want\\nto try it on... So, I-I guess it's fine?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "でも、これは目立ちすぎっていうか……\\nなんだか違うっていうか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, this stands out too much, or... something.\\nI don't know how to put it...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "はずかしがることないよ。\\n張り切っていこう、シャロちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing to be embarrassed about.\\nLet's start this out with a bang, Sharo-chan!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "どうしてココアはそう\\nいつもいつもためらいがないのよ。\\n不思議だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How can you never have any hesitation towards\\nanything? Bizarre.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうかな？　不思議？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? It's bizarre?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "ふっ、不思議よ。\\n少しだけ……う、羨ましいくらいかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's bizarre alright. So bizarre that...\\nI'm almost jealous...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "シャロちゃんが私のこと\\n羨ましいって言った……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan of all people is saying they're\\njealous of me!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "なんでびっくりしてるのよ！\\n素直に受けとりなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you acting all surprised! \\nJust take the compliment!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "ほ、ほら、おしゃべりはここまで！\\n早くチラシを配っちゃいましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Come on, enough chit chat! Let's hurry and\\nhand out these flyers already.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "じゃあ、せっかく怪盗ラパンになったんだから\\nらしくいこっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, since we're already looking like\\nPhantom Thief Lapin, let's take this\\nopportunity to act like her too!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "怪盗ラパンらしく？\\nどうやるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Act like her? What do you mean by that?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "さあ、これからチラシで\\n街の人の心を盗んじゃうよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Behold! We're going to steal the hearts of\\nthe townsfolk using these flyers!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "それ、口に出して言っちゃったら\\n盗むの大変じゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't it going to be awfully difficult to do\\nthat after announcing it to everyone?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ぎくっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊shock＊",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "や、やだなあ！\\nこれは怪盗らしく犯行予告ってことだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, uh, you have it all wrong! That was just\\nthe Phantom Thief's signature announcement\\nof the heist!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "本当かしらねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonderrr.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チラシをどうぞ。\\nぜひ、お店にいらしてくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one. \\nAnd if it's ever possible, please come for a visit.",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,146 +22,146 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん、調子はどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, \\nhow are the flyers coming along?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "すっごくいいよ！\\nチラシの残り、あとこれだけだし。\\nチノちゃんの方はどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's going fabulously! \\nThese are all I have left. What about you?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "私も、あとちょっとで配り終わります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm also going to be done shortly.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "これはやっぱり、この衣装の効果かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As I thought, this is all thanks to the \\ncostume, don't you think?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "そうですね。\\n実際、これをきっかけに\\n足を止めてくれる人もいるようですし――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You may be right. It certainly seems like \\nwe've had more people stop for us \\nlately...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "衣装の効果があったことは確かでしょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must admit the costume has had a \\nnoticeable effect.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "じゃあ、チラシ配りだけじゃなくて\\nラビットハウスの中でも\\nこの衣装を使って何かしてみるのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! Instead of flyers, how about we \\nstart doing something while wearing this \\nat Rabbit House?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "この格好で接客をするんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What you're saying is that we should serve \\ncustomers while wearing this?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "それはもちろんだけど、\\n他にも何か催しみたいなことをしてもいいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course we would do that too, but I mean \\nwe should start offering something else on \\ntop of that.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "催しと言われても……\\n具体的にどんなことをしたらいいんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do something else? What exactly do you have \\nin mind when you say that?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そ、それは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "……何も考えてなかったんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...So you haven't thought of anything \\nwhatsoever.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "り、リゼちゃんに頼めば大丈夫だよ。\\nこの服をヒントに、\\n色々アイディアを出してくれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-We should leave that up to Rize-chan! I'm \\nsure she'll come up with all kinds of ideas \\nonce we bring up this costume.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "メニューとか、接客の仕方も\\n考えてくれそうだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She'd probably love to come up with menu \\nideas, and new ways to treat the customers \\nfor us.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "もっときびきびと！　と言っている姿が\\n目に浮かびます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can imagine she'll just yell at us to \\nmove faster.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "言われた通りにできないと、\\nできるまで居残りで特訓させられたり――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And if we don't do as she says, she'll stay \\nas long as she can to force training \\nupon us...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "それでもだめだと、休日返上で\\n地獄のキャンプをすることになって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And if that's still not enough, she'll \\nconfiscate our weekend and send us on a \\ncamping trip to hell...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア＆チノ",
           "original": "そ、そんなの嫌ぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Anything but that!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、今、チノちゃんと息が合ってた！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Chino-chan! We're in sync!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "そこ、喜ぶところですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that a good thing!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "だって嬉しかったんだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it makes me so happy!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "それよりも、本当にやるんですか？\\nリゼさんが本気になってしまいそうな企画を。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, are we really doing this? The plan that \\nRize-san is likely to take way too far.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "えっと、やめた方がいいよね？\\n命は大事にしなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh, we should probably call it off. I still \\nlove being alive.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed.",
+          "status": "machine_translated"
         }
       }
     }

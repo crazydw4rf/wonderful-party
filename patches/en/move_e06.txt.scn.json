@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（市場はいつも活気があって楽しいな。\\n　歩いてるだけでウキウキしちゃうよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I like how the marketplace is \\nalways busy. Just walking through here is \\nenough to make me giddy.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,80 +16,80 @@
         "0": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、シャロちゃんがいる！\\n　フルールの制服じゃないし、\\n　今日はバイトお休みなんだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hey, Sharo-chan's here! She's not in \\nFleur's uniform, so this must be her day off.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、どうしたんだろ？\\n　すごく暗い顔してる？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But something must be wrong. \\nShe's making a super depressed face.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nどうしたの？\\nそんな暗い顔をしていたら幸せが逃げちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! What's the matter? If you make \\nsuch a gloomy face all your happiness \\nwill run away.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "それはため息をついたらじゃなかった？\\nまあ、今、ものすごく\\nため息をつきたい気分だけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't that saying about whenever you sigh? \\nI really want to let out a sigh about \\nnow though.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "……ん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（地面の上に落ちたアイスクリーム。\\n　シャロちゃんの手には\\n　アイスクリームのコーンだけ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(There's a scoop of ice cream on the \\nground. And in Sharo-chan's hand there's \\nnothing but an empty ice cream cone.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここから導き出される答えは……１つ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(You can only draw one logical \\nconclusion from that!)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "アイスクリーム、落としちゃったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your ice cream...\\nfell to the ground.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "そうよ。\\nすごくおいしそうだったから、\\n思い切って買ったのに、こんなことになるなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup. Since it looked so good, I made an \\nexception and bought a serving, but it \\nall returns to nothing.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "はあ……。\\nたまの贅沢も、私には許されないのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ \\nEven on rare occasion, this kind of luxury is too\\nmuch to ask for.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "節約を忘れて、アイスクリームなんか\\n買うから罰が当たったんだわ。\\n私はずっと節約だけしてればいいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I forgot to be thrifty by buying this ice \\ncream and was punished accordingly. Someone \\nlike me should just go on saving money forever.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（暗い、暗いすぎるよ！\\n　こんなのシャロちゃんらしくない！\\n　何とかして元気付けてあげたい！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh no, this is getting dark! This\\nisn't like Sharo-chan at all! I need to do\\nsomething to cheer her up again!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -97,24 +97,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（暗い、暗いすぎるよ！\\n　こんなのシャロちゃんらしくない！\\n　何とかして元気付けてあげたい！）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Oh no, this is getting dark! This\\nisn't like Sharo-chan at all! I need to do\\nsomething to cheer her up again!)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "私の胸で泣いていいよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's okay to cry into my chest!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "別のものを買おう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Buy something else!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "おごってあげるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll treat you!",
+          "status": "machine_translated"
         }
       }
     },
@@ -123,20 +123,20 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\n私の胸で泣いていいよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nIt's okay to cry into my chest!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "はっ？\\n急に何を言い出してるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What are you saying all of a sudden?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "悲しい時は、思いっきり泣いていいの。\\n強がる必要はないんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whenever life is hard, it's perfectly fine \\nto let it all out. There's no need to \\nact tough.",
+          "status": "machine_translated"
         }
       }
     },
@@ -145,20 +145,20 @@
         "0": {
           "speaker": "シャロ",
           "original": "べ、別に、泣くほど悲しいわけじゃないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's not like this is sad enough to \\nshed tears over.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "そんなこと言って、\\n顔で笑って心で泣いてるんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You say that with a smile on your face, but \\ndeep down you're crying in your heart, \\nright?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "だから、平気だって言ってるでしょ？\\n大丈夫よ……今、本当に平気になったから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen, I just said I was alright. \\nEverything is okay, I'm totally fine right now.",
+          "status": "machine_translated"
         }
       }
     },
@@ -167,38 +167,38 @@
         "0": {
           "speaker": "ココア",
           "original": "別のものを買おう！\\n今日はアイスと相性が悪かったんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Buy something else! Ice cream was just \\na bad match for you today.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "これ以上、無駄遣いはできないわ。\\nこれは自分の不注意が招いたことなんだから、\\n戒めとして受け止めないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I cannot afford to waste any more money like\\nthat. This was all brought about by my own \\ncarelessness, so I need to view this as a lesson.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "シャロちゃん……！\\nな、なんて立派なの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! Y-You're so respectable!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そんな立派なシャロちゃんには、\\n私がアイスを買ってあげよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I'll buy another scoop of ice cream for \\nthat respectable Sharo-chan!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "え？　そんな、いいわよ。\\nおごってもらう理由がないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? No, that won't be necessary. There's no \\nreason for me to be accepting free food \\nfrom you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あるよ？\\nそれでシャロちゃんが笑顔になれば\\n私が嬉しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a perfectly good reason! It'll make \\nme happy to put a smile on your face!",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,20 +207,20 @@
         "0": {
           "speaker": "ココア",
           "original": "おごってあげるよ！\\nアイスクリーム１つで\\nシャロちゃんに笑顔が戻るなら、いくらでも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll treat you! If ice cream can put a \\nsmile back on your face, then I'll buy as \\nmany as you want!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "必要ないわ。\\n自分の不注意で落としたのを\\nココアに買い直してもらうなんて、変じゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won't be necessary. Don't you think it'd\\nbe weird for you to re-buy something \\nI dropped out of my own carelessness?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "けど、こんな悲しい事件を\\n放っておくわけにはいかないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, there's no way I can just ignore this \\ntragic accident!",
+          "status": "machine_translated"
         }
       }
     },
@@ -229,8 +229,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "……気持ちは嬉しいわ。\\nでも、やっぱりココアにおごってもらうのは\\n違うと思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I appreciate the thought. But I don't \\nthink it'd be right for you to get me \\nsomething for free.",
+          "status": "machine_translated"
         }
       }
     },
@@ -239,92 +239,92 @@
         "0": {
           "speaker": "シャロ",
           "original": "子どもじゃないんだから、\\nアイスクリームぐらいでそんな落ち込まないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not a child. Just a little ice cream \\nisn't enough to get me down.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "それに、ココアが私以上に\\n残念がってるのをみたら、\\n何かスッキリしちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, seeing you act like I'm\\nmore upset than I actually am is kind of\\nrefreshing, somehow.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Why's that?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "だって、妙に大げさだったから。\\nなんだかばかばかしくなっちゃったわ。\\nふふっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because, after that bizarre exaggeration, \\nthis whole thing seems ridiculous. Hehe.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（シャロちゃん、笑った。\\n　本当にもう大丈夫みたいだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sharo-chan finally laughed. Looks \\nlike she really is alright now.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "さて、汚しちゃったから掃除しないと。\\nどこかで掃除道具を借りて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well now, I guess I have to fix this mess I \\nmade. I wonder if I can borrow a mop or \\nsomething to clean this upーー",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "きゃああ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kyaaaaa!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ど、どうしたの、シャロちゃん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What wrong, Sharo-chan!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "う、うさぎが！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A r-rabbit!!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あ、野良うさぎがアイスクリームなめてる。\\nかわいいね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, there's a bunny licking the ice cream. \\nHow cute~.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "うさぎってアイスクリーム食べるのね。\\nミルクアイスだから、うさぎが食べても\\n平気だとは思うけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So rabbits will eat ice cream. \\nIt's vanilla flavored, so I think it's safe for \\nit to eat...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "苦手なのにうさぎのことを心配するなんて、\\nシャロちゃんは優しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even though you hate rabbits, you still \\nlook out for them. You sure are a nice \\nperson.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "これは今夜あたり、うさぎが\\nシャロちゃんの家に恩返しに来るかもしれないよ？\\n今日、アイスをいただいたうさぎです、って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come tonight, this bunny just might come to \\nyour home and return the favor. ”Today, I\\nwas the rabbit who you graced with ice cream”",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "や、やめて！！\\nそれはもういらないものだから\\n恩返しなんて必要ないのよ！？　いいわね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop it!! I don't have any use for that ice\\ncream anymore, so there's no need to pay \\nme back! It's all yours!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（野良うさぎに言ってるけど、\\n　通じてるのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She's talking to a wild rabbit, \\nI wonder if they can communicate?)",
+          "status": "machine_translated"
         }
       }
     }

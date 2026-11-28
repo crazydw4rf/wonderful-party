@@ -5075,8 +5075,8 @@
   "choices": {
     "all_a01.txt#*sel_0101": {
       "original": "うーん、そっかぁ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Hmm, I guess so.",
+      "status": "proofread"
     },
     "all_a01.txt#*sel_0102": {
       "original": "きっと大丈夫だよ！",
@@ -5405,183 +5405,183 @@
     },
     "chiya_a02.txt#*sel_0101": {
       "original": "じゃあ、少数精鋭でやろっか。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Only our inner circle.",
+      "status": "machine_translated"
     },
     "chiya_a02.txt#*sel_0102": {
       "original": "街中のみんなを呼んじゃおうよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let's invite the whole town!",
+      "status": "machine_translated"
     },
     "chiya_a02.txt#*sel_0103": {
       "original": "青山さんとマヤちゃんとメグちゃんと……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Aoyama-san, Maya-chan, Megu-chan, and...",
+      "status": "machine_translated"
     },
     "chiya_a03.txt#*sel_0101": {
       "original": "（やっぱりケーキだね！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(More cake!)",
+      "status": "machine_translated"
     },
     "chiya_a03.txt#*sel_0102": {
       "original": "（そこは千夜ちゃんにお任せしよう）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I'll let Chiya-chan decide.)",
+      "status": "machine_translated"
     },
     "chiya_a03.txt#*sel_0103": {
       "original": "（おいしいパンを焼こう！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I'll bake delicious bread!)",
+      "status": "machine_translated"
     },
     "chiya_a08.txt#*sel_0101": {
       "original": "いいね！　やろうよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Yeah! Let's do it!",
+      "status": "machine_translated"
     },
     "chiya_a08.txt#*sel_0102": {
       "original": "時間的に厳しくないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Will we have enough time?",
+      "status": "machine_translated"
     },
     "chiya_a08.txt#*sel_0103": {
       "original": "千夜ちゃんがそう言うなら、やるよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "If you say so.",
+      "status": "machine_translated"
     },
     "chiya_b05.txt#*sel_0101": {
       "original": "うーん、どうしよう……？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Hm, I'm not sure.",
+      "status": "machine_translated"
     },
     "chiya_b05.txt#*sel_0102": {
       "original": "うん、みんなで食べようよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Great, let's have a feast!",
+      "status": "machine_translated"
     },
     "chiya_b05.txt#*sel_0103": {
       "original": "チノちゃんたちも誘っていい？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Does this include Chino-chan?",
+      "status": "machine_translated"
     },
     "chiya_b07.txt#*sel_0101": {
       "original": "ティッピーは鼻の調子が悪いのかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Is there something wrong with her nose?",
+      "status": "machine_translated"
     },
     "chiya_b07.txt#*sel_0102": {
       "original": "なんか、怪しい……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Something's... fishy...",
+      "status": "machine_translated"
     },
     "chiya_b07.txt#*sel_0103": {
       "original": "気のせいじゃないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Aren't you reading into it too much?",
+      "status": "machine_translated"
     },
     "chiya_c02.txt#*sel_0101": {
       "original": "フランスの王様だよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The king of France!",
+      "status": "machine_translated"
     },
     "chiya_c02.txt#*sel_0102": {
       "original": "星座の名前だよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The name of a constellation.",
+      "status": "machine_translated"
     },
     "chiya_c02.txt#*sel_0103": {
       "original": "星座の一部だよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Part of a constellation.",
+      "status": "machine_translated"
     },
     "chiya_c04.txt#*sel_0101": {
       "original": "それってツンデレだね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What a tsundere!",
+      "status": "machine_translated"
     },
     "chiya_c04.txt#*sel_0102": {
       "original": "そんなにすごい物なのかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Is it something that impressive?",
+      "status": "machine_translated"
     },
     "chiya_c04.txt#*sel_0103": {
       "original": "なら、最初から隠さないんじゃないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Then they shouldn't be hiding it?",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0101": {
       "original": "運動ができる広場の方を探そう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let's search the field!",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0102": {
       "original": "まずは植え込みの中を探してみようよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let's start with the shrubs.",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0103": {
       "original": "公園にいる野良うさぎの耳！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The ears of the wild rabbits!",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0201": {
       "original": "きっと木の根元に埋まってるんだ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It must be buried under a tree!",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0202": {
       "original": "道の途中に落ちてるかもしれないよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It might have fallen onto a road.",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0203": {
       "original": "ベンチの下とか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe under a bench?",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0301": {
       "original": "前回の地図が埋まっていたがわ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The same place we found the first map!",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0302": {
       "original": "ここにはないのかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe it's not here?",
+      "status": "machine_translated"
     },
     "chiya_d01.txt#*sel_0303": {
       "original": "木の上を探そうよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let's search the treetops.",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0101": {
       "original": "噴水の中に宝物があるんだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The treasure is in the fountain!",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0102": {
       "original": "茂みの中は要チェックだよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "We must check the bushes!",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0103": {
       "original": "……食休みしてもいい？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "...Can we just take a lunch break?",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0201": {
       "original": "噴水の柱に注目だ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let's check the pillar in the fountain!",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0202": {
       "original": "街灯に秘密があるのかもしれないよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The streetlights might have a secret for us!",
+      "status": "machine_translated"
     },
     "chiya_d03.txt#*sel_0203": {
       "original": "あずまやの屋根の上は？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe the roof of the gazebo?",
+      "status": "machine_translated"
     },
     "day.ks#": {
       "original": "バレンタイン",
@@ -5620,133 +5620,133 @@
     },
     "main_a03.txt#*sel_0101": {
       "original": "お姉ちゃんだから当然だよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'm your big sister, so of course I'm early!",
+      "status": "machine_translated"
     },
     "main_a03.txt#*sel_0102": {
       "original": "いつも遅刻ばかりでごめんね？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'd like to apologize for always being late.",
+      "status": "machine_translated"
     },
     "main_a03.txt#*sel_0103": {
       "original": "実は、時計を見間違えちゃったんだ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Actually, it's because I misread the time.",
+      "status": "machine_translated"
     },
     "main_a05.txt#*sel_0101": {
       "original": "ラビットハウスの開店記念日！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The day of Rabbit House's opening!",
+      "status": "machine_translated"
     },
     "main_a05.txt#*sel_0102": {
       "original": "もふもふ記念日！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Cuddle Day!",
+      "status": "machine_translated"
     },
     "main_a05.txt#*sel_0103": {
       "original": "妹記念日！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Little Sister Day!",
+      "status": "machine_translated"
     },
     "main_a07.txt#*sel_0101": {
       "original": "手作りボトルシップ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A handmade ship in a bottle?",
+      "status": "machine_translated"
     },
     "main_a07.txt#*sel_0102": {
       "original": "新しいパズル？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A brand-new puzzle?",
+      "status": "machine_translated"
     },
     "main_a07.txt#*sel_0103": {
       "original": "焼き立てのパン？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Some fresh bread?",
+      "status": "machine_translated"
     },
     "main_b02.txt#*sel_0101": {
       "original": "まだ、これからだよね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Things will only get better!",
+      "status": "machine_translated"
     },
     "main_b02.txt#*sel_0102": {
       "original": "何がいけなかったのかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Did I do something wrong?",
+      "status": "machine_translated"
     },
     "main_b02.txt#*sel_0103": {
       "original": "他のやり方を考えた方がいいのかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe we should think of another method?",
+      "status": "machine_translated"
     },
     "main_b03.txt#*sel_0101": {
       "original": "私がちょっとだけお姉ちゃんだね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'm sort of a big sister to both of you!",
+      "status": "machine_translated"
     },
     "main_b03.txt#*sel_0102": {
       "original": "２人とももう過ぎちゃってたんだ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Both of those have already passed by!",
+      "status": "machine_translated"
     },
     "main_b03.txt#*sel_0103": {
       "original": "すごくそれっぽいね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Both of those are sorta fitting.",
+      "status": "machine_translated"
     },
     "main_b04.txt#*sel_0101": {
       "original": "チノちゃんの誕生日のためだ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It was all for Chino-chan's birthday!",
+      "status": "machine_translated"
     },
     "main_b04.txt#*sel_0102": {
       "original": "何か大事な理由があったような気が……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I feel like there was some reason...",
+      "status": "machine_translated"
     },
     "main_b04.txt#*sel_0103": {
       "original": "まあ、いっか！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Whatever, doesn't matter!",
+      "status": "machine_translated"
     },
     "main_b05.txt#*sel_0101": {
       "original": "大丈夫です！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Don't worry!",
+      "status": "machine_translated"
     },
     "main_b05.txt#*sel_0102": {
       "original": "言われてみれば少し寂しいかも。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You're right, it's pretty dreary.",
+      "status": "machine_translated"
     },
     "main_b05.txt#*sel_0103": {
       "original": "青山さんの考えすぎですよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Aoyama-san, you're overthinking it.",
+      "status": "machine_translated"
     },
     "main_b06.txt#*sel_0101": {
       "original": "べ、別に誕生日のことなんて関係ないよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I-It's not anything to do with her birthday!",
+      "status": "machine_translated"
     },
     "main_b06.txt#*sel_0102": {
       "original": "千夜ちゃん、あとはよろしく！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Chiya-chan, I'll leave the rest to you!",
+      "status": "machine_translated"
     },
     "main_b06.txt#*sel_0103": {
       "original": "気のせいって言ったら気のせいなの！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I said it's your imagination!",
+      "status": "machine_translated"
     },
     "mainloop.ks#*tutorial": {
       "original": "プロローグをスキップしない",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "View the prologue",
+      "status": "machine_translated"
     },
     "mainloop.ks#*tutorial_skip": {
       "original": "プロローグをスキップする",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Skip the prologue",
+      "status": "machine_translated"
     },
     "move_a00.txt#": {
       "original": "市場",
@@ -5755,93 +5755,93 @@
     },
     "move_a01.txt#*sel_0101": {
       "original": "お姉ちゃんにまかせて！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Leave it to your big sister!",
+      "status": "machine_translated"
     },
     "move_a01.txt#*sel_0102": {
       "original": "助け合うのは大事なことだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It’s important that we help each other!",
+      "status": "machine_translated"
     },
     "move_a01.txt#*sel_0103": {
       "original": "じゃ、次は私が倉庫に行くね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Alright, I’m off to the storage room!",
+      "status": "machine_translated"
     },
     "move_a02.txt#*sel_0101": {
       "original": "童話がいいんじゃないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A fairy tale might be nice?",
+      "status": "machine_translated"
     },
     "move_a02.txt#*sel_0102": {
       "original": "和菓子なら古典かな。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A classic would be best for wagashi.",
+      "status": "machine_translated"
     },
     "move_a02.txt#*sel_0103": {
       "original": "呪い、もとい、おまじない！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A book of curses-correction-charms!",
+      "status": "machine_translated"
     },
     "move_a03.txt#*sel_0101": {
       "original": "こんな感じ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It goes like this...",
+      "status": "machine_translated"
     },
     "move_a03.txt#*sel_0102": {
       "original": "もう１回見せて！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "One more time!",
+      "status": "machine_translated"
     },
     "move_a03.txt#*sel_0103": {
       "original": "プロだね、シャロちゃん！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You're a pro, Sharo-chan!",
+      "status": "machine_translated"
     },
     "move_a04.txt#*sel_0101": {
       "original": "人間観察をしよう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s conduct some human surveillance!",
+      "status": "machine_translated"
     },
     "move_a04.txt#*sel_0102": {
       "original": "ひなたぼっこはどうかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How about we bask in the sun?",
+      "status": "machine_translated"
     },
     "move_a04.txt#*sel_0103": {
       "original": "かくれんぼしよっか。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s go for a round of hide and seek.",
+      "status": "machine_translated"
     },
     "move_a05.txt#*sel_0101": {
       "original": "イエッサー！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Yes, sir!",
+      "status": "machine_translated"
     },
     "move_a05.txt#*sel_0102": {
       "original": "もちろん覚悟はできてるよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Of course I can handle it!",
+      "status": "machine_translated"
     },
     "move_a05.txt#*sel_0103": {
       "original": "やさしくしてね？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Be gentle with me.",
+      "status": "machine_translated"
     },
     "move_a06.txt#*sel_0101": {
       "original": "ラビットハウスの秘密を暴く気ですか！？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You’re uncovering Rabbit House’s secrets!?",
+      "status": "machine_translated"
     },
     "move_a06.txt#*sel_0102": {
       "original": "いいですよ、なんでも聞いてください。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Fine! Ask me anything!",
+      "status": "machine_translated"
     },
     "move_a06.txt#*sel_0103": {
       "original": "じゃあ、私は青山さんを取材します。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Before that, I’m going to interview you.",
+      "status": "machine_translated"
     },
     "move_b00.txt#": {
       "original": "市場",
@@ -5850,93 +5850,93 @@
     },
     "move_b01.txt#*sel_0101": {
       "original": "手でうさぎの耳を作るとか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe make bunny ears with your hands?",
+      "status": "machine_translated"
     },
     "move_b01.txt#*sel_0102": {
       "original": "もふもふになるとか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Be more cuddly somehow?",
+      "status": "machine_translated"
     },
     "move_b01.txt#*sel_0103": {
       "original": "ぴょんぴょん跳ぶとか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe if you hopped around?",
+      "status": "machine_translated"
     },
     "move_b02.txt#*sel_0101": {
       "original": "じゃあ、お掃除手伝うよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll help you sweep the place.",
+      "status": "machine_translated"
     },
     "move_b02.txt#*sel_0102": {
       "original": "手を握って温めてあげる。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll warm your hands with my hands.",
+      "status": "machine_translated"
     },
     "move_b02.txt#*sel_0103": {
       "original": "手袋、持ってくる！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll go get you some gloves!",
+      "status": "machine_translated"
     },
     "move_b03.txt#*sel_0101": {
       "original": "頭、なでてあげるね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'll give you a headpat!",
+      "status": "machine_translated"
     },
     "move_b03.txt#*sel_0102": {
       "original": "コーヒーを飲んでみよう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Try a sip of coffee!",
+      "status": "machine_translated"
     },
     "move_b03.txt#*sel_0103": {
       "original": "お店、手伝おうか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Is there any way I can help?",
+      "status": "machine_translated"
     },
     "move_b04.txt#*sel_0101": {
       "original": "尾行をするのならサングラスです！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You can’t stalk people without sunglasses!",
+      "status": "machine_translated"
     },
     "move_b04.txt#*sel_0102": {
       "original": "もっとかわいい服を着ていればよかったなぁ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I should have put on some fancier clothes.",
+      "status": "machine_translated"
     },
     "move_b04.txt#*sel_0103": {
       "original": "私ってそんなにヒロインっぽいですか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You think I’d make a good heroine?",
+      "status": "machine_translated"
     },
     "move_b05.txt#*sel_0101": {
       "original": "かわいさが魅力のピンクかな。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe the cute and charismatic pink?",
+      "status": "machine_translated"
     },
     "move_b05.txt#*sel_0102": {
       "original": "リーダーシップのあるレッドだよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The inspiring leader, red, of course.",
+      "status": "machine_translated"
     },
     "move_b05.txt#*sel_0103": {
       "original": "クールなブルーでしょ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The calm and collected blue!",
+      "status": "machine_translated"
     },
     "move_b06.txt#*sel_0101": {
       "original": "（周りの人に訊いてみよう）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I’ll ask random strangers.)",
+      "status": "machine_translated"
     },
     "move_b06.txt#*sel_0102": {
       "original": "（声を出してみなくちゃ！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I’ll yell for her!)",
+      "status": "machine_translated"
     },
     "move_b06.txt#*sel_0103": {
       "original": "（……この人ごみじゃ無理かな？）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(...Maybe it’s hopeless in this crowd?)",
+      "status": "machine_translated"
     },
     "move_c00.txt#": {
       "original": "市場",
@@ -5945,93 +5945,93 @@
     },
     "move_c01.txt#*sel_0101": {
       "original": "ピクニックかな。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Maybe a picnic?",
+      "status": "machine_translated"
     },
     "move_c01.txt#*sel_0102": {
       "original": "探検をしようよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s go adventuring!",
+      "status": "machine_translated"
     },
     "move_c01.txt#*sel_0103": {
       "original": "森林浴なんてどう？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How does swimming in a forest sound?",
+      "status": "machine_translated"
     },
     "move_c02.txt#*sel_0101": {
       "original": "おお！　さすが千夜ちゃんだね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Wow! As amazing as always!",
+      "status": "machine_translated"
     },
     "move_c02.txt#*sel_0102": {
       "original": "……うーん、ピンとこないかも。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Hmm. I’m not feeling it.",
+      "status": "machine_translated"
     },
     "move_c02.txt#*sel_0103": {
       "original": "魔法のアイテムみたい。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "That seems like a magic item.",
+      "status": "machine_translated"
     },
     "move_c03.txt#*sel_0101": {
       "original": "このくらい、普通じゃないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Isn’t this perfectly normal?",
+      "status": "machine_translated"
     },
     "move_c03.txt#*sel_0102": {
       "original": "これも仕事だよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "This is apart of your job!",
+      "status": "machine_translated"
     },
     "move_c03.txt#*sel_0103": {
       "original": "私が嫌いなの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You hate me!?",
+      "status": "machine_translated"
     },
     "move_c04.txt#*sel_0101": {
       "original": "オマケをつけるのはどうかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How about you add a freebie?",
+      "status": "machine_translated"
     },
     "move_c04.txt#*sel_0102": {
       "original": "自分を追い込んでみようよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Try making yourself desperate!",
+      "status": "machine_translated"
     },
     "move_c04.txt#*sel_0103": {
       "original": "受け取らなきゃって思わせるんだ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Make them think they have to take it!",
+      "status": "machine_translated"
     },
     "move_c05.txt#*sel_0101": {
       "original": "私が悪の手からかくまいます！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll keep you hidden!",
+      "status": "machine_translated"
     },
     "move_c05.txt#*sel_0102": {
       "original": "私が代わりに戦います！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll fight instead of you!",
+      "status": "machine_translated"
     },
     "move_c05.txt#*sel_0103": {
       "original": "それは……これから考えます。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Well... Let’s think it over.",
+      "status": "machine_translated"
     },
     "move_c06.txt#*sel_0101": {
       "original": "もちろん笑顔だよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A smile, of course.",
+      "status": "machine_translated"
     },
     "move_c06.txt#*sel_0102": {
       "original": "きちんとした挨拶です。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A proper greeting.",
+      "status": "machine_translated"
     },
     "move_c06.txt#*sel_0103": {
       "original": "ずばり、バランス感覚！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "In short, a sense of balance.",
+      "status": "machine_translated"
     },
     "move_d00.txt#": {
       "original": "市場",
@@ -6040,93 +6040,93 @@
     },
     "move_d01.txt#*sel_0101": {
       "original": "ええっ！？　リゼちゃん、いなくなるの！？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What!? Rize-chan, you’re leaving!?",
+      "status": "machine_translated"
     },
     "move_d01.txt#*sel_0102": {
       "original": "寂しいに決まってるよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’d be terribly lonely, of course!",
+      "status": "machine_translated"
     },
     "move_d01.txt#*sel_0103": {
       "original": "私は大丈夫だよ、安心して。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Don’t worry, I’ll get by.",
+      "status": "machine_translated"
     },
     "move_d02.txt#*sel_0101": {
       "original": "制服に着替えなくちゃ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Get your uniform on!",
+      "status": "machine_translated"
     },
     "move_d02.txt#*sel_0102": {
       "original": "メニューを覚えなきゃだめだよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Memorize the menu.",
+      "status": "machine_translated"
     },
     "move_d02.txt#*sel_0103": {
       "original": "今日は店じまいだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Close down the cafe at once!",
+      "status": "machine_translated"
     },
     "move_d03.txt#*sel_0101": {
       "original": "私が代わりに書きます！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll write it for you!",
+      "status": "machine_translated"
     },
     "move_d03.txt#*sel_0102": {
       "original": "いったん、仕事のことは忘れましょう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s just forget about work for now!",
+      "status": "machine_translated"
     },
     "move_d03.txt#*sel_0103": {
       "original": "飲み物を替えてみたらどうでしょう？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Why don’t you try changing your drink?",
+      "status": "machine_translated"
     },
     "move_d04.txt#*sel_0101": {
       "original": "私が抱きしめてあげる！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll give you a hug!",
+      "status": "machine_translated"
     },
     "move_d04.txt#*sel_0102": {
       "original": "うさぎ、抱っこしてみる？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Try and pick up the bunny?",
+      "status": "machine_translated"
     },
     "move_d04.txt#*sel_0103": {
       "original": "ちょっと触ってみる？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Try just touching the bunny?",
+      "status": "machine_translated"
     },
     "move_d05.txt#*sel_0101": {
       "original": "このもふもふ具合がたまらないよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "This fluffy texture is second to none!",
+      "status": "machine_translated"
     },
     "move_d05.txt#*sel_0102": {
       "original": "鳴き声が意外にかわいいんだ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Its cry is surprisingly cute.",
+      "status": "machine_translated"
     },
     "move_d05.txt#*sel_0103": {
       "original": "口元と動きが最高～！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Its mouth and the way it hops!",
+      "status": "machine_translated"
     },
     "move_d06.txt#*sel_0101": {
       "original": "私よりも千夜ちゃんぽいね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "That describes you more than me.",
+      "status": "machine_translated"
     },
     "move_d06.txt#*sel_0102": {
       "original": "えへへ、照れちゃうなー。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Ehehe~ You’re going to make me blush.",
+      "status": "machine_translated"
     },
     "move_d06.txt#*sel_0103": {
       "original": "私、もっとクールじゃないかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Aren’t I more cold and collected?",
+      "status": "machine_translated"
     },
     "move_e00.txt#": {
       "original": "市場",
@@ -6135,93 +6135,93 @@
     },
     "move_e01.txt#*sel_0101": {
       "original": "お願いだから何か手伝わせて！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’m begging you, let me help!",
+      "status": "machine_translated"
     },
     "move_e01.txt#*sel_0102": {
       "original": "じゃあ、勝手に仕事しちゃうから！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’m helping and you can’t stop me!",
+      "status": "machine_translated"
     },
     "move_e01.txt#*sel_0103": {
       "original": "お客さんが悲しむよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The customers won’t like this.",
+      "status": "machine_translated"
     },
     "move_e02.txt#*sel_0101": {
       "original": "その分、運動しましょう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Work off those extra calories!",
+      "status": "machine_translated"
     },
     "move_e02.txt#*sel_0102": {
       "original": "我慢は体に毒ですよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Resisting cravings is bad for you!",
+      "status": "machine_translated"
     },
     "move_e02.txt#*sel_0103": {
       "original": "青山さんはスリムだから大丈夫ですよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Don’t worry, you’re still slim!",
+      "status": "machine_translated"
     },
     "move_e03.txt#*sel_0101": {
       "original": "も、もちろんわかるよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "O-Of course I know this one!",
+      "status": "machine_translated"
     },
     "move_e03.txt#*sel_0102": {
       "original": "ごめんね、わかんない……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’m sorry, I don’t know.",
+      "status": "machine_translated"
     },
     "move_e03.txt#*sel_0103": {
       "original": "わかるような、わからないような？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I think I know it? Or maybe not?",
+      "status": "machine_translated"
     },
     "move_e04.txt#*sel_0101": {
       "original": "かわいくお団子にするのはどうかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How about some cute buns?",
+      "status": "machine_translated"
     },
     "move_e04.txt#*sel_0102": {
       "original": "後ろで縛ってスポーティに！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Tie it in the back to be sporty!",
+      "status": "machine_translated"
     },
     "move_e04.txt#*sel_0103": {
       "original": "髪を下ろして大人っぽくするのはどう？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How about you let it down to look mature?",
+      "status": "machine_translated"
     },
     "move_e05.txt#*sel_0101": {
       "original": "一緒に配達先を探すよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s find your destination together!",
+      "status": "machine_translated"
     },
     "move_e05.txt#*sel_0102": {
       "original": "荷物を持ってあげるね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’ll carry it for you.",
+      "status": "machine_translated"
     },
     "move_e05.txt#*sel_0103": {
       "original": "メモの間違いを検証しよう。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s figure out what the error was.",
+      "status": "machine_translated"
     },
     "move_e06.txt#*sel_0101": {
       "original": "私の胸で泣いていいよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It's okay to cry into my chest!",
+      "status": "machine_translated"
     },
     "move_e06.txt#*sel_0102": {
       "original": "別のものを買おう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Buy something else!",
+      "status": "machine_translated"
     },
     "move_e06.txt#*sel_0103": {
       "original": "おごってあげるよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'll treat you!",
+      "status": "machine_translated"
     },
     "move_f00.txt#": {
       "original": "市場",
@@ -6230,173 +6230,173 @@
     },
     "move_f01.txt#*sel_0101": {
       "original": "どんな毎日だったら笑って過ごせますか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What kind of day would make you smile?",
+      "status": "machine_translated"
     },
     "move_f01.txt#*sel_0102": {
       "original": "青山さんも毎日、楽しそうですよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "But you do seem to be enjoying yourself?",
+      "status": "machine_translated"
     },
     "move_f01.txt#*sel_0103": {
       "original": "何か悩みでもあるんですか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Is there something on your mind?",
+      "status": "machine_translated"
     },
     "move_f02.txt#*sel_0101": {
       "original": "私に任せなさい！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Leave it to me!",
+      "status": "machine_translated"
     },
     "move_f02.txt#*sel_0102": {
       "original": "じゃあ、ヒントを出そっか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Okay, how about I give you a hint?",
+      "status": "machine_translated"
     },
     "move_f02.txt#*sel_0103": {
       "original": "だめだよ、自分でやらなきゃ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Nuh-uh, you need to do it yourself.",
+      "status": "machine_translated"
     },
     "move_f03.txt#*sel_0101": {
       "original": "誰も見てないから、平気だよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "No one's watching, so it's fine!",
+      "status": "machine_translated"
     },
     "move_f03.txt#*sel_0102": {
       "original": "リゼちゃんならきっとこう言うよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "If Rize-chan were here...",
+      "status": "machine_translated"
     },
     "move_f03.txt#*sel_0103": {
       "original": "じゃあ、全部食べる？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Want all of it then?",
+      "status": "machine_translated"
     },
     "move_f04.txt#*sel_0101": {
       "original": "そう言わないで、繋いでください！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Don’t say that! Please hold my hand!",
+      "status": "machine_translated"
     },
     "move_f04.txt#*sel_0102": {
       "original": "そんなことを言う妹は、こうだ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Here’s what happens if you say that!",
+      "status": "machine_translated"
     },
     "move_f04.txt#*sel_0103": {
       "original": "チノちゃんはツンデレだな～。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Oh Chino-chan, you’re such a tsundere~",
+      "status": "machine_translated"
     },
     "move_f05.txt#*sel_0101": {
       "original": "（まずはメグちゃんを元気づけよう！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(Megu-chan needs to be cheered up!)",
+      "status": "machine_translated"
     },
     "move_f05.txt#*sel_0102": {
       "original": "（私たちだけじゃ無理かな？）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(This is impossible for us.)",
+      "status": "machine_translated"
     },
     "move_f05.txt#*sel_0103": {
       "original": "（ここは新しい作戦を考えよう）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(Let’s set a trap.)",
+      "status": "machine_translated"
     },
     "move_f06.txt#*sel_0101": {
       "original": "ここで自分の殻を破るんだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Break out of your shell!",
+      "status": "machine_translated"
     },
     "move_f06.txt#*sel_0102": {
       "original": "訓練だと思って！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Think of this as a drill!",
+      "status": "machine_translated"
     },
     "move_f06.txt#*sel_0103": {
       "original": "いいから私の胸に飛び込んで！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Just do it!",
+      "status": "machine_translated"
     },
     "pajamas_main_01.txt#*sel_0101": {
       "original": "せっかくだし、やろう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "No time like the present, let's do it!",
+      "status": "machine_translated"
     },
     "pajamas_main_01.txt#*sel_0102": {
       "original": "今日はやめとかない？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Shall we save this for another day?",
+      "status": "machine_translated"
     },
     "pajamas_main_01.txt#*sel_0103": {
       "original": "どっちでもいいよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I guess either way's fine?",
+      "status": "machine_translated"
     },
     "pajamas_main_02.txt#*sel_0101": {
       "original": "（バレてるって教えてあげよう）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I'll tell her that I've figured it out.)",
+      "status": "machine_translated"
     },
     "pajamas_main_02.txt#*sel_0102": {
       "original": "（勝負とは非情……！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(No mercy!)",
+      "status": "machine_translated"
     },
     "pajamas_main_02.txt#*sel_0103": {
       "original": "（勝たせてあげようっと）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I'll let her win.)",
+      "status": "machine_translated"
     },
     "pajamas_main_03.txt#*sel_0101": {
       "original": "これ、格好いい～！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "This is so cool!",
+      "status": "machine_translated"
     },
     "pajamas_main_03.txt#*sel_0102": {
       "original": "（あれ？　他にも何かついてる？）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(Wait, there's something attached to it?)",
+      "status": "machine_translated"
     },
     "pajamas_main_03.txt#*sel_0103": {
       "original": "これ、リゼちゃんのプレゼントだね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "No doubt this is Rize-chan's present.",
+      "status": "machine_translated"
     },
     "rize_a02.txt#*sel_0101": {
       "original": "ココアは……",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Cocoa should...",
+      "status": "machine_translated"
     },
     "rize_a02.txt#*sel_0102": {
       "original": "チノはこれだな",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Chino should do this.",
+      "status": "machine_translated"
     },
     "rize_a02.txt#*sel_0103": {
       "original": "千夜にはこれをお願いしよう",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'll ask Chiya to do this.",
+      "status": "machine_translated"
     },
     "rize_a02.txt#*sel_0104": {
       "original": "これはシャロが適任だな",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Sharo is the right choice for this.",
+      "status": "machine_translated"
     },
     "rize_a03.txt#*sel_0101": {
       "original": "私はシャロを信頼しているぞ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You know I trust you.",
+      "status": "machine_translated"
     },
     "rize_a03.txt#*sel_0102": {
       "original": "責めてるわけじゃないんだ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'm not blaming you over it.",
+      "status": "machine_translated"
     },
     "rize_a03.txt#*sel_0103": {
       "original": "そうネガティブに考えるな。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Don't think so negatively all the time.",
+      "status": "machine_translated"
     },
     "rize_a05.txt#*sel_0101": {
       "original": "私に任せてくれ。",
@@ -6520,198 +6520,198 @@
     },
     "syaro_a02.txt#*sel_0101": {
       "original": "それは……その……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "About that...Uh...",
+      "status": "machine_translated"
     },
     "syaro_a02.txt#*sel_0102": {
       "original": "な、なんのことかしら？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Wh-What are you talking about?",
+      "status": "machine_translated"
     },
     "syaro_a02.txt#*sel_0103": {
       "original": "千夜には関係ないでしょ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You have nothing to do with this.",
+      "status": "machine_translated"
     },
     "syaro_a03.txt#*sel_0101": {
       "original": "もしかして、今の、聞いてた！？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Did you...hear that...just now?",
+      "status": "machine_translated"
     },
     "syaro_a03.txt#*sel_0102": {
       "original": "なんでいるのよ！？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What are you doing here!?",
+      "status": "machine_translated"
     },
     "syaro_a03.txt#*sel_0103": {
       "original": "（ご、誤魔化さないと！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I need to distract her!)",
+      "status": "machine_translated"
     },
     "syaro_a05.txt#*sel_0101": {
       "original": "悪いだなんて、そんなことないです！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You didn't do anything wrong!",
+      "status": "machine_translated"
     },
     "syaro_a05.txt#*sel_0102": {
       "original": "すごくいい匂いがしました！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "That smelled really good!",
+      "status": "machine_translated"
     },
     "syaro_a05.txt#*sel_0103": {
       "original": "せ、先輩、ここを教えてください！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "S-Senpai, tell me the answer to this one!",
+      "status": "machine_translated"
     },
     "syaro_a06.txt#*sel_0101": {
       "original": "私は、幸せ者ですね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I am really, truly blessed.",
+      "status": "machine_translated"
     },
     "syaro_a06.txt#*sel_0102": {
       "original": "告白じゃなかったんですね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Of course it wasn't a confession.",
+      "status": "machine_translated"
     },
     "syaro_a06.txt#*sel_0103": {
       "original": "私って、そんなに頼りなく見えますか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Do I really seem so unreliable?",
+      "status": "machine_translated"
     },
     "syaro_b04.txt#*sel_0101": {
       "original": "……ありがと。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "...Thanks.",
+      "status": "machine_translated"
     },
     "syaro_b04.txt#*sel_0102": {
       "original": "千夜はとぼけるのが下手ね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You sure are terrible at playing dumb.",
+      "status": "machine_translated"
     },
     "syaro_b04.txt#*sel_0103": {
       "original": "受け取れない。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I can't accept this.",
+      "status": "machine_translated"
     },
     "syaro_b05.txt#*sel_0101": {
       "original": "とりあえず、一緒に出かけてみたら？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Start by going somewhere together?",
+      "status": "machine_translated"
     },
     "syaro_b05.txt#*sel_0102": {
       "original": "何か心当たりはないの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Do you have any idea what she wants?",
+      "status": "machine_translated"
     },
     "syaro_b05.txt#*sel_0103": {
       "original": "やっぱり、素直に聞くのが１番よ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Just ask ask her directly.",
+      "status": "machine_translated"
     },
     "syaro_b06.txt#*sel_0101": {
       "original": "そうやって千夜はいつも……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You're always doing things like this...",
+      "status": "machine_translated"
     },
     "syaro_b06.txt#*sel_0102": {
       "original": "休むなんてだめよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You can't skip school like that.",
+      "status": "machine_translated"
     },
     "syaro_b06.txt#*sel_0103": {
       "original": "私のことなんてほっといて。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Just give up on someone like me.",
+      "status": "machine_translated"
     },
     "syaro_c01.txt#*sel_0101": {
       "original": "妻の役は私じゃなかった？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Wasn't I the one playing the role of wife?",
+      "status": "machine_translated"
     },
     "syaro_c01.txt#*sel_0102": {
       "original": "そのフレーズ、気に入ったの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Have you taken a liking to that word?",
+      "status": "machine_translated"
     },
     "syaro_c01.txt#*sel_0103": {
       "original": "気遣いはありがたいんだけど……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I appreciate the thought, but...",
+      "status": "machine_translated"
     },
     "syaro_c03.txt#*sel_0101": {
       "original": "……わかったわ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "...I see.",
+      "status": "machine_translated"
     },
     "syaro_c03.txt#*sel_0102": {
       "original": "私、どうしたらいいの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What should I do?",
+      "status": "machine_translated"
     },
     "syaro_c03.txt#*sel_0103": {
       "original": "そんなのだめよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I can't allow that.",
+      "status": "machine_translated"
     },
     "syaro_d02.txt#*sel_0101": {
       "original": "私、先輩のためなら身を引きます！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "If it's for you, I'll quit this job!",
+      "status": "machine_translated"
     },
     "syaro_d02.txt#*sel_0102": {
       "original": "引き受けるつもりなんですか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Do you plan on accepting the offer?",
+      "status": "machine_translated"
     },
     "syaro_d02.txt#*sel_0103": {
       "original": "私、どうすれば……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What do I do now...",
+      "status": "machine_translated"
     },
     "syaro_d03.txt#*sel_0101": {
       "original": "あ、あんたにしては気が利くわね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Pretty thoughtful, for you anyway.",
+      "status": "machine_translated"
     },
     "syaro_d03.txt#*sel_0102": {
       "original": "気遣いは無用よ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You don't need to be worried.",
+      "status": "machine_translated"
     },
     "syaro_d03.txt#*sel_0103": {
       "original": "（ここはココアに合わせて……）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I should play along with her...)",
+      "status": "machine_translated"
     },
     "syaro_d04.txt#*sel_0101": {
       "original": "チノちゃんならできるわ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "If anyone can do it, it's Chino-chan.",
+      "status": "machine_translated"
     },
     "syaro_d04.txt#*sel_0102": {
       "original": "あくまでパフォーマンスよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It's just a performance.",
+      "status": "machine_translated"
     },
     "syaro_d04.txt#*sel_0103": {
       "original": "ごめんね、こんな仕事で。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Sorry to make you do this sort of job.",
+      "status": "machine_translated"
     },
     "syaro_d05.txt#*sel_0101": {
       "original": "それってもしかして……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let me guess...",
+      "status": "machine_translated"
     },
     "syaro_d05.txt#*sel_0102": {
       "original": "フルールで働きたかったの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "So you wanted to work here at Fleur?",
+      "status": "machine_translated"
     },
     "syaro_d05.txt#*sel_0103": {
       "original": "ハーブに興味があったの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "So you're interested in herbs?",
+      "status": "machine_translated"
     },
     "test.ks#": {
       "original": "シャロ",
@@ -6740,293 +6740,293 @@
     },
     "tutorial_01.txt#*tutorial": {
       "original": "チュートリアルを見る",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "View the tutorial",
+      "status": "machine_translated"
     },
     "tutorial_01.txt#*tutorial_skip": {
       "original": "チュートリアルを見ない",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Ignore the tutorial",
+      "status": "machine_translated"
     },
     "tutorial_02.txt#*tutorial": {
       "original": "チュートリアルを見る",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "View the tutorial",
+      "status": "machine_translated"
     },
     "tutorial_02.txt#*tutorial_skip": {
       "original": "チュートリアルを見ない",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Ignore the tutorial",
+      "status": "machine_translated"
     },
     "visit_aoyama_01.txt#*sel_0101": {
       "original": "心機一転、ホラーを書いてみたらどうですか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Do a 180 and try writing horror?",
+      "status": "machine_translated"
     },
     "visit_aoyama_01.txt#*sel_0102": {
       "original": "爽快なアクションなんてどうですか？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "How about some lighthearted action?",
+      "status": "machine_translated"
     },
     "visit_aoyama_01.txt#*sel_0103": {
       "original": "ラブストーリーとかいいかもしれませんよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A love story might be nice?",
+      "status": "machine_translated"
     },
     "visit_aoyama_02.txt#*sel_0101": {
       "original": "二つ名とか、なんかプロっぽい！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "An alias, that sure sounds professional!",
+      "status": "machine_translated"
     },
     "visit_aoyama_02.txt#*sel_0102": {
       "original": "私も自分で考えてみようかな。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I'll try thinking up something.",
+      "status": "machine_translated"
     },
     "visit_aoyama_02.txt#*sel_0103": {
       "original": "二つ名は考えるものじゃないですよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You shouldn't think about it.",
+      "status": "machine_translated"
     },
     "visit_aoyama_03.txt#*sel_0101": {
       "original": "よく見てますね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Astute observation!",
+      "status": "machine_translated"
     },
     "visit_aoyama_03.txt#*sel_0102": {
       "original": "まるで監視員みたいですね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You're like a lifeguard!",
+      "status": "machine_translated"
     },
     "visit_aoyama_03.txt#*sel_0103": {
       "original": "見ているだけじゃだめですよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You shouldn't just stop at observation!",
+      "status": "machine_translated"
     },
     "visit_chino_01.txt#*sel_0101": {
       "original": "トマトジュースで！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Tomato juice!",
+      "status": "machine_translated"
     },
     "visit_chino_01.txt#*sel_0102": {
       "original": "栗きんとんが食べたいです！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I want some kuri kinton!",
+      "status": "machine_translated"
     },
     "visit_chino_01.txt#*sel_0103": {
       "original": "なんでもいいです。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I don’t care.",
+      "status": "machine_translated"
     },
     "visit_chino_02.txt#*sel_0101": {
       "original": "爽やかな酸味のあるコーヒーだよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A refreshing, acidic coffee.",
+      "status": "machine_translated"
     },
     "visit_chino_02.txt#*sel_0102": {
       "original": "気品ある香りのコーヒーかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Coffee with an elegant scent?",
+      "status": "machine_translated"
     },
     "visit_chino_02.txt#*sel_0103": {
       "original": "愛のこもったココアブレンド！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "The Cocoa Blend, brewed with love!",
+      "status": "machine_translated"
     },
     "visit_chino_03.txt#*sel_0101": {
       "original": "うーん、子猫かな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Hm. Maybe a kitten?",
+      "status": "machine_translated"
     },
     "visit_chino_03.txt#*sel_0102": {
       "original": "クマかな？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A bear?",
+      "status": "machine_translated"
     },
     "visit_chino_03.txt#*sel_0103": {
       "original": "やっぱり、うさぎだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A baby bunny!",
+      "status": "machine_translated"
     },
     "visit_chiya_01.txt#*sel_0101": {
       "original": "うん、多分カラスだよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Yeah, it's probably just a crow.",
+      "status": "machine_translated"
     },
     "visit_chiya_01.txt#*sel_0102": {
       "original": "違うよ、ラブアドベンチャーだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "No! It's a love adventure!",
+      "status": "machine_translated"
     },
     "visit_chiya_01.txt#*sel_0103": {
       "original": "これは……自分磨きの旅に出たんだ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "He's on a journey of self improvement!",
+      "status": "machine_translated"
     },
     "visit_chiya_02.txt#*sel_0101": {
       "original": "も、もちろんやるよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "O-Of course I'll do it!",
+      "status": "machine_translated"
     },
     "visit_chiya_02.txt#*sel_0102": {
       "original": "ごめんなさい……！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I take it back!",
+      "status": "machine_translated"
     },
     "visit_chiya_02.txt#*sel_0103": {
       "original": "２人ともひどいよ～！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "You two are terrible!",
+      "status": "machine_translated"
     },
     "visit_chiya_03.txt#*sel_0101": {
       "original": "第２形態のティッピーだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It's Tippy's second form!",
+      "status": "machine_translated"
     },
     "visit_chiya_03.txt#*sel_0102": {
       "original": "新種の羽うさぎだよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "A new species of pegasus rabbit!",
+      "status": "machine_translated"
     },
     "visit_chiya_03.txt#*sel_0103": {
       "original": "人工生命体だよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "An artificial lifeform!",
+      "status": "machine_translated"
     },
     "visit_mame_01.txt#*sel_0101": {
       "original": "本当にごめんね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’m really sorry.",
+      "status": "machine_translated"
     },
     "visit_mame_01.txt#*sel_0102": {
       "original": "つい言っちゃったんだ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "That was an accident.",
+      "status": "machine_translated"
     },
     "visit_mame_01.txt#*sel_0103": {
       "original": "そんなこと言うと、もう教えてあげないよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Then I won’t give you the answer at all.",
+      "status": "machine_translated"
     },
     "visit_mame_02.txt#*sel_0101": {
       "original": "よろしくてよ？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Nice to meet you.",
+      "status": "machine_translated"
     },
     "visit_mame_02.txt#*sel_0102": {
       "original": "おーっほっほっほっほ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "OH HO HO HO HO!",
+      "status": "machine_translated"
     },
     "visit_mame_02.txt#*sel_0103": {
       "original": "ごきげんよう",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Salutations.",
+      "status": "machine_translated"
     },
     "visit_mame_03.txt#*sel_0101": {
       "original": "じ、実は私、詩が得意なの！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I-I’m good at poetry too, actually!",
+      "status": "machine_translated"
     },
     "visit_mame_03.txt#*sel_0102": {
       "original": "千夜ちゃんにはかなわないよ……。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I don’t stand a chance...",
+      "status": "machine_translated"
     },
     "visit_mame_03.txt#*sel_0103": {
       "original": "私も参加する！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I wanna do this too!",
+      "status": "machine_translated"
     },
     "visit_rize_01.txt#*sel_0101": {
       "original": "年上の色気があるね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She’s seductive!",
+      "status": "machine_translated"
     },
     "visit_rize_01.txt#*sel_0102": {
       "original": "軍人らしくてかっこいいよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She’s cool, like a soldier!",
+      "status": "machine_translated"
     },
     "visit_rize_01.txt#*sel_0103": {
       "original": "すごくかわいいよね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She’s extremely cute!",
+      "status": "machine_translated"
     },
     "visit_rize_02.txt#*sel_0101": {
       "original": "特別レッスンってどんなことするの？",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "What are your special lessons?",
+      "status": "machine_translated"
     },
     "visit_rize_02.txt#*sel_0102": {
       "original": "（ここはそっとしておこう！）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I’m not getting involved!)",
+      "status": "machine_translated"
     },
     "visit_rize_02.txt#*sel_0103": {
       "original": "間違いなく効果があるよね。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I’m positive you’ll see results!",
+      "status": "machine_translated"
     },
     "visit_rize_03.txt#*sel_0101": {
       "original": "うん、すごく似合ってた。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Yep, suits you perfectly!",
+      "status": "machine_translated"
     },
     "visit_rize_03.txt#*sel_0102": {
       "original": "もう一声、欲しかったかも。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "It’s missing something...",
+      "status": "machine_translated"
     },
     "visit_rize_03.txt#*sel_0103": {
       "original": "思わずドキッとしちゃったよ！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "I think I’m in love.",
+      "status": "machine_translated"
     },
     "visit_syaro_01.txt#*sel_0101": {
       "original": "すべてを平等に愛してるんだよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She loves everyone equally!",
+      "status": "machine_translated"
     },
     "visit_syaro_01.txt#*sel_0102": {
       "original": "ワイルドで格好いい子が好みだね！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She wants one that’s cool and wild!",
+      "status": "machine_translated"
     },
     "visit_syaro_01.txt#*sel_0103": {
       "original": "可憐でかわいい子が好きなんだよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "She likes them cute and dainty.",
+      "status": "machine_translated"
     },
     "visit_syaro_02.txt#*sel_0101": {
       "original": "リゼちゃんの方がおいしかったよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Rize-chan’s was better.",
+      "status": "machine_translated"
     },
     "visit_syaro_02.txt#*sel_0102": {
       "original": "どっちもおいしかったよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "They were both good.",
+      "status": "machine_translated"
     },
     "visit_syaro_02.txt#*sel_0103": {
       "original": "シャロちゃんも飲んでみて！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Sharo-chan, you try it!",
+      "status": "machine_translated"
     },
     "visit_syaro_03.txt#*sel_0101": {
       "original": "コーヒーの少ないカフェ・オ・レを作るよ。",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "We’ll start with a cafe au lait.",
+      "status": "machine_translated"
     },
     "visit_syaro_03.txt#*sel_0102": {
       "original": "ブラックコーヒーから行こう！",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "Let’s go with black coffee!",
+      "status": "machine_translated"
     },
     "visit_syaro_03.txt#*sel_0103": {
       "original": "（千夜ちゃんに確認しよう）",
-      "translation": "",
-      "status": "untranslated"
+      "translation": "(I’ll ask Chiya-chan.)",
+      "status": "machine_translated"
     }
   }
 }

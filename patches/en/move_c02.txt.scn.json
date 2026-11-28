@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（お昼休みを長めにもらったし、\\n　甘兎庵まできちゃった。\\n　千夜ちゃんはお仕事中かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I have a longer break than usual today, so\\nI’ve come over to Ama Usa An. I wonder if\\nChiya-chan is working right now?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,98 +16,98 @@
         "0": {
           "speaker": "千夜",
           "original": "いらっしゃいませ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "あら、ココアちゃん。\\n制服のままどうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa-chan! You’re still in uniform?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "お昼休み中なんだ。\\n休憩を長くもらっちゃったから\\n甘兎庵で一休みしようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I got a long break today, so I thought I’d\\nspend it here at Ama Usa An.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "そうなの、来てくれて嬉しいわ。\\nさあ、こちらの席にどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I appreciate it. Please, take a seat.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うわあ、どれもおいしそう！\\n相変わらず素敵な名前のメニューだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa~ All of these sound delicious! Your\\nmenu is always packed with irresistible\\nnames.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ふふ、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. Thank you.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "でも、一見さんだとわかってもらえないの。\\n指南書はお出ししているのだけど、\\n実物を見たらびっくりした、という人もいたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, first-timers never seem to\\nunderstand. I’ve even included an explanatory\\nhandbook, but they still get surprised.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "千夜ちゃん、それはこう考えるんだよ。\\n甘兎庵には、繰り返し来ることで\\nわかってくる本当のよさがあるって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, you’re looking at this wrong. The\\ncharm of Ama Usa An is for repeat\\ncustomers, who slowly learn through trial and\\nerror.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "はっ……！\\nそうね、そうだわ！\\nさすがはココアちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ That’s right, that’s absolutely right!\\nCocoa-chan, you always know just what to\\nsay!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うーん、ラビットハウスにも\\nそういうリピーター向けの要素が必要かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I wonder if Rabbit House should\\nreplicate this element directed at repeat\\ncustomers?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "それなら、ラビットハウスさんのメニューも\\nこういうテイストにしてみたらどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, why don’t you try replicating\\nRabbit House’s menu in my style?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うん、試しに考えてみようかな。\\nじゃあまず、コーヒー全体を\\n言い表すとしたら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, let’s think about it. First of all, we’d\\nhave to express the complete feel of the\\ncoffee...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "まずは苦い、かな。\\nあとは、黒い……豆……香ばしい……\\nカフェイン……チノちゃん……ティッピー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess we start with the bitterness. And it’s\\nblack, it’s a bean, it’s kind of burnt... Caffeine,\\nChino-chan, Tippy...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ココアちゃん？\\n途中からコーヒーじゃなくて\\nラビットハウスさんの連想になってるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan? You’re getting off track, and\\nassociating the coffee with Rabbit House\\nitself.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、しまった。\\n　つい……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, whoops.)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "あ、それで１つ思いついたわ。\\n『聖なる乙女と聖獣の涙』なんて、どうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have one. How about『The Holy Maiden\\nand the Sacred Beast’s Tears』?",
+          "status": "machine_translated"
         }
       }
     },
@@ -121,18 +121,18 @@
       "choices": {
         "*sel_0101": {
           "original": "おお！　さすが千夜ちゃんだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! As amazing as always!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "……うーん、ピンとこないかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I’m not feeling it.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "魔法のアイテムみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That seems like a magic item.",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,8 +141,8 @@
         "0": {
           "speaker": "ココア",
           "original": "おお！　さすが千夜ちゃんだね！\\nその発想、私にはできないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! As amazing as always! I would never\\nhave thought of something like that!",
+          "status": "machine_translated"
         }
       }
     },
@@ -151,26 +151,26 @@
         "0": {
           "speaker": "千夜",
           "original": "ありがとう。\\nココアちゃんに褒めてもらえると、嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you. I always appreciate a compliment\\nfrom you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "……あら？　でも、これも\\nコーヒーというよりもラビットハウスさんから\\n連想する言葉になってるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. But actually, that wording was leaning\\nmore towards describing Rabbit House than\\nthe coffee.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、そっか！\\nまずはコーヒーを表す言葉からだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you’re right! We gotta start with words\\nexpressing the coffee.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ごめんなさい。\\nついココアちゃんに釣られちゃったわ。\\nラビットハウスさんらしさは、それからよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m sorry. I accidentally got dragged into your\\nway of thinking. Expressing the feel of Rabbit\\nHouse comes second.",
+          "status": "machine_translated"
         }
       }
     },
@@ -179,26 +179,26 @@
         "0": {
           "speaker": "ココア",
           "original": "……うーん、ピンとこないかも。\\nコーヒーって感じがどこにもないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I’m not feeling it. That doesn’t really\\nhave the coffee vibe to it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "んー、確かにそうね。\\nついチノちゃんとティッピーについて\\n考えちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. You’re right about that. I got derailed by\\nthinking of Chino-chan and Tippy.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、でも、それはお店の名前にできそう！\\n『ラビットハウス、聖なる乙女と聖獣の涙を添えて』\\nって感じで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but we could rename the cafe into that!\\n『Rabbit House - With a Side of The Holy\\nMaiden and the Sacred Beast’s Tears』.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ココアちゃん？\\nそれじゃ、まるで料理の名前みたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan? That’s starting to sound like the\\nname of a dish.",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,8 +207,8 @@
         "0": {
           "speaker": "ココア",
           "original": "魔法のアイテムみたい。\\nきっと、それを使うと\\n王子様にかけられた呪いが解けるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That seems like a magic item. Using it could\\nbreak an evil spell cast by a prince.",
+          "status": "machine_translated"
         }
       }
     },
@@ -217,26 +217,26 @@
         "0": {
           "speaker": "千夜",
           "original": "まあ、それじゃ私は\\n魔法の薬を売る魔女なのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness, does that make me into a witch\\nselling potions?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "魔女様～！\\nどうか、妹がデレてくれる薬をください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh mighty witch! I beseech you, that ye\\npresent to me a potion to make my little sister\\nfall in love with me!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "よろしい、ではこの\\n『甘き心の真実、その結晶』をお持ちなさい。\\n必ずや貴方の想いが伝わるでしょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Very well. Take this, the Crystallized Truth of\\nthe Tender Soul. With this, your feelings will\\nsurely be conveyed to her.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "なーんて。\\nうふふ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Or something. Hehehe.",
+          "status": "machine_translated"
         }
       }
     },
@@ -245,74 +245,74 @@
         "0": {
           "speaker": "ココア",
           "original": "う～ん……。\\n『チノちゃんが頑張って淹れたモカ』\\n『ティッピーが好きなキリマンジャロ』",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmmm. ”Chino-chan’s high effort mocha”.\\n”Tippy’s favorite kilimanjaro”.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "それだと、コーヒーではなくて\\n状況を説明しているだけね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Those aren’t exactly explaining the coffee, but\\nrather the situation.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（ううー……。\\n　やっぱり、こういうのを考えるには\\n　文系の才能がないとだめなのかなぁ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uuu. Maybe you have to be born a literary\\ngenius to be able to think this way?)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "でも、ココアちゃんが一所懸命\\nおいしさを説明しようって\\n努力しているのは伝わってくるわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, I get the impression that you’re trying\\nyour best to express the delicious flavors.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ううん！\\n私の努力じゃなくて、\\nコーヒーのおいしさが伝わらなきゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s still a failure! You’re not supposed to\\nunderstand my effort, but the delicious flavor\\nof the coffee!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ココアちゃん、本気なのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, you’re taking this quite\\nseriously.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "本気なんだけど……結果がついてこないよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am serious, but... I’m not seeing any\\nresults.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "はあ……。\\nやっぱり、ラビットハウスのメニューは\\n今のままがいいのかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ I guess Rabbit House’s current menu\\nis fine the way it is.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "よく考えてみたら、変えようとしても\\nまず最初にチノちゃんに却下されると思うし。\\nリゼちゃんも混乱を招くからって怒りそうだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come to think of it, Chino-chan will flat out\\nreject any suggestions I make. That, and\\nRize-chan will yell at me for causing chaos.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "それは、確かにそうねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That does sound quite likely.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（ラビットハウスの食器は\\n　シンプルイズベストって、\\n　前にチノちゃんが言ってたし――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan always says that simple is best\\nwhen it comes to dishes.)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（メニューも同じく、シンプルイズベストが\\n　ラビットハウス流だよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(So I’m sure the same applies to the menu.\\nSimple is best is the Rabbit House way.)",
+          "status": "machine_translated"
         }
       }
     }

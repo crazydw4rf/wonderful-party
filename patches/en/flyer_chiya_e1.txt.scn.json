@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,134 +16,134 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん、どうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, how do I look?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "似合ってる！　ものすごく似合ってるよ！\\n軍服といえばリゼちゃんって\\n感じだったけど、千夜ちゃんもいいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You look great! You look fantastic! A\\nmilitary-themed uniform makes you think of\\nRize-chan, but it looks nice on you as well.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "立ち振る舞いといい、\\nいかにも軍の偉い人って感じだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you have the movements to match!\\nYou're like a real soldier right now.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "そう？\\n実はね、今日のために、この服に相応しい\\n言葉遣いを練習してきたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? To tell you the\\ntruth, I've been practicing a\\nfew lines for this very occasion.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "んっ、んんっ！\\nじゃあ、いくわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊ahem＊ Here I go.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "何をしている、さっさと準備しろ！\\n戦場では１分の遅れが命取りになるのだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the hell are you doing! Get back to\\nwork! A wasted minute is the difference\\nbetween life and death on the battlefield!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "おおっ！　リゼちゃんみたいだ！\\n千夜ちゃん、本気だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh wow! You sound like Rize-chan!\\nI admire your acting, Chiya-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "そこっ！\\n上官に向かってちゃん付けとは何事だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unacceptable! Is that how one\\nspeaks to their superior officer!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（そっか、今は上官なんだね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, she's an officer! Of course!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "失礼しました！\\n本日の訓練は何でありますか、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How outrageous of me!\\nWhat will we be doing today, Sir?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "地獄の紙渡しだ！\\nこの紙を通行人全員に配れ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We will be handing out flyers in\\nhell! I order you to hand these\\nout to all the passing pedestrians!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "サー、イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sir, yes Sir!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "こちら、見てください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey! Look at this!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "それではだめだ！\\nもっと素早く、効率的に！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unacceptable! Be more nimble,\\nmore efficient!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "見ていろ、こう……\\nチラシを通行人の前に\\n滑り出すようにして渡すのだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Watch and learn how it’s done! You are\\nto confront the pedestrian and hand\\nout the flyer with complete confidence!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "甘兎庵をよろしくお願いします！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, come visit Ama Usa An!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "はいっ！\\nこのチラシ、受け取ってくださいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood! Please, take a flyer!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "女の子Ｃ",
           "original": "あの子たち、何やってるんだろ？\\nチラシ、もらっちゃって大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are those girls doing? There's\\nnothing weird on those flyers, is there?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "女の子Ｄ",
           "original": "チラシは普通のチラシだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think they're just\\nnormal advertisements...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "女の子Ｃ",
           "original": "でも、あまり近寄らない方がいいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Better not risk it. Let’s just avoid them.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "声が小さい！\\nもっとお腹から声を出す！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sound pathetic! Speak loudly,\\nfrom your diaphragm!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes Sir!",
+          "status": "machine_translated"
         }
       }
     }

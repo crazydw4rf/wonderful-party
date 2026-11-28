@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,176 +16,176 @@
         "0": {
           "speaker": "シャロ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "シャロちゃん？\\n大きなため息だけど、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan? That was a big sigh. \\nWhat's the matter?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "サンタ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Santa...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん、今着てるのは\\nサンタさんっぽい服だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup, we're currently wearing a Santaish \\ncostume.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "クリスマス……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Christmas...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うん、サンタさんと言えばクリスマスだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhuh, when you think Santa you think of \\nChristmas.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "はああ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "それがどうして溜息になるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why does that make you sigh so much?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "……クリスマスって、\\nあまりいい思い出がないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I don't really have many fond memories \\nof Christmas.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "え？\\nクリスマスって、楽しいものじゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Isn't Christmas nothing but fun?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ツリーを飾って、ご馳走を食べて、\\nケーキも食べて、プレゼントもらって。\\nほら、楽しいことばかりだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You get to decorate a tree, eat a feast, and a\\ncake as well, then get presents! C'mon, what's\\nnot to love about all that?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "そういう『普通の』クリスマスが\\nできれば、楽しいんでしょうけどね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure a ”normal” Christmas sure would be fun.\\nIf only...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あ、ごめん！\\n悪いこと言っちゃった……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, I'm sorry! \\nShould I not have said that?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "気にしないでいいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's whatever.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "それに、逆に考えてみたら\\nクリスマスの時期は時給がよくなるし、\\n私にとってはかき入れ時なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, on the other hand, the pay is really good\\naround Christmas time, so financially it's\\nthe best time of year for me.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "年末まで、時間を上手くやりくりすれば\\n普段よりずっとバイト代が溜まるはず。\\nきっちり予定を組まなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I spend my time carefully until New Year's,\\nI should be able save up quite a lot more than\\nnormal. I need to pack my schedule.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ねえ、シャロちゃん！\\n今年のクリスマスは一緒に楽しもうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Sharo-chan, let's have lots of fun \\ntogether this Christmas!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ココアサンタが、シャロちゃんに\\n素敵なクリスマスをプレゼントするよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-Santa is gong to give you the present of \\na wonderful Christmas!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "そう、シャロちゃんが楽しいって思えるような\\nクリスマスを。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again. I'm giving you a Christmas that you will\\nthink is fun.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "ココア……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "あ、嘘だと思ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you think I'm lying?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "ふぉっふぉっふぉ～。\\n安心せい、ココアサンタは嘘をつかぬのじゃ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ho ho ho~ \\nFear not! Cocoa-Santa shan't tell a lie~",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "あ、もちろんシャロちゃんだけじゃなくて\\nチノちゃんたちにも素敵なクリスマスを\\nプレゼントしないとね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but you're not alone! \\nI'm gonna include Chino-chan and the others \\nin my wonderful Christmas too!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "ふぉっふぉっふぉ～。\\nココアサンタは大忙しじゃの～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ho ho ho~ \\nCocoa-Santa has much to do~",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "ふふっ！\\nあんたって子は……。\\nまあ、期待しないで待ってるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Haha! What's with you. \\nWell, I'll be waiting with low expectations.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "あ、シャロちゃん、笑った！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Sharo-chan! \\nYou finally laughed!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "わ、笑ってないわ！\\nほら、喋ってたら時間が過ぎちゃった。\\n急いでチラシを配るわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I didn't laugh at all!\\nC'mon, we're just wasting our time talking like\\nthis. Hurry and get back to work.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaaay.",
+          "status": "machine_translated"
         }
       }
     }

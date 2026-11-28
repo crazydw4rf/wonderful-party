@@ -6,254 +6,254 @@
         "0": {
           "speaker": "千夜",
           "original": "ふう……。\\nやっと……着いたわね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ We're... finally... here...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "大丈夫、千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, are you going to make it?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ごめんなさい。\\nついテンションが上がってしまって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm so sorry. I got a little carried away...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "じゃあ、レシピを見る前に休憩かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shall we take a breather before we \\ncontinue with the recipes?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "あ、そうだわ。\\nレシピの前に、私、少しだけお店の方に\\n顔を出さなくちゃいけないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. Before we worry about the recipes, \\nthere's some stuff I need to do in our cafe.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "申し訳ないのだけど、\\n私の部屋で先にレシピを見ていてくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hate to do this to you, but can you wait in \\nmy room and read the recipes while I do this?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うん、わかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, sure.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "本当にごめんなさい。\\nバイトをお休みさせてるのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm really sorry. \\nAnd I made you miss your shift for this.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ううん、気にしないで。\\n千夜ちゃんは甘兎庵の跡取りなんだしね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop apologizing already. You're the heir \\nto Ama Usa An. Go do what you have to do.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ありがとう、ココアちゃん。\\n私もなるべく早く終わらせるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-chan. \\nI'll try to finish as soon as I can.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "それじゃ、レシピを用意して……\\nついでにちょっとお部屋を片付けてくるから、\\n少しここで待っててくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, wait here for one moment as I get some \\nrecipe books and tidy up my room a little.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うん、いってらっしゃーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. I'm not going anywhere.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃん、本当に忙しいんだね。\\n　しっかり手伝ってあげなくちゃ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan has a lot on her plate. \\nI need to do anything I can for her.)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……あら？　ココアじゃない。\\n甘兎の前で何してるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa? What are you doing here at Ama Usa?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あ、シャロちゃん！\\nおかえりなさーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Sharo-chan! Welcome home!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "実はね、私、千夜ちゃんの\\nクリスマスパーティー準備のお手伝いを\\nすることになったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, I'm here to help prepare \\nChiya-chan's Christmas party.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "それで、今から一緒にパーティーの\\nスペシャルメニューを考えるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And right now we're going to concoct \\nthe party's special festive menu.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "へえ、そうなの。\\nそれで、肝心の千夜はどうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, is that so? \\nAnd where is this mastermind Chiya at now?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "部屋を片付けてくるから、ここで待っててって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She told me to wait here while she cleans \\nher room and deletes her browser history.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "ふーん。\\nでもまあ、ココアが手伝ってくれるなら\\n私も安心だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Well, I feel better about this now \\nthat I know you're assisting her.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "え？　どういうこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What do you mean?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "千夜って、悩み出すと止まらないタイプなのよ。\\n１人で抱え込んじゃったりもするし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya is the type of person to anxiety spiral. \\nOnce she accepts a burden, \\nshe'll brood over it alone indefinitely.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "あ、確かにそうかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I could see that happening.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア（Ｍ）",
           "original": "（前にも、チノちゃんのお父さんの方が\\n　上手に栗きんとんが作れるって\\n　すっごく落ち込んじゃってたし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan once got really depressed over the \\nfact that Chino-chan's father could make \\nbetter chestnut kinton than she could.)",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "だから……その……行き詰まっちゃう前に\\n千夜の相談にのってあげてほしいっていうか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So... um... I kind of want you to talk \\nto her before she digs too deep a hole.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "シャロちゃん、\\n千夜ちゃんのことを心配してたんだね。\\nさすが幼なじみだぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You care about her, don't you, Sharo-chan? \\nThat's what I like to see \\nfrom her childhood friend.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "か、勝手に妄想を膨らませないでよ！\\n別に深い意味はないの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Don't let your imagination get the best \\nof you! There's no deeper meaning to this!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "大丈夫！\\n千夜ちゃんには黙っておいてあげるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't you worry! \\nThis can be our little secret!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "だから違うってば！　もうっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I said don't get the wrong idea! Darn you!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "ねえねえ、よかったらシャロちゃんも一緒に\\nクリスマスメニュー、考えない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, why don't you join us in formulating \\nthe upcoming Christmas menu?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "んー、それはお節介すぎると思うし、\\nそれに私、これからバイトなのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. I don't want to stick my nose \\ninto your business. And I have to get to work.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、そっか。\\n　この時期は時給がいいって前に言ってたっけ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, that's right. She always talks about how \\nthe pay is good this time of year.)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "クリスマスパーティーには参加できるよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will you be able to make the Christmas party?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "もちろんよ。\\nそこはちゃんと予定を空けるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No way I'd miss that. \\nI've kept a hole in my schedule for it.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "じゃあ、最高の夜にするから楽しみにしててね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect! We're going to make this the best \\nnight of your life, so look forward to it!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "ええ、期待してるわ。\\nそれじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm eagerly awaiting it. Bye.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "うん、頑張ってね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good luck!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "そっちもね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You too.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア（Ｍ）",
           "original": "（シャロちゃんも大変だね。\\n　うん、疲れたシャロちゃんが和めるような\\n　パーティーにもしなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sharo-chan is swamped with work too. \\nWe need to throw her a party \\nwhere she can decompress.)",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし、燃えてきた！\\n　みんなが大喜びするような\\n　スペシャルメニューを考え出してみせるよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Alright! That energizes me even more! \\nWe're going to produce a special holiday feast \\nthat will bring everyone to tears of joy!)",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "千夜",
           "original": "ココアちゃん、お待たせ。\\n準備ができたから入って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for the wait, Cocoa-chan. \\nI'm ready for you now. Please come inside.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "ココア",
           "original": "はーい、お邪魔します！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great! Here I come!",
+          "status": "machine_translated"
         }
       }
     }

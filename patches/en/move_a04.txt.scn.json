@@ -6,116 +6,116 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、ここは緑がいっぱいで気持ちいい。\\n　たまにはこうして癒されるのもいいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah, the greenery around here is the best. I\\nlove to come here for a moment of healing.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？\\n　あそこにいるのはもしかして……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Wait. Who’s that I see over there...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "メグちゃん、マヤちゃん。\\nこんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-chan, Maya-chan. Hello.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "あ、ココアちゃん。\\nこんにちは～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it’s Cocoa-chan. Hello~",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "こんな所で何やってんの？\\nサボり？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you doing here? Slacking off?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "サボりじゃないよ。\\nちゃんとしたお休みだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m not slacking off. I don’t have work right\\nnow.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "え？　ラビットハウス、お休みなの？\\nじゃあ、チノちゃんも誘えばよかったかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Is Rabbit House closed for the day?\\nWe should have invited Chino-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あ、お店はお休みじゃないよ。\\nお休みなのは私だけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, the cafe’s not closed. This is my own\\ntime off.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "へー、チノが一所懸命働いてる時に\\nココアはこうして遊んでるのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So what you’re saying is that you’re out\\nmessing around while Chino is slaving away\\nat work.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "休むのだって立派な仕事だよ！\\nしっかり働いてしっかり休む、\\nメリハリをつけるのが大事なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Taking a break is a necessary component of\\none’s job! It’s vitally important to strike a\\nbalance between work and play.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "おお、ココアが大人みたいなこと言ってる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh wow, Cocoa said something that sounded\\nmature for once!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "すごーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Amaaazing!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ふふーん、このくらい当然だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmph, that was nothing!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "じゃあ、マヤちゃん。\\n大人なココアちゃんに\\nこれから何をするか決めてもらおうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Maya-chan, let’s have this mature\\nCocoa-chan decide what we should do.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "そうだなー、なかなか決まらなかったし\\nいいんじゃね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea! We were going nowhere on our\\nown. Let’s go with that.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "え？　決めるって何を？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Decide on what?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "何して遊ぶかってこと。\\nちょうどいいし、ココアも一緒に遊ばね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What sort of game we should play. You’re\\nwelcome to join us, Cocoa.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "うん、いいよ。\\nじゃあ、何をしようか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, count me in. Alright, what shall we do...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここでつまらない遊びを選んだら\\n　がっかりさせちゃう。\\n　しっかり考えないと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’m sure they’ll be disappointed in me if I\\ndecide on something boring. Choose wisely!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,18 +129,18 @@
       "choices": {
         "*sel_0101": {
           "original": "人間観察をしよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s conduct some human surveillance!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "ひなたぼっこはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How about we bask in the sun?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "かくれんぼしよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s go for a round of hide and seek.",
+          "status": "machine_translated"
         }
       }
     },
@@ -149,86 +149,86 @@
         "0": {
           "speaker": "ココア",
           "original": "人間観察をしよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s conduct some human surveillance!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "にんげんかんさつ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Human surv-something?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "この公園に来ている人たちを観察するんだよ。\\n一体どんな人なのかを想像したりして――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ll watch the people who enter the park.\\nWe must envision just what kind of individual\\nvisits these parts--",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そう、人を知ることこそが、\\n世間を、世界を知ることなんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, knowing man means knowing\\nsociety, no, knowing the whole world!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（うん、これなら大人っぽいよね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That sounds like something a mature person\\nwould say!)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊crickets＊",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊crickets＊",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？\\n　もしかして……だめだった！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Uh oh. Maybe not?)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "そんなの思いつきもしなかった！\\nココアちゃん、大人っぽ～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I never thought of it that way! Cocoa-chan,\\nyou really are mature after all!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "ココアのこと、ちょっと見直したかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess I misjudged you before, Cocoa.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ふふーん、もっと見直してくれていいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmph! Feel free to form an even higher\\nopinion of me!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（……ん？　あれ？\\n　見直したってことは、元の評価は？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Hang on a second. What did she think of\\nme before?)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "メグ",
           "original": "でも、私たちはまだ子どもだから、\\nあまりうまくできないかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, we’re still just kids, so I’m not sure\\nhow far we’ll be able to go with that.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "マヤ",
           "original": "だなぁ。\\nあんまり楽しそうにも思えないし、\\n大人になったら再チャレンジしてみるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah... That doesn’t sound very fun to me.\\nWe’ll come back to that once we’re grown\\nups.",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,56 +237,56 @@
         "0": {
           "speaker": "ココア",
           "original": "ひなたぼっこはどうかな？\\nゆっくり体を休めるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How about we bask in the sun? We’ll lay\\nback and let our bodies relax.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "いいかも～。\\n今日はお天気もいいし、\\nひなたぼっこにいい日だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like that idea. It’s nice and sunny today, the\\nperfect time for some sun basking.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "メグはそういうの好きだよな。\\n私も嫌いじゃないけど、\\n退屈で死にそうになっちゃうんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sounds like something Megu would be\\ninto. I guess I don’t hate the idea, but at the\\nsame time I’ll probably die of boredom.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "だったら、ひなたぼっこしながら\\nＣＱＣの訓練とか、どう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, let’s do some CQC training\\nwhile sunbathing!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "ひなたぼっこしながら！？\\nどうやるのさ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How in the world are we going to do both at\\nonce!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "日の光の下でやれば、ひなたぼっこにならない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn’t everything we do under the sun\\ntechnically sunbathing?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "それって普通に訓練してるのと同じだよ？\\nあはは！　ココアちゃん、変なの～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s the same as any old training program!\\nAhaha, Cocoa-san, you say the funniest\\nthings.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "ホントだよな！\\nあはははっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again! Ahahaha!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（な、なぜか笑われてる！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wh-What are they laughing about?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -295,38 +295,38 @@
         "0": {
           "speaker": "ココア",
           "original": "かくれんぼしよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s go for a round of hide and seek.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "かくれんぼ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hide and seek?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あれ？　かくれんぼ、嫌い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Do you not like hide and seek?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "別に嫌いじゃないけど、\\nせっかくココアがいるんだし\\nもっと違うことがやりたかったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s not like I hate it, but since we have you\\naround, I kinda wanted to try doing something\\nelse.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "別に、無理して私たちにあわせる必要ないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don’t have to try and dumb down\\neverything for us, you know?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "そっか、ごめんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that’s what you mean. I’m sorry.",
+          "status": "machine_translated"
         }
       }
     },
@@ -335,68 +335,68 @@
         "0": {
           "speaker": "マヤ",
           "original": "はあ、でもなにしよっか？\\nチノがいたら一緒に映画に行くんだけどさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Really though, what should we do? If\\nwe had Chino with us we could all go the\\nmovies.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "そうだねぇ、チノちゃんと一緒に\\n見たい映画があるもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. There was a movie I wanted to watch\\nwith Chino-chan.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、今だけ私がチノちゃんになってあげる！\\nそしてみんなで映画に行こうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, I’ll act the part of Chino-chan for\\nyou! That way we can all go to the movies.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "ココアちゃんをチノちゃんだと思うの？\\nできるかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You want us to think of you as Chino? That\\ndoesn’t seem possible...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "じゃあココア、チノになりきって答えて？\\nココアのことどう思ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s test you. Answer this question the way\\nChino would: what do you think of Cocoa?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "『もちろん、頼れるお姉ちゃんですよ。\\n　おいしいパンも作ってくれるし、\\n　お仕事だってカンペキです』",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "”She’s my reliable big sister, of course. She\\nmakes me delicious bread, and is perfect her\\njob.”",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "『ああ、私も大きくなったら、\\n　ココアお姉ちゃんみたいな人になりたいです』",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "”Ah, how I wish I could be just like Cocoa-\\noneechan when I grow up.”",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "誰だよそれ！\\nそんなチノ、見たことねーよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who is this person! Chino would never say\\nsuch a thing!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "私が知ってるチノちゃんとも違うなぁ。\\n残念だけど、チノちゃんだとは思えないかなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was pretty far from the Chino-chan I\\nknow. Unfortunately I don’t think I can think\\nof you as Chino-chan.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "ココアはもっとチノをしっかり見ないとだめだな。\\nこのままじゃ、１００年経っても\\nチノの代わりはできないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You need to pay more attention to how Chino\\nis in reality. I doubt you could replicate Chino\\nwith even a hundred years of practice.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "はう……精進するね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hau~ I’ll try harder in the future.",
+          "status": "machine_translated"
         }
       }
     }

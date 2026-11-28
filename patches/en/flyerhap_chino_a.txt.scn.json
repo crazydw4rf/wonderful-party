@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ふっふっふ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ココアちゃん、なんだかごきげんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, you seem to be in a good mood.",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,314 +40,314 @@
         "0": {
           "speaker": "チノ",
           "original": "千夜さんにはそう見えるんですか？\\n私には、いっそ不気味ですらあるんですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that how it looks to you, Chiya-san? \\nTo me, she seems to be acting kind of creepy.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ええっ！　不気味！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! Creepy!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "変な笑い方しちゃって……どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're making that strange grin... \\nWhat are you up to now?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "実はね、すっごく目立てる方法を思いついたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see, I've come up with a brilliant \\nplan to make us stand out more.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "このアイディアを採用してチラシを配ったら、\\nみんなから大注目されて向こうからもらいにくるよ、\\nってくらいの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we implement my idea while handing out \\nflyers, we'll get lots of attention and people\\nwill come to us from all over town!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "へえ、自信満々だな。\\nさっそく聞かせてもらおうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, aren't you confident about this. \\nSpit it out already.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "それは……私たち５人でそれぞれの\\n制服を交換してみることです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My idea is... \\nWe should all try swapping our uniforms!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "それは、まあ、今までと違う服で配るわけですから、\\n目立てるかもしれませんが……どうなんでしょう？\\n服のサイズとか、難しそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, we might get some attention if we\\nsuddenly start wearing a different uniform...\\nBut will that work? We all wear different sizes.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "大丈夫。\\n私、前、チノちゃんの制服を着たことあるんだ。\\n多分、みんなも着られるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It'll be fine! I've worn your school uniform\\nbefore, Chino-chan, so I bet everyone else \\ncan too!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ああ……。\\nそういや、私も着たっけな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... Now that you mention it, \\nI think I have too.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "いいわねぇ。\\n私、シャロちゃんの学校の制服、着てみたいわ。\\nだからココアちゃんの案に賛成。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A splendid idea. I want to try wearing \\nSharo-chan's outfit, so you have my vote.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "えーっと、実は私も、\\nリゼちゃんの学校の制服が格好いいから\\n１度着てみたいんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Umm, so you see... I think Rize-chan's \\nschool uniform is super cool, and I've always \\nwanted to try wearing it just once...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "本音はそこか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what you were after!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "さすがココアちゃん。\\n私たち、気が合うわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's my Cocoa-chan. \\nWe always see eye-to-eye.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "親友だもんねー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're best friends, aren't we~",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ねー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aren't we~",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "はあ……。\\nまあ、私も構いませんけど\\nリゼ先輩はどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sigh... Well, I don't really mind, but what \\ndo you think, Rize-senpai?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "別にいいよ、反対する理由もないしな。\\nチノもいいか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with it. I can't think of any reason \\nto object. I take it you're for it too, \\nChino?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "はい。\\nでは、いったん着替えに戻りましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes. Now then, let's return for a moment \\nto change.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "やったぁ！\\nもう、絶対にみんなかわいくなると思うよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! I'm positive this will make us \\nall incredibly cute!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "へー、この制服、ここのところって\\nこうなってたんだね～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so this is what you've been wearing \\nlately!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ちょっと、ココア。\\nはしゃぎすぎて転んだりしないでよ？\\n汚れたら大変なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Slow down, Cocoa. Don't get too excited and \\nfall in the mud or something. I'm in big \\ntrouble if you get a stain in that.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "はーい！\\nうん、ブレザーもやっぱりいいな～。\\nシャロちゃんもチノちゃんの制服、似合ってるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaaay. Mmm, I was right, this blazer looks \\ngood. But Sharo, you look right at home in \\nChino-chan's uniform too.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "シャロさん、苦しくないですか？\\n平気ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san, it's not too tight is it? \\nWill you be alright?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "心配いらないわ。\\n首回りが広いからかしら、\\n思ったほど窮屈じゃないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to worry. Maybe it's due to the open \\ncollar, but it's not as tight as you'd \\nexpect.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "チノちゃんはココアの制服を借りたのよね。\\n着心地はどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, that must be Cocoa's uniform. \\nWell, how's it feel?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "あっ、はい。\\nその……大丈夫です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's right. Um... It feels fine.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "ちょっとだけ、\\nお姉さんになったような気がします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I get the feeling that I've become a \\nlittle bit like a big sister.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "あの、ココアさん。\\n私の格好、おかしくないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, Cocoa-san. \\nDoes this make me look weird?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "おかしくないよ。\\nこのまま学校に行っても\\n気づかれないかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You look fine! You could go off to school \\nand nobody would even notice.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "そうですか？\\nさすがに、それはないと思いますけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? \\nWell, I doubt the second part...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "ううん、ありだよ。\\nすごくしっくりくるから\\n私よりも学校になじんじゃったりして！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This gets the chef's kiss from me. You look \\nso dependable in that, you almost look more \\nused to my school than I do!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "つまり、私はココアさんより\\n大人なんだってことですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In other words, I'm more mature than you are, \\nCocoa-san.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "ええっ！？\\nわ、私の方が大人だよ、\\nだってお姉ちゃんだもん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? I-I'm more mature, \\nI'm your big sister after all!",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "リゼ",
           "original": "うん、悪くない。\\nセーラー服もなかなか着心地がいいんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mmm, this isn't so bad. \\nA sailor suit has a great feel to it too.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "リゼちゃん、よく似合ってるわ。\\nとってもかわいい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, that suits you well. \\nYou're absolutely adorable.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "か、かわいい……かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Adorable... \\nAm I?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "リゼちゃんはスタイルがいいから\\n何でも着こなせちゃうのね。\\n羨ましいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, with that incredible body of yours,\\nI'm sure you could make any outfit look good.\\nI'm so jealous.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "おいおい、褒めても何も出ないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, stop. \\nFlattery will get you nowhere.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "シャロちゃんも、昔を思い出すわね。\\n中学生の頃を。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, that outfit reminds me of \\nwhen you were in middle school. \\nA walk down memory lane.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと！\\nリゼ先輩の前で昔の話はやめてよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cut it out! Don't talk about any of that \\nin front of Rize-senpai!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "千夜",
           "original": "ふふふ！\\nじゃあ、おしゃべりはこのくらいにして\\nチラシを配りに行きましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe! Alright then, let's stop there and \\nget back to handing out flyers.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright!",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ココア",
           "original": "すごい！\\nチノちゃん、あっという間に\\n配り終わっちゃったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! Chino-chan, our flyers were gone in \\nthe blink of an eye!",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア",
           "original": "今日は、堂々として\\n凛々しいチノちゃんを見られて新鮮な気分だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was refreshing to see you acting all \\nproud and gallant for once today, Chino-chan.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "チノ",
           "original": "それは褒めすぎでは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're exaggerating...",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "ココア",
           "original": "照れることないよ！\\n最初に配り終わっちゃったんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to get all bashful! You were the \\nfirst to finish off your flyers after all.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "ココア",
           "original": "でも、どうして今日はこんなに絶好調だったの？\\n何かいいことあったとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you haven't explained why you were in \\nsuch a good mood today. Did something nice \\nhappen to you?",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "チノ",
           "original": "いえ、特には……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, nothing in particular...",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "チノ",
           "original": "でも、もしかしたら……\\nこの服から、安心する匂いがするからかも\\nしれません……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, just maybe... \\nThe smell of these clothes makes me feel at\\nhome...",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "ココア",
           "original": "え？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Did you say something?",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "チノ",
           "original": "い、いえ！\\n何も言ってませんから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No I didn't! \\nI didn't say anything!",
+          "status": "machine_translated"
         }
       }
     }

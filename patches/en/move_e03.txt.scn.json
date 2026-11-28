@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日はハーブティでリラックスして、\\n　日頃の疲れを取っちゃおっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I’m going to wash away all my fatigue\\nby relaxing with some herbal tea.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,14 +16,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（シャロちゃんと楽しく\\n　おしゃべりできるかもしれないしね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hopefully I can enjoy some chit-chat with\\nSharo-chan while I’m here.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？\\n　シャロちゃん、いない？　今日はお休みかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait a minute. I don’t see Sharo-chan\\nanywhere. Does she have today off?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -32,152 +32,152 @@
         "0": {
           "speaker": "マヤ",
           "original": "あっれぇ？　ココアじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look! There’s Cocoa!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "ココアちゃん、こんにちは～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, hello~",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "マヤちゃん、メグちゃん！\\n今日はここでお茶してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan, Megu-chan! Are you out for tea\\ntoday?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "ふふーん、ただのお茶じゃないぞ？\\nノマドだよ、ノ・マ・ド！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh, that’s not all. We’re being nomads!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ノマド？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nomads?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "こうやって、自分の家以外で\\nお仕事とかお勉強することを、\\nノマドって言うんだって～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So apparently, doing your work or studies\\nsomeplace other than your own home is\\ncalled being a nomad.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "へえ～、なんだか大人っぽいね！\\n２人とも、やるなぁ。\\nけど、どうしてわざわざノマドしてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, that sounds rather sophisticated! You\\ntwo know your stuff! So, why go to the\\ntrouble of doing this nomad thing?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "宿題がいっぱい出ちゃったから、\\n集中して終わらせちゃおうと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We got hit with a whole lot of homework, so\\nwe decided to sit down and get through it all\\nat once.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そうなんだ、でも宿題なら\\nラビットハウスでやったらどうかな？\\nチノちゃんも同じ宿題が出てるんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if you’re doing all that, why not do it over\\nat Rabbit House? Chino-chan has the same\\nhomework assignments after all.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "そうなんだけど……ラビットハウスはちょっとさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not wrong, but... Rabbit House is, you\\nknow...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ええ～！？\\nマヤちゃん、もしかしてラビットハウスが嫌い！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Maya-chan, you have a problem with\\nRabbit House!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "マヤ",
           "original": "嫌いじゃないけど、\\nラビットハウスにはチノがいるじゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t have a problem with Rabbit House, but\\nChino’s over there, right?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "まさか……\\n２人、チノちゃんとケンカしてるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t believe it... You two are having a fight\\nwith Chino-chan!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "そんなのだめ！\\nケンカしたっていいことないよ。\\nお願いだから仲直りして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won’t tolerate that! Fights are never a good\\nthing! I’m begging you, please make up!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "違う違う！\\nケンカなんかしてないって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s not it at all! There is no fight or\\nanything.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "ただ、チノちゃんのお仕事の邪魔を\\nしたくないだけだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The thing is, we don’t want to disturb her in\\nher work.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "え？　きっと、２人なら\\n勉強してても邪魔になんかならないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? I don’t see how doing your homework\\nwould count as a disturbance.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "いや、だってさ、チノの仕事中に\\nその側で私たちが宿題やるのって、\\nやっぱり……なあ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, we’d be doing our homework right in\\nfront of Chino while she works. You know\\nwhat I mean?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "メグ",
           "original": "あとね、こうやって私たちが先にやっておけば\\n教えてあげることもできるかなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, if we finish our studies early,\\nwe might be able to teach it to her later on.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "２人とも友達想いだ……！\\nお姉ちゃん、感動して涙が出てくるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You two are so thoughtful of your friends!\\nYour big sister is so moved she could cry!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "って、泣いてる場合じゃないね。\\nそういうことなら私にも一肌脱がせて？\\nわからないところ、教えてあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But this is no time for tears! Do you mind\\nletting me help out? I’ll teach you anything\\nyou’re stuck on.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "メグ",
           "original": "ホント？\\nじゃあ、教えてもらっちゃおうっと。\\nえーっとね、宿題は社会なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? Sure, we’ll take you up on your\\noffer. Let me see, the homework is for social\\nstudies.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（え？　社会は……まあまあ、かな？\\n　国語とか古典じゃなくてよかった……かも？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uh-oh. My social studies are... subpar? But\\nperhaps I’m lucky that it’s not Japanese or\\nClassics, I guess?)",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "メグ",
           "original": "あのね、ここで詰まってるの。\\nココアちゃん、答えわかる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, we’re stuck on this part. Cocoa-\\nchan, do you know the answer?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア（Ｍ）",
           "original": "（……ううう、これ……わかんない！\\n　ど、どうしよう！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Uuuu. I, I have no idea! Wh-What do I\\ndo?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -191,18 +191,18 @@
       "choices": {
         "*sel_0101": {
           "original": "も、もちろんわかるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Of course I know this one!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "ごめんね、わかんない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m sorry, I don’t know.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "わかるような、わからないような？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I know it? Or maybe not?",
+          "status": "machine_translated"
         }
       }
     },
@@ -211,56 +211,56 @@
         "0": {
           "speaker": "ココア",
           "original": "も、もちろんわかるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Of course I know this one!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "ん～？　本当か～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Do you really?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "ねえココアちゃん、答えは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So Cocoa-chan, that’s the answer?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "……教えられません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That, I mustn’t share with you.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ええ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ほ、ほら、社会は暗記科目だからね？\\n私が教えても意味ないの。\\n自分で調べて覚えないとだめだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You know, social studies is supposed to\\ntest your memory. There’s no point in giving\\nyou the answer. Remember it yourself.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "ああ、そっか。\\nうん、わかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, is that so. Okay, I understand.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "んなこと言って、\\n本当はわからないだけじゃないのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah right, the truth is that you just don’t\\nknow the answer, isn’t it?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そそそ、そそそそそ、そんなことないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No-no-no, nonononono, that’s not it at all!",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,50 +269,50 @@
         "0": {
           "speaker": "ココア",
           "original": "ごめんね、わかんない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m sorry, I don’t know.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "えー？\\n正直だなぁ、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Well at least you’re honest, Cocoa.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "ココアちゃんも社会苦手なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Social studies never was your strongest\\nsubject.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "社会っていうか、文系がちょっと苦手で……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s not just social studies, I’m not so great at\\nany social science...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "それじゃ、教えてもらえないね。\\nどうしよう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which means you can’t give us the answer.\\nNow what do we do?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、でもね、苦手だからこそ\\n勉強方法は知ってるんだ。\\nそれを教えるのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, actually, since I’m no good at this\\nnaturally, I ended up learning a trick for\\nstudying it. How about I teach you that\\ninstead?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "あ、教えてほしいかも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I kinda want to hear about that!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "そうだな、やり方を教わって\\n自分たちで頑張ってみるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Same here. If you teach us the method, we\\ncan apply it on our own.",
+          "status": "machine_translated"
         }
       }
     },
@@ -321,38 +321,38 @@
         "0": {
           "speaker": "ココア",
           "original": "わかるような、わからないような？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I know it? Or maybe not?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "え？　どっち？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? You do or you don’t?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ちょっと教科書、借りるね。\\nえーっとね、答えは覚えてないんだけど\\n確かこのあたりに書いてあったような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Give me your textbook for a second. Let’s\\nsee, I don’t remember the answer, but I think\\nit was written down around here...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "あ、あった！\\nこれだろ、答え。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that’s it! There’s your answer.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ココアちゃん、すごーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, that was amazing!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えへヘ、私も同じところでつまずいてたからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ I had trouble with that one before.",
+          "status": "machine_translated"
         }
       }
     },
@@ -361,20 +361,20 @@
         "0": {
           "speaker": "メグ",
           "original": "よーし、じゃあ\\n頑張って進めちゃおう、マヤちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then! Let’s roll up our sleeves and get\\nto work, Maya-chan.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "おう！\\nココアも、もうちょっと付き合ってくれるか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Cocoa, you want to help us out some\\nmore?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "もちろんだよ！\\n頑張って、２人とも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course! Show me your best, both of you!",
+          "status": "machine_translated"
         }
       }
     }

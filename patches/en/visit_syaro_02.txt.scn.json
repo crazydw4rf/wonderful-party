@@ -6,176 +6,176 @@
         "0": {
           "speaker": "シャロ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "いらっしゃいませ、シャロちゃん。\\nこちらのお席にどうぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome to Rabbit House, Sharo-chan.\\nHave a seat!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ありがと。\\n……リゼ先輩は何をしてるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks. So, what’s Rize-senpai up to?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "コーヒー豆を挽いてるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m grinding coffee beans.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "そうなんですか。\\nあの、ちょっと見せてもらっててもいいですか？\\n気になるので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so. Excuse me, but do you mind if I\\nwatch? I’m curious.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ああ、いいぞ。\\nうちは１杯ずつ、手挽きのミルでやってるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, I don’t mind. As you can see, we grind\\neach cup of beans with a manual grinder.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ふうん、機械じゃなくて\\n手でハンドルを回して挽くんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So you operate this grinder by hand,\\nrather than use an electric machine.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ティッピー",
           "original": "そう、こうして手で挽くことで、\\nより深いコーヒーの旨味を\\n引き出すことができるのじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. You have to use elbow grease in\\norder to bring out the very best of the coffee’s\\nflavors.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "チノちゃんが熟年の職人みたいなことを\\n言い始めたよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan sounds like she’s been doing this\\nprofessionally for years!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "まあ、機械でも\\nおいしいコーヒーはできると思うけど、\\nそれだと少し味気ない気はするよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I’m not convinced the electric grinder\\ncauses any drop in flavor, but this way has\\nmore soul to it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "わかります！\\n手をかけた分だけ愛着が湧きますよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I totally get what you mean! Creating each\\ncup by hand makes you attached to it!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "それに、こうして豆を挽くと、いい香りが\\n辺りに広がって……とても贅沢な時間を\\n過ごしているって感じられるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, it fills the room with the smell\\nof coffee grounds. It really feels luxurious.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "素敵ですね……！\\nあ、あの、リゼ先輩、\\n私もやってみていいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wonderful! Oh, um, Rize-senpai? Do you\\nmind if I give it a try?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "ああ、構わないぞ。\\nいいよな、チノ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, that won’t hurt anything. Right,\\nChino?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "はい、構いません。\\nシャロさんがコーヒーに\\n興味を持ってくださって嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not at all. I’m glad you’ve taken an\\ninterest in our coffee, Sharo-san.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "それじゃ、さっそく……。\\nんしょ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, here I go... Hnn...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "そうそう、上手だぞ。\\nそのままゆっくりハンドルを回すんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you go, you’re doing well. Keep turning\\nthe handle at the same rate.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "これ、結構、力がいるんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This sure takes a lot of force to do...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "慣れるまでは力のかけ方が難しいよな。\\nほら、手伝ってやるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s an awkward motion at first before you get\\nused to it. Here, let me give you a hand.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "あっ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "リリリ、リゼ先輩が私に密着して……！\\n後ろから抱きかかえられてるみたいに！\\nやだ、どうしよう！　こ、心の準備が～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ri-Ri-Ri-Rize-senpai is pressed right up\\nagainst me! It’s like she’s embracing me from\\nbehind! Goodness me, I wasn’t ready!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "こんな風にして……\\nそうそう、うん、いい感じに挽けたな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just like this... Nice, well done. That came\\nout fine.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "ほ、本当ですか？\\nありがとうございますっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "R-Really!? Thank you for your help!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "あ、そうだ、せっかくだし、\\n私がやったのとシャロが挽いたのを\\n飲み比べてみないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I’ve got an idea. How about we compare\\nthe flavors of the coffee you and I have\\nground?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "はいはーい！\\nコーヒーの味の批評なら\\n神の舌を持つ私に任せてよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up! It would be wise to let me, with my\\ndivine tongue, do the flavor assessment!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "おい、いつからそんな設定がついたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. Are we all doing this now?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "では、淹れるのは私がやります。\\nちょっと待っていてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Allow me to brew these coffee grounds of\\nyours. Please wait patiently.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "どうだった、ココア。\\n味の違い、わかったんだろうな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What’s the verdict, Cocoa? Could you notice\\na difference between the two?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "もちろんだよ。\\n結果は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course I could! The result is...",
+          "status": "machine_translated"
         }
       }
     },
@@ -183,24 +183,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "もちろんだよ。\\n結果は――",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Of course I could! The result is...",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "リゼちゃんの方がおいしかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan’s was better.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "どっちもおいしかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They were both good.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "シャロちゃんも飲んでみて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you try it!",
+          "status": "machine_translated"
         }
       }
     },
@@ -209,8 +209,8 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃんの方がおいしかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan’s was better.",
+          "status": "machine_translated"
         }
       }
     },
@@ -219,32 +219,32 @@
         "0": {
           "speaker": "シャロ",
           "original": "それは当然よ。\\nかじった程度の私がリゼ先輩に敵うわけないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Obviously. A total novice like me doesn’t hold\\na candle to Rize-senpai.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "いや、あくまでココアの意見だからな。\\n私はおいしいと思うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, you shouldn’t take Cocoa’s opinion\\nseriously. I think yours was just fine.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "あ……いいんです、気にしてませんから。\\nでも、お気遣いありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, there’s no need to say all that.\\nThough I appreciate the kind words.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あの、リゼ先輩、ありがとうございます。\\nコーヒーは飲めないけど、いい経験になりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Rize-senpai, allow me to thank you. I\\nhad a great time, even though I can’t drink\\nany of the coffee myself.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "先輩に、手取り足取り\\n指導してもらっちゃったし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I got to have Senpai guide me through\\nevery step of the way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -253,8 +253,8 @@
         "0": {
           "speaker": "ココア",
           "original": "どっちもおいしかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They were both good.",
+          "status": "machine_translated"
         }
       }
     },
@@ -263,50 +263,50 @@
         "0": {
           "speaker": "シャロ",
           "original": "そ、そう？\\nでも、リゼ先輩にはまだ及ばないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think? Well, I seriously doubt I’m\\nanywhere near Rize-senpai’s level.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "でも、初めてなのに手つきもなかなかだったし、\\nいつでもうちで働けるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I’m impressed with how you handled\\nyourself on your first attempt. You’re qualified\\nto start work here anytime.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "シャロさんでしたら大歓迎です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’d welcome you with open arms.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ありがと、チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Chino-chan.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "な、なんだかいい雰囲気になってる！？\\nチノちゃんは私の妹なんだからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Why are you two getting along so well all\\nof a sudden!? Chino-chan’s my little sister,\\nnot yours!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "だから、妹じゃありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For the millionth time, I’m not your sister.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "あの、リゼ先輩、ありがとうございます。\\nコーヒーは飲めないけど、いい経験になりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Rize-senpai, allow me to thank you. I\\nhad a great time, even though I can’t drink\\nany of the coffee myself.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "先輩に、手取り足取り\\n指導してもらっちゃったし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I got to have Senpai guide me through\\nevery step of the way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -315,50 +315,50 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃんも飲んでみて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you try it!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "はっ！？\\nなんで私を酔わせようとするのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? Why are you trying to get me drunk!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "でも、せっかく自分で挽いた豆なんだし\\n味わってみたいでしょ？\\nほらほら！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t give me that, I know you wanna try this\\ncoffee you helped to make. Go for it!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ティッピー",
           "original": "お前は無理やり飲ませたがるオヤジか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Trying to force her to drink? Who do you\\nthink you are, an old geezer?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "これからココアさんのことは\\nお姉ちゃんではなくてオヤジさんと呼びましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instead of big sister, I think I’ll call her by “old\\ngeezer” from now on.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ええええ！？\\nそれは勘弁してー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!! Please, anything but that!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "あの、リゼ先輩、ありがとうございます。\\nコーヒーは飲めないけど、いい経験になりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Rize-senpai, allow me to thank you. I\\nhad a great time, even though I can’t drink\\nany of the coffee myself.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "先輩に、手取り足取り\\n指導してもらっちゃったし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I got to have Senpai guide me through\\nevery step of the way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -367,20 +367,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "じゃあ、今度、人が足りなくなったら\\nシャロを助っ人に呼ぶか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then, if you don’t mind, we’ll call on you to\\nhelp out whenever we’re shorthanded.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "はい、きっとココアさんよりも\\nいい働きをしてくれると思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea. I’m certain you’ll be a better\\nworker for us than Cocoa.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ええーっ！？\\nもしかして私、リストラの危機！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh noooo! Does this mean I’m getting laid\\noff!?",
+          "status": "machine_translated"
         }
       }
     }

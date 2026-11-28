@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "ふう。\\nリゼちゃん、ちょっと疲れちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Rize-chan, are you feeling tired?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ココアが、だろ？\\nまあ、確かに私も少し疲れたし休憩するか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me guess, you're the one\\nfeeling tired. Sure, I could\\ntake a breather. Let's stop here.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "それにしても……\\nココア、コスプレでチラシを配るって\\n言ってたよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So anyway, Cocoa,\\nyou said we were doing cosplay today, yeah?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "なのに、今日はどうして\\nラビットハウスの制服なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And yet here we are in our Rabbit\\nHouse uniforms. Explain yourself.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そ、それは～、えーっと～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, um, about that... Uhh...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ほ、ほら！\\nやっぱり基本は大事だっていうからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We, uh, have to practice our fundamentals,\\nof course! Haha!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ふーん？\\nさては……何の衣装にするか\\n決められなかったのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. Allow me to translate that. You simply\\ncouldn't decide on what to wear. Right?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ぎくっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gulp＊",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "まあ、この制服だって知らない人が見たら\\nコスプレみたいなものだし――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, to a complete stranger, this\\nuniform comes off as some kind of cosplay.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "あと、制服ってのは店の目印にもなるな。\\nこの格好で配るのは間違ってない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, the uniform makes a nice advertisement\\nfor the cafe. I think you made a good\\nchoice wearing this for handouts.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "でしょー！\\nさすが、リゼちゃんはわかってる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, I did! I always knew I could\\ncount on you to understand my genius!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ココア自身は、そこまで考えてなかっただろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You probably never thought of any of\\nthat.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "考えてたよ、多分。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought of all of that! Probably.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "多分ってなんだ。\\nまったく、ココアらしいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Probably? Good grief. You never change.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "ああ、そうだ。\\n実はさ、ココアに聞いてみたいことがあるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, while we're at it, there's\\nsomething I've been meaning to ask you.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "え？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? What is it?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "コーヒーの特徴をちゃんと覚えてるか？\\nお客さんに聞かれた時、\\n答えられないとだめだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you made any progress at memorizing\\ndifferent types of coffee? You need\\nan answer if a customer asks about it.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "もちろんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course I have!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "上品な香りを楽しむのならブルーマウンテンで、\\n酸味が強いのがキリマンジャロ。\\n甘みがあるのがコロンビアだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To enjoy a luxurious scent, pick\\nBlue Mountain. For strong sourness,\\nKilimanjaro. And Colombian is the sweetest.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "なんだ、ちゃんと覚えてるんだな。\\nなのにどうして、飲んだ時に\\n味の違いを判断できないんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, you actually remembered all that.\\nThen why can't you guess the different\\nbeans when you actually taste them?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "うーん、なんでだろうね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Sorry, I don't have an answer for you.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "ちゃんとわかる様にならないと\\nバリスタなんて夢のまた夢だぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you can't even differentiate between\\ncups of coffee, I'm afraid you won't\\nhave much of a future being a barista.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "そこは大丈夫！\\nチノちゃんとよく特訓してるからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won't be an issue for long! Chino-chan\\nquizzes me on them every chance she gets!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "さてと！\\nリゼちゃん、休憩はおしまいにして\\n残りのチラシ配っちゃおうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But enough about that! Rize-chan,\\nour break ends here. Let's get back to work.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "ああ、そうだな。\\nもうひと頑張りするか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, sounds good. Back to the grind.",
+          "status": "machine_translated"
         }
       }
     }

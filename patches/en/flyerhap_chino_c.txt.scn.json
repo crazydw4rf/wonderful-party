@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "あれぇ？\\nもしかして、チノちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Is that what a think it is? \\nChino-chan?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "え？　チノ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? \\nChino?",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,26 +40,26 @@
         "0": {
           "speaker": "チノ",
           "original": "メグさん。\\nマヤさんも、今帰りなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-san. Maya-san. \\nAre you on your way home right now?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "うん。\\nあ、ココアもいる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. \\nOh, so Cocoa's with you too!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "２人とも奇遇だね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fancy meeting you two here!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "ふわ～。\\nチノちゃん、着物だぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊\\nChino-chan's in a kimono!",
+          "status": "machine_translated"
         }
       }
     },
@@ -68,14 +68,14 @@
         "0": {
           "speaker": "マヤ",
           "original": "その格好、またチラシ配り？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you handing out flyers in that \\nlook?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "はい。\\n目立てるように、今日は着物を着ているんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes. We're all dressed in kimonos in \\norder to attract attention.",
+          "status": "machine_translated"
         }
       }
     },
@@ -84,8 +84,8 @@
         "0": {
           "speaker": "マヤ",
           "original": "本当にコスプレでチラシ配りしてるんだな～。\\n今日は着物なのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't believe you're actually doing \\nhandouts in cosplay. So today was kimono day, \\nhuh.",
+          "status": "machine_translated"
         }
       }
     },
@@ -94,296 +94,296 @@
         "0": {
           "speaker": "マヤ",
           "original": "これって千夜と同じやつだよな。\\nへー、チノが着るとそんな感じになるのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't this the same thing that Chiya wears\\nall the time? So this is what Chino looks \\nlike in it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "そ、そんなに見ないでください。\\nなんだか……はずかしいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Don't stare at me so hard. \\nYou're kind of... embarrassing me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "はずかしがることないよ。\\n似合ってるしかわいいよ。\\nチノちゃん、もっと自信持って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing to be embarrassed about. \\nIt looks cute and suits you perfectly. \\nYou should be more confident, Chino-chan.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "うん、いつもと雰囲気は違うけど似合ってる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. Your vibe is different but it suits \\nyou perfectly!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "でっしょ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Couldn't have said it better!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "なんでココアが自慢げなのさ。\\n変なの～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why is Cocoa the one acting all proud about it?\\nBizarre.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ちょっと、ココア。\\n手が止まってるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on now, Cocoa. \\nWhat happened to your work?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "あらあら？\\nずいぶん賑やかね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My my. \\nIt's getting pretty lively around here.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "なんだ、いつの間に集合したんだ？\\nチマメ隊。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the? \\nHow long has the Chimame Corps been \\nassembled?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "メグ",
           "original": "うわ～！　みんな着物だぁ！　すごーい！\\nいいなぁ、お揃いでかわいい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaa! Everyone's in kimonos! Amazing! \\nThose matching uniforms are so cute, \\nI'm jealous.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "ん？　ちょっと待って！\\nこれはもしかしたら作戦なのかもしれないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Hang on just a second. \\nCouldn't this be some kind of scheme?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "作戦？\\n一体、何の作戦なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A scheme? \\nJust what would they be scheming to do?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "甘兎庵への潜入作戦だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Scheming to infiltrate Ama Usa An!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "そ、そうだったのね！？\\n喜んで着物を着てくれてると思ったのに――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-So that's what this was about!? \\nAnd I was so happy to have everyone wear \\nkimonos like this...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "みんな産業スパイだったのね？\\nなんてことなの、よよよよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you were all corporate spies the while \\ntime, weren't you? Not like this... \\nYoyoyoyo~",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "そんなわけないです！\\nマヤさん、変なことを言わないでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Obviously not! Maya-san, stop saying such \\nmisleading things about us.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "えー？\\nそうじゃないのなら……\\nチノ、千夜の妹になるつもりなのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? If that's not it, then... Chino, you \\nmust be planning on becoming Chiya's sister?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "メグ",
           "original": "お揃いの服って姉妹みたいだね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You look like sisters with your matching \\ncostumes!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ええええ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeeeeh!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "まあ、チノちゃん！\\nそれならそうと言ってくれればいいのに。\\nいつでも、うちの子になっていいのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness Chino-chan! You should have said \\nsomething sooner. You're welcome to come \\njoin the family anytime!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "それは……その……あの……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "About that, um... uh...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア（Ｍ）",
           "original": "（こ、このもじもじは……！？\\n　まさかチノちゃん、ホントに\\n　千夜ちゃんの妹になりたいって言うんじゃ！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wh-Why's she acting so nervous!? \\nOh no, she might actually ask to become \\nChiya-chan's little sister!)",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "だ、だめったらだめ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can't! You just can't!!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "えっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wha-",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "気持ちはわかるよ！？\\n千夜ちゃんはいい子だし、同じように喫茶店で\\n働いてるから話も合うかもしれないけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know what you're thinking! Chiya-chan is\\nsuch a wonderful person, and both of you being\\ninvested in cafes means you'll get along well...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "でも、甘兎庵の子になるなんて\\nお姉ちゃんが許しませんっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But your big sister will never forgive you \\nif you move over to Ama Usa An!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "あの、どうして私が甘兎庵の子になる\\n前提になっているんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhh, why are you assuming that I'm going \\nto move in at Ama Usa An?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "だって、チノちゃん、\\n千夜ちゃんの妹になるって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because, you said you're going to become \\nChiya-chan's little sister...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "そんなこと言ってません。\\nココアさんの早とちりです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I didn't say that. \\nYou're jumping to conclusions.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "そ、そうだよね！\\nチノちゃんは私の妹なんだもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That's right! \\nSince you're already my little sister!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "違います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am not.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "でも、私には、ラビットハウスを\\n継ぐという夢があります。\\nだから甘兎庵に行くことはできません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, my dream is still to inherit \\nRabbit House. Therefore I am unable to \\nmove over to Ama Usa An.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "あらら、振られちゃったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, I got rejected.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "でも、それだけかしら？\\n本当の理由は、離れたくない人が\\nいるからじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But is that the whole truth? I'm willing to \\nbet the real reason is that you have someone \\nyou would hate to be separated from.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "そ、それは、その……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, umm...",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "マヤ",
           "original": "チノはしっかりした夢があってすごいなぁ。\\n私、将来のことなんてまだ考えてないのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm impressed that you've got such a solid \\ndream already. I haven't even started to \\nconsider my future yet.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "メグ",
           "original": "私もだよ～。\\n進学する高校だって決めてないのに、\\nその先のことなんて、全然。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too~ I don't even know which school to \\nchoose, not to speak of anything beyond that.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "まだ中学生なんだから、そんなものじゃない？\\nまあ、高校生のココアも\\n何も考えてなさそうだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're still in middle school, so it's not that\\nbig of a deal yet. Well, even high schooler\\nCocoa probably hasn't thought about it much.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "ふっふっふ！\\n私はしっかり考えてるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! I've actually thought about my \\nfuture quite a lot!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "街の国際バリスタ弁護士として、\\nチノちゃんと一緒に\\nラビットハウスを盛り上げていくんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because, as this town's international barista\\nlawyer, I have to help Chino-chan keep \\nRabbit House's business booming!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "チノちゃん、一緒に頑張ろうね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, let's go our best!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "チノ",
           "original": "……ティッピー、一緒に頑張りましょう。\\n頼りにしています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Tippy, let's do our best. \\nI know I can count on you.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ティッピー",
           "original": "チノがやる気ならなんとかなるじゃろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll make it work so long as you set \\nyour mind to it.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ココア",
           "original": "スルーされたよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not even acknowledged!?",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "リゼ",
           "original": "まあ、今のままじゃ\\nティッピーの方がココアより頼りになるかもな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, if we're being honest, even Tippy is \\nprobably going to end up being more\\ndependable than you.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ココア",
           "original": "そんなぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It can't be!",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "千夜",
           "original": "チノちゃん、これからもお互いに切磋琢磨して\\nお店を立派にしていきましょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, from now on let's keep our \\ncafes thriving through a journey of mutual \\nimprovement.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "チノ",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do.",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "ココア",
           "original": "わ、私も仲間に入れてよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "L-Let me in on this!",
+          "status": "machine_translated"
         }
       }
     }

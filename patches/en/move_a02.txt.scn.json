@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "こんにちは！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello!",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,122 +16,122 @@
         "0": {
           "speaker": "千夜",
           "original": "いらっしゃいませ、ココアちゃん。\\n今日はお仕事、お休み？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome, Cocoa-chan. Did you take today\\noff?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん、午前中は休みなの。\\nだから千夜ちゃんに会いに来たんだ。\\nお邪魔かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorta, my shift isn’t until afternoon. So, I\\nthought I’d come see you. Is this a bad time?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "そんなことないわ。\\nココアちゃんならいつでも大歓迎よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all! Cocoa-chan, you’re always\\nwelcome here.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "それに、今、ちょうど\\n一息つこうとしていたところなの。\\nココアちゃんも一緒にどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I was just thinking about taking a\\nbreather right now. Would you care to join\\nme?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "本を読もうとしてたの？\\n難しそうな古典に、童話に……呪いの本？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ve got some books? You’ve got a hard to\\nread classic, a fairy tail, and a book of\\ncurses?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "違うわ。\\nこれはおまじないの本よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Close. That one is a book of good luck\\ncharms.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "え？　そうなの？\\nこれって『おまじない』って読むんだね。\\n『おのろい』って読んじゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Really? This kanji is used to mean\\ngood luck charm? I thought it meant curses.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "でも、的外れでもないのよ？\\n呪いっておまじないにも通じるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not completely wrong! A charm and a\\ncurse are two sides of the same coin.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "だから、好きな人に想いを届けるおまじないも\\n本当なら相手を呪うことになるのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For example, a charm to convey your feelings\\nto the person you like may end up as a curse\\nin the end.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "……ち、千夜ちゃん？\\nそれって、今から誰かに呪いをかけようとか、\\nそういうことじゃないよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ch-Chiya-chan? You’re not thinking about\\nsecretly cursing anybody right now, are you?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "大丈夫、そんなことしないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, that’s not my intention.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "私が求めているのは新たなインスピレーション。\\n甘兎の新メニューよ。\\nこういう本にも意外なヒントが隠されているの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What I’m looking for is inspiration for Ama\\nUsa An’s menu. These types of books always\\nhave something waiting to be discovered.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ああ、よかった！\\n千夜ちゃんに呪われるかと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, good! I was starting to think I was going\\nto be on the receiving end of a curse!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "呪う時は、前もって言うから安心して。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Worry not, if I ever plan on cursing you, I’ll be\\nsure to warn you ahead of time.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "安心できないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That doesn’t make me less worried at all!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "うふふ、冗談。\\nだってココアちゃんには、\\n想いは全部届いているもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe, I merely jest. In the first place, all of\\nmy feelings for you have already been\\nperfectly conveyed.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "それでね、ココアちゃん。\\n私１人だと、なかなか\\nインスピレーションが降りてこないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, Cocoa-chan, I’ve been having poor\\nluck at finding my inspiration on my own.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "じゃあ、一緒に考えればいいんだね。\\n任せて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which means we should do it together. I’ve\\ngot your back!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "ありがとう。\\nじゃあ、この辺りの本なんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you. So, about these books--",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ココアちゃんが一緒に読み直してくれたら、\\n何か新しい発見があるんじゃないかと思って。\\nとりあえず、どの本がいいかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think if you reread them with me, I might\\nrealize something I hadn’t the first time\\naround. Which book are you interested in?",
+          "status": "machine_translated"
         }
       }
     },
@@ -145,18 +145,18 @@
       "choices": {
         "*sel_0101": {
           "original": "童話がいいんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A fairy tale might be nice?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "和菓子なら古典かな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A classic would be best for wagashi.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "呪い、もとい、おまじない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A book of curses-correction-charms!",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,32 +165,32 @@
         "0": {
           "speaker": "ココア",
           "original": "童話がいいんじゃないかな？\\nお菓子だから、子どもに受け入れてもらわないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A fairy tale might be nice? You’re making\\nsweets, you you gotta cater to the kids.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "でもうちって、小さなお客さんはあまり来ないの。\\nやっぱり小さい子は、大福よりケーキ、\\nあんこよりクリームなのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, we get basically no children for\\ncustomers. The little ones seem to prefer\\ncake to daifuku, and ice cream over anko.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そっかー。\\n確かに、小さな子から見たら\\n和菓子って地味なのかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Maybe you’re right. Wagashi is just\\ntoo conservative for the kids.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "だったら、カラフルにしてみる？\\nピンク色のお汁粉とか、\\nパステルカラーなあんことか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, how about we add some color? We’ll\\nmake the shiruko pink, or maybe even pastel\\ncolored.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そ、それはなんだか怖いよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That’s sort of grotesque!",
+          "status": "machine_translated"
         }
       }
     },
@@ -199,8 +199,8 @@
         "0": {
           "speaker": "ココア",
           "original": "和菓子なら古典かな。\\nやっぱり日本の心、\\nわびさびを忘れちゃいけないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A classic would be best for wagashi. We\\nmust never forget Japan’s signature wabisabi\\naesthetics.",
+          "status": "machine_translated"
         }
       }
     },
@@ -209,38 +209,38 @@
         "0": {
           "speaker": "千夜",
           "original": "ええ、そうよね。\\nじゃあ、これを読んでみましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re certainly right about that. Alright then,\\nlet’s read this.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "えーっと……これは……。\\nぎ、ぎ……。\\nなんだっけ、見たことあるんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhh, this says... Gi-Gi, something? I kinda\\nfeel like I’ve seen this once before.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "『祇園精舎の鐘の声、諸行無常の響きあり』ね。\\n平家物語よ。授業でやったから、\\nテストに出るかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The sound of the Gion Shoja bells echoes the\\nimpermanence of all things. It’s the Heike\\nMonogatari, and will probably be on the test.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うう……。\\n今度の古典も不安だなぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... Classics is still one of my weakest\\nsubjects...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "今度勉強する時、そこをみっちりやりましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll be sure to beat this into your head during\\nour next study session.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "め、女神様～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You’re a goddess!",
+          "status": "machine_translated"
         }
       }
     },
@@ -249,8 +249,8 @@
         "0": {
           "speaker": "ココア",
           "original": "呪い、もとい、おまじない！\\nこれを食べると何かいいことが起きる、\\nそんなお菓子だったら素敵だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A book of curses-correction-charms! I want\\nsome sweets that cause something nice to\\nhappen upon consumption.",
+          "status": "machine_translated"
         }
       }
     },
@@ -259,26 +259,26 @@
         "0": {
           "speaker": "千夜",
           "original": "そういうおまじないなら西洋にあるのよ？\\nホールケーキの中に小物を入れて、切りわけた分に\\n入っていたらいいことがある、とか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve heard of western sweets that do just that.\\nA small item is hidden in a cake, and the slice\\ncontaining it gives good luck.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "へー、面白ーい！\\nやってみようよ、千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, that sounds interesting. You should do\\nthat, Chiya-chan!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "でも、小物を入れると\\nお年を召したお客さんが\\n喉につまらせたりしないか心配で……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m not so sure. It’s possible one of our\\nelderly customers will choke if we put objects\\nin the food...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そっか、そういう問題があったか。\\nでも、おまじない方面で探すのはいいかも。\\n続けてみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I hadn’t thought of that. Still, let’s keep\\nsearching through these good luck charms.",
+          "status": "machine_translated"
         }
       }
     },
@@ -287,86 +287,86 @@
         "0": {
           "speaker": "ココア",
           "original": "あっ！\\nそうだ、ここ来る前に雑誌を買ったんだ。\\nこれからも何か出てこないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know! I bought a magazine on my way\\nhere. Maybe we can make some use of it?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "まあ、かわいい服。\\n小物とのコーディネイトもさり気なくていいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, what a lovely outfit. The way it subtly\\nmatches her accessories is very nice.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "色も素敵～！\\nこの色のお菓子があったらかわいいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And the coloring is fantastic! Wouldn’t it be\\ngreat to have some sweets in that color?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "着物のコーナーもあるのね。\\n華やかでモダンねぇ、\\nうちにもこういう雰囲気が必要かしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s a column on kimonos as well. A blend\\nof the traditional and the modern. Perhaps we\\nshould adopt this style too?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "んー、どうだろ？\\n私は今の甘兎庵の制服が好きだから\\nこのままでいてほしいかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. You think? I like Ama Usa An’s current\\nuniform, so I’d say you should keep things\\nthey way they are.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、でも、この着物、シャロちゃんに\\nすっごく似合いそうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but don’t you think this kimono would\\nwork great on Sharo-chan?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "そうね、こっちの古風な着物は\\nリゼちゃんが着ると\\n決まって見えそうだと思わない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. And wouldn’t this older style one look\\nperfect on Rize-chan?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "わかるよ！\\nきっと姉御って呼びたくなるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought so too! It just makes you wanna call\\nher your sister!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "……って、あれ？\\nいつの間にか、お菓子の話じゃなくなってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait? Haven’t we gotten off topic\\nsomewhere along the way?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "あら、そういえば。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, now that you mention it...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あ、いらっしゃいませー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, welcome!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "ごめんなさいココアちゃん、お客さんが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry Cocoa-chan, but we have customers.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "じゃあ、私、ここでアイディアを練ってるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay. I’ll stay here and continue\\nbrainstorming.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ありがとう。\\nあとで飲み物、持ってくるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you. I’ll bring you a drink in a while.",
+          "status": "machine_translated"
         }
       }
     }

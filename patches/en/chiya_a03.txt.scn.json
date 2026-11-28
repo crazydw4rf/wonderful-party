@@ -6,38 +6,38 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんとクリスマスパーティーの準備かぁ。\\n　楽しみだなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We're going to talk about the \\nChristmas party! I can't wait!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（２人でみんなに招待状を書いて、\\n　料理を考えて、飾りつけをして……\\n　考えただけでわくわくが止まらないよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We're going to write invitations for \\neveryone, and think up new recipes, \\nand put up decorations...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（でもやっぱり、１番大事なのは料理だよね。\\n　パーティーにはおいしい料理が欠かせないよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But most important is the food! \\nWhat's a party without a delicious feast?)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（だからこそ料理に妥協は許されない！\\n　ただでさえ、私たちは喫茶店で\\n　働いてるんだからね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Serving meals is already our job. How could \\nwe take shortcuts in preparing our own feast?)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（クリスマスと言えば、まずはターキー！\\n　ラビットハウスにはオーブンもあるし\\n　じっくりこんがり焼けちゃうよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And obviously the most important part of the \\nfeast is the Christmas cake! Rabbit House \\nhas a large oven, so I can bake one myself!)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（他には……\\n　クリスマスパーティーのスペシャルメニュー、\\n　どんなのがいいかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Besides that, what other \\nfoods should we serve?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -45,24 +45,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（他には……\\n　クリスマスパーティーのスペシャルメニュー、\\n　どんなのがいいかな？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Besides that, what other \\nfoods should we serve?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "（やっぱりケーキだね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(More cake!)",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "（そこは千夜ちゃんにお任せしよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'll let Chiya-chan decide.)",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "（おいしいパンを焼こう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'll bake delicious bread!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -71,8 +71,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（やっぱりケーキだね！\\n　クリスマスといったらケーキ、\\n　これはターキーと同じくらい重要だよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(More cake! When you think Christmas, \\nyou think cakes. \\nIt's as iconic as the Christmas turkey!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,26 +81,26 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（クリスマスの特製ケーキ……。\\n　きっと手作りの方がみんな喜ぶよね。\\n　難しそうだけど、きっと作るのだって楽しいよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A special Christmas cake? Everyone is sure \\nto appreciate one that's hand-made. \\nBaking one will be challenging but rewarding!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（クリスマスなんだから、\\n　普通のケーキじゃなくて\\n　何か特別なケーキを作りたいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It's a special occasion, so I want \\nthis cake to be equally special.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（みんなが喜んでくれる特別なケーキ……。\\n　どんなものがいいかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(How can I change up this cake in a way \\nthat everyone will appreciate?)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（ティッピーの形をしたふわふわケーキとか、\\n　リゼちゃんっぽい戦車ケーキとかもいいかも）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maybe a puffy cake shaped like Tippy? \\nOr maybe shaped like a panzer for Rize-chan?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -109,26 +109,26 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（そこは千夜ちゃんにお任せしよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'll let Chiya-chan decide.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（って、それじゃだめだよ！\\n　私は千夜ちゃんのお手伝いをするんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait, that doesn't make any sense. \\nI'm supposed to be helping \\nher on these decisions.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（うん、別に変に考え込む必要はないよ。\\n　今までクリスマスに食べてきた\\n　料理を思い出して……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Well, maybe I don't need to be very creative. \\nIf I think back at what \\nI've eaten at Christmas previously...)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（やっぱり、ケーキかな？\\n　あ、クリスマス特製パンなんていいかも！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Come to think of it, it's mostly cake. \\nOh, but I want some specially \\nmade Christmas bread too!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -137,8 +137,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（おいしいパンを焼こう！\\n　クリスマスにちなんだかわいいパンを作れば\\n　きっとみんな喜んでくれるよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'll bake delicious bread! I think \\neveryone will love some cute, festive bread!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -147,20 +147,20 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（サンタさんやトナカイやツリーのパンとか、\\n　クリスマスらしい物をいっぱい作ろう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We'll make lots of Christmassy figures, \\nlike Santa and reindeer and pine trees!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（それから、冬らしく雪の結晶や\\n　星の形のパンもいいなぁ～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We can go further by making snowflakes, \\nstars, or other winter-themed shapes.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（さあ、ここは腕の見せ所！\\n　聖夜に向けて私のパン魂を解き放っちゃうよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This is my time to shine! I'm unleashing \\nmy baker's soul for Christmas this year!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -169,44 +169,44 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、夢が広がるなぁ～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I have so many ideas!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、何を作るにしても準備が大変だし\\n　私と千夜ちゃんだけでできるのか\\n　不安な部分もあるよね……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But we do have our work cut out for us. \\nI'm a little worried about whether \\njust the two of us can pull it off...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（やっぱり、パーティーをやるのって\\n　簡単じゃないんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hosting the party won't be easy.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんも、\\n　きっとこんな風に考えてたんだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan is probably \\nthinking the same thing.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（１人で考えると不安になっちゃう。\\n　できるかできないかは、\\n　千夜ちゃんと２人で考えた方がいいかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Being in my head makes me feel uneasy.\\nRather than brood like this on my own, it\\nmight be better to deliberate about it with her.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（うん！　決めた！\\n　まずはやりたいことだけ考えて、\\n　お昼休みに千夜ちゃんと相談しよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Yeah, that's a much better idea. I'll think \\nabout what I want now, and talk about how \\nto accomplish it with Chiya-chan at lunch.)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（早く千夜ちゃんとクリスマスの話が\\n　したいけど……今は授業中だし、\\n　ちゃんと集中しないとね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm still in class, so I need to \\nconcentrate as best I can. \\nAh, but I want to talk with her right now!)",
+          "status": "machine_translated"
         }
       }
     }

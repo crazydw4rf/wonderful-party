@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "ココア",
           "original": "うわあ～！\\n千夜ちゃん、フルール・ド・ラパンの\\n制服も似合うね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wooow! Chiya-chan,\\nFleur de Lapin's uniform looks great on you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうかしら？\\nふふふ、ちょっとはずかしいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? Hehehe.\\nIt's slightly embarrassing.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それに……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That, and...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ん？　どうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And what?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "この制服を着るのにね、\\nシャロちゃんに手伝ってもらったんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And, I had Sharo-chan help me put it on,\\nbut--",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "『リゼ先輩みたいにいかがわしい』って\\n言われちゃったんだけど、どういうことかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She said it looked “questionable,\\nlike how it does on Rize-senpai.”\\nWhat did she mean by this?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（いかがわしい？\\n　どういう意味だろ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Questionable? What's\\nthat supposed to mean?)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "制服のサイズも合っているし、\\n小物もシャロちゃんにきちんとしてもらったの\\nだけど、何か問題があるのかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not too small for me, and I even\\ngot her to help me with the accessories.\\nIs there something I'm missing here?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "……もしかして！\\nリゼちゃんみたいってことは、\\nつまり、軍人みたいってことじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I know! She compared you\\nto Rize-chan, so maybe she's saying\\nyou look martial, like a soldier?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "リゼちゃんならともかく、\\n私はそう見えないと思うのだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That might work for Rize-chan, but no one's\\never going to confuse me for a soldier.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "うーん、だとしたら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. How about...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あっ！　つまり、正体不明ってことなんだよ！\\n普段は甘兎庵の制服だから、この服が意外すぎて\\n謎が謎を呼んでるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! She's saying your identity is in\\nquestion! You're always seen in a kimono, so\\nthis outfit is a riddle wrapped in a mystery!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "この街に溶け込むよう存在する\\n秘密めいた女……それが今の私なのね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A mysterious woman has managed\\nto go unnoticed in this\\ntown... And that woman is me!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "その正体が、甘兎を発展させるために\\n敵情偵察をするスパイとは……\\n誰も気がついていないんだわ、ふふふ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Her true identity is a business spy,\\ncollecting secrets to further Ama Usa's\\nexpansion. No one's caught on yet. Hahaha!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "わ、ラビットハウスの情報は渡さないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? You'll never uncover the\\nsecret to Rabbit House's success!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "残念。\\n甘兎を全国チェーンにするためにも\\nライバル店の情報が欲しかったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unfortunate. I was hoping to grab some\\ninformation from a rival business to propel\\nAma Usa on to becoming a national chain.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア（Ｍ）",
           "original": "（甘兎全国チェーン……！？\\n　千夜ちゃんの夢はホントに大きいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She wants to make a nationwide chain out of\\nAma Usa!? Chiya-chan, you sure dream big!)",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "こうなったら、ラビットハウスは\\n全世界チェーンを目指して行くしかないね！\\n負けないよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's it! Rabbit House will go on to become\\na worldwide chain! You'll never one-up us!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "わかったわ。\\nよきライバルとして、世界を舞台に\\nしのぎを削っていきましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Challenge accepted. May our rivalry lead\\nto perfecting our craft on the world stage!",
+          "status": "machine_translated"
         }
       }
     }

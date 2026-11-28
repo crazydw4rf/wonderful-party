@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Sharo-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あうう……。\\n私……もうだめ……。\\nもう、いっそ一息に……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauu~ I can't...\\nI can't take it anymore... Make it stop...",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,116 +22,116 @@
         "0": {
           "speaker": "シャロ",
           "original": "ちょっと、ココア！？\\n急にどうしちゃったのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa, Cocoa!? What's happened to you?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "お、おいしそうな匂いがする……。\\n周りのおうちから、夕飯の支度をする\\nおいしそうな匂いが……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It-It's all these delicious smells… All the\\nhouses around me are tempting me with the\\ndelicious scent of dinner on the stove...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ああ……。\\n気にしちゃだめよ。\\n家に帰れば夕飯が待ってるでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ohhh. You should try your best\\nto ignore it. You have dinner\\nwaiting for you at home, remember?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あっちのおうちからはバターの香りが……\\n何を焼いてるのかな……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The smell of butter is escaping from\\nthat home over there... I wonder\\nwhat they're frying right now...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "だから、そんな話やめてよ。\\n私までお腹が空いてくるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, cut that out!\\nYou're going to start making me hungry.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "こっちの匂いはドミグラスソースかな？\\nということは、きっとビーフシチューだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Doesn't that one smell like\\ndemi-glace sauce? That can only mean\\none thing: beef stew in the kitchen.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ドミグラスソースなら、\\n煮込みハンバーグってことも\\nあるかもしれないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't jump to conclusions. It could also\\nbe a sign of Salisbury steaks being made.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "煮込みハンバーグ！\\nいいなぁ、おいしそう～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salisbury steaks! What a nice thought.\\nA yummy thought...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "近いうちに作ろうっと。\\nチノちゃんと一緒に、ハンバーグの生地を\\nコネコネするんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We should make some of those sometime\\nsoon. I'll get to knead the ground beef\\ninto patties together with Chino-chan!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "この時間だと、どこのお家でも夕飯の準備中よね。\\n匂いが混じって何が何だかわからなくなってきた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All these houses are making dinner all at\\nonce. The scents are blending together so\\nthat I can't make out any particular food.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "でも、これなら食欲そそられなくて、\\nもうひと頑張りできるかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's a good thing, since it won't stir\\nup my appetite that way. Now maybe I can\\nget back to work without the distraction.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "それじゃ、さっさとやっちゃいましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, time to get back to work.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "……は！？　これは！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Is that what I think it is!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ううっ！\\nこのお腹にダイレクトにくる香辛料の匂いは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah! Something's given me a direct hit to\\nthe stomach, using the smell of spice...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア＆シャロ",
           "original": "カレー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Curry!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "今までの匂いを掻き消して、\\nすべてをカレーが支配してるよ！？\\nこのあたり、全部カレーフィールドだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After defeating all the other smells,\\nonly curry remains to rule them all! We're\\ntrapped in the midst of a curry field!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "カレーの匂いって最強よね。\\nこれは勝てないわ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Curry has the most powerful scent,\\nno question. None can compete with it...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "うわーん、お腹空いたよー！\\nカレー食べたーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaaaaaa~ I'm so hungryyyy!\\nI wanna have some curry!!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "私だってそうよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna have some too!!",
+          "status": "machine_translated"
         }
       }
     }

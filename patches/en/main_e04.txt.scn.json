@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日のお仕事はどんな感じかな？\\n　どんなお客さんが来てくれるのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I wonder what work is going to feel like \\ntoday? I wonder what kind of customers we're \\ngoing to get?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "（こういうワクワク、\\n　喫茶店のお仕事ならではだよ～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This kind of excitement is something you can \\nonly experience working at a cafe!)",
+          "status": "machine_translated"
         }
       }
     }

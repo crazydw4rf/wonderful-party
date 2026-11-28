@@ -6,86 +6,86 @@
         "0": {
           "speaker": "ココア",
           "original": "ごめんね、遅くなっちゃった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry I'm late!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、来たか。\\nバイトの時間ギリギリだぞ？\\n何してたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so you're finally here. It's basically \\nstarting time already. What were you doing \\nall this time?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "それが、帰り道でかわいい野良うさぎを\\n見かけちゃて、つい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you see, I happened across a cute wild\\nrabbit on my way home from school...\\nOopsie.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "ココアさん、\\n今日もチラシ配りをするんですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you're doing flyer handouts today,\\nright?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、うん！\\nほら、今日配る分のチラシの準備もばっちりだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah! I've already completely prepared \\ntoday's portion of flyers.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "相変わらず張り切ってるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Determined as you always are.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "えへへ……。\\n思ってた以上にチラシ配りが楽しくって、\\nなんだかハマっちゃいそうだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe... The handouts are more fun than I \\nexpected. I think I'm hooked.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "それは、チラシ配りが楽しいというより、\\nコスプレを楽しんでるだけじゃないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rather than the handouts being fun, aren't \\nyou just enjoying the cosplay?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "うーん……。\\n確かにそれは否定できないかも。\\n色々な服を着られて楽しいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm... I certainly can't deny that. \\nI'm having fun wearing all these costumes.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ま、まあ、そういう気持ちはわからなくもないな。\\nかわいい――じゃなくて、普段と違う服は\\n着るだけでテンションが上がるしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, I kinda get how you feel. Just wearing\\nthose cute... not that, those slightly \\ndifferent clothes is enough to get me excited.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "だよね！\\nチラシ配りが終わっても、\\nこのままコスプレを続けていきたいな、なんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again! Even after we've \\nfinished distributing the pamphlets, I kind of \\nwant to keep doing the cosplay like we are now.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "……って、あれ？\\nそういえば、私、\\nなんでチラシ配りをしてるんだっけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Uhh, hang on. Now that I think about it, \\nwhy were we even doing these handouts to \\nbegin with?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ＆リゼ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（えーっと……何のためだっけ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uhh... Why were we doing this again?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -93,24 +93,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（えーっと……何のためだっけ？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Uhh... Why were we doing this again?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "チノちゃんの誕生日のためだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was all for Chino-chan's birthday!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "何か大事な理由があったような気が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel like there was some reason...",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "まあ、いっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever, doesn't matter!",
+          "status": "machine_translated"
         }
       }
     },
@@ -119,8 +119,8 @@
         "0": {
           "speaker": "ココア",
           "original": "あ！　チノちゃんの誕生日のためだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right! It was all for Chino-chan's birthday!",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,8 +129,8 @@
         "0": {
           "speaker": "チノ",
           "original": "さすがに目的は忘れてなかったみたいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it seems Cocoa-san still remembers her \\nobjective.",
+          "status": "machine_translated"
         }
       }
     },
@@ -139,56 +139,56 @@
         "0": {
           "speaker": "リゼ",
           "original": "そこまでだったらどうしようかと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wouldn't even know what to think if \\nshe had forgotten that.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "って、ああ！？　違うよ！\\nチノちゃんはぜんぜん！　まったく！\\n関係ないんだよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, aaah!? You've got it all wrong, \\nChino-chan has nothing to do with this! \\nNothing whatsoever!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "なあ、もうバレバレなんだから\\nその設定は必要ないんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen, the cat's out of the bag. Don't you \\nthink it's safe to drop the act by now?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "大丈夫です、リゼさん。\\n私は何も聞いてませんでしたから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's perfectly fine, Rize-san. I haven't \\nheard a thing.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "せっかく、ココアさんが\\n頑張ってくれてるんですから、\\n無駄にしたくないんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't want to waste all the hard work \\nCocoa-san has been doing for me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "……チノはチノで、結構ココアに甘いよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You sure are weak to Cocoa, \\nin your own Chino kind of way.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "そ、そんなことありませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That's not true.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "え？　私がどうかした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Are you girls talking about me?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "なんでもありません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing!",
+          "status": "machine_translated"
         }
       }
     },
@@ -197,38 +197,38 @@
         "0": {
           "speaker": "ココア",
           "original": "何か大事な理由があったような気が……。\\nうーん……",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel like there was some reason... \\nHmmm...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "お、おい、まさか本気で忘れてるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hold on. Don't tell me you actually forgot \\nabout it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "わ、忘れてないよ！\\nちゃんと思い出した！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I didn't forget! It just came to me!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "思い出したって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It came to you...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そうだった。\\nチノちゃんの――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. It's Chino-chan's...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "じゃなくて！\\nえ、えっと、実験のために始めたんだったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No! Uh, um... We began this as an experiment!",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,8 +237,8 @@
         "0": {
           "speaker": "リゼ",
           "original": "おいおい、しっかりしてくれよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on now, get it together.",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,8 +247,8 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさんらしいと言えばらしいですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, this is Cocoa-san after all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -257,38 +257,38 @@
         "0": {
           "speaker": "ココア",
           "original": "まあ、いっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever, doesn't matter!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "まあいっかじゃないだろ！\\n１番大事なことを忘れてどうするんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it does matter! How can you just forget \\nthe absolute most important reason!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ！　思い出した！\\nチノちゃんのため――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I just remembered! \\nIt was for Chino-chan's...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃなくて！\\nコスプレチラシ配り作戦の実験を\\nしてるんだったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not for her! We were doing that Cosplay \\nFlyer Distribution Strategy experiment.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "そうだよ。\\nまったく、言い出した本人が何してるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Gosh, you suggested the whole \\nthing. Get your act together.",
+          "status": "machine_translated"
         }
       }
     },
@@ -297,50 +297,50 @@
         "0": {
           "speaker": "ココア",
           "original": "あっ、お客さんだ。\\nいらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, a customer. Welcome!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "いらっしゃいませ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ティッピー",
           "original": "ココアめ、手段が目的になりかけておるぞ。\\n目先のことに夢中になりすぎじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That Cocoa, she's turning the means into the\\nend. That girl gets way too caught up in \\nwhatever is in front of her.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "でも、楽しそうです。\\n私も……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But she seems to be enjoying herself. \\nAnd so am I.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ティッピー",
           "original": "チノも楽しいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're having fun too?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "……かもしれません。\\nそれに――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Maybe. But more importantly...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "私の誕生日をきっかけに、みなさんが楽しいって\\n思える時間が生まれていて嬉しいって……\\nそう思うんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm happy that my birthday is being used\\nto make a time that everyone can enjoy... \\nThat's what I think.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ティッピー",
           "original": "……そうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I see.",
+          "status": "machine_translated"
         }
       }
     }

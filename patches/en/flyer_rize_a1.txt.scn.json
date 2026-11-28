@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（ううーん……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊worry worry＊)",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,146 +22,146 @@
         "0": {
           "speaker": "リゼ",
           "original": "ラビットハウスです。\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're Rabbit House. Please take a flyer.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（むぅーん……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊worry worry＊)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "……ん？　ココア、何してるんだ。\\nそんなところでうずくまってても\\nチラシはなくならないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Cocoa, what are you doing?\\nYou're not going to make any progress\\nwhile curled up on the ground.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、うん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "どうしたんだ？\\nまさか、ココアなのに悩み事か？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter? Don't tell me that you\\nof all people are feeling stressed out.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "わ、私にだって悩み事くらいあるよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I feel stressed sometimes too, you know!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "えっ！？\\n本当に悩み事なのか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Wait, are you seriously\\nworried about something right now?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "わかった、話してみろ。\\n私でよければ力になるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine, I'll take you more seriously.\\nI promise I'll help you however I can.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "それは……その……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you see...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "遠慮なんてするな。\\nココアらしくもない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't be shy, just say it.\\nThis isn't like you.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃんの中で\\n　私の評価ってどうなってるの！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Did she change the way\\nshe thinks of me just now?)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ほら、言ってみろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon, spit it out.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "えっと……\\nリゼちゃん、制服でチラシ配りして大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um... Rize-chan, are you fine with\\nhanding out flyers in your school uniform?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "は？　大丈夫って何がだ？\\n今だって問題なく配ってたじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Why wouldn't I be fine with it?\\nYou've seen me do it just fine so far.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あのね、リゼちゃんの学校って\\nお嬢様学校だから、\\nこういうことして怒られたりしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your school is that rich girl's\\nschool and all, so will they get mad\\nat you for doing something like this?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "なんだ。\\nそんなことで悩んでたのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh. Is that what's weighing you down?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "大丈夫だよ、問題ない。\\nていうか、うちの学校に\\nどんなイメージ持ってるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine, they won't care about this. Just\\nwhat kind of impression do you have of them?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "……本当に？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it really okay?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "本当だ。\\nとにかく、余計な心配はしなくていい。\\nだめだと思ったら自分で言うから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's really okay. There's nothing you\\nneed to worry about. If there's ever any\\nproblem, you'll hear about it from me.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "うん、絶対だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, I believe you!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "ああ、絶対だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good. It's a promise.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "ほら、さっさとチラシを配らないと\\nいつまでたってもラビットハウスに戻れないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, on your feet. If you\\ndon't finish your work, you'll\\nnever get back to Rabbit House.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "……でも心配してくれてありがとな、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks for worrying about me, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

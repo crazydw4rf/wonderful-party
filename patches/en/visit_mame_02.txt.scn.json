@@ -6,236 +6,236 @@
         "0": {
           "speaker": "メグ",
           "original": "こんにちはー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "マヤさん、メグさん。\\nどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-san, Megu-san. What is it?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "暇だったから、お店の売り上げに\\n貢献しようと思ってさ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ve got nothing to do, so we thought we’d\\ncome contribute to your sales.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "えーっ！\\nお姉ちゃんに会いに来てくれたんじゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? You’re saying you didn’t come here to\\nsee your big sister?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そんなわけないだろ？\\nほら、水をどうぞ。\\nいつも来てくれてありがとな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Clearly not. Here, have some water. Thank\\nyou for visiting us as always.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "ありがとうございまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you veeery much!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "はー。\\nやっぱ、リゼはいつ見ても格好いいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ As expected, Rize is once again\\nlooking cool.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "そ、そうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "マヤちゃん、女の人に格好いいじゃ失礼だよ。\\nリゼさんはお嬢様なんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan, it’s rude to say a girl looks cool.\\nEspecially to a pampered rich girl like Rize-\\nsan.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "あ、そうだった。\\nリゼはお嬢様学校に通ってるんだもんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you may be right. Rize goes to that rich\\ngirl’s school, after all.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "ねえねえ、リゼの学校って\\nごきげんよう症候群なんでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Rize, your school has a pandemic of\\nsalutations syndrome, right?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "は？　なんだそれは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What are you talking about?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "だから、ごきげんようで\\n全部の会話が通じるってやつ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, how you all manage to\\ncommunicate just by saying “salutations!” to\\neach other.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "えーっ！？\\nそうなの、リゼちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Is that true, Rize-chan?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "いや、違うって。\\nそれじゃ、まるで暗号じゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, of course not. You’re making it out as if\\nwe speak in coded messages or something.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "あ、シャロちゃん！\\nいらっしゃいませ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Sharo-chan! Welcome!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "あー！\\nもう１人のお嬢様が来た！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at that! Another rich girl has walked\\nthrough the door!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "ごきげんよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salutations!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "メグ",
           "original": "ごきげんよう、シャロさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salutations, Sharo-san.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ええ？　な、何？　何事なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuuuh? Wh-What? Why are you doing\\nthis?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "マヤ",
           "original": "聞いてみたいな～。\\nシャロの、お嬢様っぽいごきげんようを。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna hear it! Sharo’s patrician\\n“salutations!”",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "メグ",
           "original": "ぜひぜひ、見せてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let us hear it, please!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "いきなりなんで！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What’s with this out of the blue!?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "マヤ＆メグ",
           "original": "おねがーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pleeease!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "シャロ。\\nすまないが、ちょっとやってみせてくれないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo, can you just go along with this?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "あ、はい！　わかりました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, sure! Whatever you say!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "こほん。\\nこうでいいのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊ahem＊ Here I go.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "ごきげんよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salutations.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "マヤ",
           "original": "おおー！　本物だぁ！\\nやっぱりシャロはお嬢様なんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh wow! That’s how you do it! Sharo is a real\\naristocrat, as expected.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "メグ",
           "original": "うん、そうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that much is certain.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア（Ｍ）",
           "original": "（これは……\\n　妹たちの関心が私よりもシャロちゃんに！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh no! My little sisters are taking more\\ninterest in Sharo-chan than me!)",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "ねえねえ！\\n私もやってみようか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey you two! Do you want me to do it too?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "マヤ",
           "original": "やっぱり、お嬢様学校に通ってると\\n普段からお嬢様っぽい雰囲気がにじみ出るんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just as I thought, going to that school makes\\nyou just ooze with that affluent vibe.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "メグ",
           "original": "ポーズも決まってたし、\\nこれは持って生まれた気品みたいなもの\\nなんだろうね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She even did the special pose, so I think she\\nhas that gracefulness by nature.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "シャロ",
           "original": "そんな……別に私は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, no... You’re mistaken...",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "むぅぅ！\\n私だってお嬢様っぽいことできるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊pout＊ I can act all posh too, you know!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "マヤ",
           "original": "え？　ココアもか？\\nじゃあ見せてよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? You can? Then show us.",
+          "status": "machine_translated"
         }
       }
     },
@@ -243,24 +243,24 @@
       "select_prompt": {
         "speaker": "マヤ",
         "original": "え？　ココアもか？\\nじゃあ見せてよ。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Huh? You can? Then show us.",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "よろしくてよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice to meet you.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "おーっほっほっほっほ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "OH HO HO HO HO!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "ごきげんよう",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salutations.",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,38 +269,38 @@
         "0": {
           "speaker": "ココア",
           "original": "よろしくてよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice to meet you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "おお！　なんかそれっぽいな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! That sounded pretty good!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "ココアちゃんも\\nそういう風にするとお嬢様みたいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You could pass for a rich girl too when you do\\nthat.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ふふーん、でしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hah! That’s right!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "でもー、やっぱシャロには敵わないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, you still don’t stand a chance\\nagainst Sharo.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えーっ！？\\n頑張ってポーズつけてみたのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat! And I even did the pose with it too!",
+          "status": "machine_translated"
         }
       }
     },
@@ -309,38 +309,38 @@
         "0": {
           "speaker": "ココア",
           "original": "おーっほっほっほっほ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "OH HO HO HO HO!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……それ、何の真似ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What was that supposed to be, Santa Claus?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ふふん、今のお嬢様っぽくなかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh. Didn’t that make me sound nice and\\nposh?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "な、なんだか違うような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I don’t think that was quite right...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そんなー！？\\nお嬢様って言ったら高笑いじゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable! Isn’t a contemptuous laugh the\\nmark of an aristocrat?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "そんな人、見たことないぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have never witnessed such a person in my\\nlife.",
+          "status": "machine_translated"
         }
       }
     },
@@ -349,14 +349,14 @@
         "0": {
           "speaker": "ココア",
           "original": "ごきげんよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Salutations.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "おー！\\nココアもやるじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh wow! Cocoa can hold her own!",
+          "status": "machine_translated"
         }
       }
     },
@@ -365,50 +365,50 @@
         "0": {
           "speaker": "シャロ",
           "original": "まあ、そのまま、\\nおしとやかにしていることができたらね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now, if only she could keep up that level of\\nmodesty...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "で、できるよ！　それぐらい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I could totally do that! Piece of cake!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "わたくしはお嬢様ですから。\\nほほほ、今日はお暑うございますですわー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As you can see, I am a posh and wealthy girl.\\nHohoho. ‘tis rather hot out today it is.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あー……。\\nさっそく、ボロが出てきた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ You screwed it up instantly.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "あははは！\\nやっぱココアはココアだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahahaha! You can’t take the Cocoa out of\\nCocoa!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "でも、そういうココアちゃんが\\n私はいいと思うよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But regardless, I like Cocoa just the way she\\nis.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "そう？\\nえへへ～、褒められちゃった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Ehehe~ I earned some praise!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "褒めてるのではなく、フォローでは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You really think that was praise and not\\nreassurance?",
+          "status": "machine_translated"
         }
       }
     },
@@ -417,38 +417,38 @@
         "0": {
           "speaker": "シャロ",
           "original": "あのねぇ、ココア。\\nそんなとってつけた台詞だけで\\nお嬢様って言われるわけないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up, Cocoa. You can’t pass as a rich\\ngirl with just a few forced lines, okay?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃあ、シャロちゃん！\\nお嬢様らしくするコツ、教えて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine, Sharo-chan! Then you teach me the\\ntrick to acting like a rich girl!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "そう言われても、これは生き抜くために\\n身につけた処世術みたいなものだから……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t know what to tell you. It’s a technique I\\nlearned on the fly in order to survive in that\\nenvironment...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そこを何とか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I beg of you!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "ココアさん。\\nシャロさんを困らせてないで\\nそろそろ仕事に戻ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. Quit pestering Sharo-san and get\\nback to work already.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "はーい。\\nそれじゃメグちゃんにマヤちゃん、\\nそれにシャロちゃんも、ご注文をどうぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fiiine. Now then, Megu-chan, Maya-chan,\\nand Sharo-chan as well, what will be your\\norder?",
+          "status": "machine_translated"
         }
       }
     }

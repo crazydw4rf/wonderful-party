@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえねえ、シャロちゃん！\\nいいこと教えてあげるね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up, Sharo-chan! \\nI'm about to teach you a valuable life lesson!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "な、何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What's that?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "シャロちゃんはカフェインで\\n酔っちゃうから知らないだろうけど、\\nコーヒー豆を生で食べてもおいしくないんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not sure how you'd react to it, since\\ncaffeine intoxicates you, but the fact is that\\nraw coffee beans actually taste terrible!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "突然、何を言い出すかと思ったら。\\n普通は生で食べようとしないでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And here I thought you had something important\\nto say... No normal person would even \\nconsider eating them raw.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "まさか、食べたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't tell me, you ate some?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "お、お客さんに出すものは、きちんと自分で\\n味を確かめておかないといけないんだよ？\\nそれが店員の務めだからね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Anything we serve to the customers must be\\ntested to make sure the flavor is perfect,\\nright? It's our duty as employees!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "味を知っておかなきゃいけないのはわかってるわ。\\n私だって、フルールのお茶は全部飲んでるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I understand what you mean about needing to\\nknow the flavor of what you serve. I personally\\ndrink everything on Fleur's menu.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "それで、ラビットハウスでは、\\n生のコーヒー豆をお客さんにお出しするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, does Rabbit House ever serve raw coffee \\nbeans to customers?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えーっと、それはそのー……出さないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, well... \\nI guess not?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "じゃあ、生のコーヒー豆を\\n食べても意味ないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, there's no point in eating the beans raw.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "だって……お腹が空いて仕方なくて……\\nおいしそうに見えて……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I couldn't help it! \\nI was so hungry I couldn't take it... \\nThey looked so good at the time...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "それでつい、コーヒー豆を\\n生のまま食べてしまったわけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's the story of how you came to \\ningest some raw coffee beans?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "シャロちゃん、正解！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nThat's right!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "だったら、素直にそう言いなさい。\\nもっともらしいことを言っても、\\nつまみ食いの理由にはならないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then you should have just said so. No matter\\nhow you try to defend yourself, you don't have\\nan excuse for stealing food. ",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "うえーん、シャロちゃんが\\nチノちゃんと同じこと言う～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ueeee~ \\nYou're saying the exact same thing \\nChino-chan did!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "チノちゃんにも言われたの？\\n本当にしっかりした妹よね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what Chino-chan said? \\nWhat a responsible little sister you have.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "だよね。\\nチノちゃんは私の自慢の妹なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! \\nMy little sister Chino-chan is my \\npride and joy!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "……ココアが胸を張ってどうするのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Are you sure you should be feeling proud \\nabout this?",
+          "status": "machine_translated"
         }
       }
     }

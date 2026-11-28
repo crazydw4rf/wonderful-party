@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out flyers with\\nChiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "ココア",
           "original": "制服を着て一緒にお仕事をする日が来るなんて\\n思わなかったね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I never thought we'd ever be working together\\nwhile in our school uniform.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ええ。\\nなんだかくすぐったいような変な気持ちね。\\nでも、とっても楽しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither.\\nI think I'm getting butterflies doing this.\\nBut I'm enjoying this.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "私も楽しいよ！\\nこうして制服でお仕事してると、\\n課外授業みたいだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm having fun too!\\nDoing our job in uniform makes it feel like\\nthis is some sort of extracurricular activity.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "課外授業……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Extra...curricular?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "そうなのね、これは\\n社会の厳しさを学ぶための授業だったのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right.\\nThis was all an educational experience about\\nthe harshness of the real world.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えっ！？　そうだったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what? Is it really?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "でも、社会の厳しさを学ぶ課外授業を\\n受けられるのなら、将来安定間違いなしだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, if you can study the harshness of\\nsociety ahead of time, then you won't have\\nanything to worry about in the future.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "それに、千夜ちゃんと一緒の課外授業だったら\\n何回受けたって平気だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And if I can do this lesson together with you,\\nthen I won't mind doing it over as many times\\nas it takes.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "そう、よかった。\\n落第したら何度もこの授業を\\n受けなきゃいけないんだから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you for your support.\\nSince this is a lesson we'll have to learn,\\nno matter how many times we fail--",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "そのくらいの気持ちでいた方が\\nいいかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "--you probably have the right frame of mind\\nfor our task at hand.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ええ！？\\nこの授業、落第があるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? We can fail this lesson!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "もちろんよ。\\n厳しさを学ぶ授業なんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly. This is a course on harshness,\\nafter all.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "社会は、私たちが思っている以上に\\n困難に満ちあふれているんだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Society is filled with far more cruel\\ndifficulties than we can ever imagine.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ココアちゃん！\\n２人で一緒に、社会の荒波を\\n乗り越えていきましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!\\nLet's learn to surf the stormy waves of\\nsociety together!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うん！\\n１人じゃ無理でも、私たち２人が協力すれば\\nきっと乗り越えられるはずだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay! I'm sure that we'll be able to overcome\\nfar more as a team than either of us could do\\nalone.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "じゃあ、まずはこの課外授業で\\nちゃんと合格点を取らないと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed.\\nLet us begin by passing this extracurricular\\nactivity with flying colors.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "……でも、この授業って\\n何をどうやったら点をもらえるのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I know it's late to ask this,\\nbut how exactly are we going to be scored on\\nthis test?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "まず最低ラインは、このチラシを\\nすべて配り終えることだと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I imagine the bare minimum is to finish\\nhanding out these pamphlets.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "それが最低ライン！？\\nま、まだまだあるよー！？\\n急いで配らなきゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the bare minimum!?\\nBut I've still got a huge stack of these!\\nI need to get through these right away!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "ラビットハウスです！\\nよろしくお願いしまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're Rabbit House! Please have a flyer!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "ふふ、ココアちゃんが燃えてるわね。\\n私も頑張らないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. That got Cocoa-chan in gear.\\nI should get into action too.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "どうぞ、もらってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, take one.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "よろしくお願いしまーす！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please come visit us!",
+          "status": "machine_translated"
         }
       }
     }

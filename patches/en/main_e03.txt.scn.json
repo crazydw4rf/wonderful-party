@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は、お仕事の合間に\\n　少し宿題をさせてもらおっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm going to try to squeeze in some \\nhomework if I can find a chance during work \\ntoday.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "（学校にお仕事に忙しいけど、\\n　充実した毎日ですっごく楽しいよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It's pretty busy juggling work and school, \\nbut it sure is fun to have every day be so \\nfulfilling!)",
+          "status": "machine_translated"
         }
       }
     }

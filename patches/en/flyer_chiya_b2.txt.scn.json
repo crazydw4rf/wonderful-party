@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out flyers with\\nChiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,122 +16,122 @@
         "0": {
           "speaker": "千夜",
           "original": "こうしてラビットハウスさんの\\n制服を着ていると……\\nティッピーを頭に乗せてみたくなっちゃうわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whenever I wear this Rabbit House uniform,\\nI start to get the feeling that I should be\\ncarrying Tippy on my head.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "やっぱりラビットハウスさんといえば\\nティッピーだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "When you think Rabbit House, you think Tippy.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "……と言うことは、ティッピーは\\nやっぱりコーヒーが好きなのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Speaking of Tippy,\\ndo you think she likes coffee?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "好きなんじゃないかな？\\nコーヒー占いもできるくらいだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think she does,\\nsince she can do coffee fortunetelling.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "まあ、ティッピーが占いをするの？\\nすごいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, she can do fortunetelling?\\nThat's impressive.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "まあ、私に比べると的中率は低いけどね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's decent,\\nbut she can't compete with the accuracy of my\\npredictions.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ふふ、やっぱりコーヒーが好きなのね。\\nうちのあんこだって和菓子が好きだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. She must like her coffee after all.\\nOur Anko happens to like our wagashi as well.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "……そういえば、\\nティッピーは何を食べてるのかな？\\nご飯を食べているとこ、見たことないかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Come to think of it, I wonder what Tippy\\neats? I don't think I've ever actually seen\\nher eat anything before.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "……ココアちゃん。\\nクリオネって知ってるかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, do you know what a clione is?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "え？　うん、知ってるよ？\\n流氷の妖精って言われてる、白くて\\nひらひらしてる、かわいい生き物だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, that thing? I've heard of it. They're\\ncalled sea angels, since they're all white and\\nhave flappy wings. It's a cute animal.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あのクリオネってね、\\nご飯を食べる時には口から――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And when that very clione decides it's time to\\neat--",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "ぐわっ！　っと触手を出して\\n獲物を捕らえるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "GWAH!\\nOut comes a mouthful of tentacles to seize its\\nprey.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ええっ！？\\nそ、そうなの……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Is that true?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ティッピーも、実はそんな感じで\\nご飯を食べたりして……ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's worse is that that's exactly how Tippy\\neats as well...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "まさか、そんな……。\\n普通に食べると思うよ？\\n見たことないけど、多分。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That can't be true...\\nShe probably eats normally.\\nI've never seen it, but probably.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "普通？\\nじゃ、やっぱり触手を出して食べるのね。\\nあんこもそうだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like normal? So I'm right. She eats using her\\nmouth tentacles like all the other bunnies. At\\nleast that's how Anko does it.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ええええええ！？\\nあんこってそんな風にご飯食べるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAAAAAAAAAAAA!?\\nAnko has a mouth full of tentacles for eating\\nwith!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "も、も、もしかしてティッピーも？\\nチノちゃん知ってるのかな？\\n知らなかったらどうしよう……なんて言えば！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So-So-So you're saying Tippy is like that too?\\nDo you think Chino-chan knows? Oh no,\\nhow are we going to tell her!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "冗談よ。\\nティッピー、うちのお店で栗ようかんを\\n食べたことあるけど、普通だったもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I merely jest. I've seen Tippy eat some of our\\nchestnut youkan at Ama Usa, and there was\\nnothing out of the ordinary.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nよかったぁ、チノちゃんが悲しまずにすむよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Thank goodness!\\nChino-chan can live on with peace of mind.",
+          "status": "machine_translated"
         }
       }
     }

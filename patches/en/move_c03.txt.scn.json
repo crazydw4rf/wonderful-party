@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日は時間もたっぷりあるし、\\n　フルール・ド・ラパンでお昼にしようっと。\\n　シャロちゃん、いるかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ve got lots of time today, so I think I’ll have\\nlunch at Fleur de Lapin. I hope Sharo-chan is\\nhere.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,68 +16,68 @@
         "0": {
           "speaker": "リゼ",
           "original": "――はい。\\nじゃあ、それでお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "—--Yes. That’ll be all.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？\\nリゼちゃんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? It’s Rize-chan!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ん？　ココアか。\\nラビットハウスの制服でどうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Cocoa? What are you doing here in\\nyour uniform?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "お休みを長めにもらったから、\\nここでお昼にしようと思って。\\nリゼちゃんも？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I got a long break, so I thought I’d come here\\nto eat. Are you here for lunch too?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "ああ、今だけの限定メニューがあるって\\nシャロに聞いて、気になって食べに来たんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Sharo told me that there was a limited\\ntime special menu happening now, so I’m\\nhere to try it out.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えっ！　限定メニュー？\\n私も食べたい！　どれが限定なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! A limited time special menu? I wanna\\ntry it! What is it about?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "この、ホットケーキのセットメニューだ。\\nトッピングは自由に選べるってさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s this, a set of pancakes. You get to pick\\nyour favorite topping.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "へー、トッピングと合うハーブティーが\\nセットになってるんだ。\\nちゃんとお茶も楽しめるんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, a set of toppings plus matching herbal\\ntea. So they didn’t forget to include some tea.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ううー、どれもおいしそうだけど……\\nここはベリーソースかチョコレートかなぁ。\\nどっちにしよう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu, all of these look great. Should I go with\\nthe berry sauce or the chocolate... I can’t\\ndecide.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "だったらチョコレートを頼むといい。\\n私はベリーソースを頼んだから、わけてやるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You should pick the the chocolate. I already\\nordered the berry sauce, and we can share it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ホント！？\\nありがとう、リゼちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Thanks, Rize-chan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -86,14 +86,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "へえ、姿が見えないと思ったら、\\nシャロは外でチラシ配りをしてるのか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I don’t think I’ve seen Sharo around\\nhere. Do you think she’s handing out flyers\\nright now?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん、さっき会ってお話ししてきたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. I just had a chat with her.",
+          "status": "machine_translated"
         }
       }
     },
@@ -102,14 +102,14 @@
         "0": {
           "speaker": "ココア",
           "original": "そういえば、今日、\\nシャロちゃんはいないみたいだね。\\n残念。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, I haven’t seen Sharo-chan around\\nhere today. Unlucky.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、休みなのか。\\nそれとも外でチラシ配りでもしてるのかもな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither. I wonder if she has the day off.\\nOr maybe she’s handing out flyers right now.",
+          "status": "machine_translated"
         }
       }
     },
@@ -118,122 +118,122 @@
         "0": {
           "speaker": "フルール店員",
           "original": "お待たせ致しました。\\nホットケーキセットでございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for the wait. Here’s your pancake sets.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "わあ、きたきた！\\nおいしそ～う！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa! It’s time! This is mouthwatering!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "おお、すごく分厚いホットケーキだな。\\n食べきれるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, these are the thickest pancakes I’ve\\never seen. I wonder if I can finish all this?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "大丈夫！\\nこのホットケーキ、分厚いけどふわふわだよ。\\nいくらでも食べられちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won’t be a problem! It may be thick, but\\nit’s extremely fluffy. These will never fill you\\nup.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "どれ。\\nはむ……んん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s see. ＊chomp＊ Mmmm!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "こいつは……溶けてなくなる、と言うと\\n大げさだけど、確かにふわふわだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It... melts in your mouth! Well, maybe that’s\\nan exaggeration, but it’s certainly soft.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チョコレートは濃厚でクリームの味に負けないし、\\nハーブティーは渋めでスッキリ。\\nこれは絶妙な組み合わせだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The cream doesn’t quite overpower the\\nchocolate, and the bitterness of the tea\\nresets your palate. What an exquisite combo.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "こっちのベリーソースは酸っぱめだな。\\nそれがクリームとホットケーキの甘さに\\nマッチしている。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This berry sauce is really tangy. A perfect\\nmatch for the cream and the sweetness of\\nthe pancakes. ",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "……ベリーもおいしそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That does look good.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "わかってるって。\\nちゃんと約束通り、わけてやるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know what you’re thinking. I won’t break my\\npromise.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "えへへ～。\\nじゃあ、あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Okay, aaaah~",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "は？　なんだ？\\n口を開けて……なんの真似だ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What is your gaping mouth supposed\\nto mean?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "リゼちゃん食べさせて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, feed me!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "お、おいおい。\\n子どもじゃないんだから、自分で食べろよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Oh, stop that. You’re not a child, you can\\nfeed yourself.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "えー、せっかくなんだから。\\nあーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aww, it won’t hurt anything. Aaaaah~",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "まったく、仕方ないな。\\nほら、あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, if you insist. Here comes the airplane.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "んん～ん～！\\nすっぱい！　けど、おいしい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mmmm! It’s sour! In a good way!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "だろ？\\nベリーにして正解だったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? Berry was the superior choice.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "なにを～？\\n私のチョコレートだっておいしいんだからね。\\nほら、あ～ん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You take that back! My chocolate was good\\ntoo! Here, open wide!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "私もやれって言うのか！？\\nそんなことを……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You want me to do that too? There’s no way!",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,18 +247,18 @@
       "choices": {
         "*sel_0101": {
           "original": "このくらい、普通じゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn’t this perfectly normal?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "これも仕事だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is apart of your job!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "私が嫌いなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You hate me!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -267,20 +267,20 @@
         "0": {
           "speaker": "ココア",
           "original": "このくらい、普通じゃないかな？\\nそんなに恥ずかしい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn’t this perfectly normal? What’s to be so\\nembarrassed about?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "普通……なのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfectly...normal?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、千夜ちゃんともやったりするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup! Me and Chiya-chan do this sort of thing\\nall the time!",
+          "status": "machine_translated"
         }
       }
     },
@@ -289,14 +289,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "そ、そうなのか！\\nこれくらいは当たり前なのか……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You do? So that’s what girls do together\\nthese days!?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "あ、ああ、そうだな！\\n普通の女の子なんだから、\\nこんなことぐらい当然やるよな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, of course! I’m a totally normal girl, of\\ncourse I’d do something like that!",
+          "status": "machine_translated"
         }
       }
     },
@@ -305,20 +305,20 @@
         "0": {
           "speaker": "ココア",
           "original": "これも仕事だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is apart of your job!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "え？　仕事？\\nこれのどこが仕事なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? My job? How does this have anything\\nto do with my job?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ほら、ラビットハウスでも\\nこういうホットケーキを出す機会が\\n来るかもしれないし、味を研究しておかないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it. We might serve pancakes at\\nRabbit House some day, so you need to\\nstudy how they taste.",
+          "status": "machine_translated"
         }
       }
     },
@@ -327,14 +327,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "そういう可能性はゼロじゃないな、確かに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I guess there’s a non-zero percent\\nchance that ends up happening.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "私たちはただ他の店のメニューを\\n視察してるだけ……。\\nだったら、まあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re simply studying other cafe’s menus...\\nThat’s all...",
+          "status": "machine_translated"
         }
       }
     },
@@ -343,26 +343,26 @@
         "0": {
           "speaker": "ココア",
           "original": "私が嫌いなの？\\n私が嫌いだから食べないんでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You hate me!? You hate me so much that you\\nwon’t eat this!?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "お、おいココア！\\nそんな妙な言い方をするな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ho-Hold on, Cocoa! Don’t say that!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "私のこと嫌いじゃなかったら、\\n食べてくれるよね？　ね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you don’t hate me, you’ll eat this for me,\\nright? Right?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、わかった。\\nだから、そんなに騒ぐなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, fine. So don’t cause such a fuss about\\nit.",
+          "status": "machine_translated"
         }
       }
     },
@@ -371,44 +371,44 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、はい、あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, here it comes. Aaaaah~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "あーん。\\nもぐもぐ……。\\nうん、確かにチョコレートもおいしいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaah~ ＊om nom＊ Mmm, the chocolate is\\ngood too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "でしょ？\\nきっと、リゼちゃんと２人で食べてるから\\n余計においしいんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? I think it tastes better than usual\\nbecause we’re eating it together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ま、まあ、そうかもしれないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, maybe.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、次は私！\\nあーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, my turn again! Aaah~",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "こら、味見はもう充分だろ！\\n私の分も食べ尽くす気か？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on now, that’s enough for just taste\\ntesting. I’m not letting you finish all of mine.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fiiiiine.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "チノ",
           "original": "喫茶店ラビットハウスです。\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House. \\nPlease come for a visit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うんうん。\\nチノちゃんもこの格好に慣れてきたみたいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wonderful. It appears you've gotten used to \\nwearing this outfit as well.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "そういうココアさんはサボリですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, are you going to do something or \\njust watch?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ううん、お姉ちゃんとして、\\nチノちゃんの働いてる姿を見守ってたんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't misunderstand. Your big sister is \\nprotecting you by watching you work.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "それよりも、チラシ配りを優先してください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who cares about that, put your flyers first.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "はーい。\\n今のチノちゃんは厳しい教官みたいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fiiine. Chino-chan, you look like a strict \\ndrill sergeant right now.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "ちょうどいいです。\\nこの格好に合っていますし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what I like to hear. \\nThis outfit looks good on me after all.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだから次は私の番ね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is a great opportunity, so now it's my \\nturn to play the part!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "……あの、何がせっかくなのか\\n私にはさっぱり――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, I have absolutely no idea what makes \\nthis an opportune time...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "上官を呼ぶ時はサーを付けろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's Sir to you!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "い、いきなりなんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What's with this all of a sudden?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "え？　リゼちゃんの真似だよ？\\nほら、チノちゃんも合わせてみて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? C'mon, I'm being Rize-chan. Chino-chan,\\nplay along?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "合わせてと言われても、\\nいったいどうすれば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if I were to do so, I don't know what \\nyou expect me to...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "だから、上官を呼ぶ時はサーって付けるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're supped to say ”Sir” when referring to \\nyour superior officers, obviously.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "……サー、ココアさん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Sir, Cocoa-san?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "んー？\\nなんだかしっくりこないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Somehow that doesn't sound right.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "あ、それじゃ、お姉ちゃんでいってみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, instead of that, \\ntry saying ”Onee-chan”.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "はい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "上官を呼ぶ時はお姉ちゃんと呼べ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Say ”Onee-chan” when referring to your \\nsuperior officers!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "なんですかそれは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's with this now!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "どうした！\\n上官の命令が聞けないのか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's that? Are you disobeying an order \\nfrom your superior officer!?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "ココアさんがそういうつもりなら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay Cocoa-san, if that's how we're going to \\nplay...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "申し訳ありません。\\n上官のことをお姉ちゃんなどとは呼べません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My sincerest apologies. I cannot in good \\nconscience insult my superior officer by \\ncalling them ”Onee-chan”.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "ええ！？\\n上官命令なんだから呼んでいいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeh!? You're under orders, so you can \\ntotally do it guilt free!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "無理です。\\n失礼にあたりますので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must refuse. It would be a breach of \\netiquette.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "じゃ、じゃあ私、上官じゃなくていいから！\\nむしろチノちゃんが上官でいいから、\\nお姉ちゃんって呼んでよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "F-Fine, I won't be an officer anymore! \\nYou were always better at that part anyway! \\nSo I'm begging you, say ”Onee-chan”!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "なんだかもう滅茶苦茶ですね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a trainwreck this has become...",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House! \\nPlease come for a visit!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We take pride in our coffee! \\nPlease stop by whenever you'd like!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one! \\nIt's full of useful information!",
+          "status": "machine_translated"
         }
       }
     },

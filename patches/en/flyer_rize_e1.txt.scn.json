@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "女の子Ａ",
           "original": "ねえねえ、ほら！\\nあの人よ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pst, look! That girl over there!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "女の子Ｂ",
           "original": "うわぁ……。\\nホントにかっこいいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, she's so cool...",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,182 +28,182 @@
         "0": {
           "speaker": "リゼ",
           "original": "むっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リゼちゃん？　どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan? What did you notice?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "今、視線を感じた。\\n一体、何者だ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel like I'm being watched. Who is\\nafter me?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "えーっと……\\nあ、あそこの子たちじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh... Oh,\\nI think it's those girls over there.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "どうしてこっちを見てるんだ？\\nまさか敵か！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are they staring us down?\\nAre they working for the enemy?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "敵って何！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you mean the enemy!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "女の子Ａ",
           "original": "きゃあ、こっち見た！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh! She looked at me!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "女の子Ｂ",
           "original": "やだ、見つかっちゃう！\\n逃げよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our cover's blown! Let's make a run for it!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "あっ、逃げた！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They're running away!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "どうしたんだろうね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder what that was about.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "なあ、ココア。\\nやっぱり私は変な風に思われてるんだろうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be honest with me, Cocoa.\\nDo people think I'm weird?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "え？　なんで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Why do you ask?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "だから、私が変で目立っているから……\\nああやって逃げられるんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel like they ran away 'cause\\nI stand out too much. Am I wrong?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そんなことないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't be ridiculous!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "いや、いいんだ。\\n無理に励ます必要はない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please give it to me straight.\\nI want your honest opinion.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "学校でもあんな感じで、\\n下級生に遠巻きにされる時があるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's the exact same at school. I feel like\\nmy juniors are always watching from afar.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "やっぱり……いくら取り繕っても\\nにじみ出る何かがあるんだろうか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have a hunch. No matter how\\nhard I try to hide it, they still\\nget a weird feeling about me.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うーん、そうかな？\\nあの子たちは、リゼちゃんから\\nチラシをもらいたかったんだと思うよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. You really think that? I\\nthink they just wanted to get a\\nflyer from you, nothing more.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "なんか、そんな感じでもじもじしてたし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You saw how they were\\nsquirming with anxiety.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "じゃあ、どうして見つかった途端に逃げるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So why did they run away?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "それは謎だね。\\nもしかして、リゼちゃんに見つめられると\\n心を奪われちゃうとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't have the answer. Maybe\\nthey think you'll steal their\\nhearts if you make eye contact?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "できるわけないだろ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if I had that power!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "リゼちゃんに見つめられると\\n石になっちゃうの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you can turn people\\nto stone with your gaze!?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "私は怪物じゃない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not Medusa!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "じゃあ、どんな力を秘めた目なの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then tell me what your secret power is!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "そもそも秘めてない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There is no secret power!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "……あはは！\\nまったく、ココアと話してると気が楽になるよ。\\nありがとな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! Goodness, you always manage to\\ndistract me from my worries. Thanks again.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "え？　なんで私、お礼言われるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What'd I do?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "いいから、受け取っとけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just take the compliment.",
+          "status": "machine_translated"
         }
       }
     }

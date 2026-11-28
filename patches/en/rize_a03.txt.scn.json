@@ -6,116 +6,116 @@
         "0": {
           "speaker": "リゼ",
           "original": "（しまったな。\\n　学校でシャロに声をかけるつもりだったのに\\n　タイミングを逃してしまった）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uh oh. I meant to talk to Sharo while we were still at school, but I lost my chance.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（もう帰ってしまったらしいが……\\n　今日もフルールでバイトだろうか？\\n　ちょっと寄ってみるか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Looks like she's gone home already. But maybe she's working at Fleur today? I'll try seeing if she's there.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "いらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "って、リゼ先輩！\\nどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, Rize-senpai!? What are you doing here?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "急に悪いな。\\n学校で声をかけようと思っていたんだが、\\nなかなかタイミングが合わなくて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry to drop by so suddenly. I wanted to talk to you at school, but I never got the chance.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ここなら会えるかもしれないと思って、\\nバイトに行く前に寄ってみたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought I might bump into you here, so I decided to swing by before work.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "す、すみません！\\nわざわざ足を運ばせてしまって、私ったら～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I beg your forgiveness! What was I thinking, making you walk all the way out here like that!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "いや、シャロが謝ることじゃないだろ。\\nそれに大した用事でもないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't sweat it, it's nothing you need to apologize over. And the reason I'm here isn't very important either.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "実は、クリスマスパーティーの役割分担について、\\n念のために確認しておきたくて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, I want to double check if everyone is okay with the Christmas party work I have scheduled for them.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "そのために、今度の週末、\\nまたチノの家でお泊まり会をして\\nみんなで話し合いをしたいと思っているんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And in order to do that, I thought we'd have another sleepover at Chino's place this weekend.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "あの、それって昨日、\\nメールでいただいたことですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, so is this about the thing you messaged me about yesterday?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ああ。\\nまあ、さっきも言ったけど念のためだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. Well, I guess I already told you, but I wanted to check with you in person.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "どうした？\\nもしかして、週末は都合が悪いのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it? Will you not have time this weekend?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "いえ、お泊まり会は大丈夫ですけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'll be fine with the sleepover...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "その、メールでいただいたことを\\nわざわざ確認に、なんて……\\n私ってそんなに信用ないんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Coming to make sure I got a message... Do I really seem that unreliable to you?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "ええっ！？\\nちょ、ちょっと待て！\\n別にそういうわけじゃないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeh!? Hang on a minute! Don't take it that way!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "でも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "（まずい、シャロが見るからに落ち込んでる。\\n　なんとかしないと……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uh oh. Sharo's visibly getting depressed. I need to do something...)",
+          "status": "machine_translated"
         }
       }
     },
@@ -123,24 +123,24 @@
       "select_prompt": {
         "speaker": "リゼ",
         "original": "（まずい、シャロが見るからに落ち込んでる。\\n　なんとかしないと……）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Uh oh. Sharo's visibly getting depressed. I need to do something...)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "私はシャロを信頼しているぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know I trust you.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "責めてるわけじゃないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not blaming you over it.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "そうネガティブに考えるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't think so negatively all the time.",
+          "status": "machine_translated"
         }
       }
     },
@@ -217,38 +217,38 @@
         "0": {
           "speaker": "リゼ",
           "original": "責めてるわけじゃないんだ。\\n……私の言葉が信じられないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not blaming you over it... Won't you believe me?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "そ、そんなことありません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I believe you!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "なら、信じてくれ。\\n私はあくまで確認に来ただけなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then believe me. I'm only here to make sure you got the message.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "……わかりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Got it.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "（うーん、まだ腑に落ちないといった感じだな……。\\n　まあ、これ以上この話を広げても\\n　意味はないだろう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hm, I'm still not buying it. But I don't think there's any use in continuing to try and convince her.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "とにかく、お泊まり会は大丈夫なんだな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So anyway, you're clear to participate in the sleepover, right?",
+          "status": "machine_translated"
         }
       }
     },
@@ -319,68 +319,68 @@
         "0": {
           "speaker": "シャロ",
           "original": "はい、問題ないです。\\nたとえあったとしても、\\n先輩とのお泊まり会が最優先ですから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, there won't be any problem. And even if there was, a sleepover with Senpai would get the highest priority!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "そこまで！？\\nいままでのお泊まり会、\\nそんなに楽しかったのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's that important!? Were you really looking forward to the sleepover that much!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "はいっ！\\nまたできて嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! I'm overjoyed we get to do another one!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、ココアやチノもそう言っていたよ。\\nも、もちろん、私もそう思ってるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, Cocoa and Chino said the same thing. A-And of course I feel the same.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "も、もし、みんなで集まるのは難しくても……\\nリゼ先輩の都合のつく時に、\\nお泊まり会を２人きりでなんて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-And maybe the others won't be able to come... And if Rize-senpai is down, the sleepover could be just the two of us...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "って、２人きりなんて無理～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I take it back, there's no way I could do that!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "うわっ！？\\nいきなりどうしたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wha!? What was that for?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ななな、なんでもないです！\\nもう、私ったらいけない想像を～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I-I-It's nothing! Ahh! I shouldn't be having these types of thoughts!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "いけない想像！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of thoughts!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "とととと、とにかく！\\nお泊まり会、楽しみにしてます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AaAaAaAnyway! I'm really looking forward to the sleepover!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "あ、ああ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay.",
+          "status": "machine_translated"
         }
       }
     }

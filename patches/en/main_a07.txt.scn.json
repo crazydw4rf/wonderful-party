@@ -6,74 +6,74 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふう～、いいお湯だったな～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ahhh~ What a nice bath that was!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あとは寝るだけだけど、その前に……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(All I have left is to go to sleep, \\nbut before that...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃんのお誕生日のこと、\\n　みんなにメールしよっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I have to message everyone about \\nChino-chan's birthday!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃんのお誕生日をお祝いしたいから\\n　協力してください――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm going to celebrate Chino-chan's \\nbirthday and I want everyone's cooperation...)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（送るのは、リゼちゃんと千夜ちゃんと\\n　シャロちゃんと、それに\\n　マヤちゃんとメグちゃんかな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'll send this to Rize-chan, Chiya-chan, \\nSharo-chan, and maybe even to Maya-chan \\nand Megu-chan?)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（これでよしっと！\\n　みんな、きっと協力してくれるよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And there it goes! No doubt everyone \\nwill lend a helping hand.)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（わわっ！？　もう返事が来た！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(!? Already a reply!?)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、シャロちゃんだ！\\n　もちろん協力するって……やったぁ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah, it's Sharo-chan! \\n“Of course I'll help,” she says... Nice!)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（他のみんなも、こんなに早く\\n　返事をくれるなんて……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm getting instant replies from everyone...!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア（Ｍ）",
           "original": "（感激だよぉ～！\\n　チノちゃんがこんなに愛されてて\\n　お姉ちゃん嬉しいっ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This is moving! As her big sister, \\nI can't help but be overjoyed that Chino-chan \\nis so deeply loved by everyone!)",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（これは、ますます頑張らなくちゃ！\\n　みんなの想いを無駄になんて\\n　絶対できないよっ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This means I'll have to put in even \\nmore effort! There's no way I can let \\neveryone's consideration go to waste!)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（お誕生日と言えば、まずはプレゼントかな？\\n　うーん、何がいいかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(When you say birthday, the first thing \\nthat comes to mind is birthday presents. \\nHmm, I wonder what it should be?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,24 +81,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（お誕生日と言えば、まずはプレゼントかな？\\n　うーん、何がいいかな？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(When you say birthday, the first thing \\nthat comes to mind is birthday presents. \\nHmm, I wonder what it should be?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "手作りボトルシップ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A handmade ship in a bottle?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "新しいパズル？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A brand-new puzzle?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "焼き立てのパン？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Some fresh bread?",
+          "status": "machine_translated"
         }
       }
     },
@@ -107,8 +107,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（手作りボトルシップ？\\n　チノちゃん、ボトルシップが大好きだよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A handmade ship in a bottle? \\nChino-chan really does love those things.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,14 +117,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（うー、でもあんなに細かい物、\\n　私に作れるかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm, but it seems complicated. \\nI wonder if I can make something like that?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？　そもそもボトルシップって\\n　組み立てるのが楽しいのかな？\\n　だったら手作りの物を贈ってもだめ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait. Isn't the fun part supposed to be \\nputting the ship together? If so, is there \\nany point in using it as a gift?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -133,8 +133,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（新しいパズル？\\n　チノちゃん、ジグソーパズルが趣味だから\\n　いくつあっても喜ばれるよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A brand-new puzzle? Chino-chan \\nloves jigsaw puzzles. I doubt she'll get bored \\nno matter how many of them she has.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -143,8 +143,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、でも、\\n　お誕生日っていう特別な感じがないかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm. But, for a birthday present, \\nI can't say that a puzzle has a very \\nspecial feeling behind it.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -153,14 +153,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（焼き立てのパン？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Freshly baked bread?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（って、それはいつもあげてるから\\n　特別なプレゼントにならないよ～！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait, I bake bread for her all the \\ntime. That wouldn't be a special present at \\nall!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -169,26 +169,26 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ううーん……。\\n　他には……思いつかないな……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm... I can't think of anything else...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、すぐに決めなくていいか。\\n　じっくり考えて、みんなの意見も聞いて\\n　チノちゃんが喜ぶ物をプレゼントしなくちゃね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Well, there's no rush. I'll think \\nabout it and ask for everybody's help to \\nmake sure she gets something she'll love.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（じゃあ、今日はもう寝ようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(With that, it's finally time for bed.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（おやすみなさい。\\n　明日もいい日でありますように！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Good night. I pray tomorrow will be \\nanother wonderful day!)",
+          "status": "machine_translated"
         }
       }
     }

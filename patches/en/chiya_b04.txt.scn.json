@@ -6,236 +6,236 @@
         "0": {
           "speaker": "メグ",
           "original": "うーん、なかなか見つからないねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. We're not finding anything.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "でも、この辺りにあるのは確かなはずよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'm quite confident \\nthat it's in this area.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "諦めずに探せば、きっと見つかるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're sure to find it so \\nlong as we don't give up.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "なー、千夜。\\nお宝の目印はうさぎの刻印だったよな？\\nもしかして、これ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yo, Chiya. The mark of the treasure \\nis a rabbit logo, right? Is this it?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ええー！？\\nマヤちゃん、いつの間に見つけたの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Maya-chan, when did you find this?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "へっへーん！\\nそこの植え込みがなんか匂うと思ってさ。\\n探したら、案の定、出てきたんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh. I thought there was something fishy about \\nthat shrub. I decided to check it out, \\nand sure enough this thing was there.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "うさぎの刻印が付いてるわ。\\n間違いないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This has the rabbit insignia. \\nThere's no mistaking it.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "マヤちゃん、すご～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan, that was amazing!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ああっ！\\n私としたことがマヤちゃんに負けるなんて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Argh! I can't believe I let Maya-chan \\nbeat me to it!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "てってれ～！\\nココアに勝ってレベルアップだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tettere! I have defeated Cocoa and leveled up!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "うう……！\\nもはやここまで～！　がくっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah! My journey ends here... ＊death gargle＊",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "ふふふ、いつの間に勝負になってたのかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. I didn't realize this had become \\na competition.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "ねえねえ、そんなことより\\n早く開けてみようよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Enough about that. Hurry up \\nand open the thing already!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "どきどきしてきた～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm so excited!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "それじゃ、開けるよ！\\nよいしょ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'm going to open it. Here we go...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "マヤ",
           "original": "あれ、紙が入ってる。\\nこれがお宝？　なんか地味じゃね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there's just paper inside? Is this \\nsupposed to be the treasure? Kinda lame.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "メグ",
           "original": "レシピなんだからおかしくないよ～。\\nこの紙に書いてあるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we're looking for a recipe, \\nthen this is what we'd expect. \\nDid we find the recipe you're looking for?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "あら……。\\nこれは、手書きの地図ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh. It's a hand-written map.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ええっ！？　また？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seriously? Again?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "またって？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you mean again?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "実はね、この前にも宝箱を見つけたのだけど、\\nそこには地図が入っていたの。\\nそれが示したのが、この宝箱なのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, we already found a treasure chest, \\nwhich is where we found this map. That's \\nwhat led us here, to this treasure chest.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "地図に従って宝箱を見つけたら地図が入っていて、\\nさらにその地図に従って宝箱を見つけたら、\\nまた地図が入っていた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We followed a map to a treasure chest with \\na map inside. Now we've followed that map \\nto another chest with another map inside.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "これは、永遠に地図が見つかる流れね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It appears we've entered into an infinite \\nrecursion of maps.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "地図の無限ループ！？\\nそんなの困るよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An infinite loop of maps? \\nWhat are we going to do now!?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "メグ",
           "original": "あのね、ココアちゃん。\\n永遠っていうのは困るけど、あと何回かくらい\\nだったら、私、地図でもいいかなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Cocoa-chan? Infinite maps might be \\nproblematic, but I personally won't complain \\nif it's just a few more maps.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "マヤ",
           "original": "そうだよな！\\nココアたちともっと宝探ししたいよ。\\n一緒に冒険って楽しいじゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree! I want to continue the quest with you \\ntwo! I'm having fun on this adventure!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "メグ",
           "original": "ココアちゃんや千夜さんと一緒に\\nこうして遊んだこと、あんまりなかったし。\\nえへへ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Besides, I haven't really had a chance \\nto get to know you two yet. Ehehe~",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "マヤちゃん、メグちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan, Megu-chan!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "そう言ってもらえると嬉しいわ。\\nそれじゃ、もう少し頑張ってみましょう、\\nココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm glad you two are enjoying this. \\nLet's keep going a while longer, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "うんっ！\\n次の宝箱も一気に見つけちゃおう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Let's speedrun the next treasure chest!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "マヤ＆メグ",
           "original": "おーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oorah!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "あ、でも、その前に……\\nそろそろお昼の時間じゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but before we do that... \\nHave you noticed it's almost lunchtime?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "お弁当作ってきたから、これからに備えて\\nまずは腹ごしらえしましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've brought some lunch with me. \\nLet's refill the tank before we continue.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "あ、もうそんな時間なんだ。\\n私もお菓子持ってきたし、みんなで食べよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, would you look at the time. \\nI brought some candy with me. Who wants some?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "メグ",
           "original": "私たちもご馳走になっちゃっていいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you mind if we have some?",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "ええ、たくさん作ってきたから大丈夫よ。\\nむしろ食べてもらえるならありがたいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't mind, I made plenty. \\nI'd appreciate it if you helped us eat it all.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "マヤ",
           "original": "やりぃ～！\\nおべんとおべんと～♪",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My lucky day! Free food, free food♪",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "メグ",
           "original": "ありがとうございます！\\n千夜さんのお弁当、楽しみ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much! I've always wanted \\nto try your food, Chiya-san.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "千夜",
           "original": "それじゃ、公園に行って休憩にしましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent. Let's visit the park \\nand take a lunch break.",
+          "status": "machine_translated"
         }
       }
     }

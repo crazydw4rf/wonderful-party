@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "むむむ！\\n風に乗ってやってくるこの香りは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mumumu! \\nWhat's this enchanting smell that's \\ncome flying to me on the breeze!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "匂う、匂うよ。\\n上質な小麦と酵母が奏でるハーモニー、\\nそして、それを香ばしく焼き上げる香りが……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Smell it, smell it! The freshly baked scent\\nof the harmonious cooperation of premium\\nbaking flour and yeast!",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,158 +28,158 @@
         "0": {
           "speaker": "シャロ",
           "original": "つまりはパンの匂いね。\\nそんな匂い、する？　気のせいじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, the scent of bread. \\nIs that what you smell? \\nIt's probably all in your head.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "違うよ！\\nおいしそうなパンの匂いが、\\nこっちから流れてきてる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I really do smell some! The scent of \\ndelicious bread is drifting in from over \\nthere!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "あ、ちょちょ、ちょっと！\\n引っ張らないでよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, w-wait! \\nQuit pulling on me!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ほら、ここ！\\nやっぱりあったでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, there it is! \\nI knew there was some bread around here!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "はあ……。\\nよく、こんな遠くにある\\nお店の匂いがわかったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊\\nI'm impressed you could detect the \\nscent of this bakery from so far away.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "わかるよ、こんなにいい匂いなんだから。\\n思ったとおり、かわいいパンがいっぱ～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course I could detect it, it's such a\\nwonderful smell! Just as I predicted, it's a\\nwhole lineup of cute loaves of bread!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "かわいいって……パンが？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The bread...\\nis cute?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うん、そうだよ。\\nパンって、すっごく！　かわいいよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, that's right! \\nThe bread is super, duper cute!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "かわいいかしら？\\nでも、まあ、趣味は人それぞれだし\\n私が口を出すことじゃないわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it really? Well, everybody's got their \\nown fetish, who am I to judge.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "……は！？\\nもしかしてあれは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊\\nIs that what I think it is!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "え、シャロちゃん！？\\nどこ行くの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Sharo-chan? \\nWhere are you going!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれは……テーブルウェアのお店？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That seems to be a... tableware shop?)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "す、すごいわ！\\nこのシリーズがここまで揃っているなんて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Incredible! \\nI can't believe they've got the entire \\nseries available here!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "これって珍しいものなの？\\n普通のティーカップに見えるけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is there something special about this? \\nThey just look like any old teacups...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "白磁の質が違うのよ。\\n見て、このぬけるような、上品な白さ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This an exceptional grade of porcelain! \\nLook, it's so white it's almost see-through!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "へぇ～。\\nなるほど、言われてみれば気品があるような――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuuuh. \\nI see. Now that you mention it, \\nI guess it does look pretty refined?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "わかる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You get it!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "……気がするだけかも。\\nごめんね、私にはわかんないや。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Probably not. \\nSorry, I don't really get it.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "そ、そうよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, probably not.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "けど、シャロちゃんが\\nこの陶器が大好きだってことはわかったよ？\\n好きなものがあるって、とってもいいことだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I understand how much you love this \\nchinaware. I think it's great that you're \\ninto this so much.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "……ええ。\\nココアもパン見ている時、キラキラしてたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Yeah. When you saw that bread, \\nyou really started to shine too.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "目が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My eyes?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "じゃなくて、ヨダレが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, your drool.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うそ！？\\nヨダレ出てたの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No way! I was drooling!?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "うそよ。\\nふふふっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just kidding. \\nHehehe!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "も～！\\nシャロちゃん、ひどいよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh! \\nThat wasn't very nice of you, Sharo-chan!",
+          "status": "machine_translated"
         }
       }
     }

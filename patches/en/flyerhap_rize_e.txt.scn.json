@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "やっぱり軍服姿はリゼちゃんが１番だね。\\nぴしっとしてて、とっても似合うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan looks the best in this\\nuniform, as expected. You look\\nsharp in it! It fits you perfectly!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,302 +34,302 @@
         "0": {
           "speaker": "リゼ",
           "original": "そ、そうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "はいっ！\\nホント、今の先輩は輝いています！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep! Senpai, you're shining bright!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "同じ服なのに、私たちとは違う気がしますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Despite wearing the exact same\\nuniform, the rest of us give\\noff a completely different aura.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ええ。\\n間違いなく、階級が高く見えるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. There's no mistaking\\nthat she outranks us.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "では今から、リゼちゃんが\\n我々の司令官であります、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, from this point onward Rize-chan is\\nour superior officer! Sir!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "わ、私が司令官か！？\\nよし、では――びしびし行くぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm the officer? Say no more!\\nI won't go easy on you!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ではさっそく、チラシ配りの作戦を\\n教えてください、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please tell us our battle plans\\nfor these flyers, Sir!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ええっ？\\nそ、それは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!? I never said I'd...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア＆チノ＆千夜＆シャロ",
           "original": "じーっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "そ、そうだな……。\\nでは――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "F-Fine. Here I go...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "最もチラシを配った者に、勲章を授与する！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The one to hand out flyers the fastest gets a\\nmedal!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "勲章？\\nそれってよく頑張ったっていうご褒美だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A medal? You'll reward us for our hard work?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "まあ、かみ砕いて言うとそういう感じだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, you could put it that way.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ご褒美！\\nやった、楽しみだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A reward! Yes! I want it!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "そうか？\\nそんなに嬉しいか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you that happy about it? Good to hear.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ええ、１番頑張ったんだって\\n褒められるんだから、嬉しいものよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course we are. Everyone likes it when\\ntheir exceptional effort earns some praise.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "私も、リゼさんの勲章、欲しいです。\\nココアさんには負けません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I, too, am interested in earning your medal. I\\ncan't allow it to fall into Cocoa-san's hands.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "ココアにも千夜にも、チノちゃんにだって\\nリゼ先輩の勲章は渡さないわ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So I'm up against Cocoa, Chiya, and\\neven Chino-chan? So be it. Rize-senpai's\\nmedal will be mine, all mine!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "よし！　みんな、気合が入ったようだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright!\\nIt sounds like everyone's got the spirit!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "では、今から１時間で\\nどれだけチラシを配ったかを競うことにする。\\n１時間後、ここに戻ってくるように！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The contest will be over who can hand out\\nthe most flyers in the next hour. Return\\nhere after sixty minutes have passed!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "よし、それじゃ、結果を見させてもらおう。\\nまずチノは……\\nおお、なかなか減ってるじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Time's up! Time to view the\\nresults. Starting with Chino... Oh,\\nnice, you've made good progress.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "本当はもっと配りたかったのですが……\\n上手くいきませんでした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I really wanted to do better than this...\\nI can't say I'm happy with my performance.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "千夜は……\\nあれ、チノより残り枚数が多いぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And Chiya... Darn,\\nyou have more remaining than Chino.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "張り切りすぎて、途中で疲れちゃって……\\nここまで歩いてくるのも大変だったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I tried too hard at the beginning and burned\\nout. I had trouble just walking back here.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "次はシャロか。\\nへえ、もう残りわずかじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see how Sharo did. Huh,\\nyou've got barely any left over.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "はい、全力で配りました！\\nこれでリゼ先輩の勲章は私のものですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep! I gave it my all!\\nThat medal of yours is all mine!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "まだわからないぞ？\\nココアがいるからな。\\nよしココア、見せてみろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We can't say for sure until we check on Cocoa.\\nYou heard me Cocoa, show us how you did.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "じゃーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ta-da!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "って、何？\\nなんで手を広げて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's that supposed to mean?\\nWhere are your flyers?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "全部、配り終わりました～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I did all of them!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "ええええええ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaaaaaaaat!!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "す、すごいです、ココアさん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Impressive, Cocoa-san.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "シャロちゃん、残念だけど\\nココアちゃんの勝ちみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry Sharo-chan,\\nit looks like Cocoa-chan has achieved victory.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "ううう……。\\nリゼ先輩の勲章が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuuuuu~ Rize-senpai's medal...",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "リゼ",
           "original": "よし、ココアには約束通り勲章を渡そう。\\n気に入ってもらえるかわからないが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, here's your medal, as promised.\\nI'm not sure if you'll like it, though...",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "うわあ～！\\nこれってコサージュ？\\n１時間で作っちゃったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Is this a corsage?\\nYou seriously made this in just one hour?",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "あ、ああ。\\nそこの花屋で花を買って\\n即席で作ったんだが……どうだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, yes I did. It's something I made on\\nthe spot from flowers from the florist\\nacross the street. Do you like it?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "きれいでかわいい～！\\n頑張ったかいがあったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's so pretty! My hard work was worth it!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "シャロ",
           "original": "ホント、かわいい……。\\n私も欲しかった……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it looks so good. I want one too...",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "チノ",
           "original": "私もです……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too...",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "千夜",
           "original": "ええ、残念ねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too. Unlucky for us.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "リゼ",
           "original": "あの、それでな？\\n実は努力賞も用意したんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, lucky you.\\nI made some participation prizes as well.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "シャロ",
           "original": "努力賞ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A participation award?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "リゼ",
           "original": "３人のコサージュも用意してあるんだ。\\nほら、受け取ってくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I made three more for the rest of you.\\nPlease, take them.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "チノ",
           "original": "えっ……！\\nあ、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really! Thank you very much.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "千夜",
           "original": "まあ、緑と白の花の組み合わせだなんて。\\nかわいいわ、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, the green and white looks fantastic\\ntogether. How adorable. Thanks.",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "シャロ",
           "original": "リゼ先輩……！\\nありがとうございますっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai! Thank you so very much!",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "リゼ",
           "original": "ココア。\\nなんていうか……悪いな。\\n結局、全員に渡すことになってしまって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, I suppose that wasn't very fair\\nfor you. When everyone gets a prize,\\nyour win doesn't count for much.",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "ココア",
           "original": "ううん、みんな頑張ったんだから\\nみんながもらっていいんだよ。\\nさすが、リゼちゃんは優しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't care, they all worked hard and earned\\nit! You're such a nice person, as always.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "リゼ",
           "original": "ありがとう、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

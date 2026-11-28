@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？\\nなんだろう、この匂い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mmm? What is this that I smell right now?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……いい匂いです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...It's quite a nice smell.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "わかった！\\nこれ、シチューの匂いだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I figured it out! This is the smell of stew.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そろそろ夕飯の時間ですから。\\nどこか近くで作っているんでしょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's just about suppertime, so someone from \\naround here must me making some.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そっかー。\\nもうそんな時間なんだぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That makes sense. So it's gotten that late \\nalready.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "……お腹減ったかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I might be getting a tad hungry.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "……まあ、わからなくはありませんけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Well, I can't say you're alone on that.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "でしょ？\\n今日の夕ご飯はシチューにしよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You too? Then let's go and make some stew for \\ndinner tonight.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "シチューですか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stew, huh...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "そうですね。\\nこの匂いをかいでいたら、\\n私もシチューを食べたくなってきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a bad idea. That smell has made me want \\nsome stew as well.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ところで……ニンジンは抜きでいいよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While we're at it, do you mind if we make it \\nwithout any carrots this time?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "好き嫌いはだめです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't be picky.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "そんな～。\\nチノちゃんだってニンジンは残すのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nooo! And you're always leaving your carrots \\nunfinished!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "それはそれです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That has nothing to with it.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "んー、ニンジンかー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, so carrots it will be...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ねえ、チノちゃん！\\n今日だけは２人で、頑張って食べてみない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How about this, Chino-chan? Just for today, \\nlet's work together and fight to finish \\noff those carrots.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "どうしたんです、いきなり？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's with that announcement all of a sudden?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "だって、今日の私たち、\\nこんなふうにうさ耳をつけてるんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you see, we're wearing these bunny ears \\ntoday.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "いわば、うさぎになってるわけ。\\nだったらニンジンくらい食べられないと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In other words, we've become rabbits. What \\nkind of rabbit hates eating carrots?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "どういう理屈ですか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the most random reason I've ever heard...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "何事も形からだよ！\\n今の私たちならきっと食べられるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You have to begin by looking the part! I have \\nfull confidence we can eat it all today!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "形から……。\\nなんだか、千夜さんみたいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Looking the part? I get the feeling only \\nChiya-san ever says that.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "でも、確かに、いいきっかけかもしれません。\\n好き嫌いは直さないといけませんし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I admit this is as good a chance as any. \\nWe have to get over being picky eventually.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うん！\\nチノちゃん、一緒に頑張ろうね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Amen! Chino-chan, let's do our best!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's do our best.",
+          "status": "machine_translated"
         }
       }
     }

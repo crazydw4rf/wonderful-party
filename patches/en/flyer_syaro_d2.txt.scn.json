@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん。\\nこの辺り、人が減ってきたみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. It looks like there's nobody left \\naround here.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "そうね。\\n別の場所に移動した方がいいかもしれないわ。\\nとりあえず、あっちに行ってみましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it seems. We should probably move \\nsomewhere else. How about we go that way?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "って、何見てるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait, what are you looking at now?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うわあああ～。\\nもふもふ天国だぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaaaa~ It's cuddle heaven!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "え！？\\nまさか、うさぎ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? No way, rabbits!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "……ああ、なんだ。\\nぬいぐるみショップじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh, that's it. \\nJust a stuffed animal shop.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "こんな所で油売ってる暇はないわよ。\\nチラシはまだ残ってるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're burning daylight standing around here. \\nWe've still got a ton of flyers to get rid of.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "はうううう～。\\nこの子猫、思った通りの\\nもふもふ具合、たまらないよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauuuuu~ This little kitten is just as fluffy \\nas it looks! I can't stand how good this \\ncuddly texture is!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "こっちの犬のぬいぐるみも\\n柔らかくてふわふわだぁ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And this stuffed puppy is is so soft and \\nfluffy~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "もう、まだ仕事中でしょ？\\n本当にもふもふしたものには目がないんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, you're still working right now. You \\nreally will fall for anything, so long as \\nit's cuddly.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ！\\nシャロちゃんにぴったりの子、見つけたよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Sharo-chan, I found someone who's \\nperfect for you!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "ひっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "じゃーん！\\n見て、あんこそっくりだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tadaa! Look, it looks just like Anko!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "や、やめてよ！\\n近づけないで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop it! \\nDon't get any closer!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ほらほら、この毛並み、無表情な顔、\\n動かないところもあんこそのものだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is really good! The texture of its fur \\nand the expressionless face make it seem \\nexactly like Anko! It's even motionless!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "い、い、嫌ぁぁ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-N-Nooooooooooo!!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "だめだよ、シャロちゃん！\\nうさぎに慣れる訓練しなきゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not the spirit, Sharo-chan! You need \\npractice getting used to being around bunnies!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "嫌っ！\\nそれ以上近付けたら、舌をかむから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No! If you get any closer, I'll bite my \\nown tongue!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うーん、このあんこは絶対にかまないから\\n慣れるのにちょうどいいと思ったんだけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aww. This Anko won't bite you no matter what, \\nso I thought it'd be perfect for you to \\npractice on...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "うう……。\\nもしかして、面白がってるわけじゃないわよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... \\nYou're not picking on me right now, are you?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "まさか！\\nシャロちゃんがうさぎに慣れるお手伝いだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all! I'm just trying to help you \\novercome your fear of rabbits.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "気持ちだけで充分だから！\\n私、違う場所でチラシ配るっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please stop at just the sentiment! I'm gonna \\ngo hand out these flyers somewhere else.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（ああ、行っちゃった。\\n　あんことシャロちゃん、少しでも\\n　仲良くなれたらって思ったんだけどなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Aw, there she went. And here I thought \\nwe could finally smooth over the relations \\nbetween Anko and Sharo-chan.)",
+          "status": "machine_translated"
         }
       }
     }

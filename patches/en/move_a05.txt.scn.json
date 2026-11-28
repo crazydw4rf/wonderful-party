@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（どうしようかな？\\n　本屋さんに行こうかな？\\n　あ、でも、服を見るのもいいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What to do, what to do. Shall I visit a\\nbookstore? Or maybe go window shopping\\nfor clothes?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……ん？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Wait. Who’s that?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,92 +22,92 @@
         "0": {
           "speaker": "リゼ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、リゼちゃんだ！\\n　こっちに気づいてないみたいだし、\\n　こっそり近づいておどかしちゃおうっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, it’s Rize-chan! I don’t think she’s noticed\\nme yet. I’m gonna sneak up on her and scare\\nher!)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（抜き足、差し足、忍び足で……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Tiptoe, tiptoe, tiptoe...)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "むっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？　リゼちゃんが消えた！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What the? Rize-chan has vanished!)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "何者だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who the hell are you!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うひゃあ！？\\n撃たないで、撃たないで～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Don’t shoot! Don’t shoot!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "なんだ、ココアか。\\n驚いたじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it’s you. Don’t scare me like that.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "驚いたのはこっちだよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re the one doing all the scaring!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "でも、そうやって即座に\\nバッ！　って反応するの、格好いいね。\\nさすがはリゼちゃんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, I’m impressed at how you manage\\nto react at a moment’s notice like that. Only\\nyou could do such a thing, Rize-chan!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "私もそんなふうに格好よく\\nジャキン！　ってやってみたいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I wish I could look cool by suddenly\\nwhipping out that thing too.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "そうか？\\nまあ、こいつを貸すのは危険だからだめだけど、\\n使い方ぐらいなら教えてやってもいいぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You do? Well, I don’t feel safe lending this to\\nyou, but I don’t mind teaching you how to use\\nit.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "いいの？　教えて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don’t? Teach me please!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "よーし、私の知る全てを教えてやる！\\n当然厳しく行くぞ！　覚悟はいいか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I’ll teach you everything I know! But I\\nwon’t go easy on you. Do you have what it\\ntakes?",
+          "status": "machine_translated"
         }
       }
     },
@@ -121,18 +121,18 @@
       "choices": {
         "*sel_0101": {
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, sir!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "もちろん覚悟はできてるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course I can handle it!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "やさしくしてね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be gentle with me.",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,8 +141,8 @@
         "0": {
           "speaker": "ココア",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, sir!",
+          "status": "machine_translated"
         }
       }
     },
@@ -151,20 +151,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "気合いは充分だな、気に入った！\\nビシビシしごいてやるぞ！\\nこの訓練をクリアしたら、お前も一人前だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just what I like to see! I’m going to whip you\\ninto shape! Passing my training course is\\nsure to make a solider out of you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "イエッサー！\\nありがとうございます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, sir! And thank you!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "よーし、では始めるぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, let’s begin!",
+          "status": "machine_translated"
         }
       }
     },
@@ -173,20 +173,20 @@
         "0": {
           "speaker": "ココア",
           "original": "もちろん覚悟はできてるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course I can handle it!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "本当だろうな？\\nちゃんとついてこれるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you sure? Are you really confident you\\ncan keep up with me?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ついていくよ！\\nリゼちゃんみたいに格好よくなれるなら\\n頑張り抜いてみせるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can keep up! If it means I can become cool\\nlike you, I’ll struggle on the very end!",
+          "status": "machine_translated"
         }
       }
     },
@@ -195,8 +195,8 @@
         "0": {
           "speaker": "リゼ",
           "original": "その言葉を忘れるな！\\nこれから向かうのは地獄だからな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Never forgot those words of yours! We’re on\\nour way to hell and back!",
+          "status": "machine_translated"
         }
       }
     },
@@ -205,26 +205,26 @@
         "0": {
           "speaker": "ココア",
           "original": "やさしくしてね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be gentle with me.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おい、やる気あるんだよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, are you taking this seriously?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、あるよ？\\nあるんだけど……やる気だけじゃ\\nどうにもならないことって、あるよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I am serious! I am, but... some things are\\nimpossible, no matter how seriously you take\\nthem. Right?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "まあ、確かにな。\\nそれじゃ、ココアに合わせたやり方にしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I can’t deny that. Fine, I’ll use a method\\nthat’s closer to your level.",
+          "status": "machine_translated"
         }
       }
     },
@@ -233,158 +233,158 @@
         "0": {
           "speaker": "リゼ",
           "original": "じゃあ、まずハンドガンの持ち方からやるぞ。\\nほら、持ってみろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, I’ll start with how to hold the gun. Go\\non, take it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "これを、こう……真っ直ぐに構えて、\\n左手で手首を支える。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Take it, and hold it straight out, like this.\\nSupport your wrist with your left hand.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えーっと、こう持って、こう？\\nどう、できてる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, hold it like this, yes? How am I doing?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "腕が低い。\\n真っ直ぐに構えるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your arm’s too low. Hold it perfectly straight.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "んーと……このくらい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. How’s this look?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "今度は高すぎだな。\\nほら、後ろから支えてやるから感覚を掴むんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now you’re too high. Here, I’ll support it from\\nbehind you, try to get a feel for it that way.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、うん。\\nこう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, sure. Like this?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "肘はしっかり伸ばして、腕は真っ直ぐ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Keep your elbow extended, and your arm\\nstraight.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（わっ！？\\n　リゼちゃんの息が\\n　耳元にかかってくすぐったい！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊gasp＊ She’s breathing on my ear!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "姿勢が悪い状態で撃っても当たることはない。\\nここはしっかりな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ll never hit anything if you have poor\\nposture. You have to get this right.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "う、うん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, sure.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "そして、真っ直ぐ目標に向けて、撃つ！\\nわかったか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After that, you face the target, and pull the\\ntrigger! Got it?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "く……くすぐったい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That... That tickles...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "え？　くすぐったい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What tickles?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ご、ごめん！\\nリゼちゃんが近くて、\\n息がくすぐったくて集中できないよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "F-Forgive me. When you get up close like\\nthat, your breathing tickles me and I can’t\\nconcentrate.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "あっ！\\nすまん、夢中になって気がつかなかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Sorry, I was so focused that I didn’t\\nnotice that.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "あ、いい匂いがする！\\nこれってリゼちゃんから香ってくるのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, what a nice scent. Is this how you smell\\nnormally?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ねえねえ、リゼちゃん。\\nシャンプーは何を使ってるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize-chan, what type of shampoo do\\nyou use?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "シャンプー？\\nこれは確か――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My shampoo? What I’m using is--",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "って、なんだ？\\n周りの人たちがこっち見てる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what? Everyone in town is staring at\\nus?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "訓練を始めた頃からみんな見てたよ？\\nリゼちゃんが格好よすぎたのかもね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They’ve been staring at us the while time.\\nThey must think you’re the coolest thing\\nthey’ve ever seen.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "し、しまった……！\\n人目がある場所でやることじゃなかった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Crap. We shouldn’t have been doing this\\nwhere we could be seen.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "わ、私はもう行くから。\\nココアもここから離れた方がいいぞ。\\nじゃあな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I gotta go. You probably should get away\\nfrom this place too. Bye!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "あ！　リゼちゃーん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Rize-chaaan!?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア（Ｍ）",
           "original": "（すごい勢いで走っていっちゃった。\\n　何か急用でも思い出したのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She ran away at full speed? I guess she had\\nsomething urgent to do.)",
+          "status": "machine_translated"
         }
       }
     }

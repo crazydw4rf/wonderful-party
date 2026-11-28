@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Tonight Chino-chan and I are going to \\ndeepen our relationship by sleeping \\ntogether!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃんのお話、怖かったね。\\nどこでネタを仕入れてきてるんだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan's story really was scary. \\nI wonder where she came up with those \\ndisturbing ideas?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……あの、ココアさん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Um, Cocoa-san?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ココアさんは、怖くて眠れないから\\n私と一緒なんですよね？\\nそれで、よく怪談の話題を続ける気になれますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you're so scared you can't sleep,\\nright? I get the feeling you're not going \\nto let that story go.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "１人で寝るのが怖いんであって\\n今はチノちゃんがいてくれるんだもん、\\n大丈夫だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. I'm too scared to sleep by \\nmyself, but thankfully I've got Chino-chan \\nhere with me.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "そ、そうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Is that so.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "え、えっと……その……\\n千夜さんのお話、マヤさんとメグさんにも\\n聞かせたかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, um... About Chiya-san's story, I wanted \\nto tell it to Maya-san and Megu-san.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "マヤちゃんたち、\\nそんなに怖い話が好きなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do Maya-chan and Megu-chan like ghost \\nstories that much?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "いえ、夏になったら怪談をして涼をとろう、と\\nそういう風に言っていたので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not exactly. They said they wanted a \\nchilling story to cool down once summer comes.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "今から夏の準備なんだ。\\nマヤちゃんもメグちゃんも気が早いね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you're already preparing for summer. \\nYou girls sure do plan far ahead.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "確かに、そうですね。\\n今から夏の話なんておかしいでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't deny it. Are we being weird, \\nbringing up summer so early?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ううん、全然おかしくないよ。\\n先のことをいっぱい話せるのって\\nすっごい仲良しだって証拠だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's not strange at all. Being able to \\ntalk about things so far ahead is proof that \\nyou're good friends.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（マヤちゃんとメグちゃんは、\\n　チノちゃんの大切なお友達なんだね。\\n　２人とも、とってもいい子だし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maya-chan and Megu-chan are Chino-chan's\\nprecious friends. They're both wonderful \\nlittle girls.)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ねえねえ、チノちゃん？\\nマヤちゃんたちと、普段はどんな話をしてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tell me, Chino-chan, what do you and your \\nfriends talk about normally?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "そう言われても……\\nココアさんに期待されるほど\\n面白い話はしてないですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know what to tell you. We don't talk \\nabout anything exciting enough for you to \\nbe particularly interested in.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "宿題のこととか、学校の先生の物真似とか\\nそういうのばかりで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We mostly just chat about homework and do \\nstupid impressions of our teachers and \\nstuff...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "え、先生の物真似？\\nチノちゃん、そんなことするんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, impressions of your teachers? \\nSo you've done that sort of thing before.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "いえ、私ではなくマヤさんが上手なんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not me. Maya-san is the one who's good at it.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "このあいだの授業中に、先生が消しゴムを\\n拾おうとして、勢いあまって転びそうになった時の\\n真似がそっくりだったんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Recently, she did an amazing imitation of our \\nteacher who almost fell over trying to \\npick up an eraser during class.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "先生、ヘンテコな声を出して\\n教室中が大笑いだったんですが、\\nマヤさんの時も私たちの笑い止まらなくなって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our teacher made a bizarre sound, and we all \\nburst out laughing. And whenever Maya-san \\nmakes that voice, we can't stop laughing.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "あっ！\\nすみません、ココアさん。\\nこんな話、つまらないですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I'm sorry, Cocoa-san. You must think \\nthat's all completely boring.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ううん、楽しい！\\nチノちゃんの学校生活が目に浮かぶよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all! I feel like I've caught a \\nglimpse of Chino-chan's school life.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "そ、そうですか？\\nなら……よかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so? That's good to hear, I guess.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "あの……マヤさんもメグさんも\\n夏の怪談をとても\\n楽しみにしているみたいですから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um... I think Maya-san and Megu-san are \\nreally looking forward to a ghost story...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "私も、２人にもっと楽しんでもらえるように\\nしたいなって、そう思っているんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I'm hoping I get to have even more fun \\nwith them going forward.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "じゃあ、次の夏は私もチノちゃんに\\n冷え冷えにしてもらえちゃうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And this summer, I'll be able to get chilled \\nto the bone by you as well.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "は、はい。\\n頑張りますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Sure. I'll do my best.",
+          "status": "machine_translated"
         }
       }
     }

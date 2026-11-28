@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,110 +16,110 @@
         "0": {
           "speaker": "千夜",
           "original": "ねえココアちゃん、私もだいぶ\\nこの格好でのチラシ配りに慣れてきたみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well Cocoa-chan, I think I can\\nsafely say that I've gotten\\nused to working in this costume.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "最初は、この格好でチラシ配りなんて\\nできるかしらって思っていたけれど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the beginning I was wondering if I could\\nreally go out in public while wearing this.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "今やばっちり！\\nどこに出しても問題ない配りっぷりだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now it's second nature! You could hand\\nout flyers like this anywhere, anytime.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "本当？　そう言われると\\n嬉しいようなはずかしいような……\\nなんていうのかしら、これって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? I'm not sure whether\\nI should feel proud or embarrassed\\nabout that. You could say--",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "私ってば、すっかりココアちゃんに\\n染められちゃったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "--that I've been colored by your influence,\\nCocoa-chan.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "でも、染めるとか染められるなんて言うと、\\nあれを思い出すわね。\\n『あなた色に染めてください』って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Speaking of coloring and being colored,\\nI'm reminded of that one time. “Please\\ndye me in your color,” remember?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "え？　千夜ちゃんを\\n私色に染めようとなんてしてないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huhhh? I never tried to dye you in my color.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "じゃあ、私から染まりにいっちゃったのかしら？\\nもう、ココアちゃんたら上手なんだから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I must have gone to you for the\\ndying, then. Gosh, Cocoa-chan, you're good!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "はっ！？\\nまさか、これは私を甘兎庵から引き離す\\n巧妙な罠なの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Wait, was that all an elaborate\\nplot to lure me away from Ama Usa An!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "なんでっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why would I do that!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "そうだったのね？\\n甘兎の勢力拡大を恐れるあまり、\\n罠を仕掛けたのね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm on to your wicked scheme! In your\\nterror at Ama Usa's rapid expansion,\\nyou resorted to baiting me into my ruin!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そんな罠しかけても意味ないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What purpose would that serve!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "あら、そうなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you didn't after all?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "それに、千夜ちゃんはココア色になっても\\n千夜ちゃん色でもあって、\\n甘兎庵色でもあるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And regardless of you being dyed my\\ncolor or your own, you can't hide\\nthe Ama Usa An shading underneath.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "だって、私は千夜ちゃんの代わりなんて\\nできないし、千夜ちゃんが\\n私の代わりになることだってないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it. I can't\\nreplace you completely, and\\nyou couldn't replace me either.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "……ええ。\\nまったく、ぐうの音も出ないわ。\\nさすがココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Right. I surrender completely.\\nYou're totally right, as usual.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "え？　なんでさすがなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What's usual about it?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ううん、いいの。\\nココアちゃんはずっとそのままでいいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't overthink it.\\nJust stay the way you are. Never change.",
+          "status": "machine_translated"
         }
       }
     }

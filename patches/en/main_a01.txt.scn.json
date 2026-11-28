@@ -6,284 +6,284 @@
         "0": {
           "speaker": "ココア",
           "original": "ここは、木組みの家と石畳の街。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is a town of half-timber houses and \\ncobblestone roads.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "私、ココアは、春から\\nこの街の高校に通うため、引っ越してきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm Cocoa, and this spring I moved to this \\ntown to attend high school.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "下宿先の喫茶店、ラビットハウスで\\nバリバリ働きながら\\n充実した毎日を過ごしています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The cafe Rabbit House is where I'll be staying, \\nworking hard and living a complete, \\nfulfilling life.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "様々な人に出会い、お友達もたくさんできて、\\n街にもすっかりなじんで――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Meeting all kinds of people, making tons of \\nnew friends, perfectly fitting in with \\nthis town...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "気がつけば、秋の風に\\nちょっぴり冷たさを感じる季節になりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You might notice that the seasons have \\nchanged, and you can now start to feel a \\nslight chill in the breeze.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "この街で迎える、初めての冬。\\nどんなことが待ってるのか、とっても楽しみです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll be encountering my very first winter in \\nthis village. I can't wait to see what's in \\nstore for me!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし、今日の授業はこれで終わり！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Finally, class is over for today!)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（それじゃ、早く帰らないと。\\n　今日はバイトの日だし――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Well then, I need to head home. \\nToday's a work day...)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（かわいい妹が待ってるからね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...and there's a cute little sister \\nwaiting on me!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "あら？\\nニコニコしているけど、いいことがあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Look at you grinning. \\nDid something nice happen?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ、千夜ちゃん。\\nえへへ～、なんでもないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Chiya-chan. Ehehe~, don't mind me!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（この子は、クラスメイトの千夜ちゃん。\\n　この街で出会った大切な親友です）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This girl is my classmate, Chiya-chan. \\nShe's one of the precious friends I've met \\nin this town.)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（甘味処『甘兎庵』の看板娘さんで、\\n　お店のメニューも千夜ちゃんが\\n　考えたりしてます）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(While working as the mascot girl for \\nthe sweets shop “Ama Usa An,” she also dreams \\nup things for the shop's menu.)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ねえ、ココアちゃん。\\n今日も一緒に帰りましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa-chan. \\nShall we go home together again today?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うん、もちろん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "それでね、これから時間あるかしら？\\nよければ甘兎に寄って、\\n新作メニューの試食をしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, will you have some time tonight? \\nIf you like, how about we swing by Ama Usa \\nand taste-test the new menu?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "えっ？　新作？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? New menu?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "そうなの。\\nこれからの季節に向けて、\\n温かいメニューを改良していこうと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. I thought we should look \\nforward to the coming season and remake \\nthe menu with a warm feeling.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "甘兎庵で温かいメニュー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ama Usa with a warm menu...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "あっ！　わかった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I've got it!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "さては新作お汁粉だね？\\nそれとも冬仕様のぜんざい？\\nはたまた、お雑煮を出しちゃうとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll start with a new shiruko, right? \\nThat or a winter-themed zenzai? \\nOr maybe you're already bringing out the ozouni?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "ふふ、それは見てのお楽しみ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe, you'll just have to wait and see.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "それで、どうかしら？\\n寄っていかない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, what next? Shall we head over?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "もちろん――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "あ～っ！\\nやっぱりだめだった！\\n今日はこれからバイトなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aa! Actually, I can't! I have work later on \\ntoday!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "あら、そうなのね。\\n残念。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, is that so? That's unfortunate.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "うう～、私も残念。\\n千夜ちゃんの新作、食べたかったなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu~, unfortunate for me too. I was looking \\nforward to having some of Chiya-chan's latest \\ncreation.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "じゃあ、また今度、寄っていって？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you're welcome to stop by next time.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "うんっ！\\n絶対に行くよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks! I'll definitely make it then!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "いつでも待ってるわ。\\nぜひ、ココアちゃんの意見を聞きたいから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll be waiting. \\nI've been wanting to hear your opinion on this.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? And why is that?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "それがね、今のままだと\\nひと味足りない気がするのだけど、\\n何が必要なのかピンとこなくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, up until now I've felt there's been \\nsomething missing in the food, but the \\nreason wasn't coming to me.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "ココアちゃんなら、\\nきっといい意見を聞かせてくれると思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're Cocoa-chan after all. I think you'll \\nbe able to give me some useful insight.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "そうかな？\\n私、パン以外はまともに作れないって\\n言われちゃうくらいだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I've even been told that I can't make \\nanything right other than bread, you know?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "大丈夫よ、だって、ココアちゃんは\\n温かそうな名前を持ってるんだから。\\n温かな食べ物にだって強いはずだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That doesn't matter. Since you have such a \\ntoasty-sounding name, I'm sure you'll be \\ngood with warm types of food.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "ええ！？　そうなの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Is that how it works!?",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "ああ、名前と言えばね？\\nメニューの名前も\\nもういくつか候補を出しているのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and while we're at it, you might be aware \\nthat I've been overflowing with candidates \\nfor menu names.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "１つは――『闇を纏いし白亜の使者』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First off: \\n『The Pale Envoy, Shrouded in Darkness』!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "す、すごい！\\n世界を救っちゃいそうっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Amazing! \\nIt sounds like the world has been saved!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "もう１つは――『星の海、巡る白き船』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One more:\\n『Voyage of the White Vessel in the\\nSea of Stars』!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "おおおー！\\n今度は宇宙的な広がりを感じるね！\\nスケールが大きいよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! I can feel the galactic expanse \\nof space! Large-scale!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんは、作ったメニューに\\n　名前を付けるのが大好きなんだけど――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan absolutely loves naming \\nmenu items, but...)",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア（Ｍ）",
           "original": "（個性的すぎて\\n　わかりにくいのが難点みたいなんだ。\\n　私は、すっごく素敵でいいと思うんだけど）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(They're a bit too peculiar, \\nand it's starting to become a problem. \\nI think they're awesome, though.)",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "あっ、ごめんなさい。\\nココアちゃん、これからバイトなのに\\nすっかり引き留めちゃったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, forgive me. You have work soon and I've \\nbeen wasting your time.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア",
           "original": "ううん、これくらいなら大丈夫だよ。\\n気にしないで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine, I have time. Don't worry about it.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "千夜",
           "original": "それじゃ、帰りましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, let's get going.",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's go!",
+          "status": "machine_translated"
         }
       }
     }

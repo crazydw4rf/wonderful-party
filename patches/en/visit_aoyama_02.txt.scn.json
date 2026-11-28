@@ -6,200 +6,200 @@
         "0": {
           "speaker": "青山",
           "original": "今日もお邪魔しますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pardon me once again today.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "青山さん、こんにちは！\\n今日も小説のアイディア探しですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, hello! Are you here once again\\nfor writing prompts?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "ええ、そうです。\\nここに来ると、落ち着いて考えられますし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's it. Whenever I come here, I \\nfeel at peace and the ideas start flowing.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "落ち着いて……ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At peace, you say?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "え？　なんで私を見るの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Why are you looking at me?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good day.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "いらっしゃいませ。\\n今日のお仕事は終わったんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings. Are you done with work for today?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "ええ。\\nだから、ちょっとお茶しようかと思って\\n寄らせてもらったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I am. So, I thought I'd swing by for\\nsome tea.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "千夜さん、こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-san, hello.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "あら、青山さん。\\n姿が見えないと思ったら、\\n今日はラビットハウスさんだったのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well now, isn't it Aoyama-san. I hadn't seen\\nyou today, so I thought you must have gone\\nto Rabbit House instead.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "ええ。\\nいつも長時間居座ってしまい、申し訳ありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's correct. I hope you'll forgive me \\nfor always loitering around for such long \\nperiods of time.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "いえいえ。\\nまたいつでも来てくださいね。\\nところで、今日も小説のアイディア探し？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't mind that. You're welcome to visit \\nanytime. By the way, are you searching for \\nideas for your novel again today?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "そうなんですが……\\nなかなか思い浮かばずに脱線してしまいました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what I thought, but... I've been \\nmostly mentally derailed without coming up\\nwith any ideas.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "まあ、かわいい絵。\\nこれはココアちゃんかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, what a lovely drawing. \\nIs this perhaps of Cocoa-chan?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "えっ？　私？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Me?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "小説のアイディアを書いていくつもりが、\\nついラビットハウスのみなさんを\\n描いてしまいました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanted to write down some thoughts for\\nmy novel, but I ended up doodling the staff\\nat Rabbit House instead.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "原稿用紙に何してるんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What have you done with your manuscript\\npaper!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "脱線というレベルじゃないです……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's another level of mental derailment!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "その隣の、お店の間取りの絵は何かしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right next to that, what is the layout of \\nRabbit House for?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "青山",
           "original": "これは、私がラビットハウスを経営するなら、\\nどんなお店にするかを想像して……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I made that while imagining what I would do\\nwith the place if I was in charge of \\nRabbit House.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ま、まさかの乗っ取り！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No way, a hijacking!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ティッピー",
           "original": "この店は渡さんぞ！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll never take this cafe!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "青山",
           "original": "お店にラビットとつくので、白を基調に\\n壁紙を変えるのもいいかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sticking with this cafe's rabbit name, I \\nthought it would be nice to replace the \\nwallpaper using a white motif.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "青山",
           "original": "そして、家具ももう少しポップな物に変えて、\\nかわいらしい空間を演出したいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, I'd like to replace the furniture \\nwith something with a little more pop, and try \\nto portray it as a cute environment.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "まあ、素敵なお店になりそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, that sounds like it shall be a \\nwonderful cafe.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "確かに、かわいくていいかも～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed, making it more cute might be a \\ngood idea.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "ココアさん！\\n簡単に寝返らないでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san! Please don't change sides so \\neasily!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "青山",
           "original": "他にも、うさぎをかたどった\\nオムライスを用意したり――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furthermore, we'll make omurice shaped \\nlike rabbits, and...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "青山",
           "original": "みなさんの制服を、思い切ってバニーガールに\\nしてしまうのもよいかもしれませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Taking the plunge and finally converting \\neveryone's uniforms into bunny girl costumes \\nis probably for the best.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "青山",
           "original": "それに、店員さんにも二つ名をつけたら\\nぐっと盛り上がりそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, if we give each of the \\nemployees a professional name, we'll certainly \\ngain a boost in popularity.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "テーマパークのキャストみたいな感じ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kind of like the cast at a theme park?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "青山",
           "original": "ええ。\\n訪れる人に親しみを持ってもらえる\\n二つ名があったらいいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. It would be best if their \\nnew names could draw the affection of \\nthe visitors.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア（Ｍ）",
           "original": "（二つ名かぁ……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A new name, huh...)",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,24 +207,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（二つ名かぁ……）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(A new name, huh...)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "二つ名とか、なんかプロっぽい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An alias, that sure sounds professional!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "私も自分で考えてみようかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll try thinking up something.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "二つ名は考えるものじゃないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You shouldn't think about it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -233,20 +233,20 @@
         "0": {
           "speaker": "ココア",
           "original": "二つ名とか、なんかプロっぽい！\\nぜひ、つけてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An alias, that sure sounds professional!\\nPlease name me something!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "では……そうですねぇ……\\nココアさんはいつも元気で明るいから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright... Let's see, Cocoa-san is always \\nso bright and energetic, so...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "きらめく太陽の恵み、なんてどうでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "“Blessing of the Glittering Sun”. \\nHow does that sound?",
+          "status": "machine_translated"
         }
       }
     },
@@ -255,32 +255,32 @@
         "0": {
           "speaker": "千夜",
           "original": "いいわね。\\nココアちゃんにぴったりだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not bad. It fits Cocoa-chan perfectly.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "きらめく太陽の恵み……。\\nみんなに明るさを振りまく存在ってことだよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Blessing of the Glittering Sun... That sure\\nsounds like something that shines brightness\\nupon everyone!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "ええ、まさにその通りです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's quite right.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "私は、野菜ジュースのキャッチコピーのような\\n印象ですが……いいんでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That kind of gives me the impression of a\\nmarketing slogan for vegetable juice... \\nAre you sure about this?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ティッピー",
           "original": "本人が喜んでいるならいいじゃろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What matters most is that she's happy.",
+          "status": "machine_translated"
         }
       }
     },
@@ -289,74 +289,74 @@
         "0": {
           "speaker": "ココア",
           "original": "私も自分で考えてみようかな。\\n例えば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll try thinking up something. \\nHow about...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "焼き立ての香る小麦粉のココア！　とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The Smell of Freshly Baked Flour Cocoa! \\nOr something.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "的確にココアさんを表していますね。\\n優しい雰囲気も感じられて、素晴らしいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's certainly an accurate \\nrepresentation of Cocoa-san. I can sense the\\nfriendly atmosphere. I'm impressed.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "でも、小麦粉なんだかココアなんだか\\nよくわからない名前だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But is it about flour or Cocoa? It's not a \\nvery intuitive name.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、リゼちゃんはどうなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then Rize-chan, what about you?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "わ、私か？\\nえっと、そうだな……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mine? Uh, let's see...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "戦場を舞う……勇敢なる風、とかどうだろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Flying Through the Battlefield: \\nThe Courageous Wind...\\nWhat do you think?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ティッピー",
           "original": "統一感がないのう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No sense of unity at all.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ち、チノ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Chino!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "すみません。\\n……私が言ったのではありませんが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sorry \\n...I didn't say anything though...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ、こんなのどう？\\n魔眼の二丁拳銃！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, how about this? \\nThe Dual Pistol's Evil Eyes!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "おお！　それもいいな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ooh! I like that one too!",
+          "status": "machine_translated"
         }
       }
     },
@@ -365,26 +365,26 @@
         "0": {
           "speaker": "ココア",
           "original": "二つ名は考えるものじゃないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A name isn't something you should think\\nabout.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "どういうことでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you mean by that?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "本人が知らないうちに付けられて\\n広まっているのが、なんか格好いいんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's cooler if you get a nickname that \\nsticks without your involvement at all!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ああ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         }
       }
     },
@@ -393,14 +393,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "確かに……！\\n本当の戦士は、自分で二つ名を\\n名乗ったりはしない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right... \\nActual warriors never coin their own\\nnicknames!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "今日はココアさんに教えられました。\\nありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've learned something new from you today,\\nCocoa. Thank you very much.",
+          "status": "machine_translated"
         }
       }
     },
@@ -409,86 +409,86 @@
         "0": {
           "speaker": "ココア",
           "original": "でも、いろんなアイディアが出て楽しいね。\\n実現したら、ラビットハウスは\\nもっと人気が出るかも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, any naming idea we come up with \\nwill be great. If we put them into action, \\nRabbit House might get even more popular!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ねえねえ、チノちゃんのお父さんに\\n頼んでみようか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, let's go talk to Chino-chan's \\nfather about it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ティッピー",
           "original": "なんじゃと！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "せ、制服は……これも気に入っているから、\\n日替わりでどうだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I've kind of taken a liking to our current \\nuniforms, so maybe we only do a daily \\nrotation of outfits?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "私も微力ながら協力するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I doubt I'll be of much help, but I'll be \\nglad to assist you all.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "私もです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Count me in as well.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃんも賛成だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And of course Chino-chan approves?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "いいえ、却下です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I absolutely refuse.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "みんな",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhhhh!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "なんで～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whyyy!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ティッピー",
           "original": "当たり前じゃ。\\nこの店を何だと思っとる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't it obvious? Just what do you think \\nthis cafe is supposed to be?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ティッピー",
           "original": "この店は、息詰まる社会を生きる人々の癒しの場で\\nあるべきじゃ。１杯のコーヒーと静かに\\n向き合う時間を提供することこそ重要であり――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This cafe ought to stand as a place of refuge\\nfor the people living in our stifling society.\\nWe value providing a cup of coffee and a quiet...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "チノが語り出した！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino has started ranting!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "ふふふ。\\nまるでマスターのようです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. She talks just like the master \\nused to.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out flyers with\\nChiya-chan!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ラビットハウスです。\\nよろしくお願いします……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're cafe Rabbit House. Come for a visit.",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,116 +22,116 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん、どうしたの？\\nさっきから元気がないみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, what's the matter?\\nYou're not yourself right now.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん……。\\n私……もうだめかも……。\\nお腹が空いて動けない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan... I,\\nI don't think I'm gonna make it. I'm\\nso hungry I can't take one more step.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それは大変だわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "けど、安心して。\\nこんなこともあろうかと、\\nおやつに千夜月を持ってきたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But worry not, I happen to be prepared for\\nthis exact emergency. Have a senyatsuki.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "せんやつき……。\\nそれは……栗ようかんの名前……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senyatsuki? That's... the name of your youkan!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "やったぁ！\\n千夜ちゃんの栗ようかんだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm saved!\\nI'm saved by Chiya-chan's very own youkan!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "おいしい～！\\nホント、千夜ちゃんの栗ようかんは絶品だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is heaven!\\nYour chestnut youkan is out of this world!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "３本はペロリだったけど、\\n本気になれば５本いけちゃう味だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know I've already finished three, but\\nthese are so good that I think I could go\\nfor five.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "そうだったわね、\\n初めて会ったときにプレゼントした栗ようかん、\\nたくさん食べてくれたのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I just remembered. You ate a whole bunch\\nof my chestnut youkan when we first met,\\ndidn't you.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "千夜ちゃん、あの時、\\n野良うさぎに栗ようかんあげようとしてたよね。\\nでも、うさぎは食べないんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right, back then you were trying to\\nfeed youkan to the wild rabbits. But it seems\\nthat they're not interested.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "うちのあんこは食べるんだけど……\\n他の子はあまり食べないみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anko will eat it,\\nbut it doesn't seem like any other bunnies\\nwill give it a try.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "でも、それでよかったかも。\\n野良うさぎが食べちゃってたら、\\nココアちゃんが釣れなかったんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'm glad it turned out that way.\\nIf the stray bunnies had eaten all my bait,\\nthen I never would have caught Cocoa-chan.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "私、釣られたの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I got caught!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ええ、びっくりしたわ。\\nまさか女の子が釣れるなんて。\\nしかも、入学式を１日間違えていた女の子が。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed, what a surprise! Who would have\\nthought I would lure in a girl who had\\nmistaken the day of our entrance ceremony?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あれは、その～！\\nち、千夜ちゃんだって、そのあと、\\n間違えて中学校に案内してたよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You had to bring that up? Besides,\\nyou messed up too,\\nby leading me to the middle school!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "そんなこともあったわねぇ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did something like that happen?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そんな他人事みたいに～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't act like you forgot!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "どれもこれも、いい思い出ね。\\nこれからも、たくさんの思い出を\\n作っていきましょうね、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All of that makes such a lovely memory.\\nCocoa-chan, I hope we can continue making lots\\nof warm memories going forward.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うんっ！\\nこれからもよろしくね、千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too! Let's keep it up, Chiya-chan.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,158 +6,158 @@
         "0": {
           "speaker": "リゼ",
           "original": "いらっしゃいませ！\\nフルール・ド・ラパンへようこそ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings! Welcome to Fleur de Lapin!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "さすが、リゼ先輩ですね。\\n制服姿も挨拶もばっちりです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just what I expected from you Senpai. Both \\nthe uniform and the greetings fit you \\nperfectly.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ここでのバイトは、前にもやってるからな。\\n接客は全部、私に任せてくれていいぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not like it's my first time working here.\\nYou can leave handling all the customers \\nto me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あ、いえ！\\nそういうわけにはいきません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I can't have that! \\nYou shouldn't go that far!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "あっと！\\nあのテーブル、注文が決まったみたいですね。\\nこっちを呼んでます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! I think that table over there wants to \\nplace their order. They're calling for us.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "よし、私が行ってくる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! I'll head on over there!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ご注文はお決まりでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you decided on your order?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ローズマリーとレモングラスですね。\\nかしこまりました、少々お待ちください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That will be rosemary and lemon grass? \\nUnderstood, please wait one moment.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "（流れるような接客、さすがです先輩！\\n　私も負けてられない……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Fluidly handling each customer like that,\\nRize-senpai never lets me down! But I don't \\nfeel like losing either!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ありがとうございました！\\nまたのお越しをお待ちしてます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much! \\nWe'll be awaiting your next arrival!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "……ふう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Phew.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "大丈夫か、シャロ。\\n疲れたのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How are you holding up, Sharo? \\nFeeling tired yet?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "あ、いえ！\\nそんなことないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, not one bit! I'm totally fine.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "まだ病み上がりなんだから無理するな。\\n今日はもう上がったらどうだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're still recovering from your illness,\\ndon't overdo it. Why don't you call it a day?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "え？　でも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? But...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "心配するな。\\nそのために私がいるんだ、\\n残りの時間は任せておけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing to worry about. This is the\\nwhole reason why I'm here. Let me handle the\\nrest of your shift.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "先輩がそうおっしゃるなら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If Senpai says so...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "でも、先輩が上がる時間まで\\nお店で待っているのは構いませんよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But until you're finished for the day, you \\ndon't mind me staying in the cafe, do you?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "まあ、そうだな。\\n大人しくしてるんだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I guess not? \\nSo long as you're staying calm.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "はい！\\nそれじゃ、店長に言って着替えてきますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you! Well then, I'll go tell the \\nmanager and get changed.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "（もう、リゼ先輩ったら過保護すぎ！\\n　う、嬉しいけどっ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Gosh, Rize-senpai is so overprotective! \\nBut I'll take it!)",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "先輩？　どうかしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senpai? What's the matter?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "ああ、シャロ。\\n実はな、さっき店長から、\\n本気でうちで働く気はないかって聞かれてさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well now Sharo. The thing is, a moment ago,\\nthe manager offered to have me work here as \\nan official employee.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "……え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Huh?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "（それって、つまり、私よりも\\n　リゼ先輩の方が役に立つから？\\n　私はもういらないってこと？　クビ！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(So what she's saying is that Rize-senpai is\\nmore useful than I am? Basically I'm unneeded\\nfrom now on? I'm fired!?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,24 +165,24 @@
       "select_prompt": {
         "speaker": "シャロ",
         "original": "（それって、つまり、私よりも\\n　リゼ先輩の方が役に立つから？\\n　私はもういらないってこと？　クビ！？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(So what she's saying is that Rize-senpai is\\nmore useful than I am? Basically I'm unneeded\\nfrom now on? I'm fired!?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "私、先輩のためなら身を引きます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If it's for you, I'll quit this job!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "引き受けるつもりなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you plan on accepting the offer?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "私、どうすれば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do I do now...",
+          "status": "machine_translated"
         }
       }
     },
@@ -191,44 +191,44 @@
         "0": {
           "speaker": "シャロ",
           "original": "私、先輩のためなら身を引きます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If it's for you, I'll quit this job!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "は？　身を引くって？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Quit?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "店長に認められたってことは\\nきっと待遇もいいと思いますし、\\nそれが先輩のためになるなら私は……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since you've already been accepted by the \\nmanager, I'm sure you'll get great treatment.\\nIf that's what's best for Senpai, I'll do it!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、そういうことか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's what you mean.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "別に、お前の代わりに、なんて話じゃない。\\nただ誘われただけだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not as if she was offering to have me be\\nyour replacement. It was just a simple offer.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "……そうなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Are you sure about that?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "それに、どんなに待遇がよくても断るよ。\\n前みたいに一時的ならともかく、\\nこことラビットハウスの両立は難しいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, no matter how favorable the offer, I'm\\ngoing to refuse. Working here temporarily is\\none thing, but always holding two jobs is rough.",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,14 +237,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "なんにせよ、気を遣わせて悪かったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, sorry to get you anxious again.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いえ、別に私は……すみません……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine, it's not like I was...\\nI'm sorry...",
+          "status": "machine_translated"
         }
       }
     },
@@ -253,26 +253,26 @@
         "0": {
           "speaker": "シャロ",
           "original": "引き受けるつもりなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you plan on accepting the offer?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "いや、断るよ。\\nラビットハウスを辞める気はないし、\\nだからといって両立は無理だし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'm going to refuse. I don't want to quit\\nworking at Rabbit House, and working two \\njobs is rough.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "で、ですよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-That's right!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "（よかったぁ。\\n　私、クビにならなくてすむのね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Thank goodness. \\nThis way I won't end up getting fired.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -281,20 +281,20 @@
         "0": {
           "speaker": "シャロ",
           "original": "私、どうすれば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do I do now...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "どうすればって、何がだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you do about what?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "先輩が入るってことは、\\n私、クビになっちゃうのかなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you start working here, that probably \\nmeans they're going to fire me.",
+          "status": "machine_translated"
         }
       }
     },
@@ -303,26 +303,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "なんだ、そんな心配をしてたのか。\\n大丈夫だよ、私は断るつもりだし、\\nそもそもお前の代わりなんて話じゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that's what you're worried about? Don't\\nworry, I'm going to refuse. And they weren't\\noffering to hire me as your replacement either.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "……そうなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you think so?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ああ。\\n仮にそんな話だったとしたら、\\nその場で断ってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. If they had mentioned doing that, \\nI would have refused them on the spot.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "先輩……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senpai!",
+          "status": "machine_translated"
         }
       }
     },
@@ -331,38 +331,38 @@
         "0": {
           "speaker": "リゼ",
           "original": "そうだ。\\n何かおごってやるから、\\n飲みたい物があったら言ってくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! I'll treat you to something, \\ntell me what you want to drink.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "えっ！？\\n悪いです、そんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? I can't accept something like that.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "私を待ってるんだから、それくらいいいだろ？\\nほら、早く決めないと勝手に持ってくるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since you're here waiting on me, this is the \\nleast I can do. C'mon, decide on something \\nbefore I decide for you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "そ、それでもいいです！\\n先輩が私に合うハーブティーを\\n選んでくれたら、すっごく嬉しいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well that isn't half bad either! Finding \\nout what type of herbal tea Senpai thinks \\nsuits me isn't something I can complain about!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そうか？\\nよし、じゃあ待っていてくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Alright! Wait here for a bit.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "はいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay!",
+          "status": "machine_translated"
         }
       }
     }

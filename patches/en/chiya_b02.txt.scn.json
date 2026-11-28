@@ -6,284 +6,284 @@
         "0": {
           "speaker": "千夜",
           "original": "じゃあ、ココアちゃん。\\nもう１度、地図の確認をしておきましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, Cocoa-chan, let's double-check \\nthat we're reading this map correctly.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれから２人で考えたけど、\\nこの地図が示してる場所はこの公園で\\n間違いないよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We initially guessed that the map \\nwas of this park, and seeing it \\nin person pretty much confirms it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、場所的に見て、ここしか考えられないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. No other place comes to mind, \\nconsidering the layout.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "この地図には、\\n方角と木の本数が記されているわね。\\nそれが鍵になっているんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The map has given us the cardinal directions \\nand the number of trees. That appears \\nto be the key to understanding it.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "この地図に書かれていることを分析すると――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Judging by what we have to go by...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ちょうど、この広場から東の方向に歩いて\\n５本目の木の根本に宝箱が埋まっている。\\nそう読み解けるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The treasure should be buried under the \\nfifth tree we pass after walking east \\nout of the center. That's my best guess.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ここから５本目……あの木だね！\\nじゃあさっそく、掘り起こしてみよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The fifth tree from here is... that one! \\nLet's go dig it up!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ふう～。\\nかなり掘ったと思うんだけど……\\n宝箱、出てこないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ That was a lot of digging. \\nI feel like we should have found it by now.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "おかしいわね。\\n地図によると、確かにこの場所にあるはずなのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How strange. The map makes it seem like \\nit should be right here.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うーん、じゃあ、どうして出てこないのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Then how do we explain this?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "……もしかしたら、だけど。\\nこの地図は昔に書かれたものみたいだから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perhaps, since this map \\nwas made in the past...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "倒れたり、枯れたりして\\n木の本数が変わっているのかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...some of the trees died or were cut down, \\nand the map is misleading.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "それだっ！\\n千夜ちゃん、冴えてるね！\\nさすがは私の相棒だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea! Chiya-chan, you are a genius! \\nThat's my Partner!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "うふふ、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Thanks.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "でも、そうなると困ったわね。\\n手がかりがなくなっちゃったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that's inconvenient for us. \\nWe've lost our only clue.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ううん、木の下に埋められたことは\\n間違いないんだから、この辺りの木を\\n全部掘ってみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not quite! We still know it's buried under \\na tree. Let's dig around all these trees!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "相棒の正しさを証明するのが、今の私の役目！\\n絶対に宝箱を見つけてみせるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I swear I'll prove your theory right! \\nI'll find that treasure chest no matter what!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ココアちゃん……！\\nそうね、頑張ってみましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan! You said it. Let's keep trying!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "これで６本目かぁ。\\nさすがに私も限界が近いかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the sixth tree... I don't know \\nif I can keep this up much longer...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "そうね……。\\n私も……もう腕が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Same... I... I can barely use my arms...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "で、でも、ここで諦めるわけにはいかないよ！\\nあとひと踏ん張り、もうひと踏ん張り！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-But we can't give up yet! \\nLet's do one more tree! Give it one more shot!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "きっと、この下に宝箱があるはず……。\\nそう信じて、頑張りましょう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure this one will have the buried \\ntreasure. Let's have faith and keep trying.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "よいしょ、よいしょ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heave-ho! Heave-ho!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "あれ！？\\n今、何かに当たった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!? I just hit something!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ほ、本当！？\\nどうしましょう、ココアちゃん！？\\nおお、お、落ち着いてっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What, really!? What do we do, Cocoa-chan!? \\nKeep it together!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "千夜ちゃんこそ落ち着いて！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tell that to yourself, not me!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "そ、そうね。\\n宝物が見つかると思ったらつい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're right. The possibility of that being \\nburied treasure made me lose my composure.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "うん、そのどきどきする気持ちは\\nすっごくわかる！　ついに……だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I understand exactly how you feel. \\nIt looks like we finally found it!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "それじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "ああ、見えてきたわ！\\n間違いなく宝箱よ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I can see it now! There's no mistaking it. \\nThat's a treasure chest!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "やったぁ～！\\nトレジャーハント、大成功だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Our treasure hunt was a great success!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "苦労した甲斐があったわね、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was all worth it in the end, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "うんっ！\\nじゃあ、さっそく開けてみよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Okay, let's open it.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "ええ！\\nもう、どきどきして心臓がうるさいくらいだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. Gosh, my heart is racing \\nso much that it's distracting.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "んしょ……！\\nあ、開いたよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here we go... It's open!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "中に紙が入ってるわね。\\nこれが秘密のレシピかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's some paper inside. \\nPlease be a secret recipe!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "さあ、スペシャルレシピのご開帳だよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Time to unveil the special recipe!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "……あれ？\\nこれって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, this is...",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "地図、よね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A map. Huh.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "どういうこと？\\nレシピはどこにいっちゃったの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can't be serious. Where's our recipe!?",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "千夜",
           "original": "シストだと、宝箱の中に次のポイントを示す\\n新しい地図が入っていることもあるのだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've heard of Cistes that contained maps \\nthat led to another container before...",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア",
           "original": "なるほど！\\nそうやって宝物に導かれていくんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. So it guides you from one \\ntreasure chest to the next, huh.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "もしかしたら、これもそうなのかもしれないわ。\\nどうする？　続けてみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm guessing that is what this is. \\nWell, do you want to continue?",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア",
           "original": "当然だよ！\\nここまで来て引き返すなんて、\\nトレジャーハンターの名が泣くよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How could we not? What kind of treasure \\nhunter would turn back now?",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "千夜",
           "original": "ええ！\\nそれじゃ、もう少し宝探しを続けましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. Now then, let us continue our quest.",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "ココア",
           "original": "うん！\\nじゃあ、次の宝箱までレッツゴー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! To the next treasure chest, ｌｅｔ’ｓ　ｇｏ！",
+          "status": "machine_translated"
         }
       }
     }

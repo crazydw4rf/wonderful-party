@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan and I, being the close sisters \\nthat we are, are sleeping together \\ntonight!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "今日も楽しかったね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Today was another fun day, wasn't it!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "はい、いつもより時間が早く\\n経ってしまったような気がします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. It felt like time flew by a bit \\nfaster than usual.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "でも、こういうふうに\\nみんなで寝るのは今日で終わりなんだね。\\n寂しくなっちゃうな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But going to sleep with everyone like this \\nmeans the day has come to an end. \\nKinda sad.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "……はい。\\nココアさんもそう思ってるんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Agreed. So you thought that as well, huh.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん、だってすごく楽しかったから。\\n週末が楽しみで仕方なかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, because it was so much fun! I was \\nlooking forward to this weekend so much I \\ncouldn't stand it!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "って、まだだよ！\\nまだしんみりするには早いよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, I'm not giving up yet! It's too early \\nto get all sentimental!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "確かに今日でお泊まり会は終わりだけど、\\nその今日はまだ終わってないから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, today might have been our final \\nsleepover, but today's not over yet!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "そうですね、私たちがまだこうして\\n話しているあいだは、続いていますよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. So while we're still talking together \\nlike this, the day goes on.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "どうしよっか、\\nこのまま朝まで私とおしゃべりしちゃう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So what do we do next? Shall we just go on \\ntalking until the morning light?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "いえ、さすがにそれは……\\nきっと、私よりココアさんの方が\\n早く寝てしまうに決まってます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I don't think that will happen... \\nI'm confident that you're going to fall asleep \\nahead of me.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ええ、そうかな～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuh... I wonder~",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "絶対にそうですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a one hundred percent chance.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃん、楽しそう。\\n　こんな顔をしてくれるなら\\n　またお泊まり会、やりたいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan seems to be enjoying herself.\\nThat face makes me want to throw a \\nsleepover again someday.)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ねえチノちゃん、またお泊まり会しようね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino-chan, let's have another sleepover \\nsometime, alright?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "そうですね、\\nまたこういう機会が持てれば嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea. I'd be happy if we could have the \\nchance to do this again.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "じゃあ、次はいつにしよう？\\nいつがいいかな？　明日とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, when do we do the next one? When do \\nyou think will be a good time? Maybe \\ntomorrow?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "そ、そんなに急な話なんですか？\\nみなさんの都合もありますし、\\nちゃんと予定を立てないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That soon!? Everyone has their own things \\nto do. We need to plan it properly.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "……みなさんもきっと、\\nまたやりたいって言ってくれますよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Though I'm sure everyone will agree that \\nwe should do this again.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "じゃあ、次のお泊まり会までは\\n毎晩２人で寝よっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, let's sleep together every night \\nuntil the next sleepover!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "お断りします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I refuse.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "即答！？\\nうう～、もうちょっと考えてくれても。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instant answer!? Uuu~ You could have at \\nleast considered it.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "それじゃ、たまにならいいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's keep this type of thing to \\nonly on occasion.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "やったぁ！\\nこんなふうに一緒におしゃべりしようね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Let's be sure to have more talks \\nlike this!",
+          "status": "machine_translated"
         }
       }
     }

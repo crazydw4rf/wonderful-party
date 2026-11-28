@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹で仲良く寝ようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan and I, being the close sisters \\nthat we are, are sleeping together \\ntonight!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "ココア",
           "original": "あの、チノちゃん？\\nもしかして怒ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Chino-chan? Are you mad at me right \\nnow?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "怒ってません。\\nただ……舌をちょっと噛んじゃいまして。\\n早口言葉って難しいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not mad. I just, uh... bit my tongue. \\nIt's not easy talking so fast.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "大変だ！\\nお薬、塗らなきゃ！\\nガーゼとか包帯はいるんだっけ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good heavens! We must apply ointment at once! \\nDo you have any gauze or bandages on hand?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "大丈夫です。\\nそこまでする必要はないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine. None of that will be necessary.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そうなの？　本当に大丈夫？\\n一応、見せてみて？\\n万が一ってこともあるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that true? Are you certain you're okay? \\nAt the very least you should let me see it. \\nJust in case.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "平気ですよ。\\nもうほとんど痛くないですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm perfectly fine. It barely hurts anymore.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃん、怖がらなくても大丈夫！\\nほら、あーんってして？　ね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, there's no need to be scared. \\nC'mon, open up. Say “Aaa~”",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はあ……。\\nわかりました、それじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ \\nOkay, here I go...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaa~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "はい、チノちゃん上手。\\nそれじゃ、見てみるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent. Well done, Chino-chan. \\nNow then, let me see...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "うんうん。\\nあーんしてるチノちゃん、かわいいね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, good. \\nChino-chan is as cute as ever with her mouth \\nopen!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "ココアさん……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あっ！　ご、ごめんねチノちゃん！\\nお口を開けてるのがかわいくって、\\nなんだか雛鳥みたいだなって思ったら、つい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I take it back, Chino-chan! \\nYou just reminded me of a baby bird with your \\nmouth open like that. I couldn't help it.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "もう……。\\n言い出しておいて趣旨を忘れないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh...\\nDon't forget the whole reason for doing this.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ、でもね、\\n噛んじゃったところもちゃんと見たんだよ？\\n問題なさそうだった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, going back to the beginning. \\nI got a good look at the part you bit. \\nI don't think it'll be a problem.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "お薬は必要なさそうだけど、\\n痛み止めのおまじないをしておこうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It doesn't look like it'll need any ointment,\\nbut I'm going to cast a pain relief \\nspell on you anyway.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "いたいの、いたいの、飛んでけー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Booboo, booboo, go away!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "どうかな、チノちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How do you feel now, Chino-chan?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "むう……。\\nそんな子ども扱いしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh... Quit treating me like a child \\nalready.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "でも……ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But... Thank you.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "次に早口言葉をやる時は、\\n気を付けなくちゃいけないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't forget to be more careful the next \\ntime you're talking fast.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "……ふぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊yawn＊",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "チノちゃん、あくび？\\nそろそろ眠くなってきた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, was that a yawn? Are you getting \\nsleepy?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "それじゃ、今日はおやすみなさいだね。\\nチノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. That'll be bedtime for today. \\nGood night, Chino-chan.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "おやすみなさい、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good night, Cocoa-san.",
+          "status": "machine_translated"
         }
       }
     }

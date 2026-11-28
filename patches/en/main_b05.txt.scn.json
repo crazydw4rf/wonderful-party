@@ -6,110 +6,110 @@
         "0": {
           "speaker": "青山",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good afternoon.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "いらっしゃいませ、青山さん！\\nお好きな席にどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome, Aoyama-san! Please take any seat \\nyou like.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "はい、それでは遠慮なく。\\nところで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then I suppose I'll take you up on that \\noffer. And by the way...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "チノちゃんのお誕生日まで、\\nあと１週間くらいですよね？\\n準備はどうでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's only about a week left until \\nChino-chan's birthday. How are the \\npreparations coming along?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "安心してください、順調に進んでますよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Worry not. Everything is going good so far.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そうですか。\\nそれはよかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so? I'm glad to hear it.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "ココアさん？\\n立ち話をしてないで、席に案内してください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san? Don't just stand there chatting.\\nTake her to her table.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "はーい！\\nでは青山さん、改めてお席へどうぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaay! Now then, Aoyama-san, right this way!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "お待たせしました。\\nブレンドコーヒーです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for the wait. One coffee blend.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "ありがとうございます。\\nあの、ところで、今日も\\nチラシ配りに出かけるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much. Um, one more thing, \\nare you by chance handing out more \\nflyers again today?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "はい、そろそろ出かけようと思ってたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I was just thinking it was about time \\nto head out.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "そうですか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so...?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "ん？　チラシ配りがどうかしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Is there something the matter with the \\nhandouts?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "い、いえ、大したことではないんです。\\nただ、少し寂しいと言いますか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No, it's no big deal. It's just... \\nYou could say it's gotten a little lonely \\naround here.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "寂しい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Lonely?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "……最近、みなさんが\\n外に出ていることが多いので――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Lately, everyone has been spending \\ntheir time outside...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "青山",
           "original": "ラビットハウスに\\n３人が揃っていることが減って、\\nふっと、寂しく思ってしまうことがあるんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The number of times when everyone is \\ntogether in Rabbit House has decreased, and \\nsuddenly I started thinking it was rather lonely.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "みなさんは……\\nそんな風に感じたりはしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All of you as well... Don't you think it's\\nfelt that way around here?",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,24 +117,24 @@
       "select_prompt": {
         "speaker": "青山",
         "original": "みなさんは……\\nそんな風に感じたりはしませんか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "All of you as well... Don't you think it's\\nfelt that way around here?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "大丈夫です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "言われてみれば少し寂しいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, it's pretty dreary.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "青山さんの考えすぎですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, you're overthinking it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -143,20 +143,20 @@
         "0": {
           "speaker": "ココア",
           "original": "大丈夫です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "別々のところで働いてる時だって、\\nラビットハウスの一員だってことを\\n忘れたりはしないし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even while we're working part-time, we won't \\nforget that we were originally employees \\nhere at Rabbit House.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そういう気持ちはみんな一緒だと思うから、\\n少しも寂しくなんてありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "When I remember that everyone shares that \\nsentiment, I don't feel lonely at all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,8 +165,8 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san...!",
+          "status": "machine_translated"
         }
       }
     },
@@ -175,56 +175,56 @@
         "0": {
           "speaker": "リゼ",
           "original": "ココアの言う通りだな。\\nそもそも、チラシ配り自体、\\nラビットハウスのためにやってることなんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa speaks the truth. From the very \\nget-go, we were all handing out these \\nflyers for Rabbit House's sake.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nだめだよ、秘密にしないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Zip your lips! That was supposed \\nto be kept secret!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "おっと！\\nああ、あくまで実験だったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoops! You're right. This is purely done \\nfor experimental purposes.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "お見逸れしました。\\nみなさんの絆は、私が思っている以上に\\n強固なものなのですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It appears I was mistaken. The bond you all \\nhave is far stronger than I had initially \\nimagined.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "絆っていうか……まあ、そんなものかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our bond, huh... Well, I guess you're right \\nabout that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "でもやっぱり、この制服で、\\nこうしてお店にいる時が\\n１番落ち着くっていうのは間違いないかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But in the end, there's no doubt that I'm \\nmost relaxed while in this uniform, \\nin this cafe.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ね！　チノちゃん、リゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right, Chino-chan, Rize-chan?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はい、そうですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's correct.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ああ、それが１番気楽だからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed, I'm most comfortable this way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -233,44 +233,44 @@
         "0": {
           "speaker": "ココア",
           "original": "言われてみれば少し寂しいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, it's pretty dreary.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "そうか？　チラシ配り自体、\\nそんなに長い時間やってるわけじゃないし、\\n私はあまり気にならないけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? It's not like we've been handing out \\npamphlets for very long. I haven't really \\nnoticed anything.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "私もリゼさんと同感です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree with Rize-san.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "えー、でも、こんなふうに\\n３人でおしゃべりできないし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhh, but the way things have been going, \\nthe three of us won't be able to talk \\nto each other...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "仕事中なんですから、\\n無駄なおしゃべりはしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because we're at work. Please don't chat \\nidly on the job.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "そんなこと言って、チノちゃんだって\\nお客さんがいない時は結構自由にしてるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You say that, but Chino-chan acts rather \\nfreely when there are no customers around.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "ココアさんは、お客さんの前でも自由すぎます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you act too freely even when \\ncustomers are around.",
+          "status": "machine_translated"
         }
       }
     },
@@ -279,20 +279,20 @@
         "0": {
           "speaker": "ココア",
           "original": "青山さんの考えすぎですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, you're overthinking it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "……そうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You think so?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "だって、チラシ配りは\\nそんなに長い時間やってるわけじゃないし、\\n私たちは気にしてませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, we haven't even been doing these flyers\\nvery long. I don't think any of us \\nminds it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -301,44 +301,44 @@
         "0": {
           "speaker": "リゼ",
           "original": "まあ、これが半日とか丸々１日とかだったら\\n話は別だろうけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, if we were doing this for half a \\nday or all day, then it'd be a different \\nstory.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ～！\\nリゼちゃん、私たちと離れ離れになると\\n寂しいんだね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahh! Rize-chan, you get awfully lonely when \\nwe're not around, don't you?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "じゃ、じゃあ、ココアは違うっていうのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, it's not like you're any different, \\nare you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "え？\\nチノちゃんとリゼちゃんと離れ離れ……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? If I were separated from you and \\nChino-chan...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そ、そんなのやだよー！\\nチノちゃん、私は絶対にチノちゃんを\\n離したりしないから安心して！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I... I couldn't stand that! Chino-chan! I \\nswear I'll never leave you, so don't start \\nto worry!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ちょっ！？\\nココアさん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wai-- Cocoa-san!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "こーら！\\nココア、急に抱きついたら危ないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on! Cocoa, someone's going to get hurt \\nif you keep randomly glomping people.",
+          "status": "machine_translated"
         }
       }
     },
@@ -347,8 +347,8 @@
         "0": {
           "speaker": "チノ",
           "original": "……大丈夫ですよ、ココアさん。\\n私は急にいなくなったりしませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...There's no need to be upset, Cocoa-san.\\nI won't disappear on you anytime soon.",
+          "status": "machine_translated"
         }
       }
     },
@@ -357,68 +357,68 @@
         "0": {
           "speaker": "ココア",
           "original": "あ、お客さんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there's a customer.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "リゼさん、対応をお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-san, please take control of the \\nsituation.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ああ、任せとけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right, on it.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "ココアさんは、\\nテーブルの小物の点検と補充をしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, I need you to check the tables \\nand make any necessary refills.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "はーい。\\nそれじゃ青山さん、\\nゆっくりしていってくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On iiit. Okay then, Aoyama-san, please make \\nyourself comfortable.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "チノ、オーダー。\\nマンデリンとケーキだ。\\nケーキは私が準備するよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino, here's the order. A Mandheling and a \\ncake. I'll prepare the cake.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "わかりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "チノちゃん、点検終わったら洗い物しようか？\\nお皿が溜まってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, once my table inspection is over,\\nshould I do the dishes? We have a pile \\nof plates to do.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "はい、お願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine, go ahead.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "……ふふふ。\\nやっぱり、ラビットハウスは\\nみなさんが揃っている時の雰囲気が１番ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Hehehe. No mistaking it, Rabbit House is\\nat its best when everyone is around.",
+          "status": "machine_translated"
         }
       }
     }

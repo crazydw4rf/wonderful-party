@@ -6,110 +6,110 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん、おはよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gooood morning, Rize-chan!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おはよう、ココア。\\nチノもおはよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good morning, Cocoa. \\nChino as well, good morning.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "おはようございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good morning.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "リゼちゃん、昨日は帰ってから\\nちゃんとうがいと手洗いした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, did you make sure to wash your \\nhands when you got home last night?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "当然だ。\\nこれで風邪をひいたりしたら、\\nシャロが気にするからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course. If I caught a cold after that, \\nit would probably get to her.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "シャロさん、早く治るといいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope Sharo-san gets well soon.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "心配いらないわ。\\n今朝はもう、だいぶ調子がいいみたいだったから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to worry about that. From what I saw\\nthis morning, it seems like she's almost \\ncompletely over it.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あ、千夜ちゃん！\\nおはよー！　待ってたよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Chiya-chan! \\nGood morning, we've been waiting on you.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "おはよう、千夜。\\nシャロは元気になったのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good morning, Chiya. You say Sharo is already\\nback on her feet?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ええ、まだ少し熱があるようだったけど、\\nもう起きても平気みたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, she still has a slight fever, but she \\ncan get out of bed no problem.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nよかったぁ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now! That's good to hear.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "ですが、シャロさんの性格を考えると、\\n治りかけなのにバイトに出かけてしまったり\\nするのでは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But knowing Sharo-san, she's probably going\\nto go to work before she's totally \\nrecovered...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "そうなの。\\n釘は刺しておいたけど、\\nいつまで大人しくしてくれるか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think so too. I tried to make her swear to\\nstay home for today, but I have my doubts about\\nher actually sitting still for so long.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "無理して、ぶり返すようなことに\\nなってしまっては大変です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If she gets too excited, she'll just relapse\\nback into her illness. Terrible.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ねえ、みんな。\\nちょっと聞いてくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up everyone. \\nI have something I'd like to say.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "どうしたの、ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it, Cocoa-chan?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "実はね、私、考えついたことがあるんだ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see, I have an ideaーー",
+          "status": "machine_translated"
         }
       }
     }

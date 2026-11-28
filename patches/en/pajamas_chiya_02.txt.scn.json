@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は、千夜ちゃんと一緒に寝ようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Tonight, I’m gonna sleep with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,188 +16,188 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん、寝ちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, are you awake?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ううん、眠気が来ないの。\\nみんな寝ちゃったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am. I’m not sleepy. Though it seems everyone\\nelse is asleep.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "眠れない時は羊を数えなさいって言うけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They always say you should count sheep\\nwhen you can’t fall asleep.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "よし、数えてみよう！\\n羊が１匹……羊が２匹……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great idea, let’s get counting! One sheep,\\ntwo sheep...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "羊が３匹……羊が４匹……あら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Three sheep, four sheep... wait.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "どうしたの、千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why did you stop, Chiya-chan?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "なんだか私、いつの間にか\\n羊じゃなくて山羊を想像しながら\\n数えてたみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think at some point, instead of sheep, I\\naccidentally started counting goats.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "……え？\\n羊はメェーって鳴く方だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. Sheep are the ones that go “baa,”\\nright?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "え？\\n山羊がメェーって鳴くんじゃなかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. Aren’t goats the ones that go “baa”?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あれれ？　そうだっけ？\\nあれれれれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? I’m confused. Wait, whaaat?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "なら、山羊はもふもふしてる方よね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which also means that goats are the soft and\\nfuzzy ones, correct?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "えっ！？\\nもふもふしてるのは羊だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? The soft and fuzzy ones are totally\\nsheep!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "あら……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "えっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "ひ、羊はあまりよくないわね。\\nしっかり覚えている動物で数えるのが\\nいいんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It-It appears sheep are becoming\\nproblematic. We might be better off counting\\nan animal that we have stronger memories of.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "そ、そうだね！\\nじゃあ、この街で１番見かける\\nうさぎを数えるのがいいかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You raise a good point! I know. How about\\nwe count the most commonly seen creature\\nin town, the rabbit?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ああ、目を閉じれば\\n今まで出会ったうさぎが思い浮かぶよ。\\nティッピー……あんこ……不良野良うさぎ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I’ll never forget the bunnies I’ve met.\\nI still see them when I close my eyes. Tippy,\\nand Anko, and that delinquent rabbit...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "いいわね。\\n今まで出会ったうさぎを思い返しながら\\n数えてるうちに、眠れるかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice idea. Perhaps I’ll drift off to sleep while\\nreflecting upon all the rabbits I’ve\\nencountered thus far.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "じゃあ、数えましょ。\\nうさぎが１羽、うさぎが２羽……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, let us begin. One rabbit, two\\nrabbits...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "うさぎが９９羽、うさぎが１００羽……。\\n１００羽もうさぎがいたら、もふもふ天国だねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ninety-nine rabbits, one hundred rabbits...\\nHaving a hundred rabbits would be nothing\\nless than cuddle heaven, wouldn’t it?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "ああ、１番なじんでるうさぎがあんこだから、\\n頭の中にあんこばかり増えてく……\\nあんこがいっぱい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, since I’m most familiar with Anko, all I\\ncan think of is a growing crowd of Ankos. Anko,\\nthere are so many of you!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "いっぱいのあんこ……！\\nあんこの海を泳いだら、もふもふし放題だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So many Ankos! Imagine swimming in an\\nocean of Ankos! All-you-can-cuddle!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "ティッピーでもいいわね。\\nティッピーの海に飛び込んでみたいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy would make for a good ocean too. I\\nwould like to take a dive in it.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "あの、ココアさん、千夜さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, Cocoa-san, Chiya-san.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "今度、公園で野良うさぎたくさん集めて\\nうさぎ天国を作ってみましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We should try collecting a huge number of\\nwild rabbits in the park sometime. Let’s\\ncreate Rabbit Heaven on earth!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "いいね！\\n餌にニンジンを持っていこうっと。\\nあ、焼き立てのパンの方がいいかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An astonishingly good idea! We’ll need to\\nbring some carrots as bait. I wonder if freshly\\nbaked bread would work too?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "あの！　２人とも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, both of you!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "みなさんもう寝てるので、\\n静かにしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everyone else is trying to sleep, so please\\nkeep the noise down.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "ああっ！\\nつい声が大きくなって……ご、ごめんね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I accidentally stopped whispering at\\nsome point. Forgive me!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "ごめんなさい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re sorry.",
+          "status": "machine_translated"
         }
       }
     }

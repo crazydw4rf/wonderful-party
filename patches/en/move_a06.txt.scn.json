@@ -6,44 +6,44 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、青山さんだ。\\n　店員さんと何か話してる。\\n　お買い物かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, there’s Aoyama-san. She’s talking to\\nsomeone, probably to buy something.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ、お話、終わったみたい。\\n　何も買わないのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, she stopped talking. Is she going to\\nleave without buying anything?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "あら、ココアさん。\\nこんにちは、お買い物ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa-san. Good day. Are you out\\nshopping?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "こんにちは、青山さん。\\nお買い物じゃなくて、お散歩ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good day, Aoyama-san. I’m just taking a\\nwalk, not shopping.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "お散歩ですか、いいですね。\\n私も取材がなければご一緒するのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A walk, how lovely. I would join you, if I\\nweren’t doing interviews right now.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、取材だったんですね。\\nそれで、さっきのお店で店員さんと話してたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so you’re doing interviews. That explains\\nwhy you were taking to that salesperson just\\nnow.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "ええ、小説のヒントを探しているんです。\\nよかったらココアさんも取材させてくれませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. I’m hoping they’ll be useful inspiration\\nfor my novels. If you don’t mind, I’d like to\\ninterview you as well, Cocoa-san. ",
+          "status": "machine_translated"
         }
       }
     },
@@ -57,18 +57,18 @@
       "choices": {
         "*sel_0101": {
           "original": "ラビットハウスの秘密を暴く気ですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re uncovering Rabbit House’s secrets!?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "いいですよ、なんでも聞いてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine! Ask me anything!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "じゃあ、私は青山さんを取材します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Before that, I’m going to interview you.",
+          "status": "machine_translated"
         }
       }
     },
@@ -77,56 +77,56 @@
         "0": {
           "speaker": "ココア",
           "original": "わ、私から辿って\\nラビットハウスの秘密を暴く気ですか！？\\n知って何をするつもりですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You’re using me to uncover secrets about\\nRabbit House!? Just how are you planning on\\nusing this newfound information!?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "あらあら、ココアさんは\\n面白いことを仰いますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My my, Cocoa-san, you sure say the funniest\\nthings.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "誰にも知られてはいけない秘密のある喫茶店……。\\nそこで働く、謎を守る３姉妹……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A cafe hiding dangerous secrets... And three\\nsisters, hard at work keeping the secret\\nsafe...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "とてもイメージが膨らみます。\\nどんな秘密でしょう？\\nどんな人物が喫茶店を尋ねてくるんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is making my imagination run wild. Just\\nwhat are they hiding? And what kind of\\nperson will approach this cafe?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（青山さんがどんどん\\n　自分の世界に入っていってる！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Aoyama-san is retreating back into her\\nhead!)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "ありがとうございます、ココアさん。\\nおかげで新しいお話が書けそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much, Cocoa-san. I think I\\ncan write a new story thanks to you.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "このイメージが逃げないうちに、\\n急いで原稿に向かわなくては。\\nでは、失礼します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must put words on paper before this flash of\\ninspiration escapes me. Have a good day.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あ、はい！\\nまたお店にも来てくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, you too! Please return to our cafe\\nanytime!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（私のヒントからどんなお話ができるのかな？\\n　楽しみにしていよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I wonder what kind of story I happened to\\ninspire? I’ll be looking forward to this.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -135,38 +135,38 @@
         "0": {
           "speaker": "ココア",
           "original": "いいですよ、なんでも聞いてください。\\nきっと価値のある取材になりますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine! Ask me anything! I’m positive my story\\nwill turn into something valuable to you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "価値ですか？\\nなぜでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Valuable, say you? What makes you so\\nconfident?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "『街の国際バリスタ弁護士の半生』\\nという伝記のもとになりますからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because it will become the basis for 『The\\nTown’s International Barista Lawyer: A\\nBiography』!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "なるほど、ココアさんの過去を暴く本を\\n書けばいいのですね？\\nその発想はありませんでした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. It certainly would be worth my time to\\nwrite a book exposing Cocoa-san’s past. I\\nshould have thought of this sooner.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、暴く！？\\nえーっと、あんまりはずかしいことは\\n書かないでもらえると……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Exposing me!? Well, uh... I would\\nappreciate it if you didn’t shame me too much\\nin your writing...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "ええ、もちろん。\\nでは取材を始めますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, I’ll agree to that. Now then, let’s\\ncommence the interview.",
+          "status": "machine_translated"
         }
       }
     },
@@ -175,38 +175,38 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、私は青山さんを取材します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Before that, I’m going to interview you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "私をですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "私、街の国際バリスタ弁護士をしながら\\n小説も書けたら素敵だなって思ってるんです。\\nだから、その準備で！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I always wished I could write novels while\\nacting as this town’s international barista\\nlawyer. No better time to start than today!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ふふ、ココアさんは夢に溢れていますね。\\n私でよろしければ、\\nそのお手伝いをさせてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. You certainly have many dreams,\\nCocoa-san. If you’re fine with someone like\\nme, then by all means.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、まず、青山さんが私を取材してください。\\nそれで取材の手順を覚えますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, to start off I’d like you to interview\\nme. That way I’ll know exactly how I should\\ngo about interviewing you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "はい、では始めますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood. I will now begin.",
+          "status": "machine_translated"
         }
       }
     },
@@ -215,116 +215,116 @@
         "0": {
           "speaker": "青山",
           "original": "実はですね……\\nここのところ、お話のネタが降ってきそうな\\n感じはしているものの、つかみきれないんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see... Lately, I’ve felt as if inspiration\\nfor a story as been descending upon me, but\\nI’ve been unable to capture it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？\\n　取材って、何か質問されたりするのかと\\n　思ったんだけど、違うのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait. I thought she’d be asking me\\nquestions for the interview, but she’s doing\\nsomething else?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "手を伸ばすと、その分だけ\\nするりと遠のいてしまって……\\nでも、手を引っ込めるとまた近寄ってきて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The harder I reach out for it, the faster it slips\\naway away from me. But retracting my hand\\nseems to draw it in closer to me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "まるで逃げ水のよう。\\nココアさんは、そういう経験はありませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s as if I’m chasing a mirage. Cocoa-san,\\nhave you ever experienced something like\\nthis?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（おおっ！　ついに質問が来た！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Finally, a question!)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あります！　こんなパンが作りたいなーって\\nアイディアが降りてきても、\\nすぐにふっと消えちゃって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know what you mean! Often times I\\nsuddenly get ideas about bread I want to\\nbake, but just as suddenly the idea vanishes.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "それで、いつも、どうしてすぐに\\nメモしなかったんだろうって後悔するんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Each time that happens, I end up regretting\\nhow I didn’t write down my idea immediately.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そういうアイディアって、\\nどこから来るんでしょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It really makes you wonder just where these\\nideas come from.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "きっと、神様からの贈り物です。\\n誰にも平等に与えられるけれど、\\n受け取ることができるかはその人次第。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No doubt, it’s a gift from God. They’re\\npresents offered to equally to everyone, but\\nup to the individual to accept or not.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "欲するよりも、受け取るために\\n心を研ぎ澄ませることが\\n大切なのかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m inclined to believe that, instead of greedily\\nreaching out, it’s more valuable to refine\\none’s own skill of passive acceptance.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（おおー！　詩的だー！\\n　さすがプロの作家さんだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, how poetic! I would expect nothing less\\nfrom a professional author!)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "でも、欲しいものは欲しいので\\n困ってしまいますね……。\\n今もこうして求めているわけですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But alas, I want what I want. How\\ntroublesome. Even now, I remain trapped in\\nmy desires.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "そうだ、求める……。\\nところで、ココアさん。\\n甘いものをお求めではないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Desires, yes... By the way, Cocoa-san, do\\nyou desire some sweets right about now?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "甘いもの？\\n食べたいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sweets? Yes please!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "青山",
           "original": "では、そちらのカフェで一休みしながら\\n続きをお話ししましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, how about we continue this\\nconversation over at that cafe over there?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "でも、私、あまり役にたつような\\nお話をしてないんですけど、いいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I don’t really feel like I’m contributing\\nmuch to this conversation. Are you sure?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "青山",
           "original": "……バレてしまいましたか。\\nいえ、そういう設定にしておけば、編集さんに\\n見つかった時に言い訳ができるでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...So you’ve figured it out? Regardless of the\\nquality of the interview, it makes for an\\nexcuse for my editor once she finds me.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "おお、なるほど！\\n大人のやり方ですね。\\n勉強になります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that’s what this was about! What a\\npragmatic thing to do. I’ll take note.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "青山",
           "original": "真似することは、\\nあまりおすすめしませんけど、ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can’t exactly recommend that you imitate\\nme, however.",
+          "status": "machine_translated"
         }
       }
     }

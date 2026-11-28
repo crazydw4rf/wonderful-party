@@ -1,3 +1,4 @@
+from concurrent.futures import ThreadPoolExecutor, as_completed
 import json
 import os
 import re
@@ -5,6 +6,10 @@ import shutil
 import subprocess
 import zipfile
 from typing import Any, Dict, List, Optional
+
+DEFAULT_MAX_COMPILE_WORKERS = 5
+PSBUILD_MEM_MB_PER_WORKER = 160
+SYSTEM_MEM_RESERVE_MB = 256
 
 from .constants import (
     BUILD_DIR,
@@ -62,7 +67,71 @@ def translate_speaker(orig_spk: Optional[str], speaker_map: Dict[str, Any]) -> O
     return orig_spk
 
 
-def apply_patches(lang: str) -> List[str]:
+def _patch_has_translations(patch: Dict[str, Any]) -> bool:
+    for p_scene in patch.get("scenes", {}).values():
+        if any(entry.get("translation") for entry in p_scene.get("texts", {}).values()):
+            return True
+        if p_scene.get("select_prompt", {}).get("translation"):
+            return True
+        if any(entry.get("translation") for entry in p_scene.get("choices", {}).values()):
+            return True
+    return False
+
+
+def _get_available_memory_mb() -> Optional[int]:
+    try:
+        with open("/proc/meminfo", "r", encoding="utf-8") as f:
+            for line in f:
+                if line.startswith("MemAvailable:"):
+                    return int(line.split()[1]) // 1024
+    except OSError:
+        return None
+    return None
+
+
+def _resolve_compile_workers(jobs: Optional[int], task_count: int) -> int:
+    if task_count <= 0:
+        return 1
+    if jobs is not None:
+        return max(1, min(jobs, task_count))
+
+    workers = min(DEFAULT_MAX_COMPILE_WORKERS, max(1, os.cpu_count() or 4))
+    avail_mb = _get_available_memory_mb()
+    if avail_mb is not None:
+        mem_cap = max(1, (avail_mb - SYSTEM_MEM_RESERVE_MB) // PSBUILD_MEM_MB_PER_WORKER)
+        workers = min(workers, mem_cap)
+    return max(1, min(workers, task_count))
+
+
+def _compile_scenario_slice(psbuild: str, patch_scn_dir: str, build_scn_dir: str, m_file: str) -> str:
+    json_path = os.path.join(patch_scn_dir, m_file)
+    compiled_m_path = json_path[:-5]
+
+    cmd = [psbuild, json_path, "-o", compiled_m_path]
+    res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
+    if res.returncode != 0:
+        err = res.stderr.strip() or res.stdout.strip()
+        raise RuntimeError(f"Failed to compile '{m_file}':\n{err}")
+
+    if os.path.exists(json_path):
+        os.remove(json_path)
+    resx_path = json_path[:-5] + ".resx.json"
+    if os.path.exists(resx_path):
+        os.remove(resx_path)
+
+    slice_name = m_file[:-11] if m_file.endswith(".scn.m.json") else m_file[:-5]
+    shutil.copy2(compiled_m_path, os.path.join(build_scn_dir, slice_name))
+
+    raw_json_in_scn = os.path.join(build_scn_dir, m_file)
+    if os.path.exists(raw_json_in_scn):
+        os.remove(raw_json_in_scn)
+    raw_resx_in_scn = raw_json_in_scn[:-5] + ".resx.json"
+    if os.path.exists(raw_resx_in_scn):
+        os.remove(raw_resx_in_scn)
+    return m_file
+
+
+def apply_patches(lang: str, pretty: bool = True) -> List[str]:
     lang_patch_dir = os.path.join(PATCHES_DIR, lang)
     if not os.path.exists(lang_patch_dir):
         raise FileNotFoundError(f"Patches directory '{lang_patch_dir}' does not exist.")
@@ -112,7 +181,7 @@ def apply_patches(lang: str) -> List[str]:
             patch = json.load(pf)
 
         identity = patch.get("identity")
-        if not identity:
+        if not identity or not _patch_has_translations(patch):
             continue
 
         raw_json_name = f"{identity}.m.json"
@@ -183,11 +252,13 @@ def apply_patches(lang: str) -> List[str]:
                 for scene in scenario_data.get("scenes", []):
                     if "texts" in scene:
                         for entry in scene["texts"]:
-                            if isinstance(entry, list) and len(entry) >= 1 and entry[0]:
-                                orig_spk = entry[0]
-                                translated_spk = translate_speaker(orig_spk, speaker_map)
-                                if translated_spk and translated_spk != orig_spk:
-                                    entry[0] = translated_spk
+                            if isinstance(entry, list):
+                                for spk_idx in (0, 1):
+                                    if len(entry) > spk_idx and entry[spk_idx]:
+                                        orig_spk = entry[spk_idx]
+                                        translated_spk = translate_speaker(orig_spk, speaker_map)
+                                        if translated_spk and translated_spk != orig_spk:
+                                            entry[spk_idx] = translated_spk
 
                     if "selectInfo" in scene and scene["selectInfo"]:
                         orig_spk = scene["selectInfo"].get("name")
@@ -198,7 +269,10 @@ def apply_patches(lang: str) -> List[str]:
 
             target_build_json = os.path.join(build_scn_dir, raw_json_name)
             with open(target_build_json, "w", encoding="utf-8") as out_f:
-                json.dump(scenario_data, out_f, ensure_ascii=False, indent=2)
+                if pretty:
+                    json.dump(scenario_data, out_f, ensure_ascii=False, indent=2)
+                else:
+                    json.dump(scenario_data, out_f, ensure_ascii=False, separators=(",", ":"))
 
             src_resx = os.path.join(SCENARIO_EXTRACTED_DIR, f"{identity}.m.resx.json")
             if os.path.exists(src_resx):
@@ -252,7 +326,10 @@ def apply_patches(lang: str) -> List[str]:
         if sl_modified:
             target_sl_json = os.path.join(build_scn_dir, SCENALIST_FILENAME)
             with open(target_sl_json, "w", encoding="utf-8") as sf:
-                json.dump(sl_data, sf, ensure_ascii=False, indent=2)
+                if pretty:
+                    json.dump(sl_data, sf, ensure_ascii=False, indent=2)
+                else:
+                    json.dump(sl_data, sf, ensure_ascii=False, separators=(",", ":"))
 
             src_sl_resx = os.path.join(SCENARIO_EXTRACTED_DIR, f"{SCENALIST_FILENAME[:-5]}.resx.json")
             if os.path.exists(src_sl_resx):
@@ -269,43 +346,33 @@ def apply_patches(lang: str) -> List[str]:
     return modified_files
 
 
-def build_binaries(lang: str, repatch: bool = False) -> Dict[str, str]:
+def build_binaries(lang: str, repatch: bool = False, jobs: Optional[int] = None) -> Dict[str, str]:
     psbuild = get_psbuild_path()
     build_lang_dir = os.path.join(BUILD_DIR, lang)
     build_scn_dir = os.path.join(build_lang_dir, "scenario")
     patch_scn_dir = os.path.join(build_lang_dir, "patch", "scenario")
 
-    modified_files = apply_patches(lang)
+    modified_files = apply_patches(lang, pretty=False)
+    total = len(modified_files)
+    worker_count = _resolve_compile_workers(jobs, total)
 
-    print(f"Compiling {len(modified_files)} modified scenario JSONs to binary slices...")
-    for m_file in modified_files:
-        json_path = os.path.join(patch_scn_dir, m_file)
-        compiled_m_path = json_path[:-5]  # strip .json -> .scn.m
-
-        cmd = [psbuild, json_path, "-o", compiled_m_path]
-        res = subprocess.run(cmd, stdout=subprocess.PIPE, stderr=subprocess.PIPE, text=True)
-        if res.returncode != 0:
-            raise RuntimeError(f"Failed to compile '{m_file}':\n{res.stderr}")
-
-        # Clean up source json and resx from patch_scn_dir
-        if os.path.exists(json_path):
-            os.remove(json_path)
-        resx_path = json_path[:-5] + ".resx.json"
-        if os.path.exists(resx_path):
-            os.remove(resx_path)
-
-        # For the full scenario archive (build_scn_dir), slice name is stripped of .scn.m
-        slice_name = m_file[:-11] if m_file.endswith(".scn.m.json") else m_file[:-5]
-        target_slice_path = os.path.join(build_scn_dir, slice_name)
-        shutil.copy2(compiled_m_path, target_slice_path)
-
-        # Clean up uncompiled json/resx in build_scn_dir
-        raw_json_in_scn = os.path.join(build_scn_dir, m_file)
-        if os.path.exists(raw_json_in_scn):
-            os.remove(raw_json_in_scn)
-        raw_resx_in_scn = raw_json_in_scn[:-5] + ".resx.json"
-        if os.path.exists(raw_resx_in_scn):
-            os.remove(raw_resx_in_scn)
+    print(f"Compiling {total} modified scenario JSONs to binary slices (workers: {worker_count})...")
+    if modified_files:
+        with ThreadPoolExecutor(max_workers=worker_count) as executor:
+            futures = {
+                executor.submit(_compile_scenario_slice, psbuild, patch_scn_dir, build_scn_dir, m_file): m_file
+                for m_file in modified_files
+            }
+            completed = 0
+            try:
+                for future in as_completed(futures):
+                    future.result()
+                    completed += 1
+                    if completed % 50 == 0 or completed == total:
+                        print(f"  Compiled {completed}/{total} scenarios...")
+            except Exception:
+                executor.shutdown(wait=False, cancel_futures=True)
+                raise
 
     print("Building patch archive (patch_info.psb.m & patch_body.bin)...")
     patch_info_json = {

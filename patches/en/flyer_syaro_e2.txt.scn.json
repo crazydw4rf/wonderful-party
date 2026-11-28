@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "シャロ",
           "original": "……ん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Hmm?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "え？　シャロちゃん、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? \\nSharo-chan, what is it?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ココアから小麦の匂いがする。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, you smell like wheat.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "えっ、本当？\\nくんくん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Really? \\n＊sniff sniff＊",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "自分ではよくわからないや。\\n夕べ、パンを焼いたからかな？\\nでもそんなに匂う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't really tell. I guess it's because I\\nbaked some bread last night? But still, do I\\nreally smell that much?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "結構するけど……\\n嫌な匂いじゃないし、\\n気にしなくていいんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, it's pretty noticeable... But, it's not\\nlike it's a bad smell. It's probably not \\nworth worrying about.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "でも、この格好で小麦の匂いって\\nすっごくギャップがあるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I have to say, there's quite a gap between\\nsomeone wearing that costume smelling \\nlike wheat.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ギャップ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gap!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ひゃっ！？　な、なに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hya!? \\nWh-What of it?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "そっか、ギャップかぁ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now~ \\nSo I have gap!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "ギャップがどうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you making such a big deal out of gap?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "前にね、千夜ちゃんが言ってたの。\\n大人の女にはギャップがつきものだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan told me about this before.\\nShe said mature women always have some gap.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "千夜……。\\nまた余計なことを教えて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh Chiya... You didn't have to teach Cocoa \\nthat word...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "つまり、私もこれでギャップのある\\n大人の女になれたわけだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, this means that I've become a grown woman \\nwho's got gap, right?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "なれてないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, you haven't whatsoever.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "えー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat!?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "軍服と小麦の匂いにギャップがあるんだから、\\nココア本人は関係ないじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, there's quite the gap between a military\\nuniform and smelling like wheat, but that\\ndoesn't say anything about you personally.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "そっか……。\\nうう～、大人の女への道は険しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... \\nUuu~ \\nIt sure isn't easy to become a grown woman.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、でも、いつも軍服を着てれば\\nギャップを活かせるってことになるよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that being said, I can still exploit the \\ngap created by this military uniform, \\ncan't I?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "これはもう、将来は\\n街の国際バリスタ軍人弁護士として\\nパンを焼くしかないね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have no other option. I must keep \\nbaking bread, as this town's international \\nbarista combat lawyer!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "それ、本職がなんなのかわかんないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm having trouble figuring out what your \\nprimary occupation is supposed to be.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "全部、本職だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They're all my primary occupations, duh.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "……そう。\\n忙しくて大変ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...If you say so. \\nYou sure have your work cut out for you.",
+          "status": "machine_translated"
         }
       }
     }

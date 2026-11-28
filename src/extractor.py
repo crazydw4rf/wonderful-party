@@ -232,8 +232,10 @@ def extract_speakers_file(lang: str) -> str:
             data = json.load(fp)
         for scene in data.get("scenes", []):
             for t in scene.get("texts", []):
-                if isinstance(t, list) and t and t[0]:
-                    all_speakers.add(t[0])
+                if isinstance(t, list):
+                    for spk_idx in (0, 1):
+                        if len(t) > spk_idx and t[spk_idx]:
+                            all_speakers.add(t[spk_idx])
             si = scene.get("selectInfo")
             if si and isinstance(si, dict) and si.get("name"):
                 all_speakers.add(si["name"])

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "ココア",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "……ココア？\\nさっきからなんなの？\\n妙に視線を感じるんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, can I help you? \\nYou seem to keep glancing at me...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "私を見ていてもチラシは減らないわよ。\\nちゃんと働きなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You won't get rid of those flyers by staring \\nat me. Take your work seriously.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうなんだけど……気になることがあって。\\nシャロちゃんの学校では、\\nやっぱりお嬢様ポーズの授業とかあるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, yeah. Something's been bugging me. \\nSharo-chan, you do take classes for that \\nrich girl pose of yours, right?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "……やっぱりってなに？\\nそんなのあるわけないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Why would you expect that? There's \\nobviously no classes for something like that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えー？\\nシャロちゃんの学校ってお嬢様学校でしょ？\\n絶対あると思ったのにな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat? But you go to a rich girl's school.\\nI was certain you were trained in that sort \\nof thing.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "まあ、お嬢様学校っていうのは\\n否定しないけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I admit it is a school for rich \\ngirls...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "じゃあ、念のためにきいておくけど\\n社交ダンスの授業はあるよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, let me get this straight. \\nYou do have classes for ballroom dancing, \\nright?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "そんなのないわ。\\n体育で創作ダンスならやったけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, we don't. \\nThough we do have creative dances during P.E.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "そんなのうちの学校でもあるよ！\\nじゃあ、頭に本を置いて歩く訓練は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So what, we have that even at my school! \\nOkay, do you practice walking with a book \\non your head?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "……それに何の意味があるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Why would anyone do that?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうすると、きれいな姿勢で歩けるらしいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think doing that trains you to walk with \\nthe right posture?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "なんに影響受けてるのよ。\\n本は読む物で頭に乗せるものじゃないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who told you that? Books are for reading, \\nnot for wearing on your head.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ええー！？\\nじゃあ、どんな授業をしてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaaat!? Okay then, just what kind of \\nclasses do you take?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "普通の授業！\\nココアの学校と同じよ、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Normal classes. They're not different from \\nyours, probably.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "え～、つまんないよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Where's the fun in that?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "だから、あんたは『お嬢様』に期待しすぎ。\\nお嬢様学校っていったってそんなものよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're expecting way too much from these so \\ncalled ”rich girls”. A ”rich girl's school” \\nisn't anything more than a name.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "まあ、授業は、だけど。\\n通ってる生徒はお嬢様ばかりだから\\n私は肩がこって仕方なくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, the classes, anyway... The students \\nactually are all super rich kids, and being \\naround them stresses me out...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、わかった！\\n同じような授業だけど、お嬢様言葉で\\nやったりしてるんだね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I figured it out! Our classes might be \\nthe same, but yours are taught using a posh, \\nrich girl vocabulary!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "なんでよ！\\n私もリゼ先輩も\\n普通の言葉でしゃべってるでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What makes you think that! Me and Rize-senpai\\nboth speak normally, don't we!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "それは仮の姿で、本性を隠してるんだね？\\n恐るべしシャロちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You may act like that, \\nbut you're actually hiding your true character.\\nDastardly, Sharo-chan!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "勝手に人のキャラを決めないでくれる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quit making up backstories for people all \\nthe time!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "はあ、もう。\\nココアと一緒にいると\\n嫌でも肩から力が抜けるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ \\nWhatever. Like it or not, being around Cocoa \\nautomatically provides stress relief.",
+          "status": "machine_translated"
         }
       }
     }

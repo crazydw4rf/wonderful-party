@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,188 +16,188 @@
         "0": {
           "speaker": "ココア",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊Sigh＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ココアさん、どうかしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, what's the matter?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Did I do something?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "空を見上げたまま、\\nぼーっとしているようだったので。\\n何か見えるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks like you're looking up and staring \\noff into space. Do you see something up \\nthere?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん、ちょっと雲が出てきたなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. It looks like it's getting cloudy.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ねえ、チノちゃん。\\nこの街のクリスマスってどんな感じ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino-chan. What's Christmas like in this town?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "え？　なんですか、急に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Why are you bringing that up all of a \\nsudden?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "雲を見てて思ったんだ。\\nこの街、クリスマスに\\n雪が降ったりするのかなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seeing those clouds makes me wonder if this\\ntown gets any snow this time of year.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "ああ、そういうことですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that's what you mean.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "雪なら結構、降りますよ。\\nホワイトクリスマスも珍しくないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, this town gets plenty of snow.\\nA white Christmas is nothing unusual.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ホワイトクリスマス！？\\nすっごーい！　素敵だねっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "White Christmas!? Amazing! That must be \\nwonderful!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "お、落ち着いてください。\\n今年も降るとは限りませんし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Don't get too excited, it's not like we're\\nguaranteed to get snow this year.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "でも、雪はよく降るんでしょ？\\n楽しみだなー、いっぱい積もるといいなー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But we get snow often, right? I'm looking \\nforward to it! I hope we get lots of \\naccumulation.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "雪だるまを作って、\\n雪うさぎも一緒に並べたりして、\\nもちろんかまくらを作ったりもして――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll make snowmen, and rows of snow rabbits,\\nand it goes without saying we're \\nmaking igloos...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "みんなで集まって雪合戦もいいよね？\\n雪まみれになって、そのあとに\\nお風呂で温まるところまで含めて楽しみだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And how about we have a big snowball fight?\\nWe'll end up covererd in snow, then have a\\nhot bath to warm up again. How fun!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "それから、ソリにも乗りたいな。\\nこの辺りで滑れるところってあるのかな？\\nみんなで競争とかできたらいいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, I wanna go sledding. Are there any \\ngood sledding hills around here? We can \\nall have a sledding race.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "……色々やる気なんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You sure have big plans, huh.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "うん！\\nもちろんチノちゃんも一緒にね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup! And you'll be with me every step of \\nthe way.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "私もですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're counting me in?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "当然だよ。\\nみんなで一緒に遊ぶから余計に楽しいんだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Obviously! Everything's more fun when \\neveryone's together.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "……そうですね。\\nそういうものかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Yeah. You just might be right about that.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "あーあ、早く雪降ってこないかな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh. I sure hope it starts snowing soon.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "あまり早く降ってこられても困ります。\\n雪かきをするのが大変ですし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Early snow isn't all good news. \\nShoveling is a lot of work.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "チノちゃんは現実的だねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's our down to earth Chino-chan...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "ココアさんが夢見がちすぎるだけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're just too dreamy all the time.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "まあ、そういうところは\\n嫌いじゃありませんけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, it's not like I hate that part of you,\\nthough.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "え？　今なんて言ったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? What did you say?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "少し雲の様子が変わってきた、と言ったんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I said it looks like the clouds have \\nchanged a bit.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "あ、本当だ。\\n向こうの方とか、\\n雨が降りそうな雲になってきたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you're right. It looks like the clouds \\nin the distance could be rainclouds.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "早くチラシを配ってしまいましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's hurry up and finish off these flyers.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "雨が降ってきたら大変だもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll be in trouble if it starts raining.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん、私……\\nこの服を着るに当たって\\n心に決めたことがあるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, listen to what I have to\\nsay. There's something I decided on,\\nthe moment I put on this uniform.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ど、どうしたの、千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What's this about, Chiya-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（いつになくシリアスな雰囲気……。\\n　これは、私もちゃんと受け止めるってところを\\n　見せてあげなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She's acting all serious about\\nsomething! I need to be here\\nfor her as she opens up to me!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "何を決めたの？\\n千夜ちゃんの決意、聞かせてもらっていい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What did you decide on? I'll lend an ear\\nto your ambition, if that's what you want.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ええ、ぜひ、聞いてほしいの。\\nそれはね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, please listen.\\nThis is something I want you to know.\\nYou see...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "軍人だったら、武器を扱えなきゃいけないわ。\\nだから刀の修行をしてきたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I were a soldier, I'd have to\\nbe proficient with a weapon. So,\\nI've been practicing using a sword.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "刀の修行！？\\nそれはかっこいいね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Practicing using a sword!? That's so cool!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "じゃなくて！\\nここで刀を振り回しちゃだめー！\\n捕まっちゃうよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, no! You can't have one of those!\\nYou're going to get yourself arrested!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "大丈夫、木刀だから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, it's just a wooden one.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あ、なんだ木刀かぁ。\\nそうだよね、千夜ちゃんの体力だと\\nきっと本物の刀なんて持てないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, thank goodness. What was I\\nthinking? You clearly don't have\\nthe strength to hold a real sword.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "って、木刀でも危ないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, no! A wooden sword isn't a toy either!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "大丈夫！　今、見せてあげる！\\nまずは壱の太刀……行くわよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry! I'll show it to you.\\nHere goes my first swing. Watch and learn!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "あう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（ん？　今のって、千夜ちゃんのお腹の音？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I think I just heard her stomach rumbling?)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "はっ、はずかしい……！\\nこのタイミングでなんて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, the humiliation! I couldn't have asked\\nfor worse timing than that!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "仕方ないよ。\\nもう夕方だし、お仕事をすればお腹が空くもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No sense crying over spilled milk. It's\\ndinner time, and working makes you hungry.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "軍人だってお腹が空いたら何もできないよ。\\nほら、まさに、腹が減っては戦はできぬ、だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No soldier can fight while\\nstarving! You know what they say:\\nan army marches on its stomach.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ココアちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\n私もちょっとお腹が空いてきたし、\\nとっておきのものをっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know! I'm getting hungry too,\\nso it's time to bring out the big guns!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "じゃーん！\\nほら、ティッピーパンを持ってきたんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ta-da! Enjoy!\\nI've brought along my very own Tippy bread.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "まあ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Delightful!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "一緒に食べてお腹がいっぱいになったら、\\n修行の成果も見せてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can show me your newfound swordsmanship\\nskills after we eat together.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "ココアちゃん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan...",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "ありがとう、ココアちゃん。\\n本当にありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks, Cocoa-chan. You're the best.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "そんな大げさにお礼を言うほどじゃないよ。\\nはい、半分こしようね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, don't mention it. Here, want half?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ええ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure!",
+          "status": "machine_translated"
         }
       }
     }

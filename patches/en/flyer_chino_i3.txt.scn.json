@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,212 +16,212 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん、\\nちょっと見てほしいものがあるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, there's something I want you \\nto see.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "どうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ここにコインがあります。\\nこれを手のひらの上に置いて、\\nぎゅっと握りしめ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Direct your eyes to this coin. I will now \\nplace the coin in the palm of my hand, \\nand then clench down upon it...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "おまじないをかけながら揉み込んで、\\nゆっくり手を開くと――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll cast a spell while squeezing the coin,\\nand now when I slowly open my hand...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "あ！？\\nコインが消えてしまいました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊\\n The coin's gone!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "本当？\\nちゃんと消えたように見えた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? So it looked like it totally disappeared?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "はい。\\n今の、手品なんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes. Was that a magic trick you did just now?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そうだよ。\\n本に載ってた簡単なやつだけどね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep. It's just one of the easier ones \\nexplained in a book I read.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "簡単でもすごいです。\\nびっくりしました。\\nでも、どうして急に手品を？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pretty good for being an easy one. That \\nreally got me. But why are you showing me \\nthis all of a sudden?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ほら、この格好ってマジシャンぽいでしょ？\\nだから手品ができたら楽しそうだなーと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, doesn't this outfit make me look like \\na magician? It makes me want to try out \\nsome magic tricks.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "この前と言っていることが違うじゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's different from what you said about \\nit last time.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うん、ディーラーっぽいとも思ってるけど、\\nマジシャンっぽくもあるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I still think it looks like a dealer's outfit,\\nbut it could be a magician's as well.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "まあ、否定はしません。\\nそれで手品の練習をしているわけですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I wont deny it. So that's why you're \\npracticing your magic tricks.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "……影響されやすいココアさんらしいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Typical of our so easily influenced \\nCocoa-san.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "でも、できるのはまだこれだけなんだ。\\n本当はもっと色々やってみたいんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But sadly, that's the only trick I'm able \\nto do. I really want to learn more, though.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ！\\n帽子からうさぎを出してみたいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! I wanna try pulling a rabbit out of a hat.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "そ、それは、ぜひ見てみたいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Woah. I'd absolutely love to see that.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "チノちゃんがそう言ってくれるなら、\\n練習をしてみようかな。\\n実は、もう帽子の用意はしてあるんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since you want to see that so badly, \\nI suppose I'll give it a shot. You see, \\nI've prepared a hat for this very occasion.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あとはうさぎなんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now I just need to acquire a rabbit...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "うさぎですか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A rabbit...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア＆チノ",
           "original": "じー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ティッピー",
           "original": "な、なんじゃ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Why are you lookin' at me?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "ねえチノちゃん、\\nティッピーで練習してみていい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Chino-chan, do you mind if I practice \\non Tippy?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "いいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Go ahead.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ティッピー",
           "original": "なにぃっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "でも、けっこう大きいよね……。\\nこの帽子の中に入るかな？\\nえい、えい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, she's a big girl... Think she'll fit \\ninside the hat? Ey, ey!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ティッピー",
           "original": "待たんかココア！\\n無理やり押し込もうとするでないっ！　ぐう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on Cocoa! Don't just try and force me \\ninside this this! Guh!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "あれ？\\n帽子からうさぎを出すんじゃないんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait? Aren't you supposed to be taking the \\nrabbit out of the hat?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "あはは、手品だからね。\\n前もって準備をしておかないとだめなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha... It's a magic trick, so I need a \\nlittle bit of prep for it to work.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "とりあえずティッピーを帽子の中に入れて……\\nそこからどんな風にすればいいのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First I need Tippy to get inside the hat...\\nBut what are you supposed to do after that?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ティッピー",
           "original": "やり方も知らずに練習と言っておったのか！？\\nええい！　付き合っておられんわい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're trying to practice a trick you don't \\neven know!? I've had it! I won't cooperate \\nwith you a second longer!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "あ、ティッピー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Tippy!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "……逃げて行ってしまいましたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...The she went.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "残念だなぁ。\\nでも次は、ちゃんとやり方を勉強してくるからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How unfortunate. But I'll study up and try \\nagain another time.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "はい、頑張ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent, good luck with it.",
+          "status": "machine_translated"
         }
       }
     }

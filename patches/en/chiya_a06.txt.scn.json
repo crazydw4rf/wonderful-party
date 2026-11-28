@@ -6,248 +6,248 @@
         "0": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\n千夜ちゃんの家に行くからバイトお休みするって\\nチノちゃんに連絡しなきゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I almost forgot. I need to tell Chino-chan \\nthat I'm going to Ama Usa and not \\ncoming to work today.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "それは大切だわ。\\n今すぐに連絡した方がいいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That is definitely important. \\nYou should call her right now.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、ちょっと待っててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. Wait here one second.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "もしもし？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、チノちゃん？\\nお姉ちゃんでーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Chino-chan? It's your big sister!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "私に姉はいません。\\n間違い電話ですので切りますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't have a sister. \\nYou must have the wrong number.\\nGoodbye.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "わー！　待って待って！\\n私だよ、ココアだよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait! Wait! It's me, Cocoa!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "どうしたんですか？\\n何かありましたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's going on? Is something the matter?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "実はね、千夜ちゃんのクリスマスパーティーの\\n準備を手伝うことになったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see, I'm going to go help Chiya-chan \\nprepare for the Christmas party.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "そうなんですか。\\n確かに、千夜さんだけでは\\n大変かもしれないと思っていましたが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now. Well, I must admit \\nthat doing all the work on her \\nown seemed like a daunting task.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "それで、これから千夜ちゃんの家で\\n話し合いをしたいんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, I'm going over to her place to discuss \\nthe details.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "だから、急なんだけど\\nバイトをお休みしてもいいかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry to call with no warning, but is it \\nokay if I don't come in to work today?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "わかりました。\\n自分勝手な理由でもありませんし、いいですよ。\\n頑張ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I understand. You're not being selfish, \\nso I'll allow it. Do your best to support her.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ありがとう、チノちゃん！\\n世界一のクリスマスにするから、\\n楽しみにしててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks a bunch, Chino-chan! We're going \\nto make this the best Christmas in the world, \\nso look forward to it!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "はい。\\nでは失礼します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay. I'm hanging up now.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "大丈夫だって！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She says it's fine.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "よかった、ココアちゃんが怒られなくて。\\nでも、バイトを休ませちゃってごめんなさいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good. I was afraid she'd get mad at you. \\nI still feel bad about making you skip work.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "気にしないで。\\n今日はリゼちゃんもいるし\\nティッピーもいるし、大丈夫だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's no big deal. She has Rize-chan and Tippy \\nto back her up, so everything will be fine.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "……あ。\\nそういえば、この公園……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, look at where we are.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "ん？　どうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What about it?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "ココアちゃん、覚えてる？\\n私たちが初めて出会ったのって、\\nこの公園だったわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, do you remember? \\nThis park is the place where we first met.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "あっ！　そういえばそうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's right.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "うさぎにようかんをあげてたら、\\nかわいい女の子が食いついちゃって\\nびっくりしたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I tried to give some youkan to a rabbit, \\nbut caught a cute girl instead. \\nI was so surprised!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "私もびっくりしちゃったよ。\\nうさぎにようかんなんて発想、\\nしたことなかったし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of my surprise! I had never even \\nconsidered giving youkan to bunnies.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "……ねえココアちゃん？\\n出会いって不思議だと思わない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa-chan? Isn't there something \\nmysterious about first encounters?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "もし、ココアちゃんが\\n入学式を１日間違えていなければ、\\n私たちはここで出会っていなかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you hadn't gotten the first \\nday of school wrong, we never \\nwould have met each other here.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "もし私が、配達の帰りに寄り道をしようって\\n考えなければ、出会っていなかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I hadn't taken a detour on my way \\nback from that delivery, \\nwe never would have met each other here.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "もしもあの時、ココアちゃんと\\n出会ってなかったら、私たち、\\nこんなに仲良くなっていなかったかもしれない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And if I hadn't met you at that time, \\nwe might not have become the \\nclose friends we are today.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "いくつもの偶然が積み重なって、今がある。\\nだから出会いって不思議だと思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're only having the moment we're having\\nnow because of a series of coincidences. So I \\nthink there's something mysterious about it.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "そうだね、考えてみると……\\n私と千夜ちゃんは、最初から\\n運命の糸で繋がっていたのかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe you're right. \\nNow that you mention it, you and I may \\nbe tied together by the strings of fate.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "運命の糸……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The strings of fate...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "だったら、これからもずっと一緒ね。\\nなんといっても、運命が味方なんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If that's true, then we're going to be \\ntogether from now on. \\nAs it so happens, fate is on our side.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "そうだよ？\\nどんなことがあっても、私と千夜ちゃんの\\nあいだの糸は切れたりしないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You got that right. \\nNo matter what happens, the string \\ntying us together will remain unbroken.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "ええ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "……あ！\\nつい長話しちゃったわね、行きましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! We've been chatting here for far too long. \\nLet's get going.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "ココアちゃんにバイトを休ませておいて\\n進展がなかった、なんて、今度こそ切腹だわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we don't make any progress even after you \\ncalled in to work, \\nI really will have to commit seppuku!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "なんでそこまで切腹にこだわるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why does every conversation have \\nto lead to ritual suicide!?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "行きましょう、ココアちゃん！\\n甘兎庵まで競走よ！　それっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's get a move on, Cocoa-chan! \\nLast one to Ama Usa An is a rotten egg!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "えっ！？\\n千夜ちゃん、走ったら体力が――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? Chiya-chan, don't \\nexhaust yourself running--",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "ああっ！\\nわ、私、もうだめ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ugh... I-I can't go on...",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "早っ！？\\nしっかりして、千夜ちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was fast! Chiya-chan, get it together!",
+          "status": "machine_translated"
         }
       }
     }

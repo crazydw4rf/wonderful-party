@@ -6,44 +6,44 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "女の子Ｅ",
           "original": "あー、怪盗ラパンだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! It's the Phantom Thief Lapin!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "女の子Ｅ",
           "original": "わーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yay!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ひゃっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "びっくりしたぁ。\\n急に飛びついてきたら危ないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You scared me! Don't jump out at me like \\nthat!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "女の子Ｅ",
           "original": "ごめんなさーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sorryyyyyy.",
+          "status": "machine_translated"
         }
       }
     },
@@ -52,242 +52,242 @@
         "0": {
           "speaker": "チノ",
           "original": "どうしたんですか、ココアさん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's going on, Cocoa-san?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "女の子Ｅ",
           "original": "あれぇ？\\nラパンがもう１人いるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? There's another Lapin?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "この子、怪盗ラパンのファンみたいなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks like this girl is a fan of \\nPhantom Thief Lapin.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "女の子Ｅ",
           "original": "ねえねえ、どっちが本物のラパンなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, which one of you is the real Lapin?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ふっふっふ……",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "本物のラパンは私だぁ☆",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am the real Lapin☆",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "女の子Ｅ",
           "original": "わー、かっこいい♪",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waaa! So cool♪",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "チノちゃんも、早く。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, do it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "女の子Ｅ",
           "original": "じー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ほら、期待してるみたいだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon, she wants you to do it.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ですが、なんて言えば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, what am I supposed to...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃあね、ごにょごにょ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here... ＊whisper whisper＊",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "わかりました。\\nええと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Got it. Umm...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "わ、私こそが、本物のラパンだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I am the real Lapin!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "女の子Ｅ",
           "original": "んー？\\nなんだかラパンぽくないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm? You don't really seem like Lapin at all.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "うっ……。\\nそんなことはありません。\\n決めポーズの、この肘の角度を見てください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... You're wrong about that. Examine the \\nangle of my elbow when I do my signature \\npose.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "女の子Ｅ",
           "original": "あ、ポーズはこっちのラパンの方がかっこいい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, this Lapin is good at the pose!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "どうです、ココアさん。\\n私もなかなかのものでしょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, Cocoa-san? I've got it in me as well.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "女の子Ｅ",
           "original": "ねえねえ、ロイヤルフラッシュアタック見せて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, show me your Royal Flush Attack!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "いいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As you wish.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "チノちゃん、\\nどこからトランプなんて出したの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, where were you hiding that deck \\nof cards?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "たまたまポケットの中に入っていたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I just so happened to put this in my pocket \\ntoday.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア（Ｍ）",
           "original": "（たまたま入ってるようなものじゃないと\\n　思うんだけど……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(A pack of cards doesn't seem like \\nsomething to carry around without a reason...)",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "いいですか？\\nしっかり見ていてくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you ready? Don't blink.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "女の子Ｅ",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "女の子Ｅ",
           "original": "お姉ちゃんたち、ばいばーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Onee-chans, bye bye!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "ばいばーい！\\n気をつけて帰ってね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bye byeeee! By safe on your way home!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "結局、最後には２人とも偽者だと\\nバレてしまいましたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the end, she figured out that both of us \\nwere actors.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "仕方ないよ。\\n本物みたいになんでもできるわけじゃないんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was inevitable. It's not like we can pull off\\neverything the original character can do.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "でもチノちゃん、\\n結構ラパンになりきってたよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But Chino-chan, you really got into \\ncharacter back there.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "チノ",
           "original": "そ、それは……\\nあの子が喜んでくれるから、つい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well... She seemed to like it, so I just kinda...",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "ねえ、もう１回やってみせてよ、決め台詞。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, do it one more time for me, the \\nsignature pose.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "チノ",
           "original": "嫌です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won't!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "えー、さっきはすごくノリノリだったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehh? But you were totally into it just a \\nsecond ago!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "チノ",
           "original": "忘れてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forget you ever saw that!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "それは無理だよ。\\nもう脳内にしっかり記憶しちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's impossible! It's been permanently \\nburned into my brain!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "チノ",
           "original": "うー……。\\nもうココアさんなんて知りません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... Cocoa-san, just leave me alone!",
+          "status": "machine_translated"
         }
       }
     }

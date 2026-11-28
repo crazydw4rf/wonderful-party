@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日のバイトは午後からだね。\\n　じゃあ、午前中はちょっとお出かけしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today's shift starts in the afternoon.\\nWell then, I think I'll take a walk while\\nit's still morning.)",
+          "status": "machine_translated"
         }
       }
     },

@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "喫茶店ラビットハウスです！\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House!\\nPlease come for a visit!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "コーヒーが自慢のお店です。\\nお気軽に遊びに来てくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We take pride in our coffee!\\nPlease stop by whenever you'd like!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "チラシをどうぞ！\\n素敵な情報がいっぱいですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one!\\nIt's full of useful information!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,20 +34,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "喫茶店ラビットハウスです。\\nよろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House.\\nPlease come for a visit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おいしいコーヒーでおもてなししますよ。\\nお気軽にお立ち寄りください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll make you feel right at home\\nwith a cup of delicious coffee. Please\\nswing by whenever you feel like it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "チラシ、どうぞ。\\nぜひご覧ください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, take a pamphlet.\\nIt's worth looking over.",
+          "status": "machine_translated"
         }
       }
     }

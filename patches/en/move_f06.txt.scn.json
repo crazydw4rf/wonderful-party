@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（むむむ！\\n　あそこにいるのは……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Aha! There she is...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リーゼちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Riiize-chaaan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,146 +22,146 @@
         "0": {
           "speaker": "リゼ",
           "original": "うわあ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "なんだ、ココアか！\\n急に飛びついてくるな、危ないじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it’s just you. Don’t jump out at me like\\nthat, it’s not safe.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えへへ、ごめんね。\\nリゼちゃんの後ろ姿を見つけたら\\n嬉しくなっちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe, sorry about that. I couldn’t restrain\\nmy joy of seeing you out here.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "それで、リゼちゃんは何してるの？\\nお買い物してるのなら一緒に行こうよ。\\nその方が楽しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, what are you up to? If you’re out\\nshopping, let me join you! It’ll be more fun\\nthat way.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "ああ、いいぞ。\\nココアは何を買いに来たんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, sure. What did you come here for?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えーっと、何かいいものがあったら\\n買おうかな、くらいの気持ちなんだ。\\nもちろん節約しなきゃいけないけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, I just thought I would buy anything I\\nhappen to like. Though I should probably be\\nsaving money instead...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ああ、わかる。\\nここには色々な店が出てるからなぁ。\\n思わぬ掘り出し物もあるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, I know what you mean. There’s so\\nmany different shops around here that it’s\\nimpossible not to find some hidden gem.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "もぐもぐ……。\\nん～！　これ、おいし～い！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊om nom＊ Mmm! This thing is great!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "おい！？\\n今、節約しなきゃって言ったところだろ、\\n何買ってるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oi! You just said you wanted to save, yet\\nyou’ve already bought something?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ううん、買ったんじゃないよ。\\nおじさんが試食にってくれたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope! No money lost on this. The guy gave it\\nto me as a free sample.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "お友達の分も一緒にって、もらっちゃった。\\nはいどうぞ、リゼちゃんの分。\\nすごくおいしいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, he gave me two, one for me and a\\nfriend. Here you go, it’s all yours. You’ll love\\nit.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "あ、ああ、ありがとう。\\nもぐ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, uh, thanks. ＊om nom＊",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "おお、確かにおいしいな。\\nこれこそ掘り出し物だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re right, this is delicious. A real hidden\\ngem.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "それにしても、ココアって\\n甘え上手なところあるよな。\\nこうやって試食をもらってきたりとか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But anyway, I’m surprised at how willing you\\nare to trust people. Like how you just ask for\\nfreebies from strangers.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あっ！\\n甘えると言えば、チノちゃんはもうちょっと\\n私に甘えてくれてもいいと思わない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, speaking of trust. Don’t you think Chino-\\nchan should be depending on me a bit more\\nby now?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "まあ、チノはココアとは逆に\\n甘え下手なところがあるからなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, Chino is the total opposite of you when\\nit comes to trusting people.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そういうリゼちゃんも人に甘えたりしないよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She’s similar to you. You rarely depend on\\nothers either.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "そうか？\\nまあ、そもそもキャラじゃないって言うか\\n私はココアみたいには振る舞えないしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? Well, I must admit that’s not\\nmy style. There’s no way I could ever behave\\nthe way you do.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あっ！　もしかしてリゼちゃん、\\n甘えたいけど甘えられないの？\\nだから私のようになりたいの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Let me guess, you want to be able\\nto trust others, like me, but just can’t do it?\\nYou wanna be just like me!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "待て！　話がズレてる！\\n振る舞えないと言っただけで\\nなりたいとは言ってないぞ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on! I didn’t say that! I admit I can’t\\nbehave like that, but I never said I would want\\nto!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "そんなに甘えたいのなら私で練習して！\\nはい！　お姉ちゃんの胸に飛び込んできて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you want to learn to trust people, you can\\nstart practicing on me! C’mon, leap right into\\nyour big sister’s arms!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "お前は人の話を聞け！\\n大体、大衆の面前でそんなことできるか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not listening to me! And besides, I’m\\nnot doing that in public!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "だめだよ、リゼちゃん。\\nそのままじゃ、ずっと甘え下手なままだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s not the right attitude, Rize-chan. You’ll\\nnever learn to trust people that way.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "いや、だからな？\\n甘えたいんじゃなくてだな……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For the millionth time, I didn’t say I wanted to\\ndepend on people...",
+          "status": "machine_translated"
         }
       }
     },
@@ -175,18 +175,18 @@
       "choices": {
         "*sel_0101": {
           "original": "ここで自分の殻を破るんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Break out of your shell!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "訓練だと思って！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of this as a drill!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "いいから私の胸に飛び込んで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just do it!",
+          "status": "machine_translated"
         }
       }
     },
@@ -195,8 +195,8 @@
         "0": {
           "speaker": "ココア",
           "original": "ここで自分の殻を破るんだよ！\\nそれでリゼちゃんは大きく成長できるはずなの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now’s the time to break out of your shell!\\nThis will be a major development for you!",
+          "status": "machine_translated"
         }
       }
     },
@@ -205,32 +205,32 @@
         "0": {
           "speaker": "リゼ",
           "original": "自分の殻を破る……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Breaking out of my shell, you say...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "そうだよ。\\n自分の限界を自分で決めちゃわないで。\\nリゼちゃんはもっともっと上に行けるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. Don’t start believing that you’ve\\nhit your limit. You still have lots and lots of\\nroom to improve!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "確かに、確かにそうだ。\\n限界を決めてしまっては成長なんて望めない。\\n停滞は、戦場では死を意味する。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, completely right. Thinking that\\nyou’ve hit your limit means stagnation. And\\nstagnation means death on the battlefield.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "わかった、ココア。\\n甘える技術も必要になる瞬間が来るかも\\nしれないからな、やってみるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see now, Cocoa. There may come a day\\nwhen I’ll need your ability to depend on\\nothers. I’ll do it.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん、その意気だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, that’s the spirit!",
+          "status": "machine_translated"
         }
       }
     },
@@ -239,38 +239,38 @@
         "0": {
           "speaker": "ココア",
           "original": "訓練だと思って！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of this as a drill!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おいおい。\\n訓練と言えば何でもやるとか\\n思ってないだろうな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Slow down. Don’t start thinking you can\\nconvince me to do anything just by calling it a\\ndrill.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、リゼちゃんは\\nやりもしないで諦めるんだ。\\n甘え下手ってわかっていながら何もしないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you admit you’ll give up before even\\ntrying? You understand your own inability to\\ntrust, and have decided to do nothing.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "べ、別に、何もしないと\\n言ってるわけじゃないだろう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I never said I was committed to not trying to\\nimprove!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "リゼちゃん、苦手なものを克服する時には\\n得意な人に教わるのも手段だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen, the best method of overcoming\\nweaknesses is to be trained by the best.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "そして私は、リゼちゃんが認める\\n甘えるのが上手い人間なんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And by your own admission, I’m one of the\\nmost trusting human beings you’re aware of,\\nright?",
+          "status": "machine_translated"
         }
       }
     },
@@ -279,14 +279,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "……確かにそうだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That’s right.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "だったら、迷うことはないよ。\\n私がリゼちゃんに甘え方を教えてあげるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then there’s no reason to hesitate. I’ll teach\\nyou the trick behind trusting others.",
+          "status": "machine_translated"
         }
       }
     },
@@ -295,20 +295,20 @@
         "0": {
           "speaker": "ココア",
           "original": "いいから私の胸に飛び込んで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just do it! Jump into my arms!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "はあ……。\\nこうなると、ココアは\\n理屈では説得できないんだよなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ I guess there’s simply no logic or\\npersuasion that works on you.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "わかったよ、少し付き合う。\\nいいか？　少しだけだからな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine, I’ll go along with it. Happy now? You’ve\\ngot one chance.",
+          "status": "machine_translated"
         }
       }
     },
@@ -317,74 +317,74 @@
         "0": {
           "speaker": "ココア",
           "original": "それじゃ、まずは……\\nココア～！　ってかわいらしく\\n言いながら私に抱きついてきて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, let’s start. Yell out ”Cocoaaa~” in a\\ncutesy voice while you reach out for a hug.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "その掛け声には何か意味があるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you’re saying there’s some point to doing\\nthat?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "もちろんだよ。\\n声を出していくのは重要なんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But of course! Yelling loudly is the most\\nimportant part.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "……こ、ココア～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...C-Cocoa.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "はい、もっと大きくかわいく！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again. Louder and more cutesy!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "こ、ココア～……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa~",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "まだためらいがあるよ！\\nほら、私の胸に飛び込んで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re still being too hesitant! Again, as you\\njump into my arms!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ココアぁ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "COCOAAA!!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "おお！　頑張ったね、リゼちゃんっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ooo! You did well, Rize-chan!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "くううう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dammit...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あれ？\\nリゼちゃん、大丈夫？\\nなんでそんなに震えてるの？　寒い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Rize-chan, what’s the matter? Why are\\nyou shaking? Getting cold?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "お、お前がはずかしいこと\\nやらせるからだ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Why did you make me do something so\\nhumiliating!!",
+          "status": "machine_translated"
         }
       }
     }

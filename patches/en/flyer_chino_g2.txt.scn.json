@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,182 +16,182 @@
         "0": {
           "speaker": "ココア",
           "original": "じー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……なんですか、ココアさん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...What is it, Cocoa-san?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "チラシも配らないで、\\nさっきからずっとこっちを\\n見ているじゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've been staring for a long time now, not \\ndoing handouts or anything.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "違うの。\\nチノちゃんじゃなくて、ティッピーを見てたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not staring at you, it's Tippy that I'm \\nlooking at.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ティッピー",
           "original": "わしか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃんの格好に、\\nティッピーがよく似合ってるなと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think Tippy really fits you in that costume, \\nChino-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ほら、この衣装って魔女みたいでしょ？\\nそれで、魔女にはお供の動物がよくいるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, you're basically dressed a witch, right? \\nAnd a witch is supposed to have an \\nanimal to accompany her.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "ああ、なるほど。\\nティッピーが私の使い魔に見えるんですね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I see what you're saying. So Tippy looks \\nlike my familiar?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ティッピー",
           "original": "従僕扱いとは心外じゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Vexing, to be treated as a mere servant.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "えー？\\n使い魔ってかっこいいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? It's still pretty cool being a familiar.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "かっこいいかはともかく、\\n定番であることは確かですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Regardless if it's cool or not, it certainly \\nis a classic.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "私も欲しいなぁ、使い魔。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wish I had a familiar too~",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nこの子になってもらおうっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know! I'll make this little guy into \\nmy familiar.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "いい子いい子～。\\nちょーっと大人しくしててね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're a good little guy. Can you hold still \\nfor me for a while?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "ココアさん、何をするんです？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, what are you doing?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "チノちゃんの真似をして、\\n頭に乗せてみようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was going to follow your example and put \\nhim on my head.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "いえ、相手は野良うさぎですから\\nそれは難しいんじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good luck, but getting a wild rabbit to do \\nthat is going to be difficult.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "ああっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ティッピー",
           "original": "ほぇぇい！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hoeee!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "ココアさん！\\n大丈夫ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san! Are you okay?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "平気だよ！\\n飛び跳ねて逃げられちゃっただけだから。\\nやっぱり乗せるのは無理があったかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine. Looks like he'll just jump off and \\nrun away, so I guess this plan is impossible.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "……あれ？\\nチノちゃん、ティッピーは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. Chino-chan, where's Tippy?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "そういえば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ティッピー",
           "original": "あ”あ”あ”あ”あ”あ”っ！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Ah! Ah! Ah! Ah! Ah!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "ティッピー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "あの子に追われてるねー。\\n使い魔対決だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's being chased by that little guy. \\nIt's a battle of the familiars.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "のんきなことを言ってないで、\\n助けに行きますよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Take this seriously, we need to go save her!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         }
       }
     }

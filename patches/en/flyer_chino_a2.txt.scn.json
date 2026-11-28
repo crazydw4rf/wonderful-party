@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmmm...",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,110 +22,110 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん、\\nサボってないでちゃんとチラシを配ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, please quit slacking and do your \\nhandouts properly.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "サボってるわけじゃないよ。\\nちょっと考え事をしてたんだ。\\nどうやったらもっと目立てるのかなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not being lazy! \\nI have a real problem on my mind. \\nI'm wondering what we can do to stand out more.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "それでね、思ったんだけど、\\n違う路線で攻めてみるのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So I was thinking, why don't we come at this \\nwith a different approach?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "たとえば、リゼちゃんみたいに\\n凛々しく配ってみるとか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Say for example, we hand them out all gallantly, \\nlike  Rize-chan.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "凛々しくと言われましても……\\n具体的にどんなふうにすればいいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "”Gallantly” you say... \\nWhat exactly are you imagining when you say that?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えっと……んー、おっほん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh... Hmm... ＊ahem＊",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "憩いのひと時を\\nラビットハウスで過ごしてみませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Would you fancy a visit to the cafe \\nRabbit House during your leisure time this \\nafternoon?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "それが、ココアさんの\\n凛々しいというイメージなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So in your mind, that's what you picture as \\n”gallant”?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あれ？\\nこういうのはチノちゃんの好みじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Chino-chan, don't you like that kind of \\nthing?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "いえ、そういうことではなくて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's not what I meant...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "じゃあ、シャロちゃんみたいに\\nお嬢様っぽくしてみるのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, how about I act all rich and \\npampered like Sharo-chan?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ラビットハウスをよろしくお願いしま～す♪",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Weeeeeelcome to cafe Rabbit House♪",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "それって、シャロさんの真似を\\nしてるだけですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't that just your impression of Sharo-san?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "えへへ……。\\nお嬢様っぽい言葉遣いが\\nぱっと思いつかなかったから、つい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ I can't think of any posh sounding \\nwords on the fly, so I defaulted to that.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "できないなら無理しないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please know when to give up at something \\nyou can't do.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "でも、やっぱりインパクトって大事だと思うよ。\\n次は意表をついて、不良っぽくワイルドに\\n行ってみよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But first impressions are vital! Next time \\nI'll surprise them by acting like a delinquent \\nand get rough with them!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "……頑張ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Good luck.",
+          "status": "machine_translated"
         }
       }
     }

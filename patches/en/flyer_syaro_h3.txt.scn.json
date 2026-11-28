@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ん～……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "mmmMMM~",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,134 +22,134 @@
         "0": {
           "speaker": "シャロ",
           "original": "どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's up?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "音楽、いいなーって思って。\\nこの街だと、街角の演奏も様になるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That song they're playing, it's pretty good.\\nThis village has everything, even street\\nmusicians.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ふーん……。\\n確かに、心がわき立つようないい曲ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... You're right. \\nThis song really gets your heart beating.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ねえ、シャロちゃん。\\nちょっと踊ってみない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have an idea, Sharo-chan.\\nWhy don't you do a little dance?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "はっ！？\\nな、なんで急に！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? \\nW-What's with that out of the blue!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "時代は、歌って踊れる怪盗だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Back in the day, the phantom thieves went out \\nsinging and dancing!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "時代っていつの時代よ。\\nまた勝手なこと言い出して……\\n第一、ここで踊るなんてはずかしいじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Back in what day? I swear you're liable to say\\njust about anything. For starters, dancing\\nhere and now is way too embarrassing.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そんなことないよ。\\nこんな格好なんだし、\\n踊るくらいでちょうどいいよ、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quit overreacting. \\nYou're already all dressed up, perfect for\\ndancing. Probably.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ほらほら！\\nシャロちゃん、お手をどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon now. Sharo-chan, give me your hand.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "引っ張らないでよ～！\\nやーだー、はずかしい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quit pulling me! \\nStooop! \\nWhy are you doing this!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "はい、アン、ドゥ、トロワ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here we go! Un, deux, trois!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "え？　え？　こ、こう？\\nアン、ドゥ、トロワ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wha-What the? Like this? Un, deux, trois!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "いいねいいね～。\\nシャロちゃん、上手だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the spirit! \\nSharo-chan, you've got moves!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "別に、大したことないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not like that was anything impressive.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "はいっ、ここでターン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And next, do the turn!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "ターン！？\\nちょ、え、こう！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "TURN!? \\nL-Like, uh, this!?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "最初に戻って、アン、ドゥ、トロワ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And back to the beginning. Un, deux, trois!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "アン、ドゥ、トロワ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Un, deux, trois!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "シャロちゃん、のってきたね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you're getting into this!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "のってないわよ。\\nココアが振り回してるだけでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No I'm not. \\nI'm just getting dragged around by you.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "あははっ！\\nでも楽しいね、\\nいつまでも踊り続けられそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! But isn't this fun? \\nI feel like I could go on dancing forever.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "まったくもう。\\n付き合わされる身にもなりなさいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. \\nTry and stay presentable for me, okay?",
+          "status": "machine_translated"
         }
       }
     }

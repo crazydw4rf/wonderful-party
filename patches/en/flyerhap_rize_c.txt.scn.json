@@ -6,38 +6,38 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "きゃあっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kyaa!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "シャロちゃん！？\\n大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan!? Are you alright?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "いたたた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ouch...",
+          "status": "machine_translated"
         }
       }
     },
@@ -46,230 +46,230 @@
         "0": {
           "speaker": "リゼ",
           "original": "転んだのか？\\n大丈夫か、シャロ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did you trip? Are you okay, Sharo?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "あっ、だ、大丈夫です。\\nすみません、驚かせちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm okay! Sorry to make you worry.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "謝ることないって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to apologize.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "もしかして、慣れない和服で\\n裾さばきがうまくいかなかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I already know what happened. You're\\nnot used to wearing these traditional\\nclothes, so you tripped over your kimono.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "それもあるけど……\\nあいつにびっくりしちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, but that's only half of it.\\nI was distracted by that guy over there...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "不良野良うさぎね。\\nまさか噛みつかれたりしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That delinquent bunny again.\\nDid he bite you or something?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ううん、いつの間にか足元に\\nいただけなんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, he just appeared at my feet\\nand startled me.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "大丈夫？　立てる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you alright? Can you stand?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "待て、無理に立とうとするな。\\nケガしてたら大変だろ。\\nまずは確認だ、ちょっと触るぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, don't get up. If you're hurt,\\nthat will only make it worse. Hold\\nstill while I examine your injuries.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "えっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "どうだ、痛むか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Does it hurt when I do this?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "だだだだ、大丈夫です！\\n痛くないし、せ、せ、先輩の手が、手が、\\nありがとうございます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I-I-I-I've never been better! It\\ndoesn't hurt at all, and in fact,\\nyour hand... thank you so much!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "おいおい、落ち着け。\\nじゃあ、軽く曲げてみてくれ。\\n痛かったらすぐに言うんだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Calm down now, don't overreact.\\nNow I'm going to bend the joint.\\nTell me if you have any pains.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "はひっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hya!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "……うん、骨に異常がある様子はないな。\\n大ケガじゃないみたいだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. There doesn't appear to be\\nanything wrong with the bone.\\nYou're free of any major injuries.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "は、はい。\\nそれほど痛くないし、軽い打ち身だと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yes. It barely hurts.\\nI think it's a minor bruise.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "でも心配だわ。\\n今日はもう、安静にした方がいいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm still worried about you.\\nI think you should call it quits for today.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "大丈夫よ。\\n千夜ったら大げさなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not necessary. Gosh,\\nyou overreact to every little thing.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "でも、痛いんでしょ？\\n体は大事にしなくちゃだめだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're in pain, which means something is\\nwrong. You need to take care of your body.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "ああ、とりあえず\\nチラシ配りが終わるまではじっとしてろ。\\n休めるところまで運んでやるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. I think you should sit this one out.\\nI'll carry you to somewhere you can rest.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "運ぶっ！？\\nせ、先輩にそんなことさせられません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're going to carry me! Senpai,\\nyou don't have to do such a thing!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "気にするなって。\\nじゃあ、しっかり掴まれよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's no big deal. Up you go.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "え、そんな、リゼ先輩！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai, what are you--",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "よっと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yoink!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "ほああああ～……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊Sharo noises＊",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア＆チノ",
           "original": "まさかのお姫様抱っこ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The fabled bridal carry!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "まあまあ！\\nさすがはリゼちゃんねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good heavens!\\nI never knew Rize-chan was so bold.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "ん？　どういう意味だ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What's the big deal?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "だって、普通の女の子にはなかなかできないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A normal girl could never do such a thing!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "なっ！？　できないのか！？\\nそりゃ、チノは無理だろうけど\\nココアと千夜なら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!? They can't!? Sure, maybe Chino\\ncouldn't, but surely Cocoa or Chiya could...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "私も無理ねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not in a million years.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "うん、私も。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "リゼ",
           "original": "わ、わあ！　重いなー！\\nいや、シャロが重いっていう意味じゃなくて\\n女の細腕には余るよな～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wowee, you're so heavy!! Wait, I'm\\nnot calling you fat! But there's only so\\nmuch a tender girl's arms can handle!!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア＆チノ",
           "original": "とってつけたようだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A blatant lie!",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "リゼ",
           "original": "そういうわけだからな？\\n急いで運ぶからじっとしててくれよ、シャロ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you have it. I can't hold you\\nmuch longer, so I'm gonna rush you over\\nto that bench. Hold on tight, Sharo.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "あ、はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay...",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "ちゃんと抱えてるから安心しろ。\\nシャロを落っことしたりなんてしないからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, I'll hold you tight.\\nI promise I won't drop you.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "ありがとうございます、先輩‥…！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm blessed, Senpai!",
+          "status": "machine_translated"
         }
       }
     }

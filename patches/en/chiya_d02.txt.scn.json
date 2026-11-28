@@ -6,248 +6,248 @@
         "0": {
           "speaker": "マヤ",
           "original": "ごっはん、ごっはん～！\\n千夜のお弁当、楽しみだな。\\nもう腹ペコだし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Time to eat! Time to eat! I've been looking \\nforward to Chiya's lunch! I'm starving!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "私もペコペコ～。\\nお腹と背中がくっついちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm famished too! \\nI have a rumbly in my tumbly.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "みんな、すっかりお腹空いてるみたいね。\\nそう思って……\\nはい！　今日も重箱のお弁当を作ってきたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm glad you all are ready to eat. \\nHere you go! I've brought another \\ntowering stack of lunchboxes.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "わあ～！　さすが千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! That's our Chiya-chan!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "す、すごいです！\\nこんな豪華なお弁当……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That's amazing! I've never seen \\nsuch an elaborate lunch before.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "見た目だけじゃなくて味も最高なんだぜ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It tastes even better than it looks. \\nI guarantee it!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "私たち、この前も食べたもんね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We had one of these a few days ago.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "どうしてお前たちが誇らしげなんだよ。\\nこれを作ったのは千夜だろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you two acting so proud of it? \\nChiya made it, not you.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ううん、私だけじゃないの。\\nシャロちゃんも手伝ってくれたのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't get all the credit. \\nSharo-chan helped me make it.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ち、ちょっと千夜！？\\nそれは言わない約束でしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sh-Shut up, Chiya! You promised me \\nthat you would keep that a secret!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "シャロちゃんも？\\nさすが幼なじみ、仲良しさんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan helped? I see you two childhood \\nfriends are still as close as ever.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "違うわよ。\\n私はただ、１人でこんな大人数のお弁当を\\n作るのは大変だろうって思っただけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't get the wrong idea. \\nI just thought making so many helpings \\nof food was too big a job for one person.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うん、そう思って手伝いに行ってあげてるのが、\\n仲良しの証拠だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep! Offering to help her is proof of just how \\nclose you two are!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "も、もう！\\nだから、そういうんじゃないって\\n言ってるでしょ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "G-Gosh! I just said you have it all wrong!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "シャロちゃん、すごく早起きして来てくれたの。\\nリゼちゃんに手作りの肉じゃがを\\n食べさせるんだって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She woke up super early today and ran over \\nto my place. She said she was going to feed \\nRize-chan her handmade meat and potatoes!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと千夜！\\n言うな、ばか～っ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop, Chiya! Shut up, you idiot!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "でも、こんなに立派な弁当があるなら\\n私のはいらなかったかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, seeing that you have this \\nluxurious lunch already, \\nyou're not going to be needing mine.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "えっ！？\\nリゼ先輩、何か作ってきてくれたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Rize-senpai, you made something too?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "ああ、人数が人数だし、もしかしたら\\n千夜のだけじゃ足りないかと思って、\\nサンドイッチを作ってきたんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. We have a lot of mouths to feed, \\nso I made some sandwiches in \\ncase Chiya didn't make enough.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "リゼ先輩の手作りサンドイッチ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai's handmade sandwiches!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "余ったら持って帰るから、\\n無理して食べなくてもいいぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll just take them home with me if \\nthere's extra. Don't force yourself \\nto eat them if you don't want to.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "いえ！　お腹が破裂してもいただきますっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh yes I will! I'll eat \\ntill my stomach bursts!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "そこまでしなくていい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please don't do that!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "私もお菓子を持ってきたよ！\\n疲れた時には甘いものを補充しないとね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I brought some candy with me! \\nGirls need to refill on sweets when tired!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "マヤ",
           "original": "……メグ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "メグ",
           "original": "うん。\\nせーの……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Got it. Three, two...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "マヤ＆メグ",
           "original": "じゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ta-da!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "ああっ！　お菓子！？\\nしかも、すごくおいしそうなチョコレート！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, candy! It's delicious-looking chocolate!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "マヤ",
           "original": "私とメグで買ってきたんだ。\\n２人で市場を見て回ったんだぜ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu and I bought this. We made a \\nshopping trip around the marketplace.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "メグ",
           "original": "前はすっかりごちそうになっちゃったから、\\nそのお礼をしようと思ったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We received a bunch of food last time, \\nso we wanted to repay the debt.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "そんなに気を遣わなくてもよかったのに。\\nでも、ありがとう、２人とも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you didn't have to do that. \\nBut I appreciate the thought, both of you.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "あ、あの、すみません。\\n私だけ何も用意してなくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, um, I'm terribly sorry... \\nI'm the only one to not bring anything...",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "いいのよ、気にしないで。\\nチノちゃんには、キッチンのことを\\n頼んでもらったり、色々と苦労かけてるもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's perfectly fine. Don't beat yourself up \\nover it. You're letting us borrow your kitchen, \\nand you're always working hard for the team.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "チノ",
           "original": "ですが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But...",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "ご飯は私が用意するって言ったんだから、\\n甘えちゃっていいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I promised to make lunch for everyone. \\nDon't feel bad about having some.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "メグとマヤは前回のお礼みたいだし、\\n私やココアも勝手に持ってきただけだ。\\n本当に、気にしなくていいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu and Maya wanted to make up for last \\ntime, and Cocoa and I brought food of our \\nown accord. You didn't do anything rude.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "……はい、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Okay. Thank you for forgiving me.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "マヤ",
           "original": "ねえねえ、それより早く食べようよ！\\nお腹空きすぎて死んじゃう～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, less talking and more eating! \\nI'm about to starve to death!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "こんなご馳走を目の前にしておあずけなんて\\nもはや拷問と言っていいよ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forcing us to sit and stare at this massive \\nfeast is literally torture!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "そうね。\\nそれじゃ、めしあがれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hear you. No more waiting. Let's eat.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "みんな",
           "original": "いただきます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Itadakimasu!",
+          "status": "machine_translated"
         }
       }
     }

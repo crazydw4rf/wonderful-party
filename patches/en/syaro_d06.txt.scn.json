@@ -6,242 +6,242 @@
         "0": {
           "speaker": "シャロ",
           "original": "（こんな風に――\\n　クリスマスまでの日々は\\n　あっという間に過ぎていった）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Spending time like thatーー\\nThe days leading up to Christmas disappeared \\nin the blink of an eye.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（なんだか不思議。\\n　期末試験とバイトに追われて、\\n　１人でずっと悩んでたのが嘘みたい……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Strange, isn't it? It's hard to believe \\nthere was ever a time where I was struggling \\nwith tests and work...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "シャロちゃん。\\n作戦、なかなか順調だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nThe strategy is making excellent progress.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ええ、ありがたいことにね。\\nみんなが手伝ってくれてるおかげで、\\n今日もこうやって買い出しに来られたし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I greatly appreciate it. It was only \\npossible to go shopping like this thanks to \\neveryone's help.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "パーティーの飾り付けの材料か。\\nどんな物を買うんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Things to use for the party's decorations...\\nJust what exactly are you buying?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "えっと、大げさなものを買うつもりはないんです。\\nお店で使うような派手な飾りは高いですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well uh, I don't plan on buying anything \\nover the top. Getting flashy decorations \\nfor the cafe is bound to be expensive.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "だから、手作りでそれっぽい物を\\n用意できればなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's why I'm buying materials so I can \\nthen make the decorations by hand.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "シャロちゃんらしいわねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sure sounds like our Sharo-chan.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "なによ、貧乏性とでも言いたいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Are you trying to say I'm poor?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ううん。\\n手作りの温かさがらしいと思ったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No. I was thinking that the warmth of \\nsomething homemade is a lot like you.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "それに、手作りなら、みんなで一緒に\\n作業ができて楽しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even better, if it's made by hand, we can \\nall work on it together. How fun.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうだね。\\nみんなで徹夜で作業するの、楽しそう～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! Staying up all night on it \\nwith everyone sounds like a blast!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "徹夜でなんてしないわよ。\\nそんなに手間がかかる物でもないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're not staying up all night for it. \\nSomething like this won't require \\nthat much effort.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……あっ！\\nそのお店なんていいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Something like that shop over there \\nmight be good.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "じゃあ、見てみましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shall we go take a look?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "わあ～！\\nこれなんか、すっごくかわいい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa~! This thing is really cute!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "ココアさん、\\n私物を買いに来たんじゃないですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. We didn't come here to buy \\nstuff for ourselves.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "そのうさぎの形をしたクリップ、\\nどんな飾り付けに使うつもりなんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That rabbit shaped clip of yours. Just how \\ndo you plan on using that as a decoration?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、ごめんね。\\nつい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, sorry. I couldn't help myself...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "欲しいなら買えばいいじゃない。\\n別に、飾り付けの材料しか買っちゃだめって\\nわけじゃないんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you like it so much then you might as well\\nbuy it? It's not like there's some rule saying\\nyou can only buy decoration material today.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "みんなも、好きに見て回っていいわよ。\\nそんなにいっぱい買うわけでもないから、\\n１人で持てるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That goes for the rest of you too. Go have a\\nlook around. I'm not buying very much, so I\\nwon't have any trouble carrying it all myself.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "何言ってるの、シャロちゃん！\\nせっかくみんなで来たんだから、\\n一緒に見て回ろうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you saying, Sharo-chan! Since we \\nhave everyone together, we have to look \\naround as a group.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "それに、荷物をお前だけに持たせるのも\\nなんだしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And it's not like we can just let you haul \\nall of that around by yourself.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "手伝えることは手伝わせてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let us help you wherever we can.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "私たち、パーティーだけじゃなく\\n準備もシャロちゃんと一緒に楽しみたいの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not just at the party, we want to have \\nfun with you during the preparations \\nas well.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "どうして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why...",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "ん？　なに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What's up?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "どうして、みんな、\\nこんなにも私に力を貸してくれるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why is it that you all want to help me \\nso much?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "どうしてって……ねえ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The reason why... \\nWell?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "ああ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "そんなの、決まっています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The reason for that is obvious.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "ちゃんと口に出して言わないとわからない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is this something you need to express in \\nwords in order to understand?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "私たちがみんな、\\nシャロちゃんの友達だからだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's because we're all Sharo-chan's \\nfriends!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "友達……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Friends...",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "えへへ～。\\n改めてこういうことを言うと、\\nちょっと照れくさいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Going out and saying something like \\nthat was a little awkward, don't you think?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "（い、言った方も照れくさいだろうけど、\\n　言われた方だって照れくさいわよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(S-Saying something like that probably feels\\na little weird, but imagine being on the \\nreceiving end.)",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "シャロ",
           "original": "（でも、同時にすごく幸せでもあって……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But at the same time, I'm can't help but \\nfeel overjoyed...)",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "（いいわね、友達って）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Friends, they sure are wonderful.)",
+          "status": "machine_translated"
         }
       }
     }

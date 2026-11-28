@@ -6,92 +6,92 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "こんにちは。\\nみなさんでチラシ配りですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings. Are you all handing out flyers?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、青山さん！\\nこんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it’s Aoyama-san! Hello.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "それは……サンタ風の衣装ですか。\\nかわいいですねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What’s this... Are you all dressed as Santa?\\nHow cute.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "今の私たちはサンタさんですから、\\n青山さんにもプレゼントを届けてあげますよ！\\nどんなプレゼントがいいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re all Santas this year, and you’re on our\\ngift list! What kind of present are you hoping\\nfor?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "では……締め切りを延ばしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "May I? Please extend my deadline a bit\\nlonger!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "いきなり生々しい！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Too real!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "サンタに頼む前に仕事しろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Work first, then ask!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "締め切りはやはり無理ですか。\\nいえ、わかっていましたが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alas, not even Santa can alleviate my\\ndeadline. Which I already knew, but chose to\\nevade...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "えーっと、他にはないですか？\\n私たちに叶えられそうなことで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Setting that aside... can we help you with\\nanything else? Something within our power?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "いえ、こんなにかわいいみなさんの姿が\\nプレゼントのようなものです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just the sight of you cutie pies is like a gift to\\nme.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "……そうだ。\\nアイディアを呼ぶために、みなさんのかわいさを\\n文章で表現してみましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Here’s something you can do for me:\\nexpress your own cuteness, so that I might\\nbe able to glean some fresh ideas.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "それ、面白そう！\\n私たちもやろうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I like that idea! Let’s do it!",
+          "status": "machine_translated"
         }
       }
     },
@@ -100,188 +100,188 @@
         "0": {
           "speaker": "千夜",
           "original": "いいわね、楽しそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sounds like fun!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "自画自賛だろ、それ。\\n私には無理だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The self-assurance that would take! There’s\\nno way I can do that.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "私も遠慮したいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Count me out as well.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "私もです。\\nそれに、小説家の青山さんの前で\\n文章を披露するなんて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither. What’s worse, you’re pitching a\\ncreative description to a bona fide author...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、私と千夜ちゃんだけ参加します！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh well. It’ll just be the two of us!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "はい、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you kindly.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "な、なんでありがとうなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks for what?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "では、さっそく。\\n私が表現するとしたら……うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, let us begin. The way I would put it...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "できました。\\n『粒ぞろいの砂糖菓子のような、\\n　クリスマスの少女たち』でいかがでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know. How’s this? The Christmas Girls, all\\ntogether like a candy pack.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "わあ～！\\nさすが、表現が上手いですね。\\nとってもスイートなイメージ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice! You’re as good at poetry as I thought.\\nYou’ve made us all sound so sweet!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "私達、『粒ぞろいの砂糖菓子』\\nみたいなのね、ふふふ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You say we’re like a pack of candy, yes? I like\\nit. Hehehe.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "お気に召して頂けたようで嬉しいです。\\nでは、千夜さんはどう表現します？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m glad you both liked it. Chiya-san, do you\\nhave any ideas?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "そうね……。\\nこうしてみんなを見ていると\\nかわいくて笑顔になれるから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s see... Girls that are so adorable that just\\nthe sight of them makes you smile...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "『微笑みを呼ぶ聖夜の使者』……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Holy night’s harbingers of imminent smiles...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "微笑みを呼ぶ……！\\nうん、サンタさんって感じがするよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A harbinger of smiles! That sounds like\\nsomething you could say about Santa!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "それに、そこはかとなく華を感じさせます。\\nみなさんのかわいらしさにぴったりですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you can feel the subtle beauty in the\\nwording. It matches just how adorable you all\\nare.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "ふふふ、ありがとう。\\nさあ、次はココアちゃんの番ね。\\nどう表現するの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. I appreciate it. Now then, it’s Cocoa-\\nchan’s turn. Anything come to mind?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "むむむ～。\\n青山さんも千夜ちゃんもレベル高いから\\n緊張しちゃうなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmmm. It’s hard for me to compete, since\\nyou two are both really good at this.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "……よし！\\n『刹那の筋雲、聖なる紅のプリンセス』で\\nどうだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here goes! “The holy crimson princesses,\\ndressed in fleeting cirrus clouds”!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "まあ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア（Ｍ）",
           "original": "（おおっ、\\n　千夜ちゃんの琴線に触れたっぽいよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Good, I think that one gets Chiya-chan’s\\nblessing.)",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "素敵、素敵よココアちゃん！\\n『刹那の筋雲』って、衣装の\\nこの白いふわふわの縁取りのことね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wonderful, that was wonderful, Cocoa-chan!\\nThe fleeting cirrus clouds refer to our puffy\\nfur cuffs, don’t they?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "青山",
           "original": "なるほど～。\\nよくわかりますね、千夜さん。\\n私はわかりませんでした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. Good interpretation, Chiya-san. I didn’t\\npick up on that.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "千夜ちゃんと私は以心伝心ですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The two of us have a telepathic relationship!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア＆千夜",
           "original": "ねー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "いや、まず、サンタって\\nプリンセスじゃないよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Time out for a second. Santa is no princess.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "『聖なる紅のプリンセス』の『プリンセス』は、\\n『小公女』と書いて『プリンセス』って\\n読ませるとなおいいんじゃないかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think it’d be even better if we write holy\\ncrimson princess with kanji, but have it\\npronounced as “princess”!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "進化してる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re doubling down on it?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "青山",
           "original": "うふふ、楽しいですね。\\nついはしゃいでしまって、\\nすっかり気が晴れました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. That was fun. That bit of excitement\\nhas improved my mood splendidly.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "青山",
           "original": "明るいみなさんの様子に触れられて、\\nおかげさまで執筆も進みそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks to your uplifting influence, I think I\\ncan expect to make much progress in my\\nwriting today.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア（Ｍ）",
           "original": "（わあ、青山さん、嬉しそう！\\n　役に立てたみたいでよかった）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hooray! Aoyama-san looks pleased! I’m glad\\nwe were of some help to her.)",
+          "status": "machine_translated"
         }
       }
     }

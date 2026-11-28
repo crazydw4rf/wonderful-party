@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,134 +16,134 @@
         "0": {
           "speaker": "シャロ",
           "original": "１束は配り終えたわね。\\nそっちはどう、ココア？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've finished my bundle of flyers. \\nHow are you coming along, Cocoa?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うう……。\\nまだ半分だよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... \\nI'm only halfway done...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "気持ちはわかるけど、\\n人前でそんなしょんぼり顔しないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I get how you feel, but don't make such a long \\nface out in public.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ここでは、チラシを配ってる\\n私たちの顔がお店の顔になるんだからね？\\nいつでも笑顔、それが大切なのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're acting as the faces of our respective \\ncafes out here. Keeping a smile on your face \\nis paramount.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（いつでも笑顔か。\\n　確かに、シャロちゃんは――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Keep a smile on your face, huh. \\nNow that I think about what Sharo-chan does...)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "こちら、どうぞ！\\nありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, take one!\\nThank you very much.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし、シャロちゃんに負けてらんない。\\n　もっと積極的に行かなきゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Alright then! \\nI don't wanna lose to Sharo-chan. \\nI need to be more aggressive!)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "どうぞ！　よろしく！　お願いしま――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "PLEASE! TAKE ONE! \\nI BEG OF YOU!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "待った！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop right there!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "今、足早に通った人に\\nチラシ押しつけようとしたでしょ。\\nそれは絶対やっちゃだめよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were trying to force a flyer down the throat\\nof someone in a hurry just now. \\nThat's absolutely off-limits.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "でも、積極的に行かないと\\nチラシを受け取ってもらえないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if I don't act aggressively, \\nwho's going to take my flyers?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "その熱意はいいことだけど、\\nここを歩いている人たちみんなが\\nお店に興味を持ってるわけじゃないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the right mindset, but you can't assume \\nevery person to walk by is interested in \\nyour cafe.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "それに、それぞれ都合や予定があるのよ。\\n第一、急いでいる時にチラシを押しつけられて、\\nお店にいい印象を持つと思う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They might have other plans or otherwise have\\ntheir hands full. What would you think of a\\ncafe that interrupted you while in a rush?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "……うん、それはだめだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Yeah, I guess I shouldn't do that.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "私がココアよりチラシを配るのが早いのは、\\n人を見ているからよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm faster than you at handing out flyers \\nbecause I observe people carefully.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "ココアも慣れれば、暇な人と\\nそうでない人の見分けくらい、簡単につくわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "With enough practice, you'll be able to tell \\nwho has free time and who doesn't just by \\nlooking at them.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "す、すごいね、シャロちゃん！\\nお客さんの心理まで見抜いてるなんて、\\nチラシ配りのプロだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wow, Sharo-chan!\\nSo you can even get inside the customer's head!\\nYou're a pro at handing out flyers!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "そんな、大したことじゃないわよ。\\n相手の気持ちになって考えてるだけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not anything that impressive. \\nYou just have to think as if you were one\\nof them.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "うん、そうだね。\\n私だって、急いでる時に\\nチラシを押しつけられたら困っちゃうし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, you're right. If I were in a hurry, I\\nwouldn't want someone trying to force me \\nto take a flyer either.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "シャロちゃん、教えてくれてありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, thank you for telling me this.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ど、どうしたしまして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're welcome.",
+          "status": "machine_translated"
         }
       }
     }

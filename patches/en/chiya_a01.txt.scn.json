@@ -6,62 +6,62 @@
         "0": {
           "speaker": "千夜",
           "original": "（そろそろ学校へ行く時間ね。\\n　早く準備をしなきゃ、\\n　ココアちゃんも待ってるんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It's almost time for school. \\nI need to get ready, since I know \\nCocoa-chan is waiting on me!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "（そうだ、クリスマスパーティーのことも\\n　考えないといけないわね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, and I mustn't forget \\nabout the Christmas party.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "（少し緊張するけど……\\n　準備、頑張らなくっちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(To be honest, I'm nervous about it, \\nbut I'm going to give it my best shot!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "（マヤちゃんとメグちゃんも来るのよね。\\n　となると、青山さんも参加になりそう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maya-chan and Megu-chan are coming too, \\nof course. And that probably means \\nAoyama-san is coming as well.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "（これは大所帯になりそうね。\\n　わくわくしてきたわ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(People are flocking to \\nmy party! How exciting!)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "（せっかくなんだもの、スペシャルな\\n　メニューを作っておもてなししなくちゃ。\\n　そう、気合を入れて！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I must take this chance to unveil \\na special new item! Time to show \\nthem the extent of my hospitality!)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "（……でも、みんなが喜ぶメニューって\\n　一体どんなものなのかしら？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That said, I wonder what I can offer \\nthat will make everyone happy?)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "（あ、そうだわ！\\n　ココアちゃんにも参考意見をもらいましょ。\\n　せっかく一緒に登校してるんだものね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, I have an idea! I'll ask Cocoa-chan about \\nit while we're on our way to school together.)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "（ココアちゃんなら、\\n　きっと素敵な意見をくれるわ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Cocoa-chan always knows \\nwhat's best in this type of situation.)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "（そうと決まれば、急いで家を出なきゃ。\\n　うふふ、早くココアちゃんと\\n　クリスマスの話がしたいわ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Well, that's settled. There's nothing left \\nto do but get moving! Hehehe! I can't \\nwait to talk about Christmas with her!)",
+          "status": "machine_translated"
         }
       }
     }

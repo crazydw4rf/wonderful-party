@@ -6,122 +6,122 @@
         "0": {
           "speaker": "シャロ",
           "original": "こんにちは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "いらっしゃいませ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "どうしたんだ、シャロ。\\n千夜も、浮かない顔して。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why the long face, Sharo? Chiya, you don’t\\nseem very happy either.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "それが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "あのね、今日はみんなに\\n協力してほしいことがあって来たの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Allow me to explain. There’s something we\\nneed your help with.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "私たちにできることなら何でもやっちゃうよ。\\n遠慮なく言って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ll do anything that’s within our power.\\nSpeak up.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ありがとう、ココアちゃん。\\n実は、協力してほしいことっていうのはね、\\nシャロちゃんのカフェイン酔いのことなの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-chan. It’s something we\\nneed your help to overcome. It’s about Sharo-\\nchan’s caffeine intoxication issue.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "カフェイン酔い、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Caffeine intoxication?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "カフェインは紅茶にも含まれてるはずなのに、\\nシャロちゃん、酔わないでしょう？\\nもしかしたら許容量があるんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Black tea has caffeine in it, but causes no\\neffect on Sharo-chan. That must mean\\nthere’s a safe level of caffeine intake.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "それでね、どのくらいまでならカフェインを\\n摂取しても平気なのか知ることができれば、\\nシャロちゃんのこれからに役に立つと思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think Sharo-chan’s quality of life will improve\\nif she knows exactly how much caffeine intake\\nshe can tolerate.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "そんなの、別に調べなくてもいいわよ。\\n飲まなければいいだけなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who cares about knowing that. I’m fine\\nwith just avoiding certain drinks.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "でも、それがわかれば、うちのコーヒーを\\n少しでも飲めるようになるかもしれないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if we figure this out, then you’d be able to\\nhave a small amount of our coffee sometime.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "そうね、リゼちゃんがブレンドしたコーヒーも\\n飲めるようになれるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. You’d be able to enjoy Rize-\\nchan’s personally blended coffee.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "リゼ先輩のコーヒー……！\\n確かに、それは気になる……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai’s coffee... That’s tempting...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "私のコーヒーなんて、\\n特別なものでもなんでもないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why? There’s nothing particularly special\\nabout my coffee.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "あ、いえ！\\nリゼ先輩のコーヒーなら、\\n私、一晩かけてじっくり頂きますから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s where you’re wrong! I’m willing to\\nspend all night savoring every last drop of\\nyour coffee!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "そこまで！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you serious!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "シャロちゃんも乗り気になってくれたから、\\nさっそく調べてみましょう。\\nココアちゃん、お願いできる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that Sharo-chan’s on board, let’s get to\\nwork on investigating this. Cocoa-chan, care\\nto lend us a hand?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "任せて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s do it!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア（Ｍ）",
           "original": "（じゃあ、まずはどんなコーヒーを作ろうかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What kind of coffee should we start out\\nwith?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,24 +129,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（じゃあ、まずはどんなコーヒーを作ろうかな？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(What kind of coffee should we start out\\nwith?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "コーヒーの少ないカフェ・オ・レを作るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ll start with a cafe au lait.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "ブラックコーヒーから行こう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s go with black coffee!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "（千夜ちゃんに確認しよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll ask Chiya-chan.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -155,8 +155,8 @@
         "0": {
           "speaker": "ココア",
           "original": "コーヒーの少ないカフェ・オ・レを作るよ。\\n段々、濃くして飲んでいこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’ll start with a cafe au lait, which doesn’t\\nhave much coffee in it. Then we’ll add\\nprogressively more coffee to each cup.",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,20 +165,20 @@
         "0": {
           "speaker": "シャロ",
           "original": "ありがと。\\n手間かけさせるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea. Sorry for the trouble.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "カフェ・オ・レなら、\\nシャロでもおいしく飲めるだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I imagine even you will be able to enjoy a cafe\\nau lait.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "よーし、じゃあ、シャロちゃんのために\\n砂糖とミルクたっぷりの\\nおいしいカフェ・オ・レを作るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, time to brew up a yummy cafe\\nau lait full of milk and sugar! Just for you,\\nSharo-chan.",
+          "status": "machine_translated"
         }
       }
     },
@@ -187,32 +187,32 @@
         "0": {
           "speaker": "ココア",
           "original": "ブラックコーヒーから行こう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s go with black coffee!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "なんでいきなりブラックコーヒーから！？\\n間違いなく酔うでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why in the world would you do that! That’ll\\nget me drunk for sure!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えー？\\nいきなり限界に挑戦って、格好いいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aww. Isn’t it cooler to push yourself to the\\nlimit at the very start?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あんた、今日の趣旨を忘れてない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That defeats the purpose of what we’re trying\\nto do.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、そっか！\\nごめんね、それじゃカフェ・オ・レを作るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right! Whoopsies. Actually, let’s try out a\\ncafe au lait.",
+          "status": "machine_translated"
         }
       }
     },
@@ -221,20 +221,20 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんに確認しよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll ask Chiya-chan.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ねえ、千夜ちゃん。\\n最初はどんなコーヒーを作ればいいかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chiya-chan, what kind of coffee do you\\nthink we should try first?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "そうねぇ。\\nミルクたっぷりのカフェ・オ・レから\\n試していくのがいいんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Why don’t we start off with a cafe au lait,\\nwhich is mostly milk?",
+          "status": "machine_translated"
         }
       }
     },
@@ -243,14 +243,14 @@
         "0": {
           "speaker": "シャロ",
           "original": "うん、それがいいと思うわ。\\n手間かけさせるけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sounds good. Sorry for the trouble...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "いいよ、気にしないで。\\nそれじゃ、コーヒー少なめにして作るね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t worry about that. Now then, I’ll make\\none with only minimal coffee.",
+          "status": "machine_translated"
         }
       }
     },
@@ -259,134 +259,134 @@
         "0": {
           "speaker": "ココア",
           "original": "はい！\\n牛乳濃度９５パーセントの\\nカフェ・オ・レ、一丁上がり！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Behold! Your 95 percent milk cafe au lait is\\nready!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ありがと。\\nじゃあ、飲んでみるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks. Here I go.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "……ど、どう？\\nおかしくなってない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well? Do I seem fine?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "いつも通りのシャロさんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You appear to be your normal self.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "まあ、９５パーセントが牛乳じゃ、\\nもうコーヒーじゃないしなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What would you expect? It doesn’t even\\ncount as coffee if it’s 95 percent milk.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "じゃ、少しずつ濃くしていくからね。\\n次は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, let’s try again with a little more coffee.\\nOne more time...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "もう、だいぶ飲んでるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Looks like she’s finished...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "シャロちゃん、結構イケるクチだね！\\nそれじゃ、次はっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you sure can hold your coffee!\\nLet’s hit you with another one!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ふふふふふ……。\\nどんどんきにゃさいよぉ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehehehe... Gimme the good stuff!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "待ってください！\\nシャロさんの様子が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait a minute! Sharo-san is acting funny...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "みんなぁ～！\\n今日は私のためにコーヒー作ってくれて\\nありがと～う！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up everybody! Thank you so much for\\nmaking me coffee today!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "これは……間違いない！\\nカフェイン酔いだわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s no mistaking it! This is caffeine\\nintoxication!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ということは、\\nこの濃度がボーダーラインなんだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which means that this concentration of\\ncoffee is her limit!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "大発見です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An amazing discovery!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "どぉわいはっけぇ～ん！\\nいえ～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An amazeballs discovery! YAAAAAAY!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "これでシャロちゃんの未来が明るくなったわね。\\nよかった……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan’s future gets brighter every day.\\nHow wonderful.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "ほんと～？\\n私の未来はきっらきらぁ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Reallyyy? My future is shiny and bright!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "あのさ、気づいたんだけど……\\nこれ、今まで飲んだ分のカフェインが\\n累積してるんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, I really hate to be a wet blanket, but\\nhasn’t all the caffeine from each cup been\\nadding up?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "つまり、この濃度がボーダーラインな\\nわけではない……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What you mean is that this concentration\\nwasn’t her threshold at all?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "……うん、まだまだね！\\n私たちはまだ、長い長いカフェイン道を\\n歩み始めたばかりだわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Minor setback! We’ve only just scratched\\nthe surface of the art of caffeine!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "無理矢理まとめてごまかすなっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not fooling anyone!",
+          "status": "machine_translated"
         }
       }
     }

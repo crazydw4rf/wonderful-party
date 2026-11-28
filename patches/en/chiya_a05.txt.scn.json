@@ -6,206 +6,206 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふう、ようやく今日の授業も終わり！\\n　じゃあ、早く帰ろう。\\n　やることがいっぱいだもんね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah, school is finally done for today! \\nTime to head for home. I have lots to do!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\n一緒に帰ろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, shall we go home together?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、ちょっと待って。\\nすぐに支度するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure thing. Wait one moment \\nwhile I get my things.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "あ、そういえばね、\\nクリスマスメニューの件で\\n思い出したことがあるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, by the way, I just remembered \\nsomething about our Christmas menu.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "えっ？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What's that?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "実はね。\\nうちに、おばあちゃん秘蔵のレシピが\\nあるはずなの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, my grandma has some prized recipes\\nback at home.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "秘蔵のレシピ！？\\nなんかすごそうな響きだね、\\nロマンとミステリーが溢れてるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Prized recipes!? That sounds impressive. \\nIt's overflowing with romance and mystery!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "ミステリーかどうかはわからないけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think there's anything \\nmysterious about it...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "昔から、メニューで悩んでいた時は\\nおばあちゃんから意見を聞いたり、\\n秘蔵のレシピを眺めてヒントを探していたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Back when I was little, and couldn't think of \\nany new recipes, I would always ask my\\ngrandma or search her recipes for inspiration.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "へえ～。\\nそれ、一子相伝、甘兎の必殺技って感じなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. So is there some Ama Usa family \\nsecret that is passed down to a \\nsingle child every generation?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "そこまで大層なものじゃないわ。\\nおばあちゃんが思いついたメニューを\\n忘れないように書き留めたメモみたいなものよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nowhere near that dramatic. \\nIt's more like some notebooks my grandma \\nwrote down all her recipes in.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "それに、おばあちゃんが\\n見せてくれたというよりは、\\n私が勝手に見てたって言った方が正しいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I never exactly asked her to see them. \\nIt's something I would \\nread without permission.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "おばあちゃんにとっては何気ないメモ書きでも、\\n私にとっては、驚きと発見の宝庫みたいな\\nものだったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing more than some old notebooks \\nto her. But to me it's a treasure \\ntrove of surprises and discoveries.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "実はね、これなしでは\\n完成しなかったかもしれないメニューもあるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To tell you the truth, our menu wouldn't be \\nwhat it is today without those notebooks.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "むむむ～、そうやって、おばあちゃんの魂が\\n孫娘の千夜ちゃんに受け継がれていったんだね。\\n甘兎の歴史を垣間見たよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mumumu! Your grandma's soul has been \\ntransmitted down to her granddaughter! I've \\ncaught a glimpse into the history of Ama Usa.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "それでね、そのレシピから\\nクリスマスメニューのヒントも\\n見つかるかもしれないなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So basically, I think we will find a hint \\nor two for our festive meals in her recipes.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そうだね。\\n何かヒントが隠されてそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good thinking. I feel like there'll be a clue \\nwaiting for us as well.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "やっぱり、ココアちゃんもそう思うわよね。\\nよかったら、これからうちに来ない？\\n２人で一緒にヒントを探しましょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm glad we're on the same page. If you \\ndon't mind, I'd like you to come to my place \\nso we can search for clues together.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ええええっ！？\\n部外者の私が、秘蔵のレシピを\\n紐解いちゃってもいいの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? You're letting an outsider like me in \\non your family's closely guarded secrets!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "見るだけなら問題ないわ。\\n広められたりしたら、さすがに困っちゃうけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're just looking, right? Though if you tell \\nanyone, I might have to have you killed.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ほ、本当に大丈夫？\\n開いた瞬間にオバケが出てきたり、レシピの中に\\n吸い込まれて食材にされたりしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Is this safe to do? What if a ghost pops \\nout? Or what if I get sucked into the pages \\nand am added to the list of ingredients?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "……ココアちゃんの中で、\\n私のおばあちゃんは\\nどういうイメージになってるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Just what do you think of my grandma?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "平気よ、ただのノートなんだから。\\n古めかしい巻き物なんかじゃないのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll be fine. It's just some notebooks. \\nIt's not an ancient tome or something.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "そっか、それなら安心かな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, that makes me feel safer.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、でもそれはそれで\\n　一子相伝の秘蔵のレシピとしては\\n　雰囲気が足りてないような？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Bleh. The Ama Usa family secret is starting \\nto lose its aura.)",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "あ、ううん、なんでもない。\\nでも、これでスペシャルメニューの完成に\\n近づいた気がするね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, don't mind me. \\nAnyway, I feel like we're getting closer \\nto perfecting our special holiday menu.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "ええ、おばあちゃんに感謝だわ。\\nお礼を言っておかないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. It's all thanks to my grandma. \\nWe should thank her for this.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "それじゃ、これから千夜ちゃんの家で\\nレシピを見ながらクリスマスメニューの開発だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, let's head over to your place \\nto look through recipes \\nand develop our Christmas feast.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "私の家で、ココアちゃんと２人で\\nメニューを考えられる日が来るなんて……\\nふふっ！　本当に嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To think a day would come when \\nI'd have an intimate discussion of menus \\nalone with you... Hehe. I am truly blessed.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "メニュー名は私に任せてね！\\n荘厳な聖夜に相応しいものを考えるわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Leave the naming to me! I'll birth forth \\nan epic title fitting for the holy night!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア（Ｍ）",
           "original": "（おお、千夜ちゃんが燃えてるよ！\\n　これは本気を見られそうだ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, there she goes again! I think \\nI'm going to see Chiya-chan in her peak form!)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "それじゃ、私も準備できたし\\nさっそく行きましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, there's nothing more for us to do here. \\nLet's get a move on.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "うん！\\n千夜ちゃんのお家にレッツゴー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Onward to Chiya-chan's place!\\nＬｅｔ’ｓ　ｇｏ！",
+          "status": "machine_translated"
         }
       }
     }

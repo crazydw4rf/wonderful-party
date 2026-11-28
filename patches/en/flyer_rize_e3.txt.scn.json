@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,134 +16,134 @@
         "0": {
           "speaker": "リゼ",
           "original": "今日はすごいな。\\nもうチラシがなくなったぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's going on today? We're already\\ncompletely done with our flyers!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "チラシをもらいに\\nここまで来たって感じの人もいたし……\\nしかし、なんでわざわざ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We've even had people walk up and ask\\nfor flyers on their own. What's going on?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、メグちゃんたちに聞いたんだけどね、\\nリゼちゃんの軍服姿が評判になってるんだって。\\nだからじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-chan told me earlier that your\\nmilitary cosplay has become the talk\\nof the town. That must be the cause.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "え？　そうなのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Is that true?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん。\\nすっごくかっこよくて、まるで本の世界から\\n抜け出してきたみたいって言われてるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it seems! They say you look so\\ngallant that you could have been\\nripped from the pages of a novel!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "へ、へえ……。\\nうん、まあ、役に立てて嬉しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "R-Really now. Well, uh,\\nI'm glad I could be of service!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "リゼちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "なんだろうな、\\n私って浮いてるみたいだからさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is hard for me to describe.\\nI really feel out of this world.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "こういうチラシ配りだと、悪目立ちして\\n上手く行かないんじゃないかと思ってて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be honest, I thought this uniform\\nwould be a bad look and would bomb...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "でも、こんな私でも\\n少しは役に立てるんだなぁって\\nちょっと嬉しくなったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But knowing that I'm actually\\nhelping a little bit out here pleases me.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "少しなんてことないよ、リゼちゃんは\\nいつだって私たちのことを助けてくれるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're way more than a little bit\\nof help! Rize-chan, you put our\\ncafe on your shoulders all the time!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "……そうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You think so?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うん！\\nリゼちゃんは、私やチノちゃんが\\n持ってないものをいっぱい持ってるもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I do! You're the only one Chino-chan\\nand I have to haul around heavy objects.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "リゼちゃんがいなかったら、ラビットハウスは\\n成り立たないって言ってもいいくらいだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think it's an exaggeration to say\\nRabbit House couldn't function without you.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "それは……いくら何でも大げさじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, come on. That's going too far.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "そんなことないよ！\\nチノちゃんだって、\\nリゼちゃんを頼りにしてるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think so! Take Chino-chan.\\nShe's always depending on you to be around.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "もちろん、お姉ちゃんである私だって\\n同じくらい頼りにされてるけどね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though it goes without saying that she\\nrelies on me, her big sister, just as much.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "いや、どうだろう？\\n案外ココアはいなくても大丈夫って\\n思われてそうだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, right. I'm pretty sure she\\nthinks that things would run\\njust fine without your help.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "えええええー！\\nそんなー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? That can't be!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "嘘だよ、嘘。\\nココアだってラビットハウスの大事な一員だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm just teasing you.\\nYou're an important member of Rabbit House.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ああ、よかったぁ！\\n３人でこそのラビットハウスだもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you scared me there for a second.\\nRabbit House is a three-girl operation!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "ああ。\\n……なんだか目から鱗が落ちた気分だ。\\nすっきりしたよ、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. I feel like I know myself\\nmore clearly now. Thank you for that.",
+          "status": "machine_translated"
         }
       }
     }

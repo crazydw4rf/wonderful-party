@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（ん？　あれ？　んんん？\\n　なんだか服が引っかかってる感じがする。\\n　もしかして、ちゃんと着られてないのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Something's wrong. It feels like\\nmy uniform is snagging on something.\\nDid I not put it on right?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あっ！\\nやっぱりファスナーがうまく閉まってない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there's the problem.\\nThe zipper isn't zipped all the way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,182 +28,182 @@
         "0": {
           "speaker": "リゼ",
           "original": "ん？　どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is something the matter?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "服がちゃんと着られてなかったみたい。\\nああ、ロップイヤーも\\n位置がずれてきちゃってるよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think I put my uniform on right.\\nOh no, even my ears are slipping off!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "これ、ラビットハウスの制服と比べて\\n装飾が多いからな。\\n慣れないと大変だろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This one is a lot more ornamental\\nthan Rabbit House's uniform.\\nIt takes some getting used to.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ちょっと人のいない所に行こう。\\n直してやるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come with me to an alley where no\\none can see us. I'll fix it for you.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "おお～！　違和感がなくなった！\\nリゼちゃん、ありがとう。\\nすっごく助かったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that feels way better!\\nYou're a lifesaver, Rize-chan.\\nWhat would I do without you?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "大げさだな。\\n単に、前にバイトしてたから\\n着慣れてるだけだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that was nothing. I worked\\nat Fleur before, so I'm used\\nto this uniform. Nothing more.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、そういえばそうだった。\\nさっすがリゼちゃん、\\nその制服をすっかり自分のものにしてるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I almost forgot about that.\\nClassic Rize-chan! You've made this\\nuniform an extension of your body!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "それ、微妙に褒められてる気がしないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't say I'm proud of that.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "でも、今度着る時、\\nまたちゃんと着られなかったらどうしよう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But what do I do next time? If\\nyou're not around to fix it for\\nme, I'm going to be out of luck.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "だったら、今のうちに復習しておくか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then you'll just have to\\nlearn to get it right.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "イエッサー！\\nわかりました、教官！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Sir! I'm all ears, Teach!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "きょ、教官なのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm supposed to be your instructor!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "そうだよ。\\nリゼちゃんはこの服に精通してる\\nプロなんだからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who else? You're a pro at keeping\\nthis uniform under control.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "そ、そうか！\\nそこまで言うのなら仕方ないな、\\n今から指導をしてやる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, I can't argue with that! Fine, since\\nyou insist! Your instructions start now!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "まずはスカートだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Lesson one: the skirt!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Sir!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "こう、持ち上げるようにして\\nボタンとファスナーを留める！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Flip up the skirt, like this,\\nand firmly secure the buttons and zipper!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "こうでありますか、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like this, Sir?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "よし！　では次は上着だ！\\nこのように、体へのフィットを考え\\n皺が寄らないように注意しろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Acceptable. Next, the top! Pay\\nattention to how it fits to\\nensure you avoid all wrinkles.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "了解であります、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood, Sir!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "……はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "どうしたでありますか、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What seems to be the matter, Sir?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ココア！\\nそのしゃべり方はもういい！\\n周りを見てみろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa! Quit saying that!\\nPeople are watching us!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you're right.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア（Ｍ）",
           "original": "（ま、街行く人が\\n　みんなこっちを見てるー！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The whole town's looking\\nat us like we're crazy!)",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "まずい……。\\nここは戦略的撤退だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now I've done it... Time\\nfor a tactical retreat!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Sir!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "すまん……。\\n悪目立ちしてしまったし、あそこで\\nしばらくチラシ配りはできないかもしれないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry. We may have attracted the wrong\\nkind of attention to ourselves. I don't\\nthink we can hand out flyers for a while.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "でも、リゼちゃんのおかげで\\nこれからはこの服、ちゃんと着られそうだよ。\\nありがとう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But thanks to you, I think I'll be\\nable to wear this uniform without\\nany trouble! Thanks a bunch!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "あ、ああ。\\n助けになったのなら嬉しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, sure.\\nI hope I was able to be of some help.",
+          "status": "machine_translated"
         }
       }
     }

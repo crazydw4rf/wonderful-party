@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（シャロちゃんは外で仕事中だし、\\n　知ってる人は誰もいないよね……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sharo-chan is working outside right now, so\\nthere’s nobody here that I know.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ！　あそこにいるのって！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hang on! There’s someone!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,14 +22,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（フルールに来てみたけど……\\n　シャロちゃんはいないのか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I came to Fleur, but it doesn’t look like\\nSharo-chan is here right now.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、でも……知ってる人がいる！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, but wait! I see someone I know!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -38,32 +38,32 @@
         "0": {
           "speaker": "ココア",
           "original": "こんにちは、青山さん！\\n原稿ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Aoyama-san! Working on your\\nmanuscript?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "こんにちは、ココアさん。\\nええ、そのはずだったのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Cocoa-san. Yes, that what I had\\nintended...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "……真っ白ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Not a drop of ink of progress, huh.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "少しでも環境を変えれば、と思って\\n今日はここへ来たんですが。\\nふう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought, just maybe, I’d get somewhere if I\\nchanged my environment. So I decided to\\ncome here for today. ＊sigh＊",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（大変そう……。\\n　せっかく会ったんだし、\\n　ここは力になってあげたいよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She seems stuck. Hopefully I can use this\\nchance meeting to help her out.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -77,18 +77,18 @@
       "choices": {
         "*sel_0101": {
           "original": "私が代わりに書きます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll write it for you!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "いったん、仕事のことは忘れましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s just forget about work for now!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "飲み物を替えてみたらどうでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why don’t you try changing your drink?",
+          "status": "machine_translated"
         }
       }
     },
@@ -97,44 +97,44 @@
         "0": {
           "speaker": "ココア",
           "original": "私が代わりに書きます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll write it for you!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "えっ！？\\nココアさんが書くのですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? You’ll be the one to do the writing?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "だめですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Can’t I?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "だめと言いますか、そうなると、\\nそれはもうココアさんの作品に\\nなってしまうので……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won’t say you can’t, but if you write it, then it\\nwould end up being your manuscript...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、そっか！\\nすみません、勢いで言っちゃいました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that makes sense! Sorry, I didn’t really\\nthink that one through.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "でも、ココアさんがもし物語を作り上げたら……\\nそれはどんなお話なんでしょうね。\\n想像ができるような、できないような。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that makes me wonder what kind of story\\nyou would author. I’m struggling to imagine\\nhow it would turn out...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "いつかそんな日が来たら、\\nぜひ、読ませてくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you ever do something like that, please let\\nme read it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -143,32 +143,32 @@
         "0": {
           "speaker": "ココア",
           "original": "いったん、仕事のことは忘れましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s just forget about work for now!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "それは、大胆な意見ですね。\\nとはいえ、お仕事のことを完全に忘れるのは\\n難しいような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, what a bold move. Unfortunately, it’s\\nnext to impossible to completely get my work\\noff my mind.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "他に集中できることをしてみましょう。\\nゲームはどうですか？\\nたとえばトランプとか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So let’s do something that requires your\\nattention. How about a game? Something like\\ncards...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ジグソーパズルとか、ブロック崩しゲームとか、\\nすごろくとか、みんなでわいわい楽しめば\\n仕事なんて忘れちゃいますよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Or a jigsaw puzzle, or Breakout, or maybe\\nsugoroku? If you play together with friends,\\nyou’ll surely forget all about your work!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "わあ、リフレッシュできそう。\\nそうですね、時にはそんな時間を\\n持つべきですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, that sure sounds refreshing. You’re right,\\none ought to spend some time like that on\\noccasion.",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,62 +177,62 @@
         "0": {
           "speaker": "ココア",
           "original": "飲み物を替えてみたらどうでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why don’t you try changing your drink?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "飲み物を？\\nそれは、味覚を刺激するということでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My drink? Are you saying I should stimulate\\nmyself with different flavors?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そう、そんな感じです！\\nちなみに、今飲んでいるのはなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, exactly! By the way, what you you\\ndrinking now?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "本日のおすすめのハーブティーですが……\\nもう少し刺激的なものを試すべきでしょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s today’s special herbal tea. I suppose I\\nshould have picked something a bit more\\nstimulating.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "刺激……。\\nレモン果汁１００パーセントのジュース？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stimulation... Like pure lemon juice?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "うっ……！\\n想像しただけで口の中が酸っぱくなります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ueh. Just the thought of it makes my mouth\\ntaste sour.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "他には……ハラペーニョと赤唐辛子の\\nすりつぶしドリンク？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What else... How about a drink of crushed\\njalepeno pepper?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "ああっ！\\n想像しただけで涙が！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAA! Just the thought of it brings tears to my\\neyes!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そのくらい刺激的なら、\\nきっと何かいいアイディアが\\n降ってきそうですよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Exposure to something that stimulating is\\nsure to blow away the cobwebs and draw out\\nthe good ideas.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "はあ……。\\nなんだか、違う世界を\\n見てしまいそうな気もしますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... On the contrary, I feel like I caught a\\nglimpse of a different world...",
+          "status": "machine_translated"
         }
       }
     },
@@ -241,56 +241,56 @@
         "0": {
           "speaker": "青山",
           "original": "それにしても、ココアさんは\\n色々なことを考えつくんですね。\\nとってもユニークです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, you seem to have lots of different\\nideas. You’re quite the unique individual.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "でも、青山さんの小説のネタは\\n思いついてあげられないんですよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But in the end, I failed to think of anything\\nuseful for your writing.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "いえ、こういった何気ない会話を\\nしてくださるだけでも充分です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, just this type of casual conversation\\nis good enough.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ここから何を生み出すかは、私次第。\\nこれが私の仕事であり、\\n望んで選んだ道なのですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What happens next is up to me now. This is\\nwhat I chose, and there is no turning back.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "おおー……！\\nなんか格好いいです、青山さん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! That had a nice ring to it, Aoyama-san!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "そ、そんな。\\nやめてください、照れてしまいます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Oh, stop that. You’ll make me blush.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、やっぱり私も街の国際バリスタ\\n　弁護士としてパンを焼きながら\\n　小説家を目指してみようかな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’m convinced. I’m gonna become a bread-\\nbaking writer while serving as this town’s\\ninternational barista lawyer.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "というわけなので、ココアさん。\\nよろしければもう少し、お話ししていきませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So then, Cocoa-san, do you mind if you\\ncontinue to talk to me and keep me company\\nfor a while longer?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "はいっ！\\nいくらでも付き合っちゃいますよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure! I’ll stay with you as long as you like!",
+          "status": "machine_translated"
         }
       }
     }

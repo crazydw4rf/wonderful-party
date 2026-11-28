@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,176 +16,176 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん……。\\n私の格好、どこかおかしくありませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san... Is there anything wrong with \\nhow I look right now?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "え？　どこもおかしくないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? You look fine.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "そうですか。\\nならどうして……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so. Then I wonder what it is...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "何かあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did something happen?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "その……チラシを受け取っていく人たちが、\\n私を見て、妙な顔をするように思えたので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well... I feel like the last person to take \\na flyer made a strange face when they saw \\nme.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "にやけた顔というか……\\nチラシを受け取っただけなのに\\n頬が緩んでいるんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They kind of grinned... Or rather, they \\nstarted to smile once they took a flyer.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ああ、なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, so that's all it was.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "大丈夫だよ、チノちゃん。\\nそれはね、チノちゃんを見て\\nにこにこしてただけだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nothing's wrong, Chino-chan. \\nThey smiled just because they saw you.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "今のチノちゃんの格好\\nすごくほほえましいんだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The way you look right now is incredibly \\nheartwarming.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ラパンの制服のおかげでうさぎみたいなのに、\\n頭にティッピーまで乗せちゃってるでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, since you look like a bunny in \\nLapin's uniform, but also have Tippy \\nriding on your head.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "それがかわいらしくて、\\nみんな、にこにこしちゃったんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks so cute that it's enough to make \\nanyone smile.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうだ、これで私がチノちゃんをおんぶしたら、\\nうさぎさんの上のうさぎさんの上に\\nうさぎさんだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! If I give you a piggyback ride, then \\nwe'll have a rabbit on a rabbit on a rabbit!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "早口言葉！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A tongue twister?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ちょっとやってみようか？\\nヘイ、カモン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shall we give it a go? Ｈｅｙ，ｃｏｍｅ　ｏｎ！",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "嫌です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No thanks.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ、チノちゃんが私をおんぶしたかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so you wanna give me the piggyback ride?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "どうしてそうなるんですか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What leads you to that conclusion!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "肩車でもいいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wanna ride on my shoulders instead?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "しません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not happening.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "なら、ティッピーが私をおんぶして――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, then Tippy will give me a piggyback \\nride...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ティッピー",
           "original": "できるか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "ティッピーを押しつぶすつもりですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you want to crush her to death!?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "えー？\\n私、そんなに重くないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? I'm not that heavy.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "ココアさんの重さの問題でなく、\\n体の大きさを考えてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't care how heavy you are, just think \\nof the difference in size!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "……それにしても、\\n自分がそんな風に見られているなんて\\n思ってもみませんでした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Anyway, the fact that people saw me that \\nway was something I hadn't even considered.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "自分で自分の姿は見られないもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't exactly get to see yourself in a \\nmirror at all times, do you.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "……おかしいわけではないんですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I don't look bad, do I?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "うん、すっごくかわいい♪",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope, you're as cute as can be♪",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "……そうですか。\\nでは、とりあえずよしとしておきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Is that so. Well, no need to fix what \\nisn't broken.",
+          "status": "machine_translated"
         }
       }
     }

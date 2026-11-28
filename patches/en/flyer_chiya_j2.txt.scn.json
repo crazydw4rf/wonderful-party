@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うーん、何だったかな？\\nここまで出てきてるんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, what was it...\\nIt's on the tip of my tongue.",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,116 +22,116 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん？　どうしたの？\\n何か悩み事があるなら聞かせて？\\n私たち、お友達じゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, what are you thinking about?\\nIf there's something on your mind,\\nplease tell me. We're friends, remember?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、聞いてくれる？\\nあのね……この服って、何かに似てないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will you hear me out? This uniform of\\nours... It reminds me of something...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "何かって？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And that something is?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "その何かが思い出せなくて。\\nきれいより賑やかな感じで……\\nこう、なんか、体をくるくるーってする感じの……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't remember! I feel like they\\ndress sharply and parade around...\\nAnd they, like, do spins and stuff.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "賑やかでくるくる……？\\nチアガールとか、マーチングバンドかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "March around and do spins? You mean\\ncheerleaders? Or maybe a marching band?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あー！　それだ！\\nマーチングバンド！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aha! That's what it was! A marching band!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "言われてみれば、これって\\nマーチングバンドの制服っぽいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it, we\\ncould pass for being members of\\na marching band in this uniform.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "これでマーチングバンドやったら絶対かわいいよね。\\n楽器を持ちながら、こう、くるくるーって回って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It'd be so cute if we could become\\na marching band! We'd spiiiin, like\\nthat, while holding our instruments!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "くるくるくる～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Spinspinspin!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あら、そうしてるとスカートが広がって\\nますますかわいいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness me. I love how the skirt\\nflattens out to the side as you do that.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "だよねー！\\nくるくるくる～。\\nくるくるくるくるくる～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? Spinspinspin~ Spinspinspinspinspin~",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "うふふ、ココアちゃんたら\\nまるでバレリーナみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. Cocoa-chan,\\nnow you're acting more like a ballerina.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "くるくるくるくるくる～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "SPINspinspinspinspin!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "くるくる……くるくる……く……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "SPIN SPIN... spin... spi...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ううううう～……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊barf＊",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "こ、ココアちゃん！？\\n大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-chan!? Are you okay?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "平気だよぉ～。\\n目が回っちゃっただけだから……。\\nごめんね、びっくりさせて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm alright! I'm just a tad dizzy...\\nSorry to make you worried about me.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "私こそ、ごめんなさい！\\nくるくるしてるココアちゃんが\\nかわいくて、止められなかったの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I should be the one apologizing! I\\nwas going to stop you, but I succumbed\\nto my desire to watch you twirl!",
+          "status": "machine_translated"
         }
       }
     }

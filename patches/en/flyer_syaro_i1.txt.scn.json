@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "シャロ",
           "original": "うう～……",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuuu~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、シャロちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's wrong, Sharo-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "こういう衣装ははずかしいのよ。\\n慣れないっていうか、ああもう、緊張する～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This costume is so embarrassing I could die.\\nI'm not used to this at all.\\nGah, I'm so nervous.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうなの？\\nうさ耳はフルール・ド・ラパンで\\n慣れてるのかと思ってた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it that big a deal? I thought you were\\nalready used to wearing bunny ears like this\\nover at Fleur's.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "フルールの制服はこれとは全然違うでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fleur's uniform and this are totally different\\nthings.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えー？　そうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuuh, you think?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "全然違うじゃない！\\nあっちはスカートがあるし、\\nこっちは脚が出てるし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's no comparison! \\nThat uniform at least has a dress. \\nWith this our legs are totally exposed!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そっかー。\\nでも、大丈夫だよ、\\n素材を殺さず大胆不敵な味付けになってるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess. But whatever, it'll be fine. Think\\nof it as a bold seasoning that doesn't\\noverpower the base ingredient's flavor.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "え……？\\n素材？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? \\nThe base ingredient? \\nWhat is?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ねえ、意味がわからないけど、\\nそれってもしかしてフォローなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't understand what you mean, so let me get\\nthis straight. Was that supposed to be some\\nkind of compliment?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "フォローっていうか、心から言ってるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know about that. \\nI was just speaking from my heart.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "どこがなのよ。\\n『大胆不敵な味付け』って、\\n遠回しにまずいって言ってるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That didn't sound very heartful to me. You said\\nit needs a bold seasoning, so you must be\\nimplying it tastes nasty.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "違うよ。\\n未知の宝を探して大海原へ、\\n大航海時代の幕開けって感じだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't take it that way. It's supposed to feel\\nlike the beginning of an age of exploration, an\\nocean voyage in search of unknown riches!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "ますます意味がわかんないわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is only making me more confused!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "えーっとね、つまり、\\nまだ見ぬ世界に到達してるってこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How to explain...\\nIs it like arriving at a previously unseen society?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "私に聞くなー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you asking me?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "んー、じゃあ他の言葉にすると……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. To put it in other words...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "お願いだから、私にもわかるように表現して。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, I beg of you, put it in a plain and\\nsimple way that I can understand.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "素材の持ち味を包み込む……\\nつまり、ジャムを包むパン生地のような\\nかわいさがあるんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The ingredient's base flavor is stored inside...\\nSo basically, it has the cutesiness of jam\\nwrapped up in bread dough!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "だから、私にもわかるように話しなさいよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For Christ's sake, explain it in a way that \\nI can comprehend!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "うーん、人がわかり合うのは難しいねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. It's not easy for people to understand \\neach other, is it?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "人っていうか、\\nココアとわかり合うのが、じゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "More like, it's not easy for people to \\nunderstand Cocoa.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "ああ、もういいわ。\\n早くチラシを配るわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever, I'm bored of this. \\nLet's hand out these flyers already.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うん。\\nシャロちゃんももう大丈夫そうだし、\\n張り切って配ろうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay. It seems like you're back to normal now.\\nTime to hand out these flyers!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "はっ……！\\nそういえば、いつの間にか緊張がほぐれてる。\\nココアのおかげ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊\\nShe's right, I don't feel so nervous anymore.\\nDid she do that on purpose?",
+          "status": "machine_translated"
         }
       }
     }

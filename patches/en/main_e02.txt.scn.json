@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（さあ、これからバイトだよ！\\n　お姉ちゃんとして、チノちゃんのお手本に\\n　なるよう頑張らなくちゃ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Now then, it's time for work! I need to \\nwork hard and become a good role model for \\nChino-chan!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "（……お、お手本は無理でも、せめて\\n　失敗して迷惑かけないようにしないと……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Well, maybe I'll never be her role model,\\nbut I need to at least try to minimize my \\nmistakes and not create extra work for her...)",
+          "status": "machine_translated"
         }
       }
     }

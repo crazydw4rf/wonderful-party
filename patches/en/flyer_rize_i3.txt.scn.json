@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,176 +16,176 @@
         "0": {
           "speaker": "リゼ",
           "original": "（チラシを配り始めてから、結構、時間がたったな。\\n　私は平気だけど、ココアは疲れてくる頃か。\\n　様子はどうだろう？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We've been out here for quite a while\\nnow. I'm doing fine, but I suspect Cocoa's\\nabout out of gas. I better check on her.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おーい、ココア？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "はい、リゼさん。\\n何かご用ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Rize-san?\\nHow may I be of assistance to you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "な、なんだ？\\n妙にかしこまって、どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!? Since when did you start acting\\nso strangely formal?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "妙になんて、そんなことはありません。\\nいつも通りです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There is nothing strange about it.\\nAll is normal.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "とてもそうは見えないぞ？\\nていうか、怒ってないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that's not how it appears to me.\\nAre you mad at me for some reason?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "いいえ、怒ってなどいません。\\n気のせいです。\\nそれでは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly not. I'm not angry at all.\\nYou're imagining things, that is all.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "……明らかにおかしいだろ。\\n私、怒らせるようなことしたかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...She's not acting right.\\nWhat did I do to tick her off?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "よし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's try this...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "おーい、ココア。\\nキャンディ食べるか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa? Want some candy?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "キャンディ？\\nやったぁ、ちょうど甘いものが\\n欲しいなーって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Candy!? Aww yea! I could kill\\nfor something sugary right about...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あ、いえ、お構いなく。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊ahem＊ Excuse me, no. I'll pass.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "お構いなくって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll pass?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "今日のココア、やっぱりなんだか変だぞ？\\n私、何か怒らせるようなことしたか？\\nだったら言ってくれ。ちゃんと謝りたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You really are acting strange\\ntoday. Please tell me what I did\\nto offend you! I want to apologize!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ええっ！？\\n怒ってなんてないよ、ホントだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? I'm not angry, I swear!\\nPlease believe me!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "でも、むすっとしてるじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then why are you acting like\\nyou're peeved about something?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "これは違うの！\\n頑張って、クールなポーカーフェイスを\\nしようとしてただけで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not my intention! I was trying to\\npull off a calm, collected poker face...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "はうう……。\\n怒ってるように見えちゃうなんて。\\nごめんね、リゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauu... I came off as being grumpy?\\nSorry Rize-chan, I failed.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "ポーカーフェイスって、なんだ、そうだったのか。\\nまったく、驚かせるなよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were trying to put on a poker face?\\nSo that's what you were after? Jeez,\\nyou had me concerned there for a minute.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "やっぱり、慣れないことはしちゃだめだね。\\n顔のこことここ、ピクピクひきつってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess I can't be doing that without more\\npractice. My face muscles are twitching\\non both sides. I think I'm cramping up.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "なんだって、そんなに無理して\\nポーカーフェイスをしてたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, why are you pulling a muscle\\njust to put on a poker face?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "だって、カジノといえば\\nポーカーフェイスでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because when you think of the casino,\\na poker face comes to mind. Right?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "は？　カジノ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come again? The casino?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "ほら、バニーガールといったらカジノで、\\nカジノといえばポーカーフェイスで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see bunny girls at the casino, and the\\ncasino makes you think poker face. You see?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "そんな連想ゲームで\\nクールにしようとしていたのか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were acting straight-faced\\nfor your stupid word associating game!?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "無理するなよ。\\nいつだって明るくニコニコしてるのが\\nココアのいいところなんだからさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You should stick to what you're\\ngood at. Your normal smiley self\\nis you at your best, after all.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "リゼちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "うん、そうだね！\\n私は私らしくしてるよ、みんなを照らす\\n太陽の笑顔を絶やさないように！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, you're absolutely right! I\\ngotta keep my smile burning bright, like\\nthe sun that shines on everyone it meets!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "リゼ",
           "original": "いや、そこまで言ってないぞ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I didn't go that far...",
+          "status": "machine_translated"
         }
       }
     }

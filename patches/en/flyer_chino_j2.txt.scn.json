@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm handing out flyers with my\\nlittle sister Chino-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "ココア",
           "original": "はう、疲れたぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauu~ I'm tired.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "何か飲み物でも買ってきましょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you feel like ordering something to drink?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ううん。\\n大丈夫――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'll be fine.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、わたあめ、食べたいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, but if only I had some cotton candy...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……わたあめですか？\\nいきなりですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why cotton candy out of the blue?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ほら、あそこの雲。\\nふわふわでわたあめみたいに見えたから、つい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because of that cloud over there coming\\nout of the blue. It's so fluffy looking\\nthat it reminds me of cotton candy.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "本当ですね。\\n真っ白くてふわふわです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, you're right. Snow white\\nand fluffy as a pillow.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ふああ……。\\nもふもふしたら気持ちよさそう……。\\nしかも甘いわたあめで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahh, it looks perfect for cuddling with.\\nJust like sweet cotton candy...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "ココアさん、よだれが出てます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you're drooling.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "はっ！\\nいけない、つい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I'm drooling, oops...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "大体、わたあめをもふもふしたら\\nべとべとになってしまいますよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, don't try cuddling with cotton candy.\\nYou'll end up all sticky.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ん？\\n甘くて白くてもふもふ……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Sweet, white and cuddly...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "そうだ！\\nねえチノちゃん、\\n私、新メニューを思いついたよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have an idea! Chino-chan,\\nI have an item suggestion for our menu!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "わたあめを出す喫茶店はありませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We don't serve cotton candy at our cafe.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そうじゃなくって、\\nウィンナーコーヒーのクリームを\\nティッピーみたいな形に盛り付けるの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not that. Why don't we try serving\\nVienna coffee with the whipped\\ncream on top in the shape of Tippy!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "なるほど。\\nそれはかわいらしいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. That would look lovely, wouldn't it?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "でしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "ですが、ティッピーのもふもふ感を出そうとすると、\\nクリームの量が多すぎるかもしれませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, I imagine it will take too\\nmuch whipped cream to accurately\\nreplicate Tippy's degree of fluffiness.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "クリームの量が多いのは嬉しいんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't a lot of whipped cream a good thing?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "そういう人もいますが、\\nクリームはあくまでアクセントです。\\nコーヒーとのバランスを考えないといけません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Some may like it that way, but the purpose\\nof it is to change the flavor profile. We\\ncan't ignore how this will affect the taste.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "そっかー。\\nいいアイディアだと思ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. And here I thought I\\nfinally had a good idea...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "いえ、アイディア自体は面白いと思うので\\n改良案を考えてみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't misunderstand. I still think\\nit's an interesting idea. Let's put a\\npin in it and come back to it later.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "おお！\\nもしうまくいったら、私の考えたメニューが\\nラビットハウスに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! If it turns out well, I will have finally\\nmade a contribution to Rabbit House's menu!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "そうと決まれば、休憩は終わりにして\\n急いでチラシを配っちゃおう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that that's settled, let's call our break\\nover and get back to handing out these flyers!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "ここであれこれ考えてるより、\\nお店に戻って実際に作ってみた方が\\nいいところとか悪いところがわかるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thinking about it can only get us so far.\\nWe'll only know for sure if it's a good idea\\nor not by going home and testing it out.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "はい。\\n残りのチラシ配り、早くすませてしまいましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Let's hurry\\nand finish handing these out for the day.",
+          "status": "machine_translated"
         }
       }
     }

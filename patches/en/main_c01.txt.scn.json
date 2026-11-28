@@ -6,134 +6,134 @@
         "0": {
           "speaker": "チノ",
           "original": "（今日は、１２月４日。\\n　私の誕生日）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today is December the 4th. My birthday.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "（そして、ココアさんが\\n　世界で１番素敵な日にすると\\n　約束してくれた日――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And also the day Cocoa-san promised to \\nmake into the most wonderful day in the world.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "すみません、おじさん。\\n今日、ラビットハウスを貸し切りにしちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you again, Chino's Dad, for closing \\ndown Rabbit House for the day.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "タカヒロ",
           "original": "気にしなくていいよ。\\n今日は特別な日なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't mention it. Today is a very special day\\nafter all.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "タカヒロ",
           "original": "それよりも、お礼を言わせてくれ。\\n今日はチノのためにありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I'm the one who should be grateful.\\nThank you for doing all this for \\nChino today.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、だめです！\\n誕生会のこと、\\nまだチノちゃんには秘密にしてるので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, don't say it! Chino-chan still doesn't \\nknow about the secret birthday party yet.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "タカヒロ",
           "original": "おっと、そうだったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoops. That's right.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "うう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "落ち着けって、チノ。\\nお前が今日の主役なんだから、\\nもっとどっしりしていていいんだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Take it easy, Chino. \\nYou're the main character today, \\nso it's safe to sit back and relax.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "す、すみません。\\nその、家族以外との誕生日会の経験が\\nあまりなくて、どうしたらいいのか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm sorry. Um, I've never really experienced\\na birthday with anyone other than my \\nfamily, so I'm not quite sure what to do...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "どうしたの？　何話してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's this? Are you two talking about \\nsomething?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ああ、なんでもないぞ？\\nそれよりも、千夜やシャロやマメ、\\n青山さんまで集めて何をするつもりなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's nothing important. So anyway, what \\nare you up to, gathering Chiya, Sharo, \\nMame and even Aoyama here today?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ＆メグ",
           "original": "マメはやだー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't call us Mame!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ふふふふ～。\\nじゃあ、そろそろ種明かしをしよっか！\\nねえ、みんな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehehe~ Alright, I suppose now's a good \\ntime to make the big reveal. Don't you agree,\\neveryone?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "はいはい、そうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, sure, whatever you say.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ええ、そうしましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right, let's get started.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ティッピー",
           "original": "やれやれ。\\nココアはまだ秘密にできていると\\n思っとるんじゃな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief, it seems Cocoa still thinks \\nthis is somehow a secret.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "みたいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it seems.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ごほん！\\nでは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊ahem＊ Now then...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "集まってくれたみんなを代表して、\\n私から挨拶をさせて頂きます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As the representative of everyone gathered \\nhere today, allow me to make a few opening \\nremarks.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "実は、今日は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The truth is that today happens to be...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "（ごくり……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊gulp＊)",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
@@ -144,158 +144,158 @@
         "23": {
           "speaker": "リゼ",
           "original": "うわっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "チノちゃん、お誕生日おめでと～！\\nただいまより、チノちゃんのお誕生会を\\n始めまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, happy birthday! Chino-chan's \\nbirthday party has now begun!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ねえねえ、チノちゃん！\\nびっくりしてくれた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino-chan! Were you surprised?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "それは、驚きますよ。\\nいきなりこんなことをされたら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, of course I'm surprised. Anyone would be \\nafter having this done to them all of a \\nsudden.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "ホントだな。\\nまったく、はりきりすぎじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't that right? Don't get too carried away,\\nokay?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "やったね！\\nチノちゃんの誕生日お祝い、サプライズ成功！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Chino-chan's birthday surprise was \\na success!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "ふっふっふ～。\\n実はね、今日までのコスプレチラシ配りは\\n壮大な計画の元に実行されていたんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A ha ha~ So you see, the cosplay flyers \\nwe've been doing up until now were actually \\nall done as a part of my master plan!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "ラビットハウスでやるのは\\nあくまで実験だって言ったけど、実は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I may have said that undertaking this here \\nat Rabbit House was merely an experiment,\\nbut actually...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "すべてが、チノちゃんのお誕生日を祝うための\\n作戦だったのだ～っ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was all a strategy for celebrating \\nChino-chan's birthday!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "はい、知ってます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I know.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "……え？　知ってたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...What? You knew?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "正確に言うと、気がついていました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be precise, I should say I noticed.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "マヤ",
           "original": "っていうか、バレバレだったもんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be more precise, it was all out in the \\nopen the whole time.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "メグ",
           "original": "う、うん、そうかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, you could say that.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "ええええ～！？\\nそんなぁ、サプライズで\\n驚かそうと思ってたのに知られてたなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeh? I don't believe it! I thought I \\ncould get you with the surprise, but you \\nknew the whole time...",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "チノ",
           "original": "……ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "うう……。\\nごめんね、チノちゃん。\\n世界で１番素敵な日にするって言ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... I'm sorry, Chino-chan. Even though \\nI promised today would be the most wonderful \\nday in the world...",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "チノ",
           "original": "いいえ、謝らないでください。\\nだって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, please don't apologize. After all...",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "チノ",
           "original": "ココアさんのおかげで、こんなにたくさんの人が\\n私の誕生日のために集まってくれたんですよ？\\nこの、ラビットハウスに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look around. All these people have gathered \\ntogether here in Rabbit House to celebrate \\nmy birthday. All thanks to you.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "リゼ",
           "original": "ああ、そうだ。\\nココアの想いがみんなをたきつけたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that's right. Cocoa's devotion is \\nwhat inspired everyone to be here.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "チノ",
           "original": "それだけじゃないです。\\n私だけでなく、ラビットハウスのことも思って\\n色々な準備をしてくれて……本当に嬉しかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not all. You weren't only thinking of \\nme, but you also did lots of work with \\nRabbit House in mind. I'm truly grateful.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "チノ",
           "original": "ココアさん。\\n今日、この時間を私をプレゼントしてくださって、\\nありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. Thank you very much for the gift \\nof this time you've given me today.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ココア",
           "original": "チノちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan!",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "リゼ",
           "original": "よし、じゃあ、改めてみんなでお祝い、行くぞ！\\nせーの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Now, let's officially get this \\nparty underway. All together now!",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "みんな",
           "original": "お誕生日おめでとう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Happy birthday!",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "チノ",
           "original": "あ、ありがとうございます……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-Thank you very much!",
+          "status": "machine_translated"
         }
       }
     },
@@ -304,20 +304,20 @@
         "0": {
           "speaker": "チノ",
           "original": "（それから……\\n　ケーキを食べて、プレゼントを頂いて、\\n　誕生日会はあっという間に過ぎていきました）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(After that, I ate some cake, received \\npresents, and my birthday went by in the \\nblink of an eye.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "（こんなにも楽しい時間を過ごしたのは、\\n　生まれて初めてだったかもしれません）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This may have been the most fun thing \\nthat's happened to me in my entire life.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "（これも、ココアさんのおかげ……。\\n　本当にありがとうございます）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And this was all thanks to Cocoa-san... \\nThank you from the bottom of my heart.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -326,146 +326,146 @@
         "0": {
           "speaker": "千夜",
           "original": "さあ、それじゃ、次は誕生日ケーキの出番ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, now then, next up is the birthday \\ncake.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん！\\nやっぱり、お誕生会の始まりは\\nケーキのろうそくを消してこそだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup! And of course, every birthday party \\nmust start by blowing out the candles!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "お約束ってやつか。\\nケーキは、シャロと千夜が\\n用意してくれたんだよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I take it you had one arranged? Sharo and \\nChiya were the ones who picked out the cake,\\nright?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "はい。\\n千夜と一緒に、チノちゃんによく似合う\\nケーキと紅茶を見つけてきたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Chiya and I picked out a cake \\nand some black tea that we thought you'd \\nlike.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "はい、ケーキはこれよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, I've brought the cake.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "わあ……！\\nか、かわいいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa! I-It's so cute!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "ほんと、かわいいね～！\\nタルトの上に飾りがいっぱーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's right. It's so cute! It has lots of \\ntarts on top for decorations!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "これ、クッキーなんだ！\\n色んな形で……おお、\\nチノちゃんハッピーバースデーって書いてある！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Those are cookies! In all different shapes \\nand sizes... Oh look, one has “Chino-chan \\nHappy Birthday” written on it!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "特別に作ってもらったの。\\nどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I had it custom baked. How'd I do?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "ありがとうございます……！\\nすごく素敵です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much! I absolutely love it!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "こっちは、チノちゃんをイメージした紅茶よ。\\n私と千夜でブレンドを選んでみたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's the black tea we picked out with you \\nin mind. Chiya and I decided on a blend.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "私のイメージ、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Picked out with me in mind?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "ええ。\\n控えめだけどしっかりした味わいで、\\nさわやかな香りのものよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Its flavor is reserved but \\nsolid, and it has a soft, refreshing scent.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "でも、残る味は少し甘めなのよ？\\nお姉ちゃんへの本当の気持ちを隠しちゃう感じね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But later on, the aftertaste is sweeter than \\naverage. It gives the impression that it's \\nhidden its true feelings from its older sister.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "う……。\\nべ、別に、その、隠してるわけでは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu... I-It's not like I'm hiding anything...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "えっ！？\\nなになに？　お姉ちゃんってどういうこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh!? Hang on a second. Did someone say \\n“older sister”?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "な、なんでもないです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're hearing things!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "それじゃ、歳の分だけろうそくを立てましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well now, let's light as many candles \\nas you are years old.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "まかせて。\\n１つ、２つ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On it. One... Two...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "（歳の数だけのろうそく……。\\n　ティッピーの場合は、何本立てなくちゃ\\n　いけないのでしょうか？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(As many candles as you are years old... \\nI wonder just how many we'll need to light \\nfor Tippy's birthday?)",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "はい、準備完了。\\nチノちゃん、どうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, we're all ready. Chino-chan, \\ngo ahead.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "あ、はい。\\nそれでは……ふーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay. Here I go... ＊whoosh＊!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "おめでとう、チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Congratulations, Chino-chan.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "おめでとう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Congratulations!",
+          "status": "machine_translated"
         }
       }
     },
@@ -474,8 +474,8 @@
         "0": {
           "speaker": "チノ",
           "original": "（それから……\\n　プレゼントを頂いて、誕生日会は\\n　あっという間に過ぎていきました）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(After that, I ate some cake, received \\npresents, and my birthday party was over in \\nthe blink of an eye.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -484,212 +484,212 @@
         "0": {
           "speaker": "マヤ",
           "original": "よーし、じゃあ次はプレゼントだね。\\nまずは私とメグからだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alrighty, next up are the presents. First \\noff are mine and Megu's.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "気に入ってもらえるといいんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope you like it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "これは……！\\nまさか、ボトルシップ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's a...! Is it what I think it is, \\na bottle ship?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "うん！\\nマヤちゃんと一緒に、頑張って作ってみたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Maya-chan and I tried our hand at \\nputting one together.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "ていうかさ、\\nあとになって気がついたんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But the thing is... I only realized after \\nwe were done, but...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "チノは作るのが好きだから、\\nできあがってるのをプレゼントしても\\n意味ないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino, the part you like is putting it \\ntogether yourself, so I guess there wasn't \\nany point in giving you one ready-made?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "そんなことありません！\\nとても、とっても嬉しいです……大切にします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not true! I really, truly love it! \\nIt'll be my treasure.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "えへへ、私、不器用だから\\nちょっと変な形になっちゃったんだ。\\n飾ってくれたら、嬉しいけど恥ずかしいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. I'm pretty clumsy, so it's kind of \\nmisshapen. I'd appreciate it if you put it on \\ndisplay, but it's a tad embarrassing.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "まあ、それも味ってことで！\\nな、チノ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine. That just adds character. \\nRight, Chino?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "はい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "タカヒロ",
           "original": "さあ、チノ、これを。\\nお誕生日おめでとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, Chino, take this. \\nHappy birthday.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "私からも。\\nお誕生日おめでとうございます、チノさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "From me as well. Have a wonderful birthday,\\nChino-san.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "ありがとうございます。\\n開けてみてもいいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much. May I open it now?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "タカヒロ",
           "original": "ああ、もちろん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, of course.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "これは……かわいいうさぎのぬいぐるみ！\\n青山さんのは、素敵なエプロン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is... an adorable stuffed rabbit! \\nAnd from Aoyama-san, a wonderful apron!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "このお店には制服がありますから、\\n使う機会はないかもしれませんけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This cafe already has a uniform, so I \\ndoubt you'll have an opportunity to wear \\nit very often...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "いえ、ありがとうございます。\\n家事をする時に使わせてもらいますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much. I'll be able to use \\nit whenever I'm doing housework.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "タカヒロ",
           "original": "ああ、それからもう１つ\\nプレゼントがあるんだ。\\nほら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and after that there's one more \\npresent. Have a look.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "えっ？\\nこのマグカップは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? This mug...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "わあ、これ、かわいい～っ！\\nティッピーがデザインしてあるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa! This is really cute! It has a Tippy \\ndesign on it!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "本当です……！\\nこんなものがあったなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right! To think something like \\nthis exists...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "きっと、デザインから起こして作ったのね。\\nすごく手が込んでるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure it was based on a custom design.\\nIt's very well made.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "タカヒロ",
           "original": "これは、ある人からの誕生日プレゼントだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This happens to be the birthday gift \\nfrom a certain unnamed person.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "ある人？\\nそれって誰ですか、おじさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A certain person? Chino's Dad, who is that?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "タカヒロ",
           "original": "それは言えないんだ。\\n秘密にしておくという約束でね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm afraid I can't answer that. I \\npromised to let them remain anonymous.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "秘密なんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's a secret!?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "まあ、謎の人から誕生日プレゼントなんて、\\nなんだかロマンチックねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh my, a birthday present from a mysterious \\nperson, isn't that rather romantic?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "ま、まさか、チノちゃん、\\n私以外に秘密のお姉ちゃんがいるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Inconceivable! Chino-chan, you secretly have \\na big sister other than me!?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "そんな人、いません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't have anyone like that.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "えええ～！？\\nそれじゃ、一体誰からのプレゼントなの～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeh!? Then, just who on earth is this \\npresent from!?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "（……もしかして）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Just maybe...)",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "ティッピー、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy, was it you?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ティッピー",
           "original": "誕生日おめでとう、チノ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Happy birthday, Chino.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "チノ",
           "original": "はい……。\\nありがとうございます、おじいちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it was... Thank you very much, Grandpa.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "（それから、ケーキを食べて、お茶を飲んで、\\n　みんなとたくさんお話しして……\\n　誕生日会はあっという間に過ぎていきました）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(After that, I ate cake, drank tea, and \\ntalked the night away with everyone. The \\nbirthday party was over in a flash.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -698,14 +698,14 @@
         "0": {
           "speaker": "チノ",
           "original": "（こんなにも楽しい時間を過ごしたのは、\\n　生まれて初めてだったかもしれません）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This may have been the most fun thing \\nthat's happened to me in my entire life.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "（これも、ココアさんのおかげ……。\\n　本当にありがとうございます）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And this was all thanks to Cocoa-san... \\nThank you from the bottom of my heart.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -714,8 +714,8 @@
         "0": {
           "speaker": null,
           "original": "知名度が”★★★”以上の場合、\\n続きを見ることができます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the event that your Publicity Level is \\nhigher than ★★★, you'll be able to see what \\nhappens next.",
+          "status": "machine_translated"
         }
       }
     },
@@ -724,8 +724,8 @@
         "0": {
           "speaker": null,
           "original": "知名度が”★★★★”以上の場合、\\n続きを見ることができます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the event that your Publicity Level is \\nhigher than ★★★★, you'll be able to see what \\nhappens next.",
+          "status": "machine_translated"
         }
       }
     }

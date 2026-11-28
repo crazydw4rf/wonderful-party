@@ -6,140 +6,140 @@
         "0": {
           "speaker": "マヤ",
           "original": "だから、絶対だって！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, I’m absolutely positive about it!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "そうかな～？\\n絶対とは限らないと思うよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? I don’t think it has to be...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？　この声は……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Who’s that I hear?)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "あれ、ココアだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, there’s Cocoa!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ラビットハウスの制服？\\nもしかして、お使い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re still in your Rabbit House uniform? Are\\nyou running an errand?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "あ、わかった！\\nさてはサボりだな～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I get it. You’re slacking off right now,\\naren’t you?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "サボりなんかじゃありません。\\n今はお昼休みなのです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m most certainly not slacking off. I happen\\nto be on break at the moment.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "なんだ。\\nココアが仕事サボってるって、\\nチノに教えてやろうと思ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. And here I thought I had a chance to\\ntattle on you to Chino.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "あれ？\\nココアちゃんが休憩中ってことは、\\nチノちゃんだけでお店番？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait a second. If Cocoa-chan is on break\\nright now, that must mean Chino-chan is\\nworking all alone back at the cafe.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うん。\\n今日はリゼちゃん、バイトお休みだから\\nチノちゃんとティッピーがお店番中だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Correct. Rize-chan has the day off, leaving\\nChino-chan and Tippy to hold the fort.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "って、あれ？\\nなんでメグちゃん、知ってるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. Megu-chan, how did you know that?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "さっきリゼさんとすれ違ったんだ。\\nその時、お休みって聞いたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We just bumped into Rize-chan, and she told\\nus she was off work.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "でもさ、いくら慣れてるとはいえ\\nチノ１人じゃ大変かもな。\\nメグ、手伝いに行かね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it. No matter how experienced\\nshe is, running the cafe all alone must be\\nrough. Megu, think we should go help?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "うん、そうしよっか。\\nお手伝いなら、前にしたことあるもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, let’s do that. It shouldn’t be too bad,\\nsince we’ve done that job before.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ちょっと待ちなさい？\\nウェイトレスは\\nそんな簡単な仕事じゃありませんことよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now hold on just a second. You better not be\\nstarting to think that being a waitress is an\\neasy job.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "どうしても手伝いに行きたいと言うのなら、\\n私からウェイトレスのいろはを\\n教わってからにしなさーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you’re serious about going and helping her,\\nyou need to have me teach you the\\nfundamentals of being a waitress!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "なんかココアが先生みたいになってる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For some reason Cocoa’s starting to think of\\nherself as a teacher?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "っていうか、私たちに教えてる暇があるなら、\\n早く帰ってチノを手伝ってやればいいんじゃね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And anyway, if you have enough free time to\\nteach us that, why don’t you just hurry on\\nback and help her yourself?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "そうしたいんだけど、\\nしっかりと休憩を取るのも仕事ですよって\\nチノちゃんに言われちゃうんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I would love to do that, but Chino-chan will\\njust bark at me that getting rest is another\\npart of my job.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "メグ",
           "original": "ふーん、そうなんだ。\\nお仕事って色々だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so that’s the situation you’re in. I guess\\nthere’s more to your job than I thought.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "マヤ",
           "original": "よし、じゃあ私たちがココアの分まで\\n手伝ってくるから、\\nその、ウェイトレスのいろはを教えてくれよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, let’s help fill in for Cocoa. Hurry\\nup and teach us the fundamentals of being a\\nwaitress.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "メグ",
           "original": "あ、でも、いろはだといっぱいありすぎて\\n覚えきれないし、今は１番大切なことを教えて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but all the fundamentals at once will be\\nhard for me to remember, so just start with\\nthe most important thing.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（えーっと、ウェイトレスにとって\\n　１番大事なことと言えば、やっぱり……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uh, the most important thing about being a\\nwaitress. It has to be...)",
+          "status": "machine_translated"
         }
       }
     },
@@ -153,18 +153,18 @@
       "choices": {
         "*sel_0101": {
           "original": "もちろん笑顔だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A smile, of course.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "きちんとした挨拶です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A proper greeting.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "ずばり、バランス感覚！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In short, a sense of balance.",
+          "status": "machine_translated"
         }
       }
     },
@@ -173,74 +173,74 @@
         "0": {
           "speaker": "ココア",
           "original": "もちろん笑顔だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A smile, of course.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "うわー。\\nなんか、すごく普通じゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bleh. That’s the most boring thing I’ve ever\\nheard.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "でも、普通に思えるくらい基本なんだよね。\\nそれって大切ってことでもあるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, the basics are going to be something\\nnormal like that. The point is that it’s\\nsomething valuable that can never be\\nforgotten.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "はっ！！\\nなるほど……私が甘かったぜ。\\nやるじゃん、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ I see. That was sloppy of me. You\\nknow your stuff, Cocoa.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ふふん、わかってくれた？\\n笑顔はウェイトレスの基本、\\nだからいつも明るい顔でいないとね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Haha, so you get it? A smile is the foundation\\nof being a waitress, so always remember to\\nbeam ear to ear.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "さあ！\\n２人とも笑ってご挨拶！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now show it to me! Both of you, smile and\\nwelcome!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "いらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "い、いらっしゃいませ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Welcome!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "メグちゃん、惜しい！\\nもっと自然な感じでにっこりしてみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So close, Megu-chan! Try that one more\\ntime, with a more natural smile.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "メグ",
           "original": "自然な感じ自然な感じ……\\nい、いらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Act natural, act natural... W-Welcome!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "いいよ！\\nその笑顔を忘れないようにね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent! Make sure not to forget that big\\nsmile!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "はーい、わかりました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won’t!",
+          "status": "machine_translated"
         }
       }
     },
@@ -249,50 +249,50 @@
         "0": {
           "speaker": "ココア",
           "original": "きちんとした挨拶です。\\nわかりますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A proper greeting. Do you know what that is?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "挨拶って、いらっしゃいませ～、とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A greeting, like saying ”welcome”?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、お客さんがお店に入って\\n最初に聞く挨拶だからね。\\nそしてもう１つ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, it’s the first thing the customer\\nhears when they walk through the door. And\\none more thing...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "お帰りの際の挨拶も重要なの。\\nまた来たいなって思ってもらえるように、\\n心を込めてご挨拶しなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s important to give a farewell to the\\ndeparting customers. It should be so heartfelt\\nthat it makes the customers want to return.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "お見送りの挨拶も大事なんだぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So the farewell is important as well.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "最初だけじゃだめなんだな。\\n勉強になるぜ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it’s more than the greeting. I’ll take note.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "それじゃ、マヤちゃん、メグちゃん！\\nさっそく練習してみよう！\\nせーの、ありがとうございましたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, Maya-chan, Megu-chan! It’s time\\nto practice! Two, one: thank you very much!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ＆メグ",
           "original": "ありがとうございましたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much!",
+          "status": "machine_translated"
         }
       }
     },
@@ -301,44 +301,44 @@
         "0": {
           "speaker": "ココア",
           "original": "ずばり、バランス感覚！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In short, a sense of balance!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "バランス感覚？\\nウェイトレスに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A sense of balance? For being a waitress?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "考えてみて？\\nコーヒーやお料理を運ぶ時、\\nバランスが悪かったらどうなっちゃう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it. What will happen if you lose\\nyour balance while carrying around some\\nfood or coffee?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "大変！\\n全部おっことしちゃうかもしれないよ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A disaster! It’ll be spilled all over the floor!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そういうこと！\\nじゃあ、片足立ちでバランス感覚を養おう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. Which means it’s time to stand\\non one foot to train your balance!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "よーし、やるぞー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I’m on it!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "が、頑張るね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I’ll try my best!",
+          "status": "machine_translated"
         }
       }
     },
@@ -347,50 +347,50 @@
         "0": {
           "speaker": "マヤ",
           "original": "ふふーん、\\nこれでいつでもウェイトレスができるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmph! I feel like I’m ready to take on being a\\nwaitress at a moment’s notice!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "リゼも褒めてくれるかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder if Rize-chan will praise me for this?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？　リゼちゃん？\\n先生の私じゃなくて、\\nリゼちゃんに褒められたいの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Why Rize-chan? Shouldn’t you want\\nme, your teacher, to praise you instead of\\nher?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "だって、メグの場合、\\nココアより先にリゼが先生になったからさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, Cocoa, Rize was actually Megu’s\\noriginal teacher.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "え？　それって何の話？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What do you mean?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "実はさー、前にプールに行った時に\\nメグがリゼを先生って呼んで――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see, Megu called Rize her teacher\\nback at the pool--",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "そ、そのことは、もういいでしょ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You don’t need to bring that up!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ええ？\\n気になるよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat! I want to hear about this!",
+          "status": "machine_translated"
         }
       }
     }

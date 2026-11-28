@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ラビットハウスをよろしくお願いしまーす。\\nコーヒーともふもふに癒される\\nラビットハウスでーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House! We'll\\nheal your soul with coffee and cuddles!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,152 +22,152 @@
         "0": {
           "speaker": "リゼ",
           "original": "なあココア、ちょっといいか？\\nチラシ配りとして、それはどうかと思うぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, stop for a minute.\\nI don't think you're doing that right.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "はっ！？\\nやっぱりコーヒーより\\nもふもふ押しがよかったかな！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ I knew it! I should have stressed\\nthe cuddles more than the coffee!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いや、そもそももふもふは売りじゃないし。\\n私が言いたいのは、声が小さいってことだ。\\nそれじゃ、何を配ってるかわからないぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not that. Actually, you shouldn't be\\ntrying to sell the cuddles at all. What\\nI mean is that you're being too quiet.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうかな？\\n普通の大きさだと思うけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? I thought\\nthat was a normal volume.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "普通じゃだめだ。\\nチラシ配りなんだから、\\nより大きい声でアピールしないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Normal isn't good enough. We're\\ntrying to advertise for the cafe, so\\nwe need to be loud and proud about it.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "アピール！　そっか！\\n声は大きければ大きいほどいいんだね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Loud and proud! I see what you mean.\\nThe louder the better!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ああ、声が聞こえさえすれば\\n多少は店のアピールになるだろうしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. So long as you're heard,\\nyou act as an advertisement to some extent.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "なるほど～。\\nよし、じゃあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood. Alright, here I go.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ラビットハウスをよろしくお願いしまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "まだ小さい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Louder!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ラビットハウスをよろしくお願いしまーす！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House!!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "よし、よくなってきたぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's better!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ラビットハウスを！！\\nよろしくお願いしまーす！！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "WE'RE THE CAFE, RABBIT HOUSE!!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "いいぞ、その調子で続けろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent! Keep it up!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "よろしくお願いしまーす！！！\\nラビットハウスでーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "PLEASE COME FOR A VISIT!!\\nWE'RE THE CAFE RABBIT HOUSE!!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "ラビットハウスを！\\nよろしくお願いします！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "GIVE US A VISIT!! WE'RE RABBIT HOUSE!!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ら、ラビット……ハウスを……\\nよろしく……お願いします……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "P-Prease... visit... Labbit... Horse...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "ぜぇ……ぜぇ……。\\nぜぇ……ぜぇ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊heavy breathing＊",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "もう声が出ないよぉ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've lost my voice...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "大声を出すだけじゃ……。\\nチラシは……なくならないんだな……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It appears there's more to advertising\\nthan just shouting.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "というより……\\nみんな、私たちを避けてたよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To make matters worse, I think the\\ntownsfolk are starting to avoid us...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "そうだな……避けてたな……。\\nもしかして……うるさすぎたのか……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're getting... avoided?\\nYou think we were annoying them?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "はあ……。\\nこんな時、チノがいれば止めてくれたのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊\\nIf only Chino were here to set us straight.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "チノちゃんのツッコミがないと……\\n私たち、だめなんだね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We can't get anything right\\nwithout Chino-chan to wrangle us...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "ああ、ツッコミの大事さを思い知った……。\\nちょっと休んだら……普通に配ろう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now I see the importance of having a\\nvoice of reason around. Let's rest our\\nvoices for a while and return to normal.",
+          "status": "machine_translated"
         }
       }
     }

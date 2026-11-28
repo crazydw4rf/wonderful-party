@@ -6,194 +6,194 @@
         "0": {
           "speaker": "シャロ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "おっ、シャロじゃないか。\\nそこの席に座ってくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oi, there's Sharo. \\nTake a seat right over there.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "あ、はいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "お邪魔します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pardon me.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、青山さん！\\nさあさあ、こちらの席にどうぞ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Aoyama-san! Why don't you take a seat \\nright over here.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっとココア！\\n何で私と相席なのよ、他が空いてるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hang on a second, Cocoa! Why are you making\\nher sit next to me? The rest of the cafe \\nis empty.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "え？　だめ？\\nせっかくなんだから、\\n色々おしゃべりしたいかと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Is there something wrong with that? It's\\nrare the two of you are together, so I\\nthought you'd like to have a chat.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "すみません。\\n相席、失礼しますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I beg your pardon. It's awfully rude of me\\nto sit next to you like this.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "え、ええ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, well...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "この人、また変な目で\\n店員を見たりしてないでしょうね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope this person isn't taking any weird\\nlooks at the staff...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "どうかしましたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is something the matter?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "えっ、い、いえ別に！\\nそういえば、今日はどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I, uh...Don't mind me! So anyway, what are\\nyou up to today?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "今日も、いつものように\\n小説のアイディアになるものがないか探しています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The same as always, today is another day\\non the search for ideas to go into my novels.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "そっか、青山さんは小説家なんですよね。\\n文章を書くのって、やっぱり難しいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right, you're a novelist after all.\\nAlways needing new material to put on paper,\\nisn't that quite the challenge?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "そうですねぇ。\\n難しいと言えば難しいですが、\\n簡単と言えば簡単かもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You could say that. If you call it difficult,\\nthen it is difficult, but if you call it \\nsimple then it may be simple.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "ど、どっちなの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Which is it!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "正直、自分ではよくわからないのです。\\n書いている時は意識しませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be honest, I don't really know myself. \\nIt's not something I think about while \\nwriting.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "はあ……。\\nじゃあ、よりよいお話を書くコツとか\\nあるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuh... Then, is there a trick to getting \\nbetter at writing?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "青山",
           "original": "ん～、強いて言えば……観察でしょうか？\\n特に人間観察は、登場人物に深みを与えるために\\n最も重要なことだと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm, I'd have to say it's... observation? I believe\\nobserving other humans is most important\\nto adding depth to your own characters.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "そうなんですか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "青山",
           "original": "じーっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "ひうっ！？\\nわ、私をすごい見てる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hya!? S-She's really staring at me!?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "青山",
           "original": "今日、私と出会ってから、\\nシャロさんは３回髪をさわりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since you met me today, you've touched \\nyour hair exactly three times.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "青山",
           "original": "そして、ココアさんはチノさんを３回呼びました。\\nリゼさんは、５回、ココアさんを\\nお盆で突っつきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furthermore, Cocoa-san has called for \\nChino-san three times. Rize-san has jabbed \\nCocoa-san with a tray five times.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "そこまで見てるんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've been keeping track of all that!?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "青山",
           "original": "ええ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "こ、この人、本当は\\nストーカーなんじゃないの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-This person actually might be a genuine \\nstalker!?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "２人、盛り上がってるね～。\\n何の話をしてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You two seem to be hitting it off. \\nWhat are you talking about?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "盛り上がってるかはわからないけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know about hitting it off, but...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "青山さんは人間観察が得意で、あんたが\\nリゼ先輩に５回も怒られたところも\\n見てたんだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san is really good at watching people,\\nand even noticed that you've ticked off \\nRize-senpai five times already.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "えええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhhh!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -201,24 +201,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "えええっ！？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Ehhhh!?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "よく見てますね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Astute observation!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "まるで監視員みたいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're like a lifeguard!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "見ているだけじゃだめですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You shouldn't just stop at observation!",
+          "status": "machine_translated"
         }
       }
     },
@@ -227,68 +227,68 @@
         "0": {
           "speaker": "ココア",
           "original": "よく見てますね！\\nそれに、見たこと全部、細かく覚えてるって\\nとてもすごいですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Astute observation! And what's more \\namazing is that you've managed to remember \\neverything you've seen.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "いえ、そんなに誇れることではないですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's nothing that special, really.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "まあ、ココアは、ほんの少し前のことも\\nすぐに忘れるもんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But on the other hand, Cocoa forgets things \\nthat happened just moments ago.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そんなことないよ！\\nちゃんと覚えてるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not true! I can remember just fine!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "じゃあ、さっき受けたオーダーは何だ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, then what was that order you just took?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えっ？\\nえっと……なんだっけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Ummm... Something?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "正解はブルーマウンテンですね。\\n今、チノさんが作っています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The order was a blue mountain. \\nChino-san is currently making it.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "おお！　すごい、さらっと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah! Nice, that was smooth!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "これは、ココアをクビにして\\n青山さんを雇った方がいいかもしれないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's starting to look like we should fire \\nCocoa and hire Aoyama in her place.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ええーっ！？　そんなー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeeh!? Nooo!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "クビになりたくないなら、ちゃんと働けよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you don't wanna get fired, \\nstart doing your job properly.",
+          "status": "machine_translated"
         }
       }
     },
@@ -297,8 +297,8 @@
         "0": {
           "speaker": "ココア",
           "original": "まるで監視員みたいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're like a lifeguard!",
+          "status": "machine_translated"
         }
       }
     },
@@ -307,50 +307,50 @@
         "0": {
           "speaker": "シャロ",
           "original": "監視員って……プールや海にいる人？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A lifeguard, like at the pool or the \\nbeach?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "そうそう！\\n高いところから、みんなの安全を見守ってるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's it! They watch over us from above to \\nmake sure we're always safe.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、そっか。\\nだったら、青山さんも\\n私たちの安全を見守ってくれるんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, it all makes sense now. Aoyama-san was \\ndoing just that, watching over us to keep \\nus safe.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "そんなわけ――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't be ridiculous...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "はい、僭越ながら\\nみなさんを見守っていました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's correct. Perhaps it's not my place \\nto do so, but I've always been watching \\nover you all.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ええ！？\\nそ、それはストーカーじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhh!? So you really are a stalker...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ストーカーはあとをつけるでしょ？\\n青山さんはここで見守ってるだけだから\\n全然違うよー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A stalker follows people around, right? \\nAoyama-san watches us while sitting in place.\\nIt's totally different!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "そういう問題！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's your reasoning!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -359,50 +359,50 @@
         "0": {
           "speaker": "ココア",
           "original": "見ているだけじゃだめですよ！\\nちゃんと応援しないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You shouldn't just stop at observation! \\nYou need to properly cheer us on!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "まあ、それは失礼しました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so? Please forgive me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "そうじゃないでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not what I meant!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "え？　違った？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? It wasn't?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "ココアは気にならないの？\\n仕事してる間、ずっと見つめられてるのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, you don't mind? The whole time you've\\nbeen working, she's been watching your \\nevery move.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "んー……気になるかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm...I mind, maybe?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ！　あくびを何回したか、\\n数えられるのは困っちゃうな。\\nチノちゃんに怒られるよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! I can't have you counting how many times\\nI've yawned. Chino-chan is going to get \\nmad at me~.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ちゃんと真面目に働きなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do your work properly!",
+          "status": "machine_translated"
         }
       }
     },
@@ -411,32 +411,32 @@
         "0": {
           "speaker": "ティッピー",
           "original": "やれやれ。\\n特技がもう少し仕事に繋がればいいのじゃが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. If only her talents were a\\nlittle more related to her job.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "でも、ココアさんがちゃんと働いているかを\\n監視してもらえるなら大歓迎です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, making sure Cocoa-san is working\\nproperly is something I greatly appreciate.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ティッピー",
           "original": "あの観察眼、もしや探偵や刑事に\\n向いておるのかもしれんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "With that keen eye, maybe she'd be more \\nsuited to being a private or police detective.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "どうでしょうか。\\n青山さんのことですから、犯人を見つけても\\n取り逃がしてしまいそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder. When it comes to Aoyama-san, \\neven if she tracked down a criminal, it \\nseems like she'd let them get away.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ティッピー",
           "original": "確かにそうじゃな。\\nそれこそ、物語の中で\\n活躍してもらうしかないのう、ほっほっほっ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No doubt about it. That way she'll get a \\njuicy performance to put in her novel. \\nHo ho ho.",
+          "status": "machine_translated"
         }
       }
     }

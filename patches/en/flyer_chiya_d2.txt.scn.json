@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,122 +16,122 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえ、千夜ちゃん。\\n少し休憩しない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chiya-chan, wanna take a short break?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうね、ずっと立ちっぱなし、\\n声を出しっぱなしだもの。\\nそろそろ、１度休みましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. Both my feet and voice are tired,\\nso it's about time I had a rest.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えーと、これだけ配ったから……\\n残りは半分くらいかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see. Looks like I've given away half,\\nso still half left to go.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "あら……。\\n結構配ったつもりだったのだけど、\\nまだまだ頑張らないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, unfortunate. I thought we\\nwere doing better than that.\\nWe still have much work to do.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "はう～。\\n私たち、今だって充分、頑張ってるのにね。\\n学校と仕事の両立だってしてるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hau~ We already have plenty of work\\ncut out for us. Attending school and\\nwork at the same time is no joke.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ココアちゃん、最初の頃は\\n両立が大変そうだったわねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, I remember how hard it\\nwas on you when you first moved here.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "た、確かに失敗ばかりしてたけど……\\n今はスマートにこなせてるよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, I did nothing but screw up when I\\nfirst started. But now it's a piece of cake!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "学校は学校、仕事は仕事！\\nちゃんとメリハリがつくようになって\\n毎日が充実してるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Keep school at school, and work at\\nwork! Keeping a strict work-life\\nbalance keeps every day fulfilling.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そうすると、仕事にももっと力が入って\\n勉強ももーっと気が張って、\\n宿題も忘れたりしなくなるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That way I can devote more energy\\nto work, and focus easier at school,\\nand can even remember my homework!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "そうねえ。\\nでも、気が張って宿題を忘れないなら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. You mentioned that you've\\ngotten past forgetting your homework...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "明日提出の宿題は\\nもう終わってるってことなのね。\\nすごいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which must mean you've already\\ncompleted your submission for\\ntomorrow. I'm proud of you.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "明日……提出の……宿題……！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Homework? A submission? For tomorrow!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "どうしたの？\\nココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the trouble, Cocoa-chan?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ああ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAAAAAAAAAAAAAAaaaaaaaaaaa!!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "ココアちゃん、もしかして忘れてたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, don't tell me, you forgot?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "わ、忘れてた！\\nすっかり忘れてて、学校に宿題のプリント\\n置いてきちゃったよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I forgot! I forgot all about it!\\nI left my homework printouts back at school!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "まだ学校、開いてるよねっ！？\\nちょっと取りに行ってくる～っ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The school hasn't closed yet, right?\\nIf I'm quick I can make it in time!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ま、待ってココアちゃん！\\nプリントなら私のを見せてあげる――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, Cocoa-chan! You can look at my copyyy!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "って、もう行っちゃったわ。\\nうさ耳をつけて……脱兎の勢いってこのことね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alas, she's long gone. I suppose\\nyou could say she's as fast\\nas a hare, with those ears on.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "でも、いいのかしら？\\nチラシを持ったまま行っちゃったけど。\\nそれに、あの制服で学校に入れるのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do I do now? She took off with our\\nstack of flyers. And will they even let\\nher into the school in that costume?",
+          "status": "machine_translated"
         }
       }
     }

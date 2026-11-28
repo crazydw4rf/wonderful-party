@@ -6,170 +6,170 @@
         "0": {
           "speaker": "シャロ",
           "original": "こ、こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、シャロちゃん！\\nいらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Sharo-chan! Welcome!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ん？　どうしたんだ？\\nなんか顔が引きつってないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Are you alright? You seem tense.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "い、いえ、大丈夫です。\\nちょっとバイトで疲れちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, uh, it’s nothing. I’m just tired, nothing\\nmore.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そっか、あまり無理はするなよ。\\nゆっくりしていけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so. Don’t overdo it. Don’t forget to take\\nit easy.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "あ、はい！\\nありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, of course! Thank you for the kind words.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "今日こそ、リゼ先輩に聞かないと。\\nでも……緊張する……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can’t put off asking Rize-senpai any longer.\\nBut asking her makes me more nervous than\\nI can stand...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "シャロちゃん？\\nさっきからもじもじしてるけど平気？\\nトイレならあっちだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan? Are you okay? You keep\\nfidgeting. The bathroom’s right over there if\\nyou need it.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ち、違うわよっ！\\n私はただリゼ先輩に聞きたいことが――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s not that! I was just anxious to ask Rize-\\nsenpai a--",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "私に？　なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A question? Ask away.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "ああっ！？\\nえ、えっと……その……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAAA! It’s, uhhh...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "遠慮なんかいらないぞ。\\nなんでも聞いてくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t be shy. Ask me anything!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "は、はい！\\nじゃあ、その……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay! So you see...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "前に、演劇部の助っ人で、オペラ座の怪人の\\nクリスティーヌ役をやってましたよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You played the part of Christine, back when\\nyou offered to help out the drama club with\\nthe Phantom of the Opera. Remember?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "それで、その……それ以来、\\n付きまとわれたりとか、してませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, uh... You haven’t had anyone following\\nyou around since then, have you?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "ああ、そういえば最近、\\nよく付きまとってくるのがいるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, now that you mention it, I have been\\ngetting a lot of attention from them lately.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "えええっ！？\\nやっぱりいるんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? You have!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア（Ｍ）",
           "original": "（ああ、そういえばリゼちゃん、\\n　最近うさぎに懐かれてるって言ってたっけ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, now that she mentions it, Rize-chan did\\nsay she had been approached by some\\nrabbits as of late.)",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（シャロちゃんはうさぎが苦手だから、\\n　うさぎと仲良くしてるリゼちゃんを\\n　どこかで見かけて心配になったのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sharo-chan, being afraid of rabbits and all,\\nmust not be too happy to see Rize-chan\\nhanging out with bunnies all the time.)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "劇が評判になって、私のクラスでも\\n先輩のファンが増えたりしてるから\\n心配してたけど、案の定……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was mildly worried, since Senpai has been\\ngaining fans ever since that play, even in my\\nclass. But to have it come to this...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "あ、あの！\\nリゼ先輩は、そういうの嫌じゃないんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Rize-senpai! How do you feel about this\\nhappening to you?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "いや、まあ、別に……嫌ではないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, what can I say? I don’t hate the fact.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "そそ、そそそ、それって、\\nリゼ先輩もその子たちのこと、\\nすすす、すす、好きってことですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So-So-So-So-So-So what you’re saying is,\\nthat you l-l-l-like them, is that it?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "もちろん嫌いってことはない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly. I’m not complaining.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "嫌いじゃない……そうなんだ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not complaining? So that’s how it is...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "あ、あの、じゃあ、\\nリゼ先輩の好みのタイプって\\nどういう感じなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then, if I may ask, what exactly is your type?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "うーん、好みと言われてもなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My type, huh. If I had to say--",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "それじゃ、私が推理してみるよ。\\nリゼちゃんはね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, I’m gonna guess it! She...",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,24 +177,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "それじゃ、私が推理してみるよ。\\nリゼちゃんはね――",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Wait, I’m gonna guess it! She...",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "すべてを平等に愛してるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She loves everyone equally!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "ワイルドで格好いい子が好みだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She wants one that’s cool and wild!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "可憐でかわいい子が好きなんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She likes them cute and dainty.",
+          "status": "machine_translated"
         }
       }
     },
@@ -203,32 +203,32 @@
         "0": {
           "speaker": "ココア",
           "original": "すべてを平等に愛してるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She loves everyone equally!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "す、すべて！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Everyone!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "特に嫌いなタイプとかはないからな。\\n来るものは拒まずって感じだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t really have a favorite type. I won’t say\\nno to anyone.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "来るものは拒まずなんて！\\nそ、そ、そんなのだめです～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not to anyone!? S-S-Say it ain’t so!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "どうしてシャロがそんなに取り乱すんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why does that disturb you so much?",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,8 +237,8 @@
         "0": {
           "speaker": "ココア",
           "original": "ワイルドで格好いい子が好みだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She wants one that’s cool and wild!",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,26 +247,26 @@
         "0": {
           "speaker": "シャロ",
           "original": "確かに、そんなイメージはあるけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s about what I expected of her...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "そうだな、ワイルドって言うか、\\nあまりすり寄ってこないアウトローで\\nクールなのもいいと思うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s absolutely right. When you say wild, it\\nmakes me think of a cold, lone wolf\\nrenegade.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "かわいいうさぎに銃器とか持たせるのも\\nそれはそれで、ありだしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s a certain charm to putting a rifle in\\nthe hands of a cute little rabbit.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "ワイルドで格好いいキャラなんて\\n私には無理……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s no way I’ll ever be able to become\\nher cool or wild ideal...",
+          "status": "machine_translated"
         }
       }
     },
@@ -275,8 +275,8 @@
         "0": {
           "speaker": "ココア",
           "original": "可憐でかわいい子が好きなんだよ。\\n小さくて、上品で……そう、例えるのなら\\nシャロちゃんみたいな子！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She likes them cute and dainty. Tiny, and\\nwell-bred, and...and just like Sharo-chan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -285,26 +285,26 @@
         "0": {
           "speaker": "シャロ",
           "original": "わ、私みたいな！？\\n何言ってるのよ、ココア！\\nリゼ先輩に失礼じゃない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like me!? What are you saying, Cocoa! Don’t\\ninsult Rize-senpai like that!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "いや、でも、上品で大人しい子は実際好きだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She’s not wrong. I really do like them well-\\nbred and docile.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "す、好き……！\\nリゼ先輩、ありがとうございますっ！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You do!? Rize-senpai, thank you so very\\nmuch!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "な、なんでシャロが礼を言うんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Why are you thanking me?",
+          "status": "machine_translated"
         }
       }
     },
@@ -313,86 +313,86 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん、こないだも\\n白くて小さい子に懐かれてたよね。\\n抱っこしてあげてたし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, that little white one has been\\ntaking an interest in you lately. You even gave\\nher a hug.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "あ、あれは、あいつが\\n抱いてほしそうに見てたからだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, about that. For some reason she seemed\\nto really want me to hold her in my arms.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "だ、だ、だ、だ、抱いて！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hold i-i-i-i-in your arms!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "あいつ、すぐなめてくるんだよな。\\nあと、頭を撫でてやるとすごい喜ぶんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She couldn’t stop herself from licking me as\\nsoon as she could. Also, she was really into\\nme rubbing her head.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "そ、そ、そんな……！\\nリゼ先輩、もうそんな深い仲に\\nなっている子が……！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, no no no! Rize-senpai is already in\\nthat serious of a relationship with someone!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "うう……わかりました。\\n私はもう何も言いません。\\nどうか、末永く幸せになってくださいぃぃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sob＊ So that’s how it is. I have nothing\\nmore to say. I hope you’re happy with her.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "シャロ！？\\n無神経な話をしてすまない！\\nまさか、泣くほどうさぎが苦手だったなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo!? I’m sorry, that was an insensitive thing\\nfor me to say. I didn’t know that just talking\\nabout rabbits would make you cry.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "はい……。\\n私、泣くほどうさぎが――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, just talking about rabbits is enough to--",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "えっ？　うさぎ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, rabbits?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "私がうさぎに付きまとわれてる話で\\n落ち込んでたんじゃないのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn’t that what triggered your anxiety? Talking\\nabout being followed around by rabbits?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "え……。\\nじゃあ、今までのは全部、うさぎの話？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!? You were talking about rabbits\\nthe whole time!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "あはは……よかったぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha. Hallelujah.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "シャロちゃん、何の話だと思ってたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, what did you think we were\\ntalking about?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "そ、そこには触れないでよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Don’t make me think of it again!",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "千夜",
           "original": "う～ん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの？　何か考え事？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is something the matter?\\nWhat are you thinking about?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、実はね、こういう格好になるのだから、\\nいい機会だと思って\\n怪盗という職業についてじっくり考えてみたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. You see, since we're in this\\ncostume, I was wondering just what the\\nlife of a phantom thief would entail.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ほほう？　怪盗について？\\nどんなこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ohhh? The life of a phantom thief?\\nLike what?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "まずね、怪盗って\\n正体を知られてはいけないでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To begin with, a thief can't\\nallow her identity to be exposed.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "だから、世を忍ぶために\\n仮の姿を持っているはずよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which implies that she needs to\\nstay disguised while lying low.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "たとえば、夜に出かけても怪しまれないように\\nバーテンダーのお仕事をしている、とか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of her working as a bartender\\nin order to not arouse suspicion\\nwhile active at night, for example.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うーん、なるほど。\\nありそうだね、なんてったってバーだからね。\\n秘密の情報もやり取りしてるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, I see what you mean. It's a bar, that's\\nperfectly in character! That's where shady\\npeople go to exchange secret information.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "きっと、怪盗として登場するまで、\\nカウンターの中でお客さんの愚痴を\\nひたすら聞き続けているの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure a thief would lurk behind the\\ncounter, intensely eavesdropping on the\\npatrons' conversations before making her move.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えっ……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "華麗に盗むために、昼間は\\n現場の下調べをコツコツしているのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And by day, she slowly and carefully\\ninvestigates the soon-to-be scene of the\\ncrime in order to achieve a clean getaway.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "下調べ……。\\n確かに重要だけど地味だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A careful investigation... I'm sure that's\\nimportant, but that sounds so boring...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "ええ、地味よ。\\nでも、地味で地道な努力がなければ、\\n怪盗なんてできやしないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed, it's a snoozefest. But without\\nsomeone putting in honest work, the\\nrobberies of the world would never get done.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "確実に逃げるために、\\n街の裏道にも詳しいはずよね。\\nひょっとしたら毎日毎日歩き回ってるのかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To make her escape, she must know the back\\nalleys like the back of her hand. She walks\\nthe streets daily to memorize them all.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "でも、それじゃ、いつ寝てるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If she works by day and by night,\\nwhen does she get any sleep?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "問題はそこよ。\\n睡眠時間を確保するために、\\n秒刻みのスケジュールをこなしてるに違いないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's an unsolved problem. I imagine in order\\nto slip in some shuteye, she has to run a\\ntight schedule that counts every second.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そ、そうなの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Every second!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "綿密な計画のために、毎日勉強もしてるはず。\\n怪盗になるには頭もよくなくちゃいけないんだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She has to stay sharp to carry out such a\\ndemanding plan. Every day, she challenges\\nher brain in order to be a phantom thief.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "それは大変だね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not something just anyone can do...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "毎日毎日、いっぱい勉強して、\\nバーテンダーのお仕事もして、怪盗で稼いでも\\n次の盗みの準備で消えてしまう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Day after day, she studies and studies.\\nWhat little money she makes at the bar and\\nfrom theft, she invests into the next heist.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ええええー！？\\nそんなの世知辛いよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nooooo! Life is too hard!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "怪盗は大変ね。\\nふう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It ain't easy being a phantom thief. ＊sigh＊",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃん……。\\n　もうちょっと怪盗に夢を見させてよぅ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan, I think you can hold\\na slightly more romantic view\\nof the life of a phantom thief.)",
+          "status": "machine_translated"
         }
       }
     }

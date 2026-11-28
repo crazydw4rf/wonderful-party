@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "はーい、チラシをどうぞ。\\n今度、お母さんと一緒に遊びに来てね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, please have a flyer. Make sure you bring\\nyour mommy with you when you come over.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、待ってるよ。\\nじゃあね、バイバーイ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, I'll be waiting. \\nSee you later, bye bye.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,128 +28,128 @@
         "0": {
           "speaker": "シャロ",
           "original": "……へえ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ん？　シャロちゃん、どうしたの？\\nもしかして今の渡し方、まずかったかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What's up, Sharo-chan? \\nDid I do something wrong just now?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "違うわ。\\nむしろ、今のは満点でしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope. On the contrary, I'd give that a \\nperfect score.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "満点！？\\nやったぁ、満点なんて嬉しい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A perfect score? Hooray! \\nThat makes me so happy!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "でも、どの辺が満点だったの？\\n特別なこと、したつもりなかったんだけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, why the high score? I don't feel like I \\ndid anything special.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "特別じゃなくて……\\nココアって子どもの扱い方が上手いのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You didn't do anything special... \\nYou're just plain good at dealing with children.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "そうなの？\\n普通だと思うけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I thought that was just normal.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "普通にできることがまずすごいわ。\\n子どもの扱いって難しいのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The fact that it's normal to you is even more \\namazing. It's not easy handling children.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "今、こんな衣装を着てるし、\\nあの子にはココアがサンタに\\n見えたかもしれないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since we're wearing this costume right now,\\nthat kid might have actually thought you were \\nSanta.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ホントに！？\\n私、サンタさんに向いてるってこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? \\nAre you saying I'm cut out to be Santa!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "え！？\\nな、なんでそんなに食いつくのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Why did that get your attention so much?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "私ね、サンタさんになるのも夢だったんだ。\\n寝ている間にこっそり部屋に侵入して\\n夢を運ぶのって素敵だよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have always dreamed of becoming Santa! He\\nsecretly sneaks into your room while you're\\nasleep to deliver your hopes and dreams!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "その言い方だと怖い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A terrifying way to put it!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "でも、他にも夢があるし……\\nできるなら全部叶えたいんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I've got other dreams as well... \\nI hope all of them are able to come true.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ねえシャロちゃん、街の国際バリスタ弁護士を\\nやりながら、パンを焼いて、\\n小説書いて、サンタさんってできるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, do you think Santa will be able to\\nwrite novels and bake bread while working as\\nthis town's international barista lawyer?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "なんでそこまで『街の国際』にこだわるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you fixated on being \\n”this town's international” whatever?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "でもまあ、サンタの仕事は年に１回だから\\nなんとかできるかもね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But actually, Santa only works one day a year,\\nso maybe he could pull all that off.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "んー……でもね、昔からわからなくて。\\nサンタさんって、どうやって就職するのかな。\\nどこに履歴書を送ればいいんだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. But anyway, there's one part I never\\nfigured out. How exactly do you apply to\\nbecome Santa? Where should I send my resume?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "……妙に現実的な悩みね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...A strangely realistic problem.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "シャロちゃん、心当たりない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, do you have any idea?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "あるわけないでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course not.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,116 +6,116 @@
         "0": {
           "speaker": "千夜",
           "original": "こんにちは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん！？\\nどうしたの？　なんかヘロヘロだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan!? What happened to you? You’re\\nso weak...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、ちょっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, you’ve got that right...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "もしかして……\\n別の喫茶店からの刺客に追われているのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me guess. You’re being hunted down by\\nan assassin from another cafe?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "甘兎庵の跡取り娘に迫る魔の手……！\\nハードボイルドな展開だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ama Usa An’s heiress is being hunted down!\\nWhat a hard-boiled development!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "次々と襲われていく喫茶店の看板娘……。\\n次に狙われるのは……チノかもしれない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He goes around attacking one cafe’s mascot\\ngirl after another... Chino might be next!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃん、大丈夫だよ！\\nお姉ちゃんが守ってあげるからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to fear, Chino-chan! Your big sister\\nwill keep you safe!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "大丈夫です。\\nそもそも、リゼさんの冗談ですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll be fine. Rize-san was only joking.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "冗談だったの！？\\n喫茶店ガール連続殺人事件かと思ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was all a joke? And here I thought there\\nwas a cafe girl serial killer on the loose.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "勝手に殺さないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t kill me, please.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "ふふふっ！\\nラビットハウスさんはいつも楽しそうね。\\nさっそく元気をもらっちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Never a dull moment at Rabbit\\nHouse. I feel better already.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "でも、どうしてそんなに疲れてるんだ？\\n何かあったのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You still haven’t explained why you’re so\\ntired. Did something happen?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "それが……配達で疲れちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see... I made a delivery.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "配達で？\\nそれは体力なさすぎじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One delivery!? You’re seriously that weak?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "お届け先に行くまで、上り坂や階段が多かったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The route to the delivery address had lots of\\nhills and stairs to climb.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "でも、確かに体力不足は感じているのよ。\\n体力づくりのために何か始めた方がいいかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I must admit I feel out of shape. I should\\nprobably do something to fix that.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "ああ、体力はあって損はない。\\nなんなら私が特別レッスンをしてやるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, it’s always a good idea to be in shape.\\nI’ll give you special lessons, if you like.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "本当？\\nそれはありがたいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I’d appreciate that.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃんの特別レッスン……？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Rize-chan’s special lessons?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -123,24 +123,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（リゼちゃんの特別レッスン……？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Rize-chan’s special lessons?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "特別レッスンってどんなことするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are your special lessons?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "（ここはそっとしておこう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’m not getting involved!)",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "間違いなく効果があるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m positive you’ll see results!",
+          "status": "machine_translated"
         }
       }
     },
@@ -149,8 +149,8 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえ、リゼちゃん。\\n特別レッスンってどんなことするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize-chan, what do you do during your\\nspecial lessons?",
+          "status": "machine_translated"
         }
       }
     },
@@ -159,26 +159,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "おっ、ココアも興味あるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so even Cocoa’s interested in this sort of\\nthing?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "聞いて驚け、泣く子も黙る軍隊式訓練だ。\\nどんなやつでも１週間で一人前の軍人になれるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You wanna know? It’s a brutal, military-style\\ntraining program! It’s designed to turn anyone\\ninto a soldier in just one week.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "な、泣く子も黙る？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-Brutal, military style?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "必要なのは途中で投げ出さない根性だけ。\\nそれだけで、見違えるほど体力がつくんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The only requirement is the guts to not drop\\nout halfway. That’s all you’ll need to see\\nvisible changes to your physique.",
+          "status": "machine_translated"
         }
       }
     },
@@ -187,26 +187,26 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここはそっとしておこう！\\n　触らぬ神に祟りなし、って言うし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’m not getting involved! They may be right\\nwhen they say ignorance is bliss.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "リゼさん、\\nどんなレッスンをするつもりなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-san, what are you planning on doing\\nduring this lesson?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（ああ～！\\n　チノちゃんが触っちゃった！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Aaaaa! Chino-chan, you’re ruining my\\nblissful ignorance!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "聞いて驚け、泣く子も黙る軍隊式訓練だ。\\nどんなやつでも１週間で一人前の軍人になれるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You wanna know? It’s a brutal, military-style\\ntraining program! It’s designed to turn anyone\\ninto a soldier in just one week.",
+          "status": "machine_translated"
         }
       }
     },
@@ -215,8 +215,8 @@
         "0": {
           "speaker": "ココア",
           "original": "間違いなく効果があるよね。\\nリゼちゃんの特別レッスンだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m positive you’ll see results! This is Rize-\\nchan we’re talking about, after all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -225,20 +225,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "ああ、泣く子も黙る軍隊式訓練だからな。\\n１週間で鋼の体が手に入るぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, I have a brutal, military-style\\ntraining program in mind. You’ll have abs of\\nsteel in just one week.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "鋼の体！？\\nなんだかすごそう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Abs of steel!? That sounds awesome!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "これは、途中で脱落さえしなければ\\n目覚ましい効果がある訓練なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So long as you don’t drop out, the program is\\nguaranteed to have an astonishing effect on\\nyou.",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,98 +247,98 @@
         "0": {
           "speaker": "千夜",
           "original": "ね、ねえ、リゼちゃん。\\nそれって具体的にはどんな訓練なのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Excuse me, Rize-chan, what exactly do\\nyou do on this training program?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "うーん、細かい部分は\\n千夜の今のレベルに合わせて\\n考えることになりそうだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I would first have to fine-tune it to meet\\nyour current fitness level.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "例えば、１日に８０回程度の腕立てと腹筋。\\n３キロ程度の持久走。\\nこれが基本コースだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Normally, you’d start your day with 80\\npush-ups and crunches. That, and a 3-\\nkilometer run. That’s the basics.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "本当の軍隊なら、部隊のミスの連帯責任で\\nさらに何百回も腕立てを加算される場合もあるけど\\n今回はそれはないから安心だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In actual military units, you’d have several\\nhundred more push-ups tacked on due to\\ncollective punishments, but we’ll skip that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "もっと高度になると、\\n最低限の食事で３６時間の野外行軍。\\nその途中で数学の問題を出したりするんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At the higher levels, you’d be having 36-hour\\nmarches at minimal calorie intake. Plus\\nrandom math problems here and there.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "そんな……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can’t...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "まあ、今回はそこまでする必要はないし、\\n大したことはない――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But anyway, we won’t be doing anything\\nclose to that. It’ll be a piece of cake.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ん？　どうしたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What’s wrong?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "殺す気なのね？\\n私を……殺すのね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re out for blood, aren’t you? You’re trying\\nto kill me... aren’t you?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あれっ！　千夜ちゃん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Where are you going, Chiya-chan!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "助けてっ！\\n殺されてしまうわ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Help me! I’m going to be killed!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "お、おい！\\n何を大声で言ってるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait a minute! What do you think you’re\\nsaying!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "これではお店の評判にも大ダメージです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is going to cause massive damage to\\nour reputation!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ティッピー",
           "original": "リゼェェェェェェ！\\nなんてことをぉぉぉ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rizeeeeeeeee! What have you done!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "おお！\\nこれぞまさに喫茶店ガール殺人事件だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! The cafe girl murder case has come to\\nfruition!",
+          "status": "machine_translated"
         }
       }
     }

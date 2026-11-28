@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ない、ない、ないっ！\\nどこにもなーいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They're gone! They're gone!\\nThey're gone! I can't find them anywhere!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,242 +34,242 @@
         "0": {
           "speaker": "リゼ",
           "original": "どうした、ココア？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter, Cocoa?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "大変だよ、チラシのストックがないの！\\nここに置いてあったはずなのに、なくなってる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What am I gonna do! My stack of\\nflyers is gone! I left them right here,\\nbut now they're nowhere to be found!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "まさか、誰かが盗んでいったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you think someone stole them?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん、これは事件だよ！\\nこの平和な街に巻き起こった凶悪犯罪だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, this is most certainly a crime\\nscene. A most heinous crime has been\\ncommitted in our once peaceful village.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "犯罪なのは確かだけど、さすがに大げさでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Theft might be a crime,\\nbut not a heinous one. You're exaggerating.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "だが、事件を解決しなければチラシは戻ってこない。\\nよしみんな、力を合わせてチラシを取り戻すぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll never get our papers back if we don't\\nfind the thief! Alright everyone, let's\\nband together and reconquer those flyers!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "おー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oorah!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ああ、先輩がノリノリに……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, Senpai is getting fired up...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "ココア、チラシのストックは\\n確かにこのベンチの上に置いたんだな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, you're sure\\nyou left your stack of flyers on this bench?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "はいであります、サー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm positive, Sir!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "もしかして、何者かが私たちのチラシ配りを\\n邪魔しようとしたのでしょうか。\\nそれでストックを持ち去った……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perhaps someone is deliberately attempting\\nto sabotage our advertising efforts,\\nand that's why they swiped the flyers.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "しかし、私たちの誰にも気付かれず\\nストックをすべて持っていくのは不可能だろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seems unlikely. It'd be too difficult\\nfor someone to take an entire stack of\\npamphlets without one of us noticing.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "ふっふっふ！\\nこの事件の真相、私にはもふっとお見通しだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! I've fluffily solved this case!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "なんだと！？\\nまさか、もう犯人の目星がついたのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? You've got a clue who the culprit is?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "ていうか、もふっとって何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is fluffily even a word?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "いいところに気がついたね、シャロちゃん。\\nこの事件の重要なポイントは、\\nずばり、もふもふなんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You noticed something vital, Sharo-chan.\\nThe dead giveaway to who the culprit\\nis, is none other than his fluffiness.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "ど、どういうことですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What are you implying?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "つまり、もふもふな野良うさぎが犯人なのです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Basically,\\nsome fluffy wild bunny is the culprit!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "ええ～っ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "そう思う理由は当然、あるんだな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I'm sure you have some reason for\\nthat declaration, yes?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "もちろん！\\nまず、この街はたくさん野良うさぎがいるよね。\\n風景として、誰も気に留めないほどに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But of course! To start, this town is\\ncompletely overrun with wild rabbits.\\nThey fade into the background around here.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "よって、私たちの監視をかいくぐって\\nチラシを持ち出せたのは、\\n野良うさぎ以外にいないのです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Naturally, they're the only possible\\nsuspects who could have snuck off with our\\nflyers while evading our watchful eyes!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "……ココア。\\nそれ、推理としては悪くないが――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, that was a surprisingly decent\\ndeduction for you, but...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "ストックのチラシは結構な枚数があったんだぞ？\\nうさぎが持ち去れると思うか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...that was one tall stack of papers\\nwe lost. Do you honestly think a\\nbunny rabbit could carry that off?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh...",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "ココアさんに期待した私がばかでした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am a fool for expecting anything out of you.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "リゼ",
           "original": "ああ、推理は振り出しに戻ったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Back to the drawing board.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "あっ！\\nじゃ、じゃあ、鳥だよ！\\nカラスとか、鳥が持っていったんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Then it must have been a bird!\\nA crow or something flew off with them!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "カラスが狙うのは光り物だぞ？\\nチラシは持っていかないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Crows prefer shiny objects. Have you\\never seen one target a sheet of paper before?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "あの、先輩？\\nストックはまだラビットハウスにあるんだし、\\nそこまで追求しなくてもいいのでは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, Senpai? We still have flyers\\nback at Rabbit House, so shouldn't we\\nstop wasting time and go back for more?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "リゼ",
           "original": "いや、犯行が繰り返される可能性もある。\\nきちんと解決しなくては――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We can't risk it. If the crime\\nhappened once, it could happen again.\\nIf we don't resolve this case--",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "うわっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "あ、あああああ～！\\nチラシが、チラシが風にさらわれたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Aaaaaah! The flyers!\\nThey're all being blown away!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "ご、ごめんなさいっ！\\n実は私、さっき、チラシが飛んでいくのを見たの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forgive me! The truth is that\\nI saw all the flyers blow away in the wind.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "でもリゼちゃんもココアちゃんも\\n楽しそうだから言い出せなくって……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I couldn't bring myself to spoil Rize-chan\\nand Cocoa-chan's fun!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "リゼ",
           "original": "そうだったのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's the truth!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "千夜",
           "original": "私が、私がもっと早く言っていれば～！\\nよよよよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If only I had said something sooner!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "落ち込んでないで、チラシを拾いに行くわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Getting depressed won't fix anything!\\nHelp me pick them up!",
+          "status": "machine_translated"
         }
       }
     }

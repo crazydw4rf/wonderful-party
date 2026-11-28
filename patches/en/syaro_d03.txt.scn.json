@@ -6,74 +6,74 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん、今日は一緒に頑張ろうね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nLet's do our best together today!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ええ。\\n手伝ってくれてありがとね、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. \\nThank you for the help, Cocoa.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "でも……どうしてこんな格好なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But...What's up with that outfit?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "えへへ～、かわいいでしょ？\\nスイーツショップのチラシ配りだし、\\nこういうのもありじゃないかなと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Isn't this cute? We're handing out \\nflyers for a sweets shop, so I thought this \\nwas right way to go.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "まあ、そうね。\\n特製クリスマスケーキの宣伝だし、\\nサンタの格好っていうのは間違いじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you're not wrong. It's a limited time\\nspecial cake advertisement after all, you\\nprobably can't go wrong with a santa outfit.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "でっしょ～？\\nそれに、この格好なら目立つから、\\nチラシなんてすぐに配り終わっちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right!? Even better, this look really \\nstands out, so we'll be through these \\nadvertisements in no time!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "……ココア、やけに張り切ってない？\\nチラシ配りがそんなに好きなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, you seem really excited about this.\\nDo you really like handing out flyers \\nso much?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ううん、違うよ？\\nだってシャロちゃん、病み上がりなんだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's not it. It's because you're \\nstill getting over your cold.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "……私の体調とチラシにどんな関係があるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How does my health have anything to do \\nwith these pamphlets?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "大ありだよ！\\n病み上がりのシャロちゃんに、\\n長時間の外での仕事なんてさせられないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a strong connection! I can't allow\\nSharo-chan to be working outdoors while she's\\nstill under the weather.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "だから私、頑張ってチラシ配るね。\\n体が冷える前に早く終わらせよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's why I need to put in my best effort!\\nI have to make sure this is finished before\\nyour body starts to freeze.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "ココア……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa...",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,24 +81,24 @@
       "select_prompt": {
         "speaker": "シャロ",
         "original": "ココア……。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Cocoa...",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "あ、あんたにしては気が利くわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pretty thoughtful, for you anyway.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "気遣いは無用よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't need to be worried.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "（ここはココアに合わせて……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I should play along with her...)",
+          "status": "machine_translated"
         }
       }
     },
@@ -107,26 +107,26 @@
         "0": {
           "speaker": "シャロ",
           "original": "あ、あんたにしては気が利くわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-That's pretty thoughtful, \\nfor you anyway.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "え？　何？\\nよく聞こえなかったよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What was that? I didn't hear you.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "っ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あ、ありがとうって言ったの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I said ”thank you”!",
+          "status": "machine_translated"
         }
       }
     },
@@ -135,20 +135,20 @@
         "0": {
           "speaker": "ココア",
           "original": "えへへ、どういたしまして。\\nやっぱり、シャロちゃんはそうやって\\n元気でいるのが１番だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ You're welcome. Unsurprisingly, \\nSharo-chan is at her best when she's full \\nof energy!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "それじゃ、本気で頑張るよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, let's get serious!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "（も、もう……。\\n　はずかしいこと言わせてないでよ～！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Gosh...\\nStop making me say something so embarrassing!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -157,8 +157,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "気遣いは無用よ。\\n私、そんなにやわじゃないから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't need to be worried. \\nI'm not as weak as you think I am.",
+          "status": "machine_translated"
         }
       }
     },
@@ -167,32 +167,32 @@
         "0": {
           "speaker": "ココア",
           "original": "うんうん。\\nシャロちゃんならそう言うと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh-huh. That's exactly what I thought \\nyou'd say.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（なっ！？\\n　ココアに行動を読まれるなんて……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(What!? How could I stoop so low as to let \\nCocoa guess my moves!)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "でも、いいんだよ。\\n私が勝手に頑張るだけだから。\\nそれじゃ、行ってくるねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that's fine! I'm trying hard only \\nbecause I want to. Now then, I'll be off!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "（もう、私のばか。\\n　素直にお礼を言えばよかったのに）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Gah, what am I thinking! I should have \\njust thanked her honestly.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -201,50 +201,50 @@
         "0": {
           "speaker": "シャロ",
           "original": "（ここはココアに合わせて……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I should play along with her...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "じゃあ、競争してみる？\\nどっちが早く配れるかって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, shall we have a race? \\nLet's see who can hand these out the fastest.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "いいよ～。\\nシャロちゃんは体を大事に。\\n普通に配って？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to do that. Sharo-chan, \\nstay focused on your health. \\nJust hand them out normally.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "（な、なんであんたに合わせた時だけ、\\n　そう冷静な反応なのよ～っ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(W-Why do you only act so calm and composed\\nwhen I try to say something like that!)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あれ？　シャロちゃん、顔が赤いよ？\\nもしかして熱が！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, Sharo-chan? Are you blushing? \\nOh no, another fever!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "違うわよっ！\\n大丈夫だから、さっさと配るわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not it! I'm perfectly fine, get \\nback to handing these out!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "クリスマスケーキのご案内でーす！\\nよろしくお願いしまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Learn more about these Christmas cakes! \\nPlease take one!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うーん、本当に大丈夫かなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I wonder if she really is fine?",
+          "status": "machine_translated"
         }
       }
     },
@@ -253,92 +253,92 @@
         "0": {
           "speaker": "ココア",
           "original": "おーっしまい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaand we're done!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ホント、あっという間に\\n配り終わっちゃったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was really fast. It feels like we were\\ndone as soon as we began.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "やっぱり、この服装がよかったんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was right, this outfit was a good idea.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "まあ、なんにせよ、\\nこれで今日の仕事はおしまいね。\\n帰ってクリスマスパーティーの準備をしないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, anyway, that's the end of work for \\ntoday. Time to head back and work on the \\nparty.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "……あ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ココア？　どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa? What is it?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "見て、シャロちゃん！\\nあのお店！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, Sharo-chan! That cafe over there!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "あれって……ケーキ屋？\\n前からあそこにあるお店じゃない。\\n今更なに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Over there is...A cake shop? It was there \\nbefore, why are you bringing it up now?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あのお店があんなに空いてるのって、\\n珍しくないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That shop being empty is pretty rare, \\ndon't you think?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ああ、言われてみればそうね。\\n評判いいから、大抵、並んでいる人がいるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, now that you mention it, that's kind \\nof strange. It's rated highly, and even on \\na slow day it still has a line out front.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "せっかくだから、何か食べていこうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is a good opportunity, we should \\ngo grab a bite to eat!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "え？　でも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? But...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ほら、行こう！\\nこんなチャンス、逃す手はないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon, let's go! We can't let a chance \\nlike this slip through our fingers!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと待って、ココア！\\nお茶してたら、早く終わった\\n意味がないじゃない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wait a second, Cocoa! If we waste time \\non going out to eat, we'll lose all the time \\nwe gained by finishing work early!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "あ、そっか。\\nじゃあ、お持ち帰りにしないとね。\\n私もチノちゃんへのお土産にしよーっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, you're right. Then let's order it to go.\\nI wanted to bring something back for \\nChino-chan anyway.",
+          "status": "machine_translated"
         }
       }
     }

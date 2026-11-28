@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Rize-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,110 +16,110 @@
         "0": {
           "speaker": "ココア",
           "original": "見てリゼちゃん、\\nもうチラシがなくなりそうだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look how well we're doing, Rize-chan!\\nOur flyers are almost gone already!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "本当だ。\\n今日は減りが早いな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No kidding. Things went by a lot faster today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ふっふっふ！\\nやっぱりチラシ配りには\\nコスプレが欠かせないってことだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! You're not trying unless you're\\nadvertising in full cosplay.\\nWouldn't you agree?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "うん、まあ……そうなのかもなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Well, I don't deny it...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "どうしたの？\\nなんだか納得できないって感じだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you have something else to say? You didn't\\nsound satisfied with what you just said.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "いや、その……\\nコスプレの効果は認めてはいるんだ。\\n現にチラシがなくなってるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, how to explain? I admit that the\\ncostumes are the reason why we're handing out\\nso many flyers so quickly.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "だが、その……\\nこういう衣装で気を引くのは\\n喫茶店の宣伝としては邪道じゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, well? Using fancy costumes to draw\\nattention doesn't seem very ethical for a\\ncafe.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "邪道なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's unethical?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "喫茶店なら、メニューや雰囲気で\\nお客を呼ぶべきだろう。\\nこれじゃまるで衣装を餌につってるみたいで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Normally a cafe draws customers by offering\\nits menu and environment.\\nMeanwhile we're out here acting as bait...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ふっ……。\\n甘いよ、リゼちゃん。\\n時には邪道を行くことも必要、それが今なんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh. Surprisingly naive for you, Rize-chan.\\nThere's a time to push ethics aside,\\nand now's the time.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（ってセリフ、よく映画なんかで見るよね。\\n　意味はよくわかんないけど、\\n　格好いいから１度言ってみたかったんだ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I picked up that line by watching movies!\\nI don't really know what ethics means,\\nbut I always wanted to say that!)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "は……！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "なるほど、確かにそうだ。\\n戦場はきれいごとだけじゃ渡っていけない。\\n時には邪道も必要だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, I can't believe I didn't think of that!\\nThe battlefield is no place for playing fair.\\nIf you're not cheating, you're not trying!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ん？　う、うんうん？\\nそうだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Yeah, yeah, sure thing. I think?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "ココアに教えられるとはな。\\nありがとう、目がさめたよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't believe I'm learning from you! I was\\nso blind, thanks for setting me straight!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "よし！\\n残りもさっさと配ってしまおう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Time to finish off these straggling\\nflyers!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア（Ｍ）",
           "original": "（よくわからないけど、リゼちゃんが燃えてる？\\n　そっか、きっと私の格好いい台詞で\\n　やる気が出たんだね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I don't really know what happened. Rize-chan\\nseemed to like that one! I guess my cool line\\nhad a profound effect on her!)",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし！\\n　私も負けずに、頑張ろうっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Alright then! I need to try my hardest to not\\nget left behind!)",
+          "status": "machine_translated"
         }
       }
     }

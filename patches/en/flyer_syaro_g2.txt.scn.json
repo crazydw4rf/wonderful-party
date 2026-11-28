@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,122 +16,122 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん。\\n１つ、どうしても\\n聞きたいことがあるんだけど、いい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, may I ask you just one \\nquestion?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "どうしたの。\\n私に答えられることなら答えるけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it? I'll answer anything that's \\nwithin my ability.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あのね、シャロちゃんって、\\n勉強、得意なんだよね？\\n特待生なんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So uh, Sharo-chan, you're pretty good at\\nstudying, right? You got a scholarship\\nafter all.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "まあ、一応ね。\\nそれがどうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, I guess so. What about it?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ……トリック・オア・トリート！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then... Trick or treat!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "突然なんなの！？\\nお菓子ならないわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's with that out of the blue!? \\nI don't have any candy for you!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ふっふっふ～！\\n勉強を教えないとイタズラしちゃうぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe~ If you don't tutor me, I'll play a\\ntrick on you!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "じりじり迫ってこないでよ！\\nなんか怖い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quit creeping up to me! \\nYou're freaking me out!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "勉強を教えないとイタズラしちゃうぞ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you don't tutor me, I'll play a\\ntrick on you!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "わ、わかったから！\\nストップ！　ストップー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "F-Fine, I'll do it! \\nＳｔｏｐ！　Ｓｔｏｐ！",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "まったくもう。\\n勉強教えて欲しいなら、\\n素直に言えばいいじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness. If you wanted me to teach you\\nsomething, you could have just asked normally.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "えー？\\n千夜ちゃんはこうやったら喜んだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? But Chiya-chan would have loved it if I\\nhad done that to her.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "千夜と一緒にしないで。\\nそれで？　どの教科が大変なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't treat me like Chiya. Anyway, what subject\\nare you struggling with?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "実は、文系がまたピンチで……。\\n今度のテストで悪い点とったら確実に追試だよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You see, I'm not doing so hot in the social\\nscience department... If I bomb another test\\nI'm going to have to take a make-up!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "はいはい、わかったから泣かないの。\\nちゃんと教えてあげるわよ。\\n文系全般でいいのね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'll help you out, so don't cry about\\nit. So you need help in all social sciences?\\nI'll make sure you get through this.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "おお……！\\nシャロちゃんが女神様に見える～！\\nははー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! Sharo-chan, you're like a goddess! \\nHaha~!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "極端なのよ、例えが。\\nでも、頼りにされたからには\\nちゃんと結果が出るように教えるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Quite the overstatement there. However, if you\\nplace your trust in me, I guarantee you'll\\nget a decent result.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "途中で脱線はしないからね？\\n前の、千夜の家での勉強合宿みたいに\\n甘くはないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So don't go and derail our study session this\\ntime, okay? I won't go easy on you the way\\nI did last time at Chiya's place.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うん！\\nなるべく脱線しないように頑張るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aight! I'll try my very best to stay on \\ntrack this time!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "なるべくじゃなくて\\n絶対しないようにできないの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll try? Can't you make that a promise!?",
+          "status": "machine_translated"
         }
       }
     }

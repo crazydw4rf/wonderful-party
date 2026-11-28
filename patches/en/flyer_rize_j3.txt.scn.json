@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Rize-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ココア、危ない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, look out!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ひゃあ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,158 +34,158 @@
         "0": {
           "speaker": "リゼ",
           "original": "ふう、間に合った。\\nどこから飛んできたんだ、このボール。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Phew, that was close. Who threw this ball?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "び、びっくりした～。\\nリゼちゃんが受け止めてくれなきゃ\\n当たってたよ。ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wasn't expecting that! Thanks for shielding\\nme from that ball, Rize-chan!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "まあ、柔らかいゴムボールだから\\n当たっても痛くはなかっただろうな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, it's just a rubber ball, so you wouldn't\\nhave been hurt had I failed in protecting you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "それで、持ち主は……と。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now, let's find out who is responsible.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あそこの男の子が手を振ってるよ。\\nきっと、あの子だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a little boy over there waving his\\nhand. It's probably his.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "もうちょっとで当たるところだったぞ！\\n気をつけて遊べ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You almost hit someone with this thing!\\nBe more careful next time!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（おー！\\n　さすがリゼちゃん、いい球を投げるね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, impressive! Rize-chan doesn't throw like\\na girl.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ん？　なんだ？\\nあの子、こっちに向かって構えて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's this? It looks like he's going to throw\\nit back.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "おっと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Got it!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "また手を振ってる？\\nなんなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He's still waving at us. What's he want?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "多分、リゼちゃんとキャッチボールを\\nしたいんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think he wants to play catch with you.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "リゼちゃんがいい球を投げるから、\\n遊んでほしくなっちゃったんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He was probably looking for a partner,\\nand noticed you know how to throw.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "なんだ、そういうことか。\\nなら少し相手をしてやるか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that what this is about? Fine,\\nI'll keep him company for a bit.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "よし、お前もいい球を\\n投げるようになったじゃないか。\\n今の感じを忘れないようにしろよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There, now that's proper throwing form!\\nTry not to forget how you did that just now.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃん、楽しそう。\\n　まるで体育の先生みたいだよ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Rize-chan's really into this!\\nShe's like a PE teacher!)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "……はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "すまんココア！\\nチラシ配りの途中だったのに、\\nすっかり夢中になってしまった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, I'm so sorry! I completely forgot that\\nwe were in the middle of handing out flyers!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ううん、いいよ。\\n楽しそうなリゼちゃん見てたら、\\n私まで癒されちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to apologize! Seeing you in your\\nelement has done a wonderful job at cleansing\\nmy soul!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "リゼちゃん、すっかり童心に返った\\nキラキラした顔してたよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, you had such an innocent smile that\\nit was like you became a kid again!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "うう……返す言葉もない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ugh. I'm guilty as charged.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "それにしても、子どもを見てると\\n微笑ましい気分になるよねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I can't blame you! Watching kids puts you\\ninto such a playful mood.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "何言ってるんだ、\\nココアだってまだ子どもだろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Considering you're still a kid,\\nI don't think you're qualified to say that.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "子どもじゃないよ？\\n私は立派な大人のお姉ちゃんなんだからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not a kid. I'm a fully-grown big sister!\\nDon't forget it!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "残念だけど、私よりは子どもだぞ。\\n年下なんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unfortunately, you're more of a kid than I am.\\nI'm older after all!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "えー！　そんなに違わないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! We're basically the same age!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "ははははっ！\\nそうやってムキになるところが\\n子どもだよ、やっぱり。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nahahaha! The way you take teasing seriously\\nis definitely the mark of a child.",
+          "status": "machine_translated"
         }
       }
     }

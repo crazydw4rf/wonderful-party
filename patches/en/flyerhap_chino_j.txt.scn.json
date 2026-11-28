@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but... It sounds\\nlike we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Okay then,\\nlet's get everyone involved.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,230 +28,230 @@
         "0": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊murmur murmur＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、チノちゃん。\\n何か考え事？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is it, Chino-chan?\\nSomething on your mind?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "いえ、みなさん、かわいい服装なので……\\nこのまま演劇ができそうだなって思ってたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's nothing important. I just\\nthought that with all these costumes...\\nwe could almost conduct our own play.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ああ、確かに。\\n非日常って感じだもんな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, you're right.\\nYou don't see this sort of thing every day.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ちょっとした劇ならできそうよね。\\nやってみたいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We could probably pull off a small play.\\nI'd like to give it a try.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "まあ、劇の衣装っぽいといえばそうだけど、\\nチノちゃんにしては突飛な発想ね。\\nまるでココアみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We do look dressed for a play, but wow, I\\nnever thought I’d hear it from Chino-chan.\\nShe's starting to sound like Cocoa.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "まあ、一緒に暮らしてるんだから\\n似てきてもおかしくないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's understandable, considering that\\nthey live together. It's to be expected\\nthat Cocoa will start to rub off on her.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ううう……！\\nチノちゃんが私みたいなことを言うなんて！\\nこれはもう本物の姉妹ってことだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaa! Chino-chan is starting to\\ntalk like me! This means we're\\nfinally starting to be real sisters!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "違います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not even close.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "本物の姉妹になった記念に演劇をやろうよ！\\n『劇団ラビットハウス』結成だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's conduct a play to celebrate\\nus becoming real sisters. We'll call\\nourselves the Rabbit House Troupe!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "なってません。\\nそれに、そんなことをしている暇が\\nどこにあるんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No we won't. And besides,\\nwe have no time for such a thing.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "脚本や大道具だってどうするんですか？\\nあるのはこの衣装だけなんですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Where is our script or props?\\nWe've got nothing but costumes.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "はうう……。\\n妹が冷たいよぉ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauuu~ My little sister's no fun at all.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "だから、妹じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For the umpteenth time, I'm not your sister.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "でも、ちょっと想像するくらいならいいよね？\\nもし本当にやるのなら、みんな、どんな劇がいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, a little fantasizing never\\nhurt anyone. If you ever got the chance,\\nis there any play you'd like to do?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "そうねぇ、どんな劇がいいかしらね？\\nうーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Which play would be best. Let me think...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "言い出したココアは、どんなのをやりたいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was your idea, Cocoa, so\\nwhich would you pick?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "もちろん、童話だよ。\\nかわいいお話がやりたいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want a fairy tale, of course.\\nI want to act out a cutesy children's story.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "童話なら、きっと楽しくできますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good idea, a fairy tale sounds fun to perform.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ホント！？\\nよかった、チノちゃんが喜んでくれるような\\n劇ができたらいいなって思ったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You agree!? Yes! I was hoping\\nthat you'd like that sort of play.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "……あ、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Th-Thank you for the suggestion.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ひとくちに童話と言っても幅が広いな。\\nどの辺をやりたんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just saying you want to do a fairy tale\\ndoesn't narrow it down very much. Is there\\nany one in particular you have in mind?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "長靴をはいた猫がいいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want Puss in Boots.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "いいわね。\\n賢くてかわいい猫をチノちゃんが演じたら\\nきっと評判になるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like that one. I'm sure\\nChino-chan playing a trickster cat\\nwould become the talk of the town.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "あ、でも、チノちゃんは\\n木の役をやるのが好きなんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but actually, Chino-chan will probably\\nprefer to play the role of a tree instead.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "はい、そうです。\\n覚えてくれてたんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's right.\\nI'm surprised you remembered.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "あら、チノちゃん嬉しそう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, Chino-chan looks so happy.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "べ、別に、そんなことは……\\nココアさんの記憶力も捨てたものじゃないと\\n驚いたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're exaggerating. I'm merely\\nshocked that Cocoa-san's tiny mind could\\nretain such a trivial detail like that.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "お姉ちゃんだもん、妹のことは\\nしっかり記憶してるんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm your big sister, it's my job to remember\\nevery little thing about my little sister.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "……言っておきますが、\\nやるなら動かない木ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I'll say this just in case, but\\nif I'm playing a tree, it won't\\nbe doing any moving whatsoever.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "え？\\n木ってそもそも動かないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Since when did trees do any moving?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "青山",
           "original": "あの～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me~",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "ひゃあっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaa!",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "あら、青山さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's Aoyama-san.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "青山",
           "original": "お話は聞かせて頂きました。\\n劇団が本格始動した際は、\\nこの青山ブルーマウンテンにぜひ脚本を――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I overheard part of your conversation. If\\nyou ever happen to perform a play, please\\nallow me, Aoyama Blue Mountain, to--",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ＆リゼ＆シャロ",
           "original": "自分の仕事をしてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mind your own business!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "青山",
           "original": "あ、あらあら～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What did I do?",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日のお休みは\\n　思いっきり野良うさぎをもふもふするよっ！\\n　さて、うさぎはどこかな～？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’m spending my whole break on cuddling\\nwith wild bunnies! Now then, where are all\\nthe rabbits at?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？\\n　あそこにいるのはチノちゃん？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Hold on, isn’t that Chino-chan I see?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,86 +22,86 @@
         "0": {
           "speaker": "チノ",
           "original": "じー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "野良うさぎ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "じー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊stare＊",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "野良うさぎ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "お、おいで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Come here...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "野良うさぎ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "……あ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh no!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（野良うさぎ、逃げちゃった。\\n　チノちゃん、やっぱりティッピーや\\n　あんこ以外の動物が懐かないんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The stray rabbit ran away. Looks like\\nanimals other than Tippy and Anko still don’t\\ntrust Chino-chan.)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "ココアさん。\\n……もしかして見てましたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. Have you been spying on me?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ご、ごめんね。\\nそういうつもりじゃなかったんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Sorry about that. I didn’t mean to.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "いいんですよ、私にはティッピーがいますし\\nそれで充分です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, whatever. I still have Tippy, and that’s\\ngood enough for me.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（そう言ってるけど\\n　チノちゃん、寂しそうだよ……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She might say that, but deep down she’s\\nhurt about this.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -115,18 +115,18 @@
       "choices": {
         "*sel_0101": {
           "original": "私が抱きしめてあげる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll give you a hug!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "うさぎ、抱っこしてみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try and pick up the bunny?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "ちょっと触ってみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try just touching the bunny?",
+          "status": "machine_translated"
         }
       }
     },
@@ -135,56 +135,56 @@
         "0": {
           "speaker": "ココア",
           "original": "私が抱きしめてあげる！\\n逃げちゃったうさぎの分、私がチノちゃんを\\nぎゅーってしてあげるから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll give you a hug! I’ll squeeze you so tight it’ll\\nmake up for all those lost bunny rabbits!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "どうしてココアさんが\\n私を抱きしめるんですか。\\nうさぎとココアさんは関係ないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What makes you think a hug from you will\\nmake up for anything? You’re no rabbit.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "大丈夫、お姉ちゃんは逃げないからね！\\nほら、ぎゅーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have no fear, your big sister won’t run away!\\nC’mon, big hug!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "大丈夫って何が――\\nちょっと、ココアさん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No fear about wha-- wait, Cocoa-san!?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "まだまだ！　ぎゅーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s more where that came from!\\nSqueeeeeze!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "こ、ココアさん！\\n周りの人が見てますから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-san! There are people watching us\\nright now!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ぎゅーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Squeeeeeze!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "も、もういいです、充分ですよ。\\nそんなに抱きしめられると苦しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Enough already, that’s plenty. Squeeze too\\ntight and it’ll start to hurt.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、ごめんね！\\n強すぎた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, my bad. Was that too strong?",
+          "status": "machine_translated"
         }
       }
     },
@@ -193,8 +193,8 @@
         "0": {
           "speaker": "チノ",
           "original": "……い、いえ、いいです。\\nもう、過ぎたことですし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...N-No, it’s fine. I’m over it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -203,62 +203,62 @@
         "0": {
           "speaker": "ココア",
           "original": "うさぎ、抱っこしてみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try and pick up the bunny?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "だから、気にしなくていいです。\\nココアさんが責任を感じる必要はありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, don’t worry about it. There’s no need\\nfor you to start feeling responsible for my lack\\nof success.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "責任なんかじゃないよ。\\nティッピーとあんこ以外に\\n抱っこできるうさぎを増やそうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No no, it’s nothing like that. I’m just going to\\ntry to get you a rabbit you can hold that’s not\\nTippy or Anko.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "ですが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "はい、野良うさぎ確保！\\nチノちゃん、ここを持って、お尻を支えてみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mission accomplished, I’ve captured a rabbit!\\nChino-chan, try grabbing here and holding\\nhim up.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "あ……う……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah... Oh...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、だめだよ。\\nそんな風に恐る恐る持ったら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, not like that. If you don’t do it\\nconfidently...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "あっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "逃げちゃったね。\\nごめんね、無理矢理捕まえた私のせいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There he goes... That was my fault, I tried to\\nhard to catch him.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "いえ、いいんです。\\n本当に、ティッピーとあんこで充分満足ですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, it doesn’t matter. I really am satisfied\\nwith just Tippy and Anko.",
+          "status": "machine_translated"
         }
       }
     },
@@ -267,26 +267,26 @@
         "0": {
           "speaker": "ココア",
           "original": "ちょっと触ってみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try just touching the bunny?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "でも、私が近付いたら、\\nうさぎ、逃げちゃいますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But the rabbits run away if I even get close.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、だから逃げないように\\n私が抱っこしてるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, so I’ll hold onto one so it can’t\\nget away from you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "野良うさぎさん、ちょっとじっとしててね？\\nほら、触ってみて、チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mr. Rabbit, may I have a moment? Now’s\\nyour chance, Chino-chan.",
+          "status": "machine_translated"
         }
       }
     },
@@ -295,32 +295,32 @@
         "0": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ほら、この背中の辺りをそーっとね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There, very gently touch him on the back?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "……あ！\\nさ、触れました……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Yes! I-I was able to pet him!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "よかったね、チノちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well done, Chino-chan!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "はい……！\\nありがとうございます、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I did it! Thank you very much, Cocoa-san.",
+          "status": "machine_translated"
         }
       }
     },
@@ -329,122 +329,122 @@
         "0": {
           "speaker": "チノ",
           "original": "でも、ココアさんは\\n野良うさぎにもまったく警戒されませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, I’m amazed at how the stray rabbits\\ndon’t seem to fear you at all.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うーん、これはもしや、\\n私がうさぎに近いということなのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, I think that’s because I’m spiritually\\nclose to the rabbits?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "え？　それはちょっと違うような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? No, that can’t be it...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうだ、なら私、\\nチノちゃんの、チノちゃんだけのうさぎになるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That gives me an idea. I’ll become your very\\nown private rabbit.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……わけがわかりません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Sorry, you lost me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "チノちゃんのうさぎになるには\\nどうすればいいかな？\\n私が頭に乗ったら重いよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What would you like for me to do, as Chino-\\nchan’s personal rabbit? I’m probably too\\nheavy to sit on your head.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "まずそこですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s the first thing that comes to mind?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "よーし、だったら私をうさぎと思って\\n抱きしめていいよ！\\nもふもふはないけど、絶対逃げないから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, consider me your pet bunny and give\\nme a hug! I’m not exactly furry, but I promise\\nI won’t run away!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "あの、ココアさん。\\n別にそんなことを\\nしてもらわなくてもいいですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Cocoa-san. Listen, there’s no need for\\nyou to do this.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "遠慮しないでいいんだよ。\\nほら、こっち来て？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t be shy! C’mon, get over here.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "……わかりました。\\n抱きしめれば満足するんですね？\\nでは、失礼します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fine. You won’t settle without a hug, will\\nyou? Alright, here we go.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "……こ、こんな感じ、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...L-Like this, is that good?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うんうん。\\nどうかな？　うさぎっぽい？\\nやっぱりもふもふがないと物足りない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s perfect. What do you think, am I like a\\nrabbit? Let me guess, I’m not soft enough?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "いえ、そんなことは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I didn’t say that...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃあ、ちょっとは\\nうさぎを抱っこしてる気分になれたかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? So you feel like you’ve been able to hold\\nonto a real rabbit?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "……正直、よくわかりません。\\nでも……温かくて気持ちいいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I’ll be honest, I don’t know. But... I\\nappreciate the warmth.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "えへへ～。\\n私、お姉ちゃんらしいことできたかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Have I finally done something\\nresembling a big sister?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "え？\\nうさぎの代わりだったんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? I thought you were being a rabbit?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "う、うさぎのお姉ちゃんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah, a big sister rabbit!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "そんなに慌てなくても大丈夫です。\\nうさぎでもお姉ちゃんでも……\\nココアさんはココアさんですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t worry about keeping your story straight.\\nEither as a rabbit or a big sister, you’ll always\\nbe Cocoa-san.",
+          "status": "machine_translated"
         }
       }
     }

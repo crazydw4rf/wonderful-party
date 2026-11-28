@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,170 +16,170 @@
         "0": {
           "speaker": "チノ",
           "original": "くしゅん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊achoo＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チノちゃん、大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, are you feeling okay?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "心配いりません。\\nちょっと鼻がむずむずしただけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing. My nose was just a little itchy.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "本当に？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that really everything?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "こんなことで嘘をついても仕方ないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why would I lie about something like that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "……そうだね。\\nでも、本当に風邪をひいたら大変だし、\\n残りのチラシも早く配っちゃわないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fair. But we can't be allowing you to \\ncatch a cold. Let's hand out the rest of \\nthese ASAP.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、ねえチノちゃん。\\nちょっと手を貸してみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Chino-chan. Let me see your hands real \\nquick.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "私の手をですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My hands?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "うん。\\nそれで、この手をこうすると――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mhm. Here, take your hands and...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ティッピー",
           "original": "ひいっ！？\\nち、ちべたいわい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hyaa! That's cold!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あはは、チノちゃん、\\nこんな時までティッピーの気持ちになって\\n腹話術することないのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! Chino-chan, you don't have to voice \\neverything that Tippy's feeling.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "いえ、あの……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, hang on...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "こうやってティッピーをもふもふしてると\\n手が温かいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can make your hands all nice and warm if \\nyou cuddle with Tippy like this.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "……そうですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...So it seems.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "頭の上に乗せてないで、\\nだっこしてた方が温かくていいんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instead of keeping her on your head, you \\nshould keep warm by hugging Tippy.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ティッピー",
           "original": "こら、やめんか！\\nわしをカイロか何かと思っとるのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Enough, back off! Do you think I'm a hand \\nwarmer or something!?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "わわっ！？\\nティッピー、そんなに暴れたら危ないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!? Tippy, don't thrash around so much, \\nyou're going to hurt yourself!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ティッピー",
           "original": "はーなーせー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Un. Hand. Me!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "ティッピー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ティッピー",
           "original": "な、なんじゃ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "少しだけ、大人しくしていてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Play along with her, just for a little while.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ティッピー",
           "original": "むむぅ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmph...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "あの、ココアさんももふもふしていいですよ。\\nさっき私の手に触った時、\\nココアさんの手も冷たかったので……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Cocoa-san, you can cuddle her instead. \\nWhen I touched your hands just now, I noticed \\nyou were cold too.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "やったぁ。\\nじゃあ、遠慮なく～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Now then, don't mind if I do!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ティッピー",
           "original": "ひあっ！\\nち、ちべたい……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hyaa! S-So cold!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ティッピー、温かいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy, aren't you toasty warm.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "はい、温かいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, quite warm.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ティッピー",
           "original": "わしは凍えてしまいそうじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm going to be frozen into an ice cube...",
+          "status": "machine_translated"
         }
       }
     }

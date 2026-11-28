@@ -6,110 +6,110 @@
         "0": {
           "speaker": "千夜",
           "original": "チラシ配り、順調ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Looks like we're making good progress on \\nthe flyers.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん！\\nみんなの協力のおかげだよ。\\nありがとう、千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! It's thanks to all the help I got from \\neveryone. Thank you, Chiya-chan.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "気にしないで。\\n私だって、チノちゃんの誕生日を\\n祝ってあげたい気持ちは一緒だもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to thank me. I'm doing this in part \\nto celebrate Chino-chan's birthday too.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "だけど、時間が過ぎるのはあっという間だね。\\nこの前チラシ配りを始めたばかりだと思ってたのに、\\nチノちゃんの誕生日まで、あと２週間くらいかぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's amazing how fast time flies. It feels \\nlike we just started handing out flyers, but \\nChino-chan's birthday is only two weeks away.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "なら、チラシ配りにばかり気を取られてないで、\\nそろそろ誕生日パーティーの準備を\\n進めた方がいいんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it, you probably \\nshouldn't be distracted by these flyers and \\ninstead get started on the party preparations.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あれ、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, there's Sharo-chan.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "おかえりなさい、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome back, Sharo-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ただいま……っていうのも変な感じね、\\nこんなところで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm home... Er, that sounds weird, in a \\nplace like this.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "うーん、誕生日パーティー……。\\nそうだよね、プレゼントのことだってあるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, the birthday party... Right, I need to \\nget to work on the presents and whatnot.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "プレゼントはもう決めたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you already decided on what to get \\nfor her?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ううん、まだなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not yet.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "これからもっと忙しくなるし、\\nさっさと買っておいた方がいいわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're only going to get busier from now \\non. You should probably hurry up and \\nbuy something.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うん、そうだね。\\nプレゼントがない誕生日なんて\\n誕生日じゃないもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. A birthday without presents \\nisn't a birthday at all.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "……あ、そういえば、\\n２人の誕生日っていつなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, speaking of which, I still don't know \\nwhen your birthdays are.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "え？\\nなに、急に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Why ask about that all of a sudden?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "そういえば聞いてなかったなって思って。\\n私はね、４月１０日なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I just realized I hadn't asked. \\nMine is April the 10th.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "７月１５日だけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "July the 15th.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "私は９月１９日よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm September the 19th.",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,24 +117,24 @@
       "select_prompt": {
         "speaker": "千夜",
         "original": "私は９月１９日よ。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "I'm September the 19th.",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "私がちょっとだけお姉ちゃんだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sort of a big sister to both of you!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "２人とももう過ぎちゃってたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Both of those have already passed by!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "すごくそれっぽいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Both of those are sorta fitting.",
+          "status": "machine_translated"
         }
       }
     },
@@ -143,8 +143,8 @@
         "0": {
           "speaker": "ココア",
           "original": "私がちょっとだけお姉ちゃんだね！\\n千夜ちゃん、シャロちゃん、\\n私のことをお姉ちゃんって呼んでいいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sort of a big sister to both of you!\\nChiya-chan, Sharo-chan, feel free to call me \\n“Onee-chan”.",
+          "status": "machine_translated"
         }
       }
     },
@@ -153,8 +153,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "ブレないわねぇ、ココアは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa never changes.",
+          "status": "machine_translated"
         }
       }
     },
@@ -163,32 +163,32 @@
         "0": {
           "speaker": "千夜",
           "original": "うふふっ！\\nココアお姉ちゃん、なーんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. Cocoa-oneechan! Just kidding.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "もう、千夜まで悪乗りして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, now even Chiya is going along with \\nthis bad joke.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ほら、シャロちゃんも遠慮せずに呼んでみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, Sharo-chan, nothing to be afraid of!\\nYou can say it too.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "呼ぶわけないでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's no way I will.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "それはひとまず置いておくとして、\\nこの中だと、１番近いのは\\nココアちゃんの誕生日になるのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That aside, out of the three of us, it looks\\nlike the birthday coming next is Cocoa-chan's.",
+          "status": "machine_translated"
         }
       }
     },
@@ -197,38 +197,38 @@
         "0": {
           "speaker": "ココア",
           "original": "２人とももう過ぎちゃってたんだ。\\n言ってくれたらよかったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Both of those have already passed by!\\nYou should have said something.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "自分からそんなこと言うなんて、\\nまるでプレゼントを欲しがってるみたいじゃない。\\nはしたないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bringing up such a thing makes it look \\nlike you're begging for presents. \\nDisgraceful.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "そうねぇ、ちょっと気が引けるかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. It's a bit gauche.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うーん、そっかぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, you think?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "でも、これでちゃんと覚えたからね！\\n千夜ちゃんが９月１９日で、\\nシャロちゃんが７月１５日っと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But now I have it totally memorized! \\nChiya-chan is September the 19th, and \\nSharo-chan is July the 15th.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "それで、ココアちゃんが４月１０日。\\nということは、この中だと\\n次はココアちゃんの誕生日が近いのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And Cocoa-chan is April the 10th. Which \\nmeans that out of the three of us, the \\nclosest birthday is Cocoa-chan's.",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,20 +237,20 @@
         "0": {
           "speaker": "ココア",
           "original": "すごくそれっぽいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Both of those are sorta fitting.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "何よ、それっぽいって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you trying to say about us?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "千夜ちゃんの誕生日は季節で言うと秋でしょ？\\nこう、紅葉とか、ワビサビって感じで\\nそれっぽいなーと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of the season of Chiya-chan's birthday.\\nIt's autumn, with the changing leaves and \\nstuff. It's got the wabi-sabi vibe to it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -259,8 +259,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "ああ、それはわかる気がするわ。\\nなんとなく、だけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, well, I think I get what you're saying.\\nSomehow.",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,26 +269,26 @@
         "0": {
           "speaker": "千夜",
           "original": "そう？\\n２人に言ってもらえて、なんだか嬉しい。\\nならシャロちゃんは夏っぽいってこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? I'm not sure why, but I'm glad to \\nhear that from you two. So, you say \\nSharo-chan is somehow summery?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん！　夏っぽい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Summery!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "……そう言われても。\\n私のどこが夏っぽいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Okay? I still don't see what's so \\n“summery” about me though.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "うふふ、それはひとまず置いておくとして、\\nこの中だと、次は\\nココアちゃんの誕生日が近いのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Putting that aside, out of the \\nthree of us, it appears the next birthday \\ncoming up is Cocoa-chan's.",
+          "status": "machine_translated"
         }
       }
     },
@@ -297,92 +297,92 @@
         "0": {
           "speaker": "ココア",
           "original": "近いって言っても、来年になっちゃうけどね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Coming up next, but it's still next year.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "大丈夫よ。\\n忘れずにちゃんと誕生日パーティーを企画するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That doesn't matter. I won't forget and will\\nbe planning your birthday party the whole \\ntime.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "やったぁ！\\nえへへ、楽しみだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Ehehe, I'll be waiting.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "でも、次が必ずココアの番とは限らないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You say that, but Cocoa's might not necessarily\\nbe the first birthday coming up, you know?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、そうだね。\\nリゼちゃんにも聞いてみないと。\\nマヤちゃんやメグちゃんや青山さんだっているし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's right. I still need to ask Rize-chan \\nwhen her birthday is. And there's also \\nMaya-chan and Megu-chan and Aoyama-san too.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "もちろん、次が誰の誕生日だったとしても\\n私は全力でお祝いするからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It goes without saying, but no matter whose \\nbirthday comes next, I'll be celebrating \\nwith full effort!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ココアちゃんらしいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nothing unexpected from Cocoa-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "根っからのお祭り好きなのね、ココアって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa truly loves celebrations with all her\\nheart.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "シャロちゃんは、お祭り嫌い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, do you not like parties?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "別に嫌いじゃないけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not like I hate them, but...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "じゃあシャロちゃんのお誕生日の時も、\\n私、思いっきり頑張るからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, expect me to go all out with \\nSharo-chan's birthday too!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "わ、私のことよりも、\\n今はチノちゃんの誕生日でしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Instead of worrying about me, you should be\\nthinking about Chino-chan's birthday that's\\nright around the corner!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "私たちに手伝えることがあったら、\\nなんでも言ってね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If there's anything we can do to help, don't \\nhesitate to ask.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うん、みんなで一緒に\\nチノちゃんの誕生日を盛り上げようね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course, we're all going to liven up \\nChino-chan's birthday together!",
+          "status": "machine_translated"
         }
       }
     }

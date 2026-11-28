@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "……うーん。\\nココアちゃん、ごめんなさい。\\n私、ちょっと休んでくるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Ugh. \\nI'm sorry, Cocoa-chan, \\nbut I need to stop for a rest.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あれ、疲れちゃった？\\n休憩だったらみんなでしようか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, are you feeling tired? If you need a \\nbreak, then let's all take one.",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,266 +40,266 @@
         "0": {
           "speaker": "チノ",
           "original": "私もそれがいいと思います。\\nみなさん、休憩にしましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think that's a good idea. \\nEveryone, let's take a break.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ん？　もうか？\\n少し早くないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Already? That was fast.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ごめんなさい。\\n私が休みたいって言ったの。\\nちょっと胸が苦しくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sorry. \\nI was the one who asked for a break. \\nMy chest is starting to hurt...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "胸が！？\\n大丈夫なのか？\\n病院に行った方がいいんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chest pains!? \\nAre you going to be alright? \\nShouldn't you head to the hospital?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ううん、ちょっと緩めれば楽になると思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing that serious. \\nIf I loosen it a bit I should be fine.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "緩めるって……\\nああ……そういうことね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Loosen what? \\n...Oh, so that's what you meant.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ねえリゼちゃん、どういうことかな？\\n千夜ちゃん、大変な病気だったりしないよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Psst, Rize-chan. What's happening? \\nChiya-chan is going to be fine, right?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "こういうのはデリケートな問題だからな。\\n無闇に訊くのもまずいだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is kind of a delicate topic. \\nIt'd be tactful not to ask her about it.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "大丈夫です先輩、心配しなくていいですよ。\\n一時的なものなので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't take it so seriously, Senpai. \\nThis sort of thing is typical for her.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "でも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But what...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "まあ、シャロが言うなら大丈夫なんだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, if you say so, Sharo.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "はあ、楽になった。\\nちょっぴり合ってないのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊\\nThat's better. \\nIt appears that one didn't fit me very well.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "……ああ、そういうことなんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh, so that's what this was about.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "チノちゃん。\\n先輩とココアにはわからないのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senpai and Cocoa will never understand,\\nwill they, Chino-chan.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "持てる者の余裕ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They don't know how good they have it.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ＆チノ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "どうした、シャロ。\\nチノも浮かない顔して。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why the long face, Sharo? And Chino too...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "なんでもありませんから。\\n気にしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing. \\nDon't worry about us.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "はい、成長促進について考えていただけです。\\nもっと大きくなるためには\\nどうしたらいいのか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What she said. I was merely thinking about \\nmy growth. I wonder what I can do in order \\nto get bigger...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃん、身長のことで悩んでいるのかな？\\n　小さいチノちゃん、かわいいのに）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It seems like she's worried about \\nher height? But my little Chino-chan is \\nalready so cute!)",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア（Ｍ）",
           "original": "（けど、大きくなりたいって気持ちはわかるよ。\\n　ここはお姉ちゃんとして、\\n　いいアドバイスをしてあげないと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But I can't say I don't understand \\nhow she feels. As her big sister, I need to \\ngive her some sound advice!)",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "チノちゃん！\\n大きくなるためには、\\nやっぱりバランスの取れた食事が大切だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! The secret to getting bigger \\nlies in having a balanced diet.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ああ、基本は大事だ。\\nしっかり食べて栄養を取る。\\nそれが１番だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. You have to start with a fundamentals.\\nWhat's most important is getting proper \\nnutrition.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "栄養……。\\nやっぱり牛乳でしょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nutrients... \\nThat means milk, doesn't it.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "牛乳もいいけど、\\n好き嫌いなくなんでも食べるのが大切だな。\\nセロリもしっかり食べるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Milk is a good start, but you can't be picky \\nabout other foods either. And that means \\neating your celery.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "……けど、きちんと食べても\\n即効性はないですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That said, no matter what I eat, \\nit won't have any instant effect.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "さすがに、すぐに大きくなるってのは無理だろ。\\n栄養の他にも、適度な運動なんかも重要だしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly, you won't get much bigger overnight.\\nApart from nutrients, a reasonable amount \\nof exercise is quite valuable.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "ウォーキングでも、毎日こつこつ続ければ\\nそのうち体ができあがっていくものさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if it's something simple like walking,\\nif you do it every day, your body will \\neventually improve.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "でも、千夜は運動苦手なのよね。\\nおかしいわ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, Chiya is terrible at exercising. \\nIt just doesn't add up...",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "千夜さんはどう思いますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-san, what your thoughts on this?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "そうねぇ、私も\\n栄養をちゃんと取っているからだと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see... \\nI'd have to say I did well due to good nutrition.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "和菓子の材料でも、きなことか\\n栄養豊富なものがあるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wagashi is made using kinako and all sorts \\nof other highly nutritious ingredients.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "きなこ牛乳にしたら飲みやすいし、栄養満点よ。\\n初めは黒蜜を少し入れるといいわ。\\nこれも、毎日こつこつね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kinako in milk is easy to drink and is a \\nperfect food. At the start you'll want to stir \\nin some kuromitsu syrup. Take some every day.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "チノ",
           "original": "やっぱり毎日こつこつ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As I thought, \\nyou have to work at it every day...",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "そう！\\nすぐに効果があるものなんてないのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! \\nThere's nothing out there that works instantly!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "チノ",
           "original": "シャロさん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san!?",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "シャロ",
           "original": "千里の道も一歩からよ！\\n一緒に頑張りましょ、チノちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A journey of a thousand miles begins with a \\nsingle step! We're in this together, \\nChino-chan!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "チノ",
           "original": "はい、頑張ります！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Good luck!",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "いいな～！\\nねえ、私も仲間に入れて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at you two bonding! \\nHey, can you count me in too?",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "チノ",
           "original": "ココアさんはだめです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're not welcome here.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "そう、ココアは仲間じゃないから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. \\nCocoa, you're not one of us.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "ココア",
           "original": "どうして仲間じゃないの！？\\nどうして～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not welcome!? Why nooot!?",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "リゼ",
           "original": "なあ、一体なんの仲間なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, what sort of group are they talking \\nabout?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "うーん、よくわからないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, I'm not really sure.",
+          "status": "machine_translated"
         }
       }
     }

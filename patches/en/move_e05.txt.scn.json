@@ -6,8 +6,8 @@
         "0": {
           "speaker": "千夜",
           "original": "よいしょ、よいしょ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heave-ho, heave-ho.",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,14 +16,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんだ！\\n　甘兎庵にいないと思ったら\\n　外でお仕事してたんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(There’s Chiya-chan! I figured she was\\nworking outside, since it didn’t seem like she\\nwas in Ama Usa An.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、大きな荷物を持って何してるんだろ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She’s carrying a large package. What’s she\\nup to?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -32,8 +32,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？　千夜ちゃんだ。\\n　大きな荷物を持って、何してるんだろ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, there’s Chiya-chan. She’s carrying a\\nlarge package. What is she up to?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -42,80 +42,80 @@
         "0": {
           "speaker": "千夜",
           "original": "はあ……。\\n困ったわ、どうしようかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Not here either. What do I do now?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\n何してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! What are you up to?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "あら、ココアちゃん。\\n実はね、お菓子の配達の途中なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Cocoa-chan. Let me explain. I’m in the\\nmiddle of a delivery right now.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そうなんだ！\\n引き止めちゃってごめんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right! Sorry, don’t let me get in your way.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ううん、いいの。\\nでも、その配達なんだけど……困っちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it’s fine. Actually, I’m unable to complete\\nmy delivery.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ん？　何かあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Did something happen?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "お届け先の住所をメモしてきたのだけど、\\n書き間違えたみたいで\\n目的のお家が見当たらないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought I had the delivery address written\\ndown, but apparently I miswrote something\\nand now I can’t find my destination.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "仕方がないから、いったん戻って\\n確認しようかと思ってたんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alas, I think I’ll just have to go back and get\\nthe correct address...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "その荷物を持って甘兎庵まで戻って\\nまた届けに行くって、すごく疲れちゃいそうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That must be exhausting, going all the way\\nback to Ama Usa An, then out again for the\\ndelivery.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "そうなの、実はもうくたくたで……\\nココアちゃんが来てくれて助かったわ。\\nあのね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again. To be honest, I’m\\nalready out of gas. It’s a good thing you’re\\nhere. You see--",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "千夜ちゃん、もう安心だよ。\\n私が千夜ちゃんを助けてあげるからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to worry, Chiya-chan. I’ll help you\\nout!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "え？　え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（友達として、困っている千夜ちゃんを\\n　このままにはできないよ。\\n　なんとかして助けてあげなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(There’s no way I can leave behind a friend in\\nneed! I must find a way to help her out!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,18 +129,18 @@
       "choices": {
         "*sel_0101": {
           "original": "一緒に配達先を探すよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s find your destination together!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "荷物を持ってあげるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll carry it for you.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "メモの間違いを検証しよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s figure out what the error was.",
+          "status": "machine_translated"
         }
       }
     },
@@ -149,20 +149,20 @@
         "0": {
           "speaker": "ココア",
           "original": "一緒に配達先を探すよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s find your destination together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "一緒に？\\nでも、そこまでしてくれることはないのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Together? You don’t have to do all that, you\\nknow?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "遠慮なんていらないよ。\\n親友の力になれるなら、それだけで嬉しいんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to be modest. I’m happy to be able\\nto help a friend in her time of need.",
+          "status": "machine_translated"
         }
       }
     },
@@ -171,26 +171,26 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "荷物、半分持つよ。\\n貸して？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll help you carry this. Gimme half?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "っと！\\n結構重いね、これを１人で持ってたら\\nくたくたにもなるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...There! Wow, this is really heavy. This\\nwould quickly exhaust a lone person.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ええ。\\nでも、ココアちゃんのおかげで\\n疲れが吹き飛んだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. But thanks to you, my\\nexhaustion has been all washed away.",
+          "status": "machine_translated"
         }
       }
     },
@@ -199,8 +199,8 @@
         "0": {
           "speaker": "ココア",
           "original": "荷物を持ってあげるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll carry it for you.",
+          "status": "machine_translated"
         }
       }
     },
@@ -209,38 +209,38 @@
         "0": {
           "speaker": "千夜",
           "original": "でも、これ、結構重いの。\\n大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on now, this is really heavy. Can you\\nhandle it?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "大丈夫！\\nこれでも、コーヒー豆を運んだりして\\n鍛えてるんだから。えいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No problemo! I’ve been strength training with\\nbags of coffee beans! Eyy!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "う、うわぁ！　本当に重い！？\\nこれって和菓子なんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Whoa! This really is heavy! Is there really\\nonly wagashi in here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ええ、栗羊羹がぎっしり詰まってるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, it’s full to the brim with chestnut youkan.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "よくここまで持ってこられたね。\\nじゃあ、ここからは私が運んであげるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How on earth did you manage to carry this\\nthing so far? Let me haul it the rest of the\\nway for you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "助かるわ、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re a big help, Cocoa-chan.",
+          "status": "machine_translated"
         }
       }
     },
@@ -249,44 +249,44 @@
         "0": {
           "speaker": "ココア",
           "original": "メモの間違いを検証しよう。\\nじっくり見てみたら、どこを書き間違えたのか\\nわかるかもしれないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s figure out what the error was. If we look\\nat your writing carefully, we might be able to\\nfind what you wrote incorrectly.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ほら、この住所の数字、\\n１ってなってるけど、７と書き間違えたとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The address number, for example. You wrote\\na 1, but maybe it was supposed to be a 7?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "確かに、書き間違えやすい数字よね。\\nでも７だったとしても、その住所に\\n当てはまる場所はないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I admit that’s a common mistake. But if this\\nwas a 7, there wouldn’t be a building\\ncorresponding to the address.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あれ？\\nじゃあ、こっちの６を９と書き間違えたとか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What, really? Okay, maybe you mistakenly\\nwrote a 6 instead of a 9?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "それはちょっと、無理がないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, I don’t think that’s likely...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うーん、そっか。\\nけど簡単には諦めないよ！\\n必ず正しい住所を推理してみせるから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Yeah, probably not. But we can’t give\\nup so easily! I swear I’ll decipher the correct\\naddress for you!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ありがとうココアちゃん。\\nその気持ち、とっても嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-chan, I appreciate it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -295,56 +295,56 @@
         "0": {
           "speaker": "千夜",
           "original": "でも、本当にそこまでしてくれなくていいの。\\n少しの間、ここで荷物を見ていてくれるだけで\\n充分だから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, you don’t need to go so far for me.\\nIt would suffice if you could simply watch over\\nthis package for a moment.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "それはお安い御用だけど、\\n千夜ちゃんはどうするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s simple enough. Chiya-chan, what do\\nyou plan to do?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "甘兎に電話して、\\nおばあちゃんに正しい住所を確認するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll call Ama Usa and ask Grandma to confirm\\nthe address for me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "え？　それでわかるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Does she what the address is?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ええ、お届け先はおばあちゃんのお友達だから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, this is a delivery for to one of her\\nfriends.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えええ～！\\nそうだったの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! So that’s all this was!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ごめんなさい。\\nココアちゃんが一所懸命になってくれているのが\\n嬉しくて、言い出せなかったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry about that. It was hard for me to explain\\nafter seeing you get so excited about helping\\nme.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "ココアちゃんは本当に優しいのね。\\n私、とっても嬉しかった。\\nありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You really are such a nice person. I truly\\nappreciated that. Thank you.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えへへ、お礼なんていいよ。\\n友達なんだから当然だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. That’s what friends are for. No need\\nto thank me.",
+          "status": "machine_translated"
         }
       }
     }

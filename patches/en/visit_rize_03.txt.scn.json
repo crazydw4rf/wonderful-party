@@ -6,230 +6,230 @@
         "0": {
           "speaker": "千夜",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "むう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あっ、千夜ちゃんにシャロちゃん！\\nいらっしゃいませ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, there’s Chiya-chan and Sharo-chan.\\nWelcome!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ん？　どうしたんだ、シャロ。\\n元気がないじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What’s wrong, Sharo? You don’t seem\\nhappy.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "はっ！！\\nあ、いえ、ちょっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Oh, uh, it’s nothing...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ラビットハウスさんの前でね、\\n女性のお客さんがリゼちゃんのことを\\n噂していたのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Out in front of Rabbit House, there were\\nsome girls gossiping about you, Rize-chan.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと千夜！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, Chiya!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "え？　リゼちゃんの噂？\\nなになに、気になるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gossiping about Rize-chan? What were they\\nsaying? Tell me!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "なんでココアが聞きたがってるんだ。\\nど、どうせ、変な冷やかしだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why do you care what they have to say?\\nThey were probably m-making fun of me in\\nsome roundabout way.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "リゼちゃん、凛々しくてとっても格好いいって。\\nねえ、シャロちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They were talking about how Rize-chan is so\\ngallant and cool. Right, Sharo-chan?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "……そうだったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "ねえチノちゃん、私、リゼちゃんの\\n格好よさはもっとお店に活かせると思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, Chino-chan, I think you could take\\nadvantage of Rize-chan’s popularity.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "いっそ、ラビットハウスさんの\\n売りにしてみたらどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why don’t you try using her to market Rabbit\\nHouse?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "売りに……ですか？\\nそう言われても、どうしたらいいんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Use her for... marketing? I don’t quite\\nunderstand. What are you suggesting?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "うーん……。\\nそうね、執事喫茶なんてどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. Let me see. How about a butler\\ncafe?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "羊喫茶……！\\nそれはすごくもふもふでいいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A muffler cafe! That sounds extremely soft\\nand warm, I like it!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "いや、羊じゃなくて執事だろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not muffler, butler.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "リゼ先輩の執事姿……！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai dressed as a butler!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "はっ！？　だめよ！\\nリゼ先輩にそんな見世物みたいなこと\\nさせるなんて……で、でも……見たいかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ No! We can’t use Rize-senpai as\\nsome sort of tourist attraction... B-But, I\\nwanna see it...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ねえ、どうかしら。\\nリゼちゃんなら、きっとできると思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you say? I’m sure you have what it\\ntakes, Rize-chan.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "気品がなくてはできない\\n上品なお仕事なのよ？\\nリゼちゃんなら絶対に似合うと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s a classy job that requires elegance. I\\nthink you’d be perfect for it.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "気品……上品……！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Classy!? Elegance!?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ま、まあ……そこまで言うなら、\\n少しだけやってみてもいいぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well, if you insist, then maybe I’ll try it for a\\nwhile.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "おおっ！\\nリゼちゃんがやる気になった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Rize-chan’s interested in it!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "やる気満々みたいな言い方をするな！\\n私はただ、店の役に立てるならと思ってだな！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m not that interested! I merely want to help\\nout our cafe!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "それじゃ、さっそくやり方を教えてあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, allow me to teach you what to do.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃんがリゼちゃんの教官に\\n　なる日が来るなんて。\\n　これは面白くなってきたよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I never thought I’d live to see the day where\\nChiya-chan instructs Rize-chan! This is\\ngonna be good!)",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "お客さんが来たわね。\\nそれじゃリゼちゃん、実践よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We have a customer. Rize-chan, it’s now or\\nnever.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "リゼ",
           "original": "かしこまりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "すでになりきってる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re actually doing this!?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "お帰りなさいませ、お嬢様。\\nお荷物、お持ちいたします。\\nどうぞこちらへおかけください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome home, dear customer. Allow me to\\ntake your luggage. Please, come right this\\nway.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "す、素晴らしいわっ！\\n予想以上ね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-How wonderful! That was even better than\\nwhat I had hoped for!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "うん！　本物の執事みたいだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed! That was just like an actual butler!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "チノ",
           "original": "ココアさん、本物の執事を知ってるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, how do you know what an actual\\nbutler is like?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "あ、リゼちゃんが戻ってくるわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, here she comes.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "リゼちゃん、お疲れ様！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, you knocked it out of the park!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "こ、これは……\\nだめだ！　はずかしすぎるだろっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I just... I can’t! I’m going to die of\\nembarrassment!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "千夜",
           "original": "でもよく似合っていたわよ？\\nねえ、ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it’s like you were made to do that. Right,\\nCocoa-chan?",
+          "status": "machine_translated"
         }
       }
     },
@@ -237,24 +237,24 @@
       "select_prompt": {
         "speaker": "千夜",
         "original": "でもよく似合っていたわよ？\\nねえ、ココアちゃん？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "But it’s like you were made to do that. Right,\\nCocoa-chan?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "うん、すごく似合ってた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, suits you perfectly!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "もう一声、欲しかったかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s missing something...",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "思わずドキッとしちゃったよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I’m in love.",
+          "status": "machine_translated"
         }
       }
     },
@@ -263,8 +263,8 @@
         "0": {
           "speaker": "ココア",
           "original": "うん、すごく似合ってた。\\nリゼちゃん、キラキラして見えたよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, suits you perfectly! Rize-chan, you look\\nlarger than life.",
+          "status": "machine_translated"
         }
       }
     },
@@ -273,20 +273,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "そ、そうか？\\nいや、でも、執事が似合ってるって\\nそもそも褒め言葉なのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so? ...Wait, should I really be\\ntaking this as a compliment at all?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "褒めてるよ？\\n今のリゼちゃん、気品があって格好よかった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It is a compliment! Rize-chan, you looked\\nextremely classy and cool just now!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "あ、ありがとう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-Thanks, I guess...",
+          "status": "machine_translated"
         }
       }
     },
@@ -295,32 +295,32 @@
         "0": {
           "speaker": "ココア",
           "original": "もう一声、欲しかったかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s missing something...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "もう一声って、あれ以上どうするんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like what? What else is there for me to do?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "お嬢様、危ない！　私がお守りします！\\n早くお逃げください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My lady, it’s dangerous! I’m going to keep you\\nsafe! Escape from here, quickly now!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "って感じ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like that?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "それは執事じゃなくてボディガードの役目だろ！\\n喫茶店でそれって\\nどういうシチュエーションなんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s a bodyguard, not a butler! Under what\\nsituation would you need one of those in a\\ncafe!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -329,8 +329,8 @@
         "0": {
           "speaker": "ココア",
           "original": "思わずドキッとしちゃったよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I’m in love.",
+          "status": "machine_translated"
         }
       }
     },
@@ -339,20 +339,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "な、なんだそれ。\\nココアにドキッとされても困るだけだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What the hell. You falling in love with me\\nis the last thing I need.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "えー？　それだけ気品ある感じで、\\nばっちりきまってたってことだよ？\\nリゼちゃん、いっそ執事になっちゃうのはどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aww, and what other response could you\\nexpect with all that charm of yours? Rize-\\nchan, you ought to become a butler.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "冗談言うな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not in a million years.",
+          "status": "machine_translated"
         }
       }
     },
@@ -361,26 +361,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "でも、確かにお客さんの反応もよかったけど、\\nこれは店のイメージじゃないだろ。\\nなあ、シャロもそう思うよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, that customer didn’t seem to mind,\\nbut this sort of thing doesn’t match the cafe’s\\nvibe. You think so too, right Sharo?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ほああああ～……！\\nリゼ先輩……素敵です……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hoaaaaaaaaa~ Rize-senpai... You’re the best!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "しゃ、シャロ！？\\nどうした！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sh-Sharo!? What’s the matter with you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "あらあら。\\nこれは、シャロちゃんに\\n１番効果があったみたいね、うふふっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My goodness. It appears that had its\\nstrongest effect on Sharo-chan. Hehehe.",
+          "status": "machine_translated"
         }
       }
     }

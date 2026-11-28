@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "シャロちゃん、遅いね。\\nもうチラシ配りの開始時間、過ぎてるのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan sure is late. We were supposed to \\nstart our flyer handouts a while ago.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "シャロはしっかりしてるし、\\n時間を間違えるということは\\n考えにくいんだけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo is such a serious person, so I seriously \\ndoubt she got the start time wrong or \\nanything.",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,194 +40,194 @@
         "0": {
           "speaker": "シャロ",
           "original": "すみませーん！\\nお待たせしましたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me! \\nSorry I'm late!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "シャロさん。\\n珍しく遅かったですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san. \\nIt's unusual for you to run late.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ごめんね。\\nちょっと、用意してたものがあって。\\nお店で出すクッキーの試作品なんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forgive me, I had to get something ready first.\\nThis is a test batch of cookies that we're \\ngoing to put on sale at my cafe...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うわ～！\\n色んな形や色のクッキーがたくさん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaa~ \\nA plate full of cookies of all different \\nshapes and colors!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "これはチョコチップね。\\nこっちは紅茶入り、こっちは眠気醒ましの\\nハーブが入ってるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This one's chocolate chip, this one has black \\ntea, and that one has an herb in it that \\nkeeps you awake.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "他にもあるから、みんなに試食してもらって\\n意見を聞きたいの。\\n遠慮なく言って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And there's even more beyond that, so I want \\neveryone to finish these and tell me how they \\nwere. Please be honest with me.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うん、わかった。\\nじゃあ、いただきまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, got it. \\nNow then, itadakimaaasu.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "うん、どれもおいしいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mmm, they're all excellent.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "ありがとうございます、先輩！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much, Senpai!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "んー、でも、もっと新しい、\\n斬新な発想が欲しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I must say, however, that I wanted \\nsomething newer, some sort of innovative idea \\nout of these.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "……ココアはクッキーというジャンルに\\n何を求めてるわけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, what exactly are you asking from\\nthe snack known as cookies?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "でも、私もよく試作品をココアちゃんに\\n食べてもらっているのだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You say that, but I've actually had Cocoa-chan \\ntaste test many of my foods...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "ココアちゃんの意見は結構、的を射ているの。\\nシャロちゃんも、ココアちゃんの意見を聞けば\\nいいものができるかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And Cocoa-chan's criticism is always to the\\npoint. Sharo-chan, you may make something\\ngreat if you listen to her advice.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "そうなの？\\nじゃあ……ココアの思う斬新な発想って何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? Okay then... Just what sort of ”innovative ideas” are you looking for, Cocoa?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そうだなー、味はばっちりだから\\n見た目にもこだわって……\\nバラの花びらを乗せるとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me see... The flavor is already top-notch,\\nso you should focus on the appearance...\\nSomething like putting a rose petal on top?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "ええっ！？\\nバラの香りとかじゃなくて、\\nバラの花びらをそのまま？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Not a rosy scent or anything, but \\na physical rose petal?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "食用のものがあるとは聞きますが……\\n確かに華やかなクッキーになりますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've heard of those being used for culinary uses\\nbefore, but... that would certainly become\\none flowery cookie, wouldn't it.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "お嬢様気分で、優雅なティータイムを\\n楽しめそうだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You'll be able to enjoy tea with an elegant, \\nrich girl feeling.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "無理！　バラっていくらになると思う？\\nクッキーに乗せるだけの分を\\n毎回買ってなんていられないわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope! Do you know much roses cost? There's no\\nway I'm buying enough roses to cover my \\ncookies every single batch!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "そっかぁ。\\nせっかく、シャロちゃんのイメージぴったりな\\nアイディアだと思ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's too bad. I thought that would perfectly\\nmatch your image, Sharo-chan.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "っていうか、私をお嬢様だと勘違いしてた時の\\nイメージをいつまで持ってるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...The question is, just how long are you going\\nto hold onto that mistaken impression of me\\nbeing a rich girl?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "え？　お嬢様じゃなくても、\\nシャロちゃんの上品なオーラは\\n間違いないものだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Even if you're not actually rich, there's\\nno mistaking the fact that you give off an \\naura of high class refinement.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "はい、上品さでは\\nシャロさんは誰にも負けていません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. When it comes to a noble impression, \\nyou're the first person who comes to mind.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "そ、そう……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "え、えっと、とにかく、\\nいいアイディアだとは思うけど、\\n予算がそれを許してくれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, um, anyway. Maybe it was a decent idea, \\nbut my budget absolutely won't allow it.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "じゃあ、他に何かあるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, any other ideas?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "なあ、別に、今の方針を\\n変えなくてもいいんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not exactly like there's any need to change\\nyour current practice, is there?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "シャロのクッキーはそのままで充分おいしい。\\n無理に新しい要素をいれる必要はないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your cookies are plenty good as they are right \\nnow. It's not necessary to try and force in \\nsomething new.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "リゼ先輩……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-senpai!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "ほら、このクッキーなんか\\nさっぱりしてて、私は好きだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, this cookie is plain and simple, \\njust the way I like it.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "カモミールのクッキーですね。\\nはい、それは結構、自信作なんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's a chamomile cookie. And I agree, it's \\nmy favorite one of them all.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "ふふ、シャロちゃんたら本当に嬉しそう。\\n気に入ってもらえてよかったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe, Sharo-chan looks really happy right now. \\nI'm glad she liked the recipe.",
+          "status": "machine_translated"
         }
       }
     }

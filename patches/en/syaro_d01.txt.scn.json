@@ -6,68 +6,68 @@
         "0": {
           "speaker": "ココア",
           "original": "みんな集まったね。\\nじゃあ、今日からさっそく作戦開始だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see we're all here. Well then, from\\ntoday forward, the grand strategy is now \\nin effect!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "みんな、ごめん――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everyone, I'm sorryーー",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "ううん、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, thank you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "気にするな。\\n困った時はお互い様だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't sweat it. \\nI'm sure you'd do the same for us.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "こういうのも、新鮮で楽しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This sort of thing is fresh, \\nI'm enjoying it.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "はい。\\nいい経験ができそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too. This seems like it will be an \\nexcellent experience.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ええと、今日のスケジュールだと……\\nリゼちゃんがシャロちゃんと一緒に働くんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, according to today's schedule...\\nRize-chan will be working together with \\nSharo-chan.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "先輩、よろしくお願いします！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senpai, I'm looking forward to working with \\nyou today!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ああ、こちらこそ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's my line. \\nI'm looking forward to it as well.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "じゃあ、みんな！\\nクリスマスまで張り切っていこ～う！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know the drill everyone! Let's fight our\\nhardest all the way until Christmas!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ＆チノ＆リゼ＆千夜",
           "original": "おー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oorah!",
+          "status": "machine_translated"
         }
       }
     }

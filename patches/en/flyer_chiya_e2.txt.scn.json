@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "ココア",
           "original": "……あれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's that?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ココアちゃん、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, what's up?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ねえ！　見て、千夜ちゃん！\\n空の、あそこにかかってる雲。\\nティッピーにそっくりだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look up, Chiya-chan! See that cloud in\\nthe sky? It's shaped exactly like Tippy!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "まあ、本当だわ。\\nちゃんと耳もあるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, you're right. It even has ears.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "まるで、大きなティッピーが\\n空を流れていってるみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's like a massive Tippy\\nis floating through the sky.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "流れていく……。\\nティッピー、旅に出るのかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Floating away... I wonder\\nif she's off on a journey?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "『わしはこの街に収まるような\\n　うさぎではないのじゃ～！』",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "“There's no way this rabbit will\\nbe stuck in this nothing town!”",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "あら、それってチノちゃんの腹話術の真似？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Is that your impression of\\nChino-chan doing her ventriloquist act?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "うーん、チノちゃんみたいな\\nおじいさんの声は出せないなぁ。\\nホント、あの腹話術は世界を狙えるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Meh. I still struggle to do the old man\\nvoice the way Chino-chan does it. She has\\nenough talent to take the world by storm!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "でも、きっとティッピーは\\nチノちゃんやお店を残して出ていったり\\nしないよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, I don't think Tippy\\nwould ever skip town and leave\\nChino-chan or the cafe behind.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "ええ、なんてったって看板うさぎなんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope. You could go so far\\nas to say she's the shop's mascot bunny.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あれ？\\n雲の形が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, look. The cloud is--",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "大変だわ！\\nティッピーが崩れていってる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no! Tippy is dissolving!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "だめだよ～！\\nそこが崩れると、せっかくのもふもふ具合が！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, no!\\nThat perfect cuddly form is going to waste!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "ああっ、耳がどんどんちぎれて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ The ears are falling apart!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "せっかくそっくりだったのに～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was an exact copy of Tippy...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "これは……まさか……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no... Don't tell me...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "千夜ちゃん？\\n真剣な顔して、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan? Why do you look so serious?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "もしかしたら、本物のティッピーに\\n何かあったのかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe, just maybe, something terrible has\\nhappened to the flesh and blood Tippy?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "ティッピーに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The real Tippy?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "そうよ。\\nあそこまでそっくりだった雲だもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes! That cloud was a perfect replica,\\nlike a voodoo doll.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "あの雲は、私たちにティッピーの危機を\\n伝えているのかもしれないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's possible that that cloud was\\nsending us a sign about Tippy just then.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "じゃあ、ティッピーが危ないの！？\\nだとしたらラビットハウスも……\\nチノちゃんやリゼちゃんも！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What you're saying is that Tippy is in\\ndanger!? Which means that Rabbit House is\\ntoo! Are Chino-chan and Rize-chan safe!?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "千夜ちゃん、ラビットハウスに行こう！\\nみんなを助けなくちゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, we need to get to Rabbit\\nHouse right away! We need to rescue them!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "ええ、もちろん！\\nチラシ配りなんてしている場合じゃないわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, of course.\\nThis is no time to be handing out flyers.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ティッピー、チノちゃん、待っててね！\\nすぐに行くから～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy, Chino-chan, hold out a little longer!\\nHelp is on the way!",
+          "status": "machine_translated"
         }
       }
     }

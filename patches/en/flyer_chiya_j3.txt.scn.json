@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "千夜",
           "original": "……ふう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊yawn＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん、大丈夫？\\n疲れちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, how are you feeling?\\nGetting tired?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "少しだけ。\\n私、チラシ配りって\\nあまりしたことがなかったから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just a tad. I'm afraid I\\nhaven’t had much experience at\\nhanding out flyers like this.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そっか。\\n千夜ちゃんは普段、\\nお店の中でのお仕事が多いもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Right, you're more used\\nto working indoors than this.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "配達くらいはするけれど……\\nこういうお仕事は、お店とは違う\\n気の使い方するのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I did do deliveries, sometimes. But this\\njob requires using a different mindset.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "違う気の使い方？\\nうーん、使ってるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A different mindset? Huh.\\nIs my mindset any different out here?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "それがわからないのが、\\nココアちゃんの素敵なところだと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The fact that you haven't considered that\\nis another reason you're someone special.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "私、褒められてる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Should I take that as a compliment?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "もちろん褒めてるわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Feel free to!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あ、でも、私だってチラシ配りは疲れるよ？\\n立ちっぱなしで、声も出っぱなしだもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, I get tired doing these\\nflyers too! My feet get sore,\\nand my voice gets worn out.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "気力も体力も使うってことね。\\nこれを普段からしているシャロちゃんはすごいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It takes some mental and physical\\nstamina. It's impressive how Sharo-chan\\nmanages to do this all the time.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうだね、シャロちゃんは\\n前からよくフルールのチラシ配りをしてるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. She's been doing this at\\nFleur a lot longer than we have.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "暑い日も寒い日も、いつも笑顔で……\\n本当に頑張り屋さんだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And she keeps a smile on her face, rain\\nor shine. Talk about a hard worker.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ええ、シャロちゃんは昔からそうなの。\\nちょっと頑張りすぎちゃったりするところも\\nあるのが心配なのだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. She's always been like\\nthat. The way she overworks\\nherself makes me worried sometimes.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そこは、千夜ちゃんが幼なじみとして\\nフォローしてるんだね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'm sure her faithful childhood\\nfriend is always there to back\\nher up when she needs it. Right?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "……そうね。\\nできてるといいのだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Right. I hope it's enough.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "あと、シャロちゃん、\\nカップを見ている時とか、目がきらきらして\\n夢中になってる感じがかわいいよね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Speaking of Sharo-chan, I love the way her\\neyes light up when she's looking at porcelain\\ncups! She gets totally immersed in them!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "私もあの時のシャロちゃん、好きよ。\\nちょっと変わってるけれど、\\n１番、シャロちゃんらしい姿だもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I really like that side of her. She\\ncan be a little weird, but that's\\nwhen she's being herself the most.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "確かに変わった趣味だけど、\\nそういうところも含めて、シャロちゃんだもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's definitely a weird hobby of hers,\\nbut that's Sharo-chan for you.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "……ねえ、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ん？　なに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "シャロちゃんのこと、\\nこれからも見守ってあげてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Can you keep looking out\\nfor Sharo-chan for me?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "もちろんだよ。\\nシャロちゃんも千夜ちゃんもリゼちゃんも、\\n私の大事なお友達だからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure thing! You and Sharo-chan\\nand Rize-chan are all my precious friends!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "あら？　チノちゃんは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? But not Chino-chan?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "チノちゃんは大事な大事な妹だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan is my precious,\\nprecious little sister!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ふふふ、そうだったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Right.",
+          "status": "machine_translated"
         }
       }
     }

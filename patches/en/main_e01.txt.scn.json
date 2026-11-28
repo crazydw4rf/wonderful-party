@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（学校が終わったら、次はバイトだ。\\n　さあ、今日も頑張ろう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(School is over, and now I'm off to work.\\nTime to do my very best once more today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "（お客さん、たくさん来てくれるといいな～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I hope we get lots of customers!)",
+          "status": "machine_translated"
         }
       }
     }

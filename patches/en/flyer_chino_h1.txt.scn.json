@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "狙ったエモノは逃がさない！\\n怪盗ラパン、華麗に参上！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's nothing I cannot steal! \\nThe Phantom Thief Lapin has made her \\nsplendid appearance!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,8 +22,8 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさんは本当に\\n怪盗ラパンが好きですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure do love Phanton Thief Lapin,\\ndon't you.",
+          "status": "machine_translated"
         }
       }
     },
@@ -32,14 +32,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（そう、今私たちが着ているのは\\n　『怪盗ラパン』の衣装！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That's right! \\nThe costume we're wearing today is none other \\nthan Phantom Thief Lapin's!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（『怪盗ラパン』は、今人気のアニメ。\\n　子ども向けだけど、すっごく面白いの。\\n　私やチノちゃんも大好きなんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(”Phantom Thief Lapin” is a famous anime.\\nWhile being a kid's show, it's surprisingly\\ndeep. Me and Chino-chan are both into it.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -48,146 +48,146 @@
         "0": {
           "speaker": "ココア",
           "original": "うんっ！\\nこの衣装を着たら、\\n嫌でもテンション上がっちゃうよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup! When I'm wearing this outfit, \\nI can't help but get excited!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ねえ、せっかくだから\\nチノちゃんも何かやってみせてよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, since you look the part, why don't you \\ntry doing her lines too?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "わ、私もですか？\\nええと、それでは――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "M-Me? Uh, I guess...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "これで警部さんたちのハートは私のモノ。\\n私に盗めないものはないのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And with that, the police officer's hearts \\nare now all mine. There is nothing I cannot \\nsteal.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "おー！\\nさすがチノちゃん、かわいいね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah! Chino-chan, you're so cute~",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "……似てるかどうかではないんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...No comment on how well I did, huh.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、もちろん似てたよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Without a doubt, you sounded just like \\nher!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "そんな取って付けたように言われても。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't have to try so hard to fake a \\ncompliment.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "まあ、なんにせよ、こういう格好は新鮮です。\\nちょっとわくわくしています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, whatever. But wearing this sure is \\nrefreshing. I must admit I'm excited about it.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふふっ！　チノちゃんが\\n　こんなに積極的なのって初めてかも。\\n　やっぱりラパンはすごいなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hehe! I don't think I've ever seen \\nChino-chan be this confident before. Lapin \\nsure is incredible!)",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "んー、でも、ラパンが２人いるっていうのも、\\nなんだかちょっとおかしな感じがするよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. But, the fact that we have two Lapins \\nhere together might come off as a bit \\nstrange.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "そうですか？\\n衣装なんですし、別に気にするような\\nことでもないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? It's just a costume, so I \\ndon't think it's worth worrying about.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "よし！\\nじゃあ私、ラパンじゃなくて\\n警部をやることにするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Now then, I'll play as the \\nInspector instead of Lapin.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "……人の話、聞いてました？\\nそれにラパンの格好のままで警部って\\n余計におかしなことになります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Are you listening to me? Playing as the \\nInspector while dressed as Lapin would be \\neven more bizarre.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "それは、その……。\\nラパンに心を奪われた結果、\\n警部もラパンになっちゃったってことで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well actually, uhh... Since the Inspector's \\nheart was stolen by Lapin, he actually \\ntransformed into Lapin as well.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "そんな無理な設定にするくらいなら、\\nラパンが２人いる方がマシです。\\n素直にラパンを演じた方がいいと思いますよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even two Lapins would be better than that \\ncontrived setting. You should probably just \\nstick to playing Lapin.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "ほら、見てください。\\n小さな子が、私たちに気づいて\\n様子をうかがってます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, look over there. Those little girls \\nare wondering what we're up to.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "あ、ほんとだ！\\nさすがは怪盗ラパン、人気者だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, you're right! Classic Phantom Thief Lapin,\\nalways the talk of the town.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "じゃあ、ラパンのイメージを壊さないように、\\nかわいくかっこよく演じないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, let's be sure to be both adorable\\nand awesome to maintain her image.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "……私は普通にチラシを配ります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I'm just going to act naturally and \\nhandout flyers.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "えー、チノちゃんも一緒にやろうよー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhh? C'mon Chino-chan, play along with me.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "嫌です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not happening.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "しょうがないなぁ。\\nでも、いつかは一緒にラパンを演じようね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you say so. But let's do a Lapin \\nroutine together some day.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "そんないつかは来ませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That day will certainly never come.",
+          "status": "machine_translated"
         }
       }
     }

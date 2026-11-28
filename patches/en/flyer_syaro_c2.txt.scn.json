@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "シャロ",
           "original": "う～ん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、シャロちゃん？\\n悩み事だったら相談にのるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter, Sharo-chan? \\nIf there's something on your mind we \\ncan talk about it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "大丈夫、そんなのじゃないわ。\\nただ、着物を着慣れてないせいかしら？\\nどうにも肩が凝っちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, it's nothing like that. It's just\\nthat this kimono is making my shoulders hurt.\\nI'm not really used to wearing this yet.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうなの？\\n肩、揉んであげようか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that it? Then how about I give you a \\nshoulder massage?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "って、なんで返事も聞かずに\\nにじり寄ってきてるのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you coming after me before I even \\nanswer you!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "私が頼んで着てもらってるんだから、\\nその肩こりは私の責任だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm the one who asked you to wear that, \\nso it's my responsibility to take care \\nof your stiff shoulders.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ちゃんと責任を取って、\\nシャロちゃんの肩こりを撃退しなくちゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll take responsibility by fighting off \\nthat shoulder stiffness of yours!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "どういう理屈なの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of reasoning is that!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "さあさあ、力を抜いて～。\\nシャロちゃんの肩こりをすっきりさせちゃうよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, just relaaax~ Those shoulders of \\nyours will be refreshed in no time~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "や、やめて！\\nくすぐったい！　くすぐったいから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop it! \\nThat tickles! \\nThat tickles!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "くすぐったいってことは\\n肩もみが効いてる証拠だね。\\nでは、さらに～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The tickling is proof that the massage is \\nworking. Let's continue!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "あはははっ。\\nやめて！　やめてったら～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahahaha! \\nStop that! \\nStop it!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "はいはい、お客さん、我慢してくださいね～。\\nしつこい肩こりも、ココアマッサージで\\nすっきり爽快ですよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now now, customer, please be patient. Even \\nthe most persistent shoulder stiffness will be\\nloosened up by a Cocoa Massage™.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "だ、誰が、お客なのよ！\\nあはっ、あははっ！\\nストップ！！　苦しい！！　あははっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Who are you calling a customer! \\nAha, ahaha! Ｓｔｏｐ！ \\nIt hurts! Ahahaha!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "も、もういいからっ！\\n今度は私がココアの肩を揉んであげる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Enough already! \\nIt's my turn to massage your shoulders!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "え、いいよ。\\n悪いし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? It's fine. No need.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "いいから揉ませなさーい！\\nほら、くすぐったいでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't care, get massaged! \\nC'mon, doesn't that tickle!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ああ～、私も着物で肩が凝ってたのかな、\\nすごく気持ちいいよ～。\\nシャロちゃんも肩揉み、上手だねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh~ I guess this kimono was hard on my \\nshoulders too, cause this feels great! \\nSharo-chan, you're pretty good at this.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "あ、あれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "あ、そこそこ。\\nいいね、いいね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, that's the spot. \\nPerfect, perfect!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "効いてない！？\\nこうなったら仕方ないわ……最後の手段よ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not working!? \\nI guess I'm out of options. \\nHere's everything I've got!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ええ～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eyy!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "ひゃあ！？\\nしゃ、シャロちゃん！\\nくすぐったって肩こりは治らないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hya!? Sh-Sharo-chan! \\nHow is tickling me supposed to help my\\nshoulders!?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "ココアもくすぐったさを味わいなさーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's what it feels like to get tickled!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "あはははっ！！\\nわ、私だって負けないよ！　そりゃー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahahaha! \\nY-You think you can beat me!? Take this!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "あははっ、やめて！\\nくすぐったいったら～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha, quit it! That tickles!",
+          "status": "machine_translated"
         }
       }
     }

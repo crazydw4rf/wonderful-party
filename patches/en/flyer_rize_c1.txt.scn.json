@@ -6,44 +6,44 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "やっぱりコスプレだと\\nチラシの減り方が違うね、リゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Handing out flyers while cosplaying\\nreally is a night-and-day\\ndifference, isn't it, Rize-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あれ？　リゼちゃん？\\nどこに行ったの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Rize-chan? Where'd you go?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "リゼちゃーん！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chaaaaaaaan!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ここだ。\\nそんなに大声出さなくても聞こえてるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm right here. No need to shout.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ここってどこ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Where's here!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -52,86 +52,86 @@
         "0": {
           "speaker": "ココア",
           "original": "あ、いた！\\nなんでそんなところに隠れてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there! What are you hiding for?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "さっきから、誰かに見られてる気がするんだ。\\nこれは……もしかしたら\\nどこかのスパイかもしれない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel like I'm being watched.\\nHear me out. I think it's possible\\nthat there's a spy after me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "スパイ！？\\nリゼちゃん、どんな事件に\\n巻きこまれちゃったの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A spy!? Rize-chan,\\njust what have you gotten yourself into!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "ほら、あそこを歩いている学生。\\nこっちを見ていったぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, that student over there.\\nShe's been staring at me.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "しかし、スパイにしてはあからさますぎる。\\nもしかして……何かの警告か？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's unusually conspicuous\\nfor your typical spy. Could\\nthis be... some kind of warning?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うーん……。\\nスパイとか警告とかかっこいいけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, this thing about spies\\nand warning sounds nice and all...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "単に、着物が珍しいから\\n見られてるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But aren't they just staring because it's\\nunusual to see someone wearing a kimono?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "あ……。\\nそうか、今、着物を着ていたんだったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh. Right, we're in kimonos right now.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "甘兎庵に行けば珍しくないけど、\\n街中じゃやっぱり見かけないもん。\\n私だって、着物着てる人が歩いてたら見ちゃうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe it's normal at Ama Usa An, but it's\\nnot every day you see a kimono in town. I'd\\nstop and stare if I saw one in the wild.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "なるほど。\\nさすがに考えすぎだったか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're probably right.\\nI was overthinking it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "でもそれって、\\nリゼちゃんが隠れたくなっちゃうほど\\n注目を集めてるってことだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is great! You've garnered\\nso much attention that you're\\ncompelled to try and hide!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "だったらコスプレ作戦大成功だよ！\\nやったね、リゼちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This means our cosplay has been a\\ngreat success! Attagirl, Rize-chan!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "あ、ああ。\\n作戦成功は喜ばしいことだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah. Our strategy worked out,\\nand that's a good thing.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "でも、この視線に慣れるまでは苦労しそうだ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But these stares are going\\nto take some getting used to.)",
+          "status": "machine_translated"
         }
       }
     }

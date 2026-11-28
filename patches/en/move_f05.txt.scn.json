@@ -6,92 +6,92 @@
         "0": {
           "speaker": "メグ",
           "original": "あうう～。\\nどこにいるの～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Auuu~ Where is she?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？\\nメグちゃん、どうしたの？\\n１人でいるなんて珍しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What’s the matter, Megu-chan? It’s not\\noften I see you all alone.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "あっ！\\nココアちゃ～ん！　助けて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Cocoa-chaaan! Help me!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ええっ！？\\n助けてって、どうしたの？　何かあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the! You need help? What happened to\\nyou?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "マヤちゃんとかくれんぼをしてるんだけど、\\n見つからないの。\\nココアちゃん、一緒に探して～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m playing hide and seek with Maya-chan,\\nbut I’m not finding her anywhere. Cocoa-\\nchan, help me find her!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "へー、かくれんぼしてるんだ。\\nマヤちゃんってそういうの上手そうだよね。\\nうん、一緒に探すよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hide and seek, huh. Maya-chan seems like\\nshe’d be really good at hiding. Alright, let’s go\\nhunt her down!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "ありがと～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "じゃあ、どの辺りを探せばいいのかな？\\nかくれんぼの範囲はどこまで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First off, where are we looking for her? What\\narea is she hiding in?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "この街、ぜーんぶ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The whole village!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "広い！　範囲が広すぎるよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s huge! Too huge for hide and seek!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "メグ",
           "original": "でも、そんなに遠くまでいかないって\\n言ってたから、この辺りにいると思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But she said she’d never be too far away, so\\nI’m guessing she’s nearby.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そっか、それなら\\nこのあたりを中心に探していこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Then let’s concentrate our search on\\naround here.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "メグ",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "見つからないね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No sign of her, huh.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "メグ",
           "original": "あうう……。\\nマヤちゃん、どこに行っちゃったの？\\nもう疲れて……足が棒みたいだよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Auuu~ Maya-chan, just where have you\\ngone? I’m getting tired, and my legs are\\nkilling me.",
+          "status": "machine_translated"
         }
       }
     },
@@ -105,18 +105,18 @@
       "choices": {
         "*sel_0101": {
           "original": "（まずはメグちゃんを元気づけよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Megu-chan needs to be cheered up!)",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "（私たちだけじゃ無理かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This is impossible for us.)",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "（ここは新しい作戦を考えよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Let’s set a trap.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -125,44 +125,44 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（まずはメグちゃんを元気づけよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Megu-chan needs to be cheered up!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "メグちゃん、\\n甘いものでも食べて休憩しよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-chan, let’s take a break and go find\\nsomething sweet to snack on.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "甘いもの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something sweet?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "疲れた時には、やっぱり甘いものだよね！\\n甘兎かな？　フルール・ド・ラパンかな？\\nもちろんラビットハウスでもいいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sugar is the best for recovering from fatigue!\\nHow about we hit up Ama Usa? Or maybe\\nFleur? And Rabbit House is on the table too.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "あ、でも……甘いものは食べたいけど\\nマヤちゃんを置いては行けないよ。\\n行くなら一緒じゃないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, but... While I’d love a snack, we can’t\\njust abandon Maya-chan here. If we go, we’ll\\ngo together.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、そっか、そうだよね。\\nメグちゃんは優しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I see. You’re right. You’re such a nice\\nperson, Megu-chan.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "そ、そんなことないよ。\\nマヤちゃんだってきっと食べたいだろうなって\\n思って……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That’s not true. I just think Maya-chan\\nwould want to come with us, is all...",
+          "status": "machine_translated"
         }
       }
     },
@@ -171,32 +171,32 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（私たちだけじゃ無理かな？\\n　だったら……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maybe this is impossible for just the two of\\nus. In that case...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "応援を呼んでこよう！\\nチノちゃんとかリゼちゃんとか、\\nきっと協力してくれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let’s call in backup! I’m sure Chino-chan or\\nRize-chan would be willing to help us in our\\ntime of need.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "チノちゃんとリゼさんかぁ。\\n特にリゼさんは頼りになりそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan or Rize-chan? Rize-chan seems\\nlike she’d be particularly good at this sort of\\nthing.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "でも、マヤちゃんは１人なのに\\n私たちはそんなにいっぱいなのは\\n卑怯じゃないかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, Maya-chan is just one person, so\\nwouldn’t it be unfair to have so many of us\\nsearching for her?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "う……。\\n確かに、マヤちゃんが\\n怒っちゃうかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu... True, Maya-chan will probably get mad\\nat us for that.",
+          "status": "machine_translated"
         }
       }
     },
@@ -205,62 +205,62 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここは新しい作戦を考えよう。\\n　探しに行くんじゃなくて、マヤちゃんを\\n　おびき寄せるような……よし！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Let’s set a trap.  Instead of us going out to\\nMaya-chan, let’s bait her into coming to us.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "もう探すのやめる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why don’t we just give up already?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "ええ～！？\\nそんなことしちゃ、マヤちゃんが可哀想だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat! No way, we can’t do that to Maya-\\nchan.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "でも、こんなに探しても見つからないってことは\\nもう帰っちゃったのかもしれないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, the fact that we haven’t found her\\nafter all this time probably means she’s gone\\nhome without us.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ううん、マヤちゃんはそんなことしないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nuh-uh. Maya-chan wouldn’t do something\\nlike that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "……うーん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Hmmm?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "ココアちゃん？\\n何してるの、キョロキョロして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, what are you looking around\\nfor?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "帰っちゃおうって話をしてたら、マヤちゃん、\\n慌てて出てくるかと思ったんだけど……\\n聞こえる範囲にはいないみたいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I thought Maya-chan would come out if she\\nheard us talking about going home. She must\\nnot be close enough to hear us.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "メグ",
           "original": "えー！\\n今の、作戦だったんだ。\\nココアちゃん、すご～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! So that was all a trap. Cocoa-chan,\\nyou’re amazing!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えへへ、それほどでも。\\n結局失敗だったしね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ That was nothing. And in the end it\\ndidn’t work.",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,116 +269,116 @@
         "0": {
           "speaker": "ココア",
           "original": "でも、そんなに疲れてるんじゃ\\nこれ以上、マヤちゃんを探すのは大変だね。\\nこうなったら……カモン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, you must be too exhausted to\\ncontinue searching for her. There’s only one\\nthing to do. Ｃｏｍｅ　ｏｎ！",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "え？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What does that mean?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "おんぶしてあげるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll give you a piggyback ride.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "お、おんぶなの？\\nえ、でも、その……ちょっとはずかしいよぉ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A p-piggyback ride? I-I’m not so sure... that\\nwe should do that in public...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "だったら、いただき～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll take you up on your offer!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "はうっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊WHAM＊",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "ココアの背中、ゲット～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa’s back has been secured!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "あ～！　マヤちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Maya-chan!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "え！？　マヤちゃん！？\\nどこにいたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the! Maya-chan!? Where were you?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ",
           "original": "聞いて驚け～？\\n実は、ずっとメグのあとをつけてたんだ。\\nココアと合流する前から、ず～っとな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You wanna know? The truth is that I’ve been\\nfollowing Megu around the whole time. Even\\nsince before Cocoa showed up!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "メグ",
           "original": "ええ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaat!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "まさか、背後を取られていたなんて！\\n全然気がつかなかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable, you were right behind us! I had\\nno idea.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "ふっふっふ～！\\nなんたって、リゼ直伝の尾行術だからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha~ Of course you didn’t, that was a\\nshadowing technique I learned directly from\\nRize!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "いいなぁ、そんなこと教わったんだぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So she taught you all that? I’m jealous.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "しっかし、尾行ってなかなか難しいな。\\n１人で孤独なのが結構つらいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it ain’t easy shadowing people. You’re\\nstuck being all alone the whole time.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "みんなが楽しそうにしてるの、\\n１人で見てなきゃいけないってこと？\\nそれはつらいかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What you’re saying is that you can only\\nwatch while everyone else is together\\nenjoying themselves? That does sound\\ngloomy...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "じゃあ、何人かでおしゃべりしながら\\n尾行すればいいんじゃないかな？\\nきっと楽しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You just need a buddy to talk to while you’re\\nshadowing! Then it’d be fun!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "メグ",
           "original": "それじゃ、すぐに気付かれちゃうと思うよ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But then you’d get noticed right away!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "マヤ",
           "original": "あははっ！\\nココアは尾行に向いてないな！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! Cocoa sure isn’t cut out for tailing\\npeople!",
+          "status": "machine_translated"
         }
       }
     }

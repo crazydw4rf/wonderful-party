@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "お腹空いたぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm hungryyy~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "私も……。\\nけど、少しでも節約しなきゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me too... \\nBut I need to keep saving just a little more...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あれ？\\nおいしそうな匂いが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's this? I smell something yummy...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あっ！　焼き栗の屋台だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! A stall selling roasted chestnuts!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "あ……。\\n本当だ、おいしそう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh... It's true. \\nAnd it looks so good...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "私、ちょっと買ってくるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Imma go buy some!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ここで買ったら、夕飯がおかずなしになるわよね。\\nそれはさすがにつらいわ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I buy something now, I'll have to go without \\na side for my dinner... I don't think I'll \\nbe able to stand that.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "が、我慢よ。\\n食べたいものが食べられないなんて\\n何度も経験したじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Grit your teeth and bear it! You never get to \\neat what you want any other time, and now's \\nno different!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ごめんね、シャロちゃん。\\n待った？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry for that, Sharo-chan. \\nSo you waited for me?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ココアの、思いつきから即行動！　には\\nいい加減慣れたわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa's classic immediate action after every \\nrandom thought! I wish I wasn't getting so \\nused to this.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "それより、早く食べなさい。\\nチラシを配り終わるまで帰れないんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, hurry up and finish those. We can't\\nhead home until these flyers are out of the\\nway.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あ、うん。\\nそれじゃシャロちゃん、はい、どーぞ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, okay. Here you go Sharo-chan, take half.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "え？　これって、何？\\n今買ってきた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? What's this? You just bought this...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うん、焼き栗。\\n袋、２つにわけてもらったの。\\n半分こしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, it's the roasted chestnuts. \\nI had them split it into two bags. \\nLet's go fifty fifty.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "シャロちゃん、栗は嫌いじゃないよね？\\nさっき屋台を見て\\n『おいしそう』って言ってたし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you don't dislike chestnuts, do you?\\nA minute ago you said they looked good \\nwhen you saw the stand.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "ま、待って！\\n別に、ココアからもらおうと思って\\n言ったわけじゃないのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hang on! It's not like I wanted you to go buy\\nme some chestnuts when I said that, okay?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "でも、１人で全部食べたら\\n夕飯がお腹に入らなくなって\\nチノちゃんに怒られちゃうし――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, but if I eat all of these I won't have \\nenough room for dinner. Chino-chan will get \\nmad at me.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "シャロちゃんと一緒に食べた方がおいしいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That, and these will taste even better if I \\neat them together with you.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "ココア……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "もう……。\\nお人好しなのか天然なのか\\n困るんだけど……でも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh... I can't tell if you're softhearted or \\njust an airhead... but...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "あ……ありがと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tha... Thanks...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "え？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? \\nWhat was that?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "や、焼き栗が大好きだって、そう言ったの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I said I absolutely love roasted chestnuts!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "シャロちゃんもなんだ。\\n私も大好きだよ、甘くておいしいもんね。\\nそれじゃ、いただきまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you do like them? I love them too. They're so\\nsweet and yummy. Now then, itadakimaaasu!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "……いただきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Itadakimasu.",
+          "status": "machine_translated"
         }
       }
     }

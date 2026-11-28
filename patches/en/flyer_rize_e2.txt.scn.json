@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "ココア",
           "original": "はうっ！？\\nり、リゼちゃん、今の聞こえた！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ R-Rize-chan?\\nYou didn't hear that, did you?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "え？　何がだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Hear what?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "よかったぁ。\\nリゼちゃんに聞こえてないなら大丈夫だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank goodness! So long\\nas you didn't hear it.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "だから、何がだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Didn't hear what!?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ちょっとお腹が減っちゃって……。\\nぐーって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm just a tad hungry,\\nso it made a little rumble...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ああ、鳴っちゃったわけか。\\nなら少し休憩するか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, your stomach's growling? Fine,\\nlet's take a quick break.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "実は、こういうこともあろうかと\\nいいものを準備してきたんだ。\\nせっかく軍服を着てるんだし、こいつの出番だろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I happen to be prepared for this exact\\nsituation! Not only are we dressed for the\\nmilitary, but we're eating in style too!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "おおー！\\nチョコレートだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wowee! Some chocolates!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "違う！　今はレーションだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wrong! These are rations!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "れーしょん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Lashons?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "簡単に言うと、軍で配給される食事だな。\\nそう思って受け取れ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Basically, it's what soldiers are given\\nto eat. Think of that when you eat it.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "イエッサー！\\nありがとうございます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, Sir! Thank you kindly!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "軍人ってチョコレートがご飯なんだ。\\n虫歯に気をつけないといけないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So soldiers feast on chocolates.\\nThey must get lots of cavities.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "そんなわけないだろ。\\nチョコレートもレーションに含まれるだけだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, they don't. The chocolates are just\\na dessert for the rest of their rations.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "いいか？　チョコレートは\\nカロリー補給に適してるし栄養価も高い。\\nおまけに携帯性にも優れているんだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chocolate is high in calories and has a\\ngood nutritional value. That, and it lasts\\na long time without spoiling. Understand?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "へえ～。\\nその上、甘くておいしいなんて、\\nチョコレートってすごいんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Interesting. And it tastes sweet!\\nChocolate might be the perfect food.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "ああ、いや……その……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, about that...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "やっぱり軍の食べ物だからか……\\n耐熱性や栄養面ではばっちりなんだが、\\n味は……なかなか個性的だったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since it's for soldiers, nutrition and\\nheat resistance are prioritized over flavor.\\nThey don't always taste how you'd expect.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "最近のレーションはおいしいものが多いんだが、\\nあのチョコレートはハズレだったな。\\nどうしてあんな味になったのか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Most of the rations I had lately were\\nsweet, but that one... I have no idea how\\nchocolate could come to taste like that.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ええ！？\\nもしかして、これっておいしくないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? So you're saying you\\ngot some nasty chocolate?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "ああ、安心しろ。\\nそれはさっき買ってきた普通のチョコレートだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but don't worry about these. These\\nare normal chocolates that I bought today.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "なんだ、よかった。\\nじゃあ、いただきまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's a relief. Down the hatch!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "もぐもぐ……ん～！\\nうん、いつものチョコレートの味！\\n甘くて幸せ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Om nom nom. Yup, that's the\\nsame old chocolate I know\\nand love. Sweet and heavenly!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "レーションのチョコレートに\\nチャレンジする気があったら、\\nいつでも持ってきてやるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you ever want to take a chance\\non chocolate rations, let me know!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ええっ！？\\nチョコレートは甘くなくちゃ\\nチョコレートじゃないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nooo! If chocolate isn't sweet,\\nit's not real chocolate!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "ははっ、冗談だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. I'm just kidding.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,122 +16,122 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえ、シャロちゃん。\\n千夜ちゃんって、いつ頃から\\nこの制服を着て甘兎を手伝ってたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Sharo-chan, how long has Chiya-chan \\nbeen wearing this uniform at Ama Usa?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "……いつからだったかしら？\\nはっきりとは覚えてないけど、ずいぶん前からね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Just how long has she been at it? I don't\\nreally remember, but she's been doing it \\nfor a long time.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ずいぶん前からかぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since way back, huh...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "シャロちゃんは、ずっと前から\\n千夜ちゃんと一緒なんだよね。\\n幼なじみって、ちょっとうらやましいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You go way back with Chiya-chan, don't you. \\nI'm kind of jealous that you have a \\nchildhood friend like that.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "そんなにいいものじゃないわよ？\\n昔のこととか、いつもからかわれて大変よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not such a good thing. She's always \\nteasing me about old times, it gets \\ntiresome.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "それも友情の証だよ。\\n昔からの絆とか、すごく素敵だと思うし。\\nいいなぁ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's proof that you're such good friends! \\nI think it's wonderful that you have a bond \\nthat goes way back! Must be nice~",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "そうだわ。\\nココアは、この街に\\n昔からの知り合いなんていないんだった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, that's right. Cocoa didn't have any \\nacquaintances at all in this town when she\\ncame here.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "当たり前のことなんだけど、\\nなじみすぎてて時々忘れちゃうわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess that's obvious, but I've gotten so \\nused to her presence that I almost forgot.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あっ！\\nあの野良うさぎ、かわいい～。\\nおいで、おいで～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Look how cute that bunny rabbit is! \\nCome get a big hug!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "あ、あの……ココア？\\nもし寂しくなることがあったら……\\n私たちにもっと甘えてもいいんだからね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, um, Cocoa? If you ever feel lonely around \\nhere... Don't feel bad about coming to any \\nof us for help, okay?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ふわ～、もふもふ！\\nこの子の毛、柔らかい～。\\nティッピーの手触りにも負けてないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fuwa~ Mofumofu! \\nThis little guy's fur is so soft! \\nMaybe even more so than Tippy's!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "聞いてない！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's not listening!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あ、ごめんね。\\nこの子がかわいくて、つい。\\nシャロちゃんも撫でる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I'm sorry. This fellow is so cute I \\nstopped paying attention. Sharo-chan, wanna \\ntry petting it?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "や、やめて、近づけないで～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop it! \\nKeep it away from me!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "こんなにかわいいのに。\\nえへへ、やっぱり私、この街に来てよかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even though it's so cute? \\nEhehe~ \\nI sure am glad I came to this village.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "うさぎがたくさんいるから？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because it's overrun with rabbits?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "それもあるけど、\\nシャロちゃんや千夜ちゃん、リゼちゃんや\\nチノちゃんたちに会えたことが１番かな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's part of it, but the best thing is \\nprobably that I got to meet you, and Chiya-chan,\\nand Rize-chan and Chino-chan.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "みんなと一緒にいられて、すごく楽しいから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Being together with everyone is just so \\nmuch fun!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "そ、そう……よかったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You think so? \\n...I'm glad.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "私もココアがこの街に来てくれて……嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm glad... \\nthat you came to this town.",
+          "status": "machine_translated"
         }
       }
     }

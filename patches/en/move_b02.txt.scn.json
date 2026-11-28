@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（う～、今日は寒いよ。\\n　カイロ持って外に出てきてよかったぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uuu. It’s cold out today. I’m glad I brought a\\nhand warmer with me.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（こういう日は甘兎庵に行って、\\n　温かいお汁粉を食べよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today’s the perfect day to hit up Ama Usa\\nAn and have some hot shiruko!)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あっ、千夜ちゃん発見！\\n千夜ちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there she is! Chiya-chaaan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,62 +28,62 @@
         "0": {
           "speaker": "千夜",
           "original": "あら、ココアちゃん。\\nバイトはお休み？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, Cocoa-chan. Are you on break?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん、だから遊びに来たんだ。\\n忙しかった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, so I’m here to hang out. Are you busy?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ううん、平気よ。\\n今、掃き掃除の途中だから\\n中でちょっと待っててくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not at all. I’m just doing a bit of sweeping\\nout here, so feel free to go inside until I’m\\nfinished.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "もう寒い季節になってきたのに、大変だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That must be rough this time of year, when\\nit’s this cold out.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "入り口はお店の顔だもの。\\nちゃんとしなくちゃいけないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It must be done regardless. The storefront\\nrepresents the cafe, after all.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "偉いなぁ。\\nさすが千夜ちゃん、\\n将来の大手チェーン・甘兎の店主！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Impressive. I would expect nothing less from\\nyou, Chiya-chan, the future owner of the\\nmultinational food chain Ama Usa An!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ふふ、それほどでも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. We’ll see about that.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ううっ！\\nそれにしても風が身に染みるね。\\n千夜ちゃん、コート着なくて大丈夫？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu. But really, the wind really is brutal right\\nnow. Shouldn’t you at least put a coat on?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "外にいるのは掃除の間だけだから。\\nでも、さすがに指先が冷え切ってるわ。\\nはあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The only time I’m outside is while I sweep, so\\nI should be fine. But my fingers are starting to\\nget numb. ＊haa~＊",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア（Ｍ）",
           "original": "（千夜ちゃん、手が冷たいんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chiya-chan’s hands are freezing.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -97,18 +97,18 @@
       "choices": {
         "*sel_0101": {
           "original": "じゃあ、お掃除手伝うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll help you sweep the place.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "手を握って温めてあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll warm your hands with my hands.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "手袋、持ってくる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll go get you some gloves!",
+          "status": "machine_translated"
         }
       }
     },
@@ -117,20 +117,20 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、お掃除手伝うよ。\\n早く終われば中で温まれるでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll help you sweep the place. The sooner\\nyou’re finished the sooner you can warm up.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "いいえ、ココアちゃんに\\nそんなことさせられないわ。\\nこれは私の仕事なんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No thank you. I can’t have you do such a\\nthing. This is my job after all.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "気にしないで。\\nつらそうな千夜ちゃんをほっとくなんて\\n私にはできないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, it’s nothing. There’s no way I can just\\nlook the other way after seeing you struggling\\nout here.",
+          "status": "machine_translated"
         }
       }
     },
@@ -139,20 +139,20 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん……。\\n嬉しいわ、ありがとう。\\nじゃあ、今度ココアちゃんが困っていたら私の番ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan... Thank you, I appreciate it.\\nOkay then, the next time you need help,\\nremember that I owe you a favor.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん、頼りにしてる！\\nあとね、私カイロ持ってるんだ。\\nよければこれ、使って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do, I’ll be counting on you! Also, I have a\\nhand warmer on me. Feel free to use it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "まあ、ありがとう。\\nそれじゃ、使わせてもらうわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh my, thank you. I’ll take you up on your\\noffer.",
+          "status": "machine_translated"
         }
       }
     },
@@ -161,26 +161,26 @@
         "0": {
           "speaker": "ココア",
           "original": "手を握って温めてあげる。\\nはい、手をこっちに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll warm your hands with my hands. Come,\\ngive me your hands!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "あっ！？\\nこ、ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Co-Cocoa-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うわ、冷たい！\\nこんな手で掃き掃除してたの？\\nつらかったよね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa, you’re freezing! You were sweeping\\nwhile your hands were this cold? You really\\nwere suffering out here...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ちょっと待ってね、\\n手をこすれば摩擦熱で温かくなるから。\\nえい、えいえいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hold still, I’ll heat up your hands using the\\nheat from friction. Eyy, eyyeyy!",
+          "status": "machine_translated"
         }
       }
     },
@@ -189,20 +189,20 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん……。\\nもう充分よ、ありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan... That’s enough, thank you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "でも、まだまだ冷たいよ？\\nいいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you’re still cold. Are you sure that’s\\nenough?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、もう全身ぽっかぽかよ。\\nココアちゃんのおかげで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I feel warm all over. Thanks to you,\\nCocoa-chan.",
+          "status": "machine_translated"
         }
       }
     },
@@ -211,44 +211,44 @@
         "0": {
           "speaker": "ココア",
           "original": "手袋、持ってくる！\\nちょっと待ってて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll go get you some gloves! Wait here.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "わざわざそんな。\\nいいのよ、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s no need to do that. I’ll be fine, Cocoa-\\nchan.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "でも、すっごく寒そうだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even though you’re freezing out here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "お掃除ならすぐに終わるわ。\\nそれにココアちゃん、\\nうちに遊びに来てくれたんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll be finished with this in just a minute. And\\nyou came here to enjoy yourself, right?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "今のココアちゃんはお客さんなんだから、\\n気にしなくていいのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re a customer right now, so there’s no\\nneed to be worried about me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "でも、気になるから！\\nすぐに取ってくるねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I am worried about you! I’ll be right back!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "もう、ココアちゃんったら。\\n本当に優しいのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness, Cocoa-chan. You’re really too kind\\nfor your own good.",
+          "status": "machine_translated"
         }
       }
     },
@@ -257,92 +257,92 @@
         "0": {
           "speaker": "千夜",
           "original": "ありがとう、助かったわ。\\nでも、今度はココアちゃんが寒そうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, you’ve been a big help. But it\\nappears that now you’re the one who’s\\ngetting too cold.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "え？　寒くないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? I’m not cold at all.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "でもココアちゃん、ほっぺが真っ赤よ？\\n私が温めてあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Despite how your cheeks look bright red? Let\\nme warm them up for you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "温かーい……。\\nでも、千夜ちゃんの手が\\n冷たくなっちゃうんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice and warm... But isn’t this going to make\\nyour hands cold again?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "いいのよ。\\nそうしたら、またココアちゃんに\\n温めてもらうから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s fine with me. If my hands get cold, I’m\\nsure you’ll warm them up again for me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うん、何回でも温めてあげるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Certainly! I’ll warm them up as many times as\\nnecessary!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "じゃあ、私も何度だって温めるわ。\\n２人でそうしていれば、\\n寒さなんて忘れてしまえるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And in return, I’ll warm you up as many times\\nas necessary. So long as we’re together, the\\ncold won’t even be worth remembering.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "おお、すごい！\\n私と千夜ちゃんが一緒にいれば\\n冬なんてへっちゃらってことだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that’s amazing! When you and I are\\ntogether, winter doesn’t stand a chance!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ええ、北風にだって雪にだって負けないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. We’re invincible against the wind\\nor the snow.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あ、でも、雪には\\nちょっとだけ負けてあげてもいいかな。\\n積もってくれないと遊べないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I kinda hope we let the snow win a\\nlittle bit. If it never builds up, we won’t get to\\nplay in it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あら、確かに。\\n今年の冬はどのくらい降るのかしらね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, good point. I wonder how much we’ll get\\nthis winter.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "さて、それじゃ中に入りましょう。\\nココアちゃん、\\n熱い抹茶とお汁粉、どっちがいいかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, let’s head on inside. Cocoa-chan,\\nwould you rather have some hot matcha or\\nsome shiruko?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "両方！\\nっていうのはだめ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Both! Is that I’d like to say. Too greedy?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "もちろん、いいわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all. Both is fine.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "やったぁ！\\nえへへ、ありがとう千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Ehehe~ Thank you, Chiya-chan.",
+          "status": "machine_translated"
         }
       }
     }

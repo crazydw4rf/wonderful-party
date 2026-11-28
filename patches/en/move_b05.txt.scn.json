@@ -6,110 +6,110 @@
         "0": {
           "speaker": "メグ",
           "original": "ココアちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chaaan!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "おーい、ココア～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oi, Cocoaaa!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（あれ？　この声は……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Someone’s calling out to me...)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "おーっす、ココア！\\nこんなところで何してるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sup, Cocoa! What are you doing all the way\\nout here?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "メグちゃん、マヤちゃん。\\n休みだからゆっくりしてるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-chan, Maya-chan. I’m on break, so I’m\\njust relaxing.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "それにしても……２人はいつも一緒なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway... You two always seem to be\\ntogether, don’t you?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "ふふーん、私とメグは一心同体だからな。\\nこれでチノがいれば無敵だぞ？\\n３人揃えば、きっと悪とも戦える！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh, Megu and I are inseparable. We’d be\\ninvincible if we had Chino here. A team of\\nthree is strong enough to start fighting evil.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "うんうん。\\nこの街を狙う悪の組織から、平和を守るんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! We’re here to protect this town from\\nevil organizations.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ええっ！？\\nまさかチマメ隊が\\nこの街の平和を守っていたなんて……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!? I never realized that Chimame-\\nCorps’ mission was to keep the peace!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ねえ、私も仲間に入れて。\\n妹たちだけに任せておくなんてできないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, do you mind if I join in? I can’t leave\\nsuch an important task solely to my little\\nsisters!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "うーん、ココアじゃ\\nあんまり頼りにならなさそうだけど、\\n入れてあげてもいいかな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I get the feeling you’ll only hold us\\nback, but whatever. I suppose we can\\nwelcome you aboard.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "やったー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "メグ",
           "original": "ココアちゃんが入って４人だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our team adds up to four now with Cocoa-\\nchan included.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "マヤ",
           "original": "ん？　４人？\\n４人はちょっと中途半端じゃね？\\nやっぱり戦隊は５人だろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Four, huh. That doesn’t sound quite right,\\ndoes it? A real sentai is supposed to have five\\nmembers.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃあ、あと１人誰かを探して来ないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which means we need to hunt down a fifth\\nmember.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "戦隊をやるなら、私、ホワイトがいいな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we’re doing sentai, I want to be the one to\\nwear white!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "私はブラック！\\nちょっと影があって、実は１番強いみたいな\\nポジションがいい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna be black! They usually have a cool\\nbackstory, and occupy the strongest position!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "じゃあ、私は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As for me...",
+          "status": "machine_translated"
         }
       }
     },
@@ -123,18 +123,18 @@
       "choices": {
         "*sel_0101": {
           "original": "かわいさが魅力のピンクかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe the cute and charismatic pink?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "リーダーシップのあるレッドだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The inspiring leader, red, of course.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "クールなブルーでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The calm and collected blue!",
+          "status": "machine_translated"
         }
       }
     },
@@ -143,38 +143,38 @@
         "0": {
           "speaker": "ココア",
           "original": "かわいさが魅力のピンクかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe the cute and charismatic pink?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "うん、ココアちゃんはピンクって感じ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good choice. You would fit the role of pink\\nperfectly.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "かわいいかどうかは置いといて、だけどな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe if we ignore the part about being\\ncute...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あっ！\\nかわいさならやっぱりチノちゃんが１番だから\\nピンクはチノちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait! If pink is the cutest member, then we\\nmust have Chino-chan fill that role!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "んー、チノはピンクって感じじゃないよな。\\nブルーが似合うんじゃね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Chino really doesn’t give off a pink vibe\\nto her, though. Wouldn’t blue be better?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "そうかも。\\nチノちゃんはクールだもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. Chino-chan is always cool-headed\\nafter all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -183,44 +183,44 @@
         "0": {
           "speaker": "ココア",
           "original": "リーダーシップのあるレッドだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The inspiring leader, red, of course.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "リーダーシップ……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You, an inspiring leader?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "あ、あるんじゃないかな？\\nココアちゃん、私たちをいつも引っ張ってくれるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "M-Maybe she has a point? She’s always\\ndragging us into different things.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "でしょー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You said it!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "でも、ココアちゃんは\\nあまりレッドって感じがしないかも。\\nもっとかわいい色かなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, I don’t think red fits you very well.\\nWouldn’t it be better to pick a less serious\\ncolor?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "つか、レッドをやってもらうならリゼじゃね？\\n強そうだし、作戦とかも\\nきっちり立ててくれそうだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Besides, there’s no way red can go to anyone\\nother than Rize. She’s super strong and good\\nat strategizing.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うっ！\\n確かにリゼちゃんには敵わないかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. I probably wouldn’t stand a chance\\nagainst Rize-chan...",
+          "status": "machine_translated"
         }
       }
     },
@@ -229,56 +229,56 @@
         "0": {
           "speaker": "ココア",
           "original": "クールなブルーでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The calm and collected blue!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "ココアちゃんが……ブルー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan as blue?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "あはははは！\\nココアにブルーだけはありえねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahahahaha! Cocoa’s the last person I would\\nimagine as being blue!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そんなことないよ！\\n私だって結構クールなところ、あるんだからね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh come on! I’m sure there’s some part of\\nme that’s cool-headed.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "そうなんだ、全然知らなかったよ～。\\nどんなところがクールなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? I had no idea. In what way can\\nyou say you’re cool-headed?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ええっと、その……\\nどこかな？　私のクールなところって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, let me think... What exactly makes you\\nsay I’m cool-headed?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "私に訊くなよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you asking me!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "はあ、やっぱりココアはクールじゃないな。\\nそれにブルー枠はやっぱりチノだよ、\\nだからココアには渡せない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ There’s nothing cool-headed about\\nyou at all. Besides, there’s no way blue goes\\nto anyone other than Chino. Too bad, Cocoa.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "うーん、確かにチノちゃんはブルーが似合うよね。\\nならお姉ちゃんらしく、ブルーは妹に譲るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re right, blue fits Chino-chan too\\nperfectly. I’ll show some maturity and let my\\nlittle sister take the blue.",
+          "status": "machine_translated"
         }
       }
     },
@@ -287,32 +287,32 @@
         "0": {
           "speaker": "メグ",
           "original": "あ、ねえ、イエローはどうかな？\\n明るい色だし、ココアちゃんに似合いそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know. What do you think of yellow? It’s\\na nice, bright color, I think it’d fit you well.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "イエローもいいかも！\\nココア特製カレーパンを作って、\\nみんなのお腹をサポートするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yellow, good idea! I’ll support the team by\\nbaking everyone some of my special curry\\nbread!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "イエローってやっぱりカレーなんだ！？\\nていうか、ココア、それでいいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess when you think of yellow, curry is the\\nfirst thing that comes to mind. Are you really\\nokay with that?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "だって、お腹が空いたら戦えないよ？\\n戦隊のみんなを支える頼りになるポジション、\\nイエローほどおいしい役はないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One cannot fight on an empty stomach, you\\nknow? No other position can support the\\nteam as deliciously as yellow can!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "……まあ、ココアがいいならいいけどさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Well, whatever, so long as you’re happy.",
+          "status": "machine_translated"
         }
       }
     }

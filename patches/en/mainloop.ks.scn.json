@@ -6,8 +6,8 @@
         "0": {
           "speaker": null,
           "original": "プロローグをスキップしますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Would you like to skip the prologue?",
+          "status": "machine_translated"
         }
       }
     },
@@ -15,19 +15,19 @@
       "select_prompt": {
         "speaker": null,
         "original": "プロローグをスキップしますか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Would you like to skip the prologue?",
+        "status": "machine_translated"
       },
       "choices": {
         "*tutorial": {
           "original": "プロローグをスキップしない",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "View the prologue",
+          "status": "machine_translated"
         },
         "*tutorial_skip": {
           "original": "プロローグをスキップする",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Skip the prologue",
+          "status": "machine_translated"
         }
       }
     }

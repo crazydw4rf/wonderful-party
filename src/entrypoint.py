@@ -35,6 +35,12 @@ def main():
     build_parser = subparsers.add_parser("build", help="Build patched binaries (and optional rePatch zip)")
     build_parser.add_argument("lang", choices=list(SUPPORTED_LANGUAGES.keys()), help="Target language code")
     build_parser.add_argument("--repatch", action="store_true", help="Generate rePatch mod zip for PS Vita")
+    build_parser.add_argument(
+        "-j", "--jobs",
+        type=int,
+        default=None,
+        help="Max concurrent scenario compile workers (default: auto up to 5)",
+    )
 
     # progress
     subparsers.add_parser("progress", help="Calculate progress statistics and update Shields.io badges")
@@ -99,7 +105,7 @@ def main():
         apply_patches(args.lang)
 
     elif args.command == "build":
-        build_binaries(args.lang, repatch=args.repatch)
+        build_binaries(args.lang, repatch=args.repatch, jobs=args.jobs)
 
     elif args.command == "progress":
         update_progress_and_badges()

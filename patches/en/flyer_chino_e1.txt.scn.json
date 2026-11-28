@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "チノ",
           "original": "ふう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Phew...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チノちゃん？\\nチラシ配り、疲れちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan? Have these flyers worn you out?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "まだ大丈夫です。\\nただ、ちょっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm still fine for now. But, this is kind of...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "こういう服を着る機会はなかなかないので\\nちゃんと着られているか不安で。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since I've never had a chance to wear \\nsomething like this before, I'm slightly nervous \\nI'm not wearing it properly.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "大丈夫！\\nチノちゃん、よく似合ってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No problem there! Chino-chan, it looks great \\non you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ココアさんは\\nいつもそう言うじゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you say that about anything I wear.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "だって本当のことだからね。\\nチノちゃんはどんな服も似合うし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because it's always true! There's no such \\nthing as clothes that you couldn't wear and \\nlook good in.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "……そ、そうですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Y-You think so?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "それにしても、やっぱり\\nこういうピシッとした服を着ると\\nなんだかシャンとした気分になるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But anyway, wearing these dapper clothes \\nsomehow makes me feel all dignified.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "ああ、だからでしょうか？\\nココアさんがいつもよりしっかりして見えるのは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, is that it? You seem to look even more \\nresponsible than usual right now.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "やったぁ、チノちゃんに褒められちゃった！\\nそっか、私、しっかりして見えるんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At last! Chino-chan has finally awarded me \\nsome praise! That's right, I look totally \\nresponsible right now!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ティッピー",
           "original": "やれやれ。\\n見た目だけで、\\n中身はいつも通りのココアじゃのう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. \\nThat crisp appearance is only skin-deep. \\nInside it's the same old Cocoa.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "服装を変えただけで\\n中身まで変わってしまったら、\\nそれはそれで困りますけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Having your personality change just based on \\nyour appearance would be a problem in \\nits own right...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし！\\n　じゃあ、しっかりしてるところを\\n　もっと見せてあげないと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Alright! Now, it's time to show off \\nhow just how responsible I am!)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "チノちゃん、残りのチラシはこれだけ？\\nそれ、私が全部配ってきてあげるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, Are these all the flyers you \\nhave left? Let me go and finish these for you.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "え？　でも、まだココアさんの分だって\\n残ってるじゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? But you still have some remaining yourself,\\ndon't you?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "大丈夫、お姉ちゃんに任せなさい。\\nってことで、いってきまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't you worry, your big sister will take \\ncare of it! Now then, I'm off!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ティッピー",
           "original": "とんだお調子者じゃのう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She always gets so carried away.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "でも、ココアさんらしいとは思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I think she's being in character.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "ココアさん、待ってください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san! Wait for me!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ティッピー",
           "original": "なんじゃ、チノも行くのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's this? Chino, are you going with her?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "せっかく２人で来ているのに、\\n任せっぱなしにするわけにはいきませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We came all the way out here as a pair, so \\nthere's no way I'm making her do all the \\nwork.",
+          "status": "machine_translated"
         }
       }
     }

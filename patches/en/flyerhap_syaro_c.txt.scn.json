@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ねえ、千夜ちゃん。\\nこういう着物と浴衣って、どう違うの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chiya-chan. What's the difference between\\nthese kimonos and a yukata?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "んー、簡単に言うとね、浴衣は着物の１種で、\\n素肌に直接着るものを指すのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. To put it simply, a yukata is one type of \\nkimono, one that you wear with nothing \\nunderneath.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "へえ、そうなんだ～。\\n着物もいいけど、浴衣も着てみたいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so that's it. I like these kimonos, but \\nI wanna try wearing a yukata one day too.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "夏になったら、みんなで浴衣を着て\\n遊びに行こうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We should all go hang out in yukatas next \\nsummer!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "夏はずいぶん先ですけど……\\nいいですね、楽しそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not going to be summer anytime soon, but...\\nI like the idea. It sounds fun.",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,134 +58,134 @@
         "0": {
           "speaker": "シャロ",
           "original": "……はっ！\\nということはリゼ先輩も浴衣を！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...＊gasp＊\\nDoes that mean Rize-senpai in a yukata!?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "みんなが着るなら、もちろん私も着るさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If everyone's wearing them, then count me in \\nas well.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "せ、先輩の浴衣姿……！\\nほああああ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Senpai in a yukata! \\nHoaaaaaaaaa~",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "……なんで赤くなってるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Why are you turning red?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "シャロちゃん、浴衣が好きなんだね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, you sure like yukatas.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "あの、遊びに行くのなら\\nマヤさんとメグさんも誘いたいです。\\nいいでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, if we're all doing this, then I'd like to \\ninvite Maya-san and Megu-san too. \\nWould anyone mind?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ああ、もちろんいいさ。\\n人数は多い方が盛り上がるしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's totally fine. \\nThe more the merrier.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "ねえ、せっかくだから、\\n遠出して温泉街に、なんてどう？\\n浴衣と言えば湯上がりだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, since we have this chance, why don't we\\nmake it into a vacation to an onsen village?\\nYukatas are for bathing after all.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "確かに、それは風流だなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must say, that sounds quite romantic.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "風流と言えば……私、お祭りに行きたい！\\n花火を見て、屋台巡りをして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we're talking romantic... then I wanna go to a\\nfestival! We'll watch the fireworks, and go\\nfrom stall to stall...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "私、わたあめが食べたいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I personally want to try some cotton candy.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "私は金魚すくいね。\\n涼しげでいいもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm interested in goldfish scooping. \\nIt's perfect for cooling down.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "屋台と言えば射的だな。\\n日頃の訓練を試せるいい機会だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "When you think stalls, you think shooting games.\\nIt's the perfect way to put my daily \\npractice to the test.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "私は……大きな打ち上げ花火もいいけど、\\n手持ちの花火もやりたいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The big, professional fireworks show is fine \\nand all... but I want to set some off \\npersonally.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "いいね！\\nヘビ花火も面白いし、\\nねずみ花火もどきどきするよね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sounds great! The snake type fireworks are \\ninteresting, and the pinwheels get me all \\nexcited!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "ココアさんらしいチョイスです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Those two seem to suit you perfectly.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "うーん、行きたいところや\\nやりたいことが多くて困っちゃうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. I have so many places I wanna go and \\nthings I wanna do that I can't make up \\nmy mind.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "こうなったら、もう全部行こう！\\n思いつくことぜーんぶ、みんなでやろう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Guess that means we'll just have to do it all!\\nLet's all do everything that we can \\nthink of!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "ああ、いいぞ。\\nいっぺんには無理だけど、\\n夏は何度もくるんだからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, I like the sound of that. I doubt we can \\ndo it all at once, but we have plenty of \\nsummers to work with.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ええ、そうよね。\\nこれから何度も、一緒に夏を過ごしましょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's right. Let's all spend summer \\nafter summer together from now on.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "楽しそうだけど……旅費が……。\\n今からコツコツ貯めないと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sounds fun, but... my travel expenses... \\nI need to start saving up...",
+          "status": "machine_translated"
         }
       }
     }

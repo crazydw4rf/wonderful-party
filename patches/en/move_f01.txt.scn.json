@@ -6,62 +6,62 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日は、チノちゃんも私もリゼちゃんも\\n　午前中はお休みで、その分、青山さんが\\n　働きに来てくれてるんだよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan, Rize-chan and I all have the\\nmorning off today, so Aoyama-san has come\\nto fill in.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（喫茶店の青山さん、どんな感じなのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I wonder what Aoyama-san is like working at\\na cafe?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "青山さん、お仕事はどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, how’s this job treating you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "いらっしゃいませ、ココアさん。\\n人生相談ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome, Cocoa-san. Are you interested in\\nsome life counseling?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "あ……。\\n人生相談ではないのですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh... So that’s not what you’re here for.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "あの、ココアさん？\\nよかったら相談に乗りますが\\n何か悩みはないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, Cocoa-san? I would be happy to\\ncounsel you, if you want. Is there anything on\\nyour mind?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（すっごく人生相談して欲しそう！？\\n　どうしよう、何か相談を持ちかけないと。\\n　相談、相談すること……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She seems extremely eager to counsel\\nsomeone! What do I do? I need to hold a\\nconversation with her... Counseling...)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "……ごめんなさい、特にないです。\\n私、みんなのおかげで\\n毎日楽しく過ごせてますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I’m sorry, but I’m not particularly worried\\nabout anything. Thanks to all the friends at\\nmy side, I’m able to enjoy every day.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "まあ、素晴らしい。\\n私もココアさんのように\\n毎日笑って過ごせたらどれだけ幸せか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, how wonderful. If only I were more like\\nyou, able to spend every day with a smile on\\nmy face...",
+          "status": "machine_translated"
         }
       }
     },
@@ -75,18 +75,18 @@
       "choices": {
         "*sel_0101": {
           "original": "どんな毎日だったら笑って過ごせますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of day would make you smile?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "青山さんも毎日、楽しそうですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you do seem to be enjoying yourself?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "何か悩みでもあるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is there something on your mind?",
+          "status": "machine_translated"
         }
       }
     },
@@ -95,32 +95,32 @@
         "0": {
           "speaker": "ココア",
           "original": "どんな毎日だったら笑って過ごせますか？\\n言葉にしてみたら、青山さんなりの\\n楽しい毎日のコツがわかるかも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What kind of day would make you smile? The\\nsecret is to put into words exactly what you,\\npersonally would enjoy every day.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "なるほど、\\n言語化してみるのは大事かもしれません。\\nそうですね、毎日笑って過ごせる――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. I must be important to put what you\\nwant into words. Let me think, what do I\\nwant...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "と言いましたが、笑えることが\\n必要というわけではないような――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, even if I have nothing in particular to\\nsmile about--",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "そう、普通でいいんです。\\n笑えることがなくても、そこはかとなく\\n楽しい毎日が理想というか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that’s it. I don’t need anything like that.\\nPerhaps my ideal is a vaguely pleasant time,\\nwith nothing in particular to smile about?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "ああ、だめですね。\\n言語化しようとしたら、なおさら\\n何が楽しいかわからなくなってしまいました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah, I can’t do it. Trying to put things into\\nwords just makes what I want even more\\nunclear.",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,38 +129,38 @@
         "0": {
           "speaker": "ココア",
           "original": "青山さんも毎日、楽しそうですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you do seem to be enjoying yourself?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "……そうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "自分の好きなことをお仕事にして、\\nしかも映画化されたりもしてるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re able to have a job you love, and you\\neven got a film adaptation!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "小説のネタ探しも、苦労はしてますけど\\n楽しそうにやってる感じですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if it takes work to gather material for\\nyour writing, I get the feeling that you enjoy\\nthat part as well.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "ええ……。\\n確かに、自分では意識していませんが\\n楽しんでいるのかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe... I hadn’t realized it myself, but\\nperhaps I have been enjoying myself.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "ですが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However...",
+          "status": "machine_translated"
         }
       }
     },
@@ -169,62 +169,62 @@
         "0": {
           "speaker": "ココア",
           "original": "何か悩みでもあるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is there something on your mind?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "ええ……。\\nそれは、こうして人生相談窓口にいても、\\n誰も相談してくれないことです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perhaps... You see, I’ve set up this life\\ncounseling booth here, yet no one has come\\nto talk to me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "大きな悩みでなくてもいいんです。\\n心のどこかに引っかかっているような、\\n些細なことでも聞かせていただければ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It doesn’t have to be anything major. All I\\nwanted to hear was some little thing,\\nsomething bothering someone...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "心のどこかに引っかかっている？\\nうーん、ピンとこないんですけど、\\n青山さんにはそういう悩みがあるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something bothering someone? Hmm.\\nNothing comes to mind. Aoyama-san, do you\\npersonally have anything weighing you down?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "それは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "はっ！！\\nもしかして、恋！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Don’t tell me, you’re in love!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "いいえ、違います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that’s not it.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "でも、そうですね、恋とそれと\\nどちらを取るのか、と、並べて語られる\\nものではありますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, it’s much like love. It’s something\\nrather famous for competing with love in\\none’s life.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、わかった！\\nそれって『仕事』ですね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I figured it out! It’s your career, isn’t it?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "ええ。\\n人の人生において、恋と同じくらい\\n大きな存在です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Correct. It’s as influential on one’s life as love\\nis.",
+          "status": "machine_translated"
         }
       }
     },
@@ -233,86 +233,86 @@
         "0": {
           "speaker": "青山",
           "original": "私……\\n何をしていても小説のことが頭を離れないんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In my case... I can’t get writing out of my\\nhead.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "道を歩いていても、食事をしていても、\\nとにかく四六時中、小説のことを\\n気にかけています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even while I’m eating, or walking down the\\nstreet, I have writing on my mind twenty four\\nhours a day.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ええっ？\\nそれって危ないですよ。\\nうっかりケガをしたり事故にあったりしそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? It’s dangerous to not pay attention!\\nOne mistake and you’ll end up hurt or in an\\naccident.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "幸い、そういうことはないのですが……\\n頭の片隅を、小説のことが\\n占領してしまっている感じなんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fortunately, that hasn’t happened yet. But no\\nmatter what, I get the feeling that my novels\\nlive in my head rent free.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "最近、それでいいのかと\\n思ってしまうことがあって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Recently, I’ve started to make peace with the\\nfact...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うん？　それって言い方を変えると、\\n片時も忘れられないくらいに\\n小説が、お仕事が好きだってことですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. If you put it in a different way, you could\\nsay that you love your work so much that it’s\\nnever off your mind.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "え……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "なるほど、嫌々考えているわけではないはず、\\nということですね。\\n一理ありそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see what you mean. It’s not exactly\\nsomething I dread to think of, is it? Point\\ntaken.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "そんなに考えちゃうくらい好きなものがあるって、\\n幸せなことですよ、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something that you like so much that you\\ncan’t stop thinking about it is surely\\nsomething to be happy about. No doubt.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "青山",
           "original": "ええ、確かに。\\nふふ……そうですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, you’re right. Hehe, that’s absolutely\\ncorrect.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "青山",
           "original": "ねえ、ココアさん。\\n笑って過ごしたくなったら、\\nここに来て、おしゃべりしてもいいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa-san. Do you mind if I come back\\nhere some time, when I need a pick me up?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "もちろんです！\\nラビットハウスはいつだって\\n青山さんを待ってますよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course! Rabbit House will always be here,\\nwaiting on your return.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "ああ、嬉しいです。\\nココアさん、今日はお話を聞いてくださって\\n本当にありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, I’m glad to hear that. Cocoa-san, thank\\nyou so much for helping me get that off my\\nchest.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？　いつの間にか\\n　私が青山さんの人生相談に乗ってたような？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait a second, I ended up becoming a life\\ncounselor for her instead!)",
+          "status": "machine_translated"
         }
       }
     }

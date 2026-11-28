@@ -6,38 +6,38 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "全員で軍服を着るとかっこいいね～。\\nすごく絵になってると思うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look how good we look, all together in \\nmilitary uniforms. You could make a painting \\nout of us.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "見た目だけだな。\\n軍人らしいことは何もしてないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it's only skin-deep. We're not doing a \\nsingle thing military related.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "まあ、チラシ配りのために\\n衣装を変えてるだけですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, changing our costumes is only for the\\npurpose of distributing these flyers, \\nafter all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -46,368 +46,368 @@
         "0": {
           "speaker": "チノ",
           "original": "そもそも、軍人らしいことってなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you even mean by \\n”military related” stuff anyway?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "やっぱり、こう、鍛えたいよね。\\n軍人は心も体も徹底的に鍛えるんでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I know her, she probably wants a military \\ndrill. A soldier must be thoroughly trained,\\nboth mentally and physically.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いい心意気だ。\\nなんなら、親父から受けた訓練を\\n今度は私がみんなに叩き込んでやるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the spirit. If you like, I can whip \\nyou all into shape, the same way my father \\ndisciplined me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ちょ、ちょっと待って？\\nリゼちゃんのいう訓練ってどんな感じなのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-Now hang on just a minute. Just what \\nsort of training are you implying?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そうだな、まずは筋力トレーニングか。\\n腕立て、腹筋、背筋、懸垂だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see. First thing off the bat \\nwill have to be strength training. \\nPushups, situps, bridges and pullups.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "はううぅ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauu~",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "リゼちゃん、それは千夜ちゃんには無理……\\nっていうか話を聞いただけで\\n体力がゼロになってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, what you suggest will kill\\nChiya-chan. As a matter of fact, just talking\\nabout it has zeroed the strength in her body.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、もうちょっと\\n　お手軽に鍛えられることは――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hm, it seems we need a bit \\neasier exercise to perform...)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "……ん？\\nどうしたんですか、ココアさん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? \\nWhat do you intend to do, Cocoa-san?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ねえ、リゼちゃん。\\n軍人にはバランス感覚も必要かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize-chan. How important is a sense \\nof balance to a soldier?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "ああ、もちろんだ。\\n足場が不安定な場所で戦うことだってあるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Very important, of course. It's always \\npossible they'll have to fight on uneven \\nterrain.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "じゃあ、ちょうどいい訓練があるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then I've got the perfect drill for \\nus to do!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "へえ、どんな訓練なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, what type of drill is that?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "じゃーん！\\nティッピーでーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tadaa! \\nIt's Tippy!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ティッピー",
           "original": "なぬ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ティッピーを頭に乗せてバランスを取る！\\nチノちゃんは普通にやってるけど、\\nこれって実はかなり難しいと思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try and balance Tippy on your head! Chino-chan\\nmakes it look easy, but it's actually \\na difficult feat to pull off.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "確かに訓練になるな。\\nしかも安全だし、誰にでもできる。\\nいいじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't deny that would make a drill. On \\ntop of that it's safe, and anyone could do it. \\nNot a bad idea.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "よし、さっそくやってみよう。\\n頭に乗せて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'm giving it a try. \\nOn my head she goes...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "う、うわ、これ、バランス取りにくい！\\n落ちるっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu, uwa! I can't keep her balanced! \\nShe's gonna fall!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ティッピー",
           "original": "ぬわわわわわわっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nuwawawawawawa!?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "ティッピー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "キャッチ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gotcha!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "ココアさん、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, thank you.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "この毛玉を頭に固定するの、本当に難しいぞ。\\nできるのは、かなりのバランス感覚の持ち主だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Keeping that furball on your head is much \\nharder than it looks. Only someone with an \\nincredible sense of balance could do it.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "じゃあ、千夜ちゃんはどうかな。\\nお盆三刀流ができるんだから、やれるかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Next up, let's see if Chiya-chan can do it.\\nShe can pull off the triple-tray technique,\\nso I bet she can do this too.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "じゃあ、挑戦してみるわね。\\nココアちゃん、頭の上に乗せてみてくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, I'll give it a shot. Cocoa-chan, \\ncan you put her on my head for me?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "はい、ティッピー。\\n今度は千夜ちゃんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here we go, Tippy. \\nThis time you get Chiya-chan.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ティッピー",
           "original": "仕方ないのう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you insist...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "じゃあ、乗っけるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, up she goes.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "……はうっ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Hau~",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "重さに耐えきれず崩れ落ちた！？\\n体力ゼロにもほどがあるだろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She crumbles instantly under the weight of a \\nrabbit! There's a limit to just \\nhow weak you should be!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "無理……もうだめ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's it... \\nI can't go on...",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "シャロ",
           "original": "千夜は本気で体を鍛えた方がいいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya really ought to get more exercise \\nsometime.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ティッピー",
           "original": "……わし、そんなに重い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Am I really that fat?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "大丈夫です、千夜さんが特別なんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're fine. \\nChiya-san is an exceptional case.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "じゃあ、次！\\nシャロちゃん、いってみよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Next up, Sharo-chan! Give it a try!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "シャロ",
           "original": "む、無理だから！\\nうさぎを乗せるなんて無理だから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "N-No! \\nNot happening! \\nYou're not putting a rabbit on my head!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "大丈夫だよ、ティッピーだもん。\\nあんこだって時々乗せてるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't overthink it, it's just Tippy. Besides,\\ndon't you give Anko rides once in a while?",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "シャロ",
           "original": "あれは勝手に乗ってるのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He goes and does that without my consent!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "はい、ティッピー。\\n大人しくしててね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, Tippy. Be a good rabbit.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "って、こら！　やめて！\\nうさぎはだめぇ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Don't! \\nStop it! \\nAnything but a rabbit!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "千夜",
           "original": "ココアちゃん、そのへんにしてあげて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, why don't you leave it at that?",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "リゼ",
           "original": "シャロの場合、まず\\nうさぎ恐怖症克服の訓練だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For Sharo, we're probably going to have to \\nstart with a rabbit phobia treatment \\nexercise.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "シャロ",
           "original": "が、頑張りますぅ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'll try...",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア（Ｍ）",
           "original": "（よーし、次は私だね！\\n　チノちゃんにコツを聞いてみようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Alright then, now it's my turn! I'll \\nhave to hear what the secret to this is from \\nChino-chan.)",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ココア",
           "original": "チノちゃん、ティッピーを頭に乗せる\\nコツってある？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, what's your secret to keeping \\nTippy on your head all the time?",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "チノ",
           "original": "木になるんです。\\nふどーの心でゆったりと構えたら、\\nティッピーも安心して頭の上にいられるんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You must become like a tree. If you have an\\nimmovable heart and a calm mind, Tippy too will\\nbe at peace and will remain settled.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふどーの心……。\\n　なんだかよくわかんないけど、\\n　心を落ち着けてじっとしてればいいのかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(An immovable heart? I don't really get\\nit, I guess you just remain calm and hold \\nstill.)",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "ココア（Ｍ）",
           "original": "（落ち着く、落ち着く、落ち着く……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Keep calm, keep calm, keep calm...)",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "リゼ",
           "original": "よし、じゃあ毛玉を乗せるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'm putting this furball on your \\nhead now.",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "ココア（Ｍ）",
           "original": "（ティッピーが乗った……じっとしてる……\\n　でも、もふもふ……もふもふ……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Tippy's on top... Hold still... \\nBut she's so cuddly.. \\nSo cuddly!)",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "チノ",
           "original": "だめですココアさん、\\nぼんのーに心を奪われたら……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not right, Cocoa-san! If you lose \\nyour immovable heart...",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "ティッピー",
           "original": "ぬお～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Woah!",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "リゼ",
           "original": "毛玉確保！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furball secured!",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "ココア",
           "original": "あれ、落ちちゃった。\\n難しいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, she fell off. \\nThis sure is hard.",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "リゼ",
           "original": "ココアもだめか。\\n結局、乗せられたのはチノだけだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So Cocoa can't do it either. \\nUltimately, only Chino is able to do it.",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "千夜",
           "original": "そういえばチノちゃん、\\nあんこも上手に頭に乗せられるのよね。\\nあんこも大人しくしているし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That reminds me of how well you can keep \\nAnko on your head, Chino-chan. You know how \\nto keep him obedient.",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "シャロ",
           "original": "うそ、あの凶暴うさぎが！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable! \\nDo you mean that brutal rabbit!?",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "ココア",
           "original": "バランス感覚では、\\nリゼちゃんを抜いてチノちゃんが１番だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan has surpassed Rize-chan as \\nhaving the number one best sense of balance!",
+          "status": "machine_translated"
         },
         "59": {
           "speaker": "リゼ",
           "original": "ああ、大したもんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Impressive. Very nice.",
+          "status": "machine_translated"
         },
         "60": {
           "speaker": "チノ",
           "original": "ティッピーとあんこの頭乗せなら任せてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you ever need to give Tippy or Anko a ride,\\njust leave it to me.",
+          "status": "machine_translated"
         }
       }
     }

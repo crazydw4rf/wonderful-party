@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃーん、遊びに来たよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chaaan, I’m here!",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,38 +16,38 @@
         "0": {
           "speaker": "千夜",
           "original": "ええと……これがこうで、こうだから……。\\nやっぱり難しいわね、困ったわ。\\nでもシャロちゃんはバイト中よね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um... Like this, and like this... This is getting\\nfrustrating. What do I do next? Sharo-chan’s\\nbusy at work right now...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "あ、ココアちゃん！\\nいらっしゃいませ、\\n気付かなくてごめんなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Cocoa-chan! Welcome. Sorry, I didn’t\\nsee you come on.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ううん、気にしないで。\\n千夜ちゃん、何やってたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to apologize. So Chiya-chan, what\\nare you up to?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "今日はお客さんが少ないから、\\nこっそり数学の宿題をやってたんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We haven’t been having many customers\\ntoday, so I’ve sneakily been doing some math\\nhomework...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "これで答えが合っているか、自信がなくて。\\nココアちゃん、見てくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I’m not very confident that I’ve been\\ngetting any right answers. Cocoa-chan, do\\nyou mind looking over this for me?",
+          "status": "machine_translated"
         }
       }
     },
@@ -61,18 +61,18 @@
       "choices": {
         "*sel_0101": {
           "original": "私に任せなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Leave it to me!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "じゃあ、ヒントを出そっか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, how about I give you a hint?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "だめだよ、自分でやらなきゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nuh-uh, you need to do it yourself.",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,50 +81,50 @@
         "0": {
           "speaker": "ココア",
           "original": "私に任せなさい！\\n答え、教えてあげる――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Leave it to me! The answer is--",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、それだとズルになるからだめだね。\\nじゃあ、答えがわかるまで\\nびしびし鍛えてあげるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, doing that is the same as cheating.\\nInstead, I’ll strictly train you until you can get\\nthe right answer yourself!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ココアちゃん、私のために……！\\nいいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, would you really go so far for\\nme? Are you okay with that?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "千夜ちゃんには、\\n文系全般でお世話になってるから\\nこれくらいはしないとね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ve already helped me with all the social\\nsciences, so I need to return the favor.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、こっちの紙に問題と答えを書いて――\\nはい、問１はこうなりまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For starters, I’ll write all the answers down on\\na piece of paper. Here’s the answer to the\\nfirst problem.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "私のと答えが違うわ。\\nどうしてかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is different from my answer. What did I\\ndo wrong?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "じゃあ、問１を最初から解いてみるから、\\nわからないところがあったら質問して？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, redo this from the beginning, and ask\\nme about anything you’re unsure about.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そして、そのあとの問題を自力で解けば\\nきっと身につくはずだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After that, once you’ve gained confidence in\\nyour ability to solve it on your own, it’ll\\nbasically become second nature to you.",
+          "status": "machine_translated"
         }
       }
     },
@@ -133,20 +133,20 @@
         "0": {
           "speaker": "千夜",
           "original": "これなら大丈夫そう。\\n丁寧にありがとうココアちゃん、\\nまるで先生みたいだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sounds like a good plan. I honestly\\nappreciate it, Cocoa-chan. You’re almost like\\na teacher.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "では、今だけ私は千夜さん専属の先生ですわね。\\nびしびしいきますわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, I’ll step up as Chiya-san’s\\npersonal teacher for today. I won’t go easy on\\nyou!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ、よろしくお願いします。\\nココア先生。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wonderful. Nice to meet you, Cocoa-sensei.",
+          "status": "machine_translated"
         }
       }
     },
@@ -155,8 +155,8 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、ヒントを出そっか？\\n答えを言っちゃったら、\\n千夜ちゃんがやったことにならないからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, how about I give you a hint? If I just\\ngive you the answer, you’ll lose out on doing\\nthe work yourself.",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,26 +165,26 @@
         "0": {
           "speaker": "千夜",
           "original": "ありがとう、とっても助かるわ。\\nそれじゃ、さっそくだけど、\\nこの問４のヒントをお願い。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, that would be a big help. Let’s\\njump into it. Please give me a hint for the\\nfourth question.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "これはね、この数式に当てはめて、\\nそれからこれを計算してみるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That one huh. You use this formula, and then\\ngo on to calculate after that.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "これを……当てはめて、計算して……\\nどうかしら？　合ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Use the formula... on this... and calculate...\\nThere. How’d I do?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん、正解！\\nよくできました、千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice, perfect! Well done, Chiya-chan.",
+          "status": "machine_translated"
         }
       }
     },
@@ -193,68 +193,68 @@
         "0": {
           "speaker": "ココア",
           "original": "だめだよ、自分でやらなきゃ。\\n応援するから頑張って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nuh-uh, you need to do it yourself. I’ll cheer\\nyou on, so give it your best shot.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうね。\\n宿題なんだもの、自分でやらなくちゃ。\\nそれに――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right. It’s my homework after all, I need to\\nwork through it myself. And--",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "全国チェーン甘兎の頂点に立つのなら、\\nこのくらいの計算、できて当然よ！\\nいざっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I intend to be the head of the nationwide\\nrestaurant chain, Ama Usa, I should be be\\nable to solve this!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "……あ！\\nそれは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh. This one is...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "え？　何、ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What is it, Cocoa-chan?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "う、ううん、なんでもない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, it’s, it’s nothing!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "そう？\\nじゃあ、続けて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Okay then, continuing on...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あ、その答えは……！\\nううん、違う違う、応援するんであって\\n答えを言っちゃだめ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, that answer is... Wait, no, I’m just\\ncheering you on, no help allowed!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "しゅ、集中できない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I can’t focus like this...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "あ、あの、ココアちゃん？\\nヒントだけでももらえると嬉しいのだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "U-Um, Cocoa-chan? Couldn’t you at least\\ngive me a hint?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そっか、ヒント！\\nうん、ヒントだけなら問題ないよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right, a hint! Sure, giving out hints shouldn’t\\nbe an issue.",
+          "status": "machine_translated"
         }
       }
     },
@@ -263,116 +263,116 @@
         "0": {
           "speaker": "千夜",
           "original": "ありがとう、ココアちゃん。\\nココアちゃんに手伝ってもらわなきゃ、\\n宿題、終わらなかったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-chan. I wasn’t making\\nmuch progress on this without your help.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "そうだわ、お礼をしなきゃ。\\nたい焼きなんてどう？\\n焼き立てを用意するわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, I need to thank you. How about some\\ntaiyaki? I’ll prepare some for you fresh.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "焼き立てたい焼き！\\nなんて幸せな響き……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fresh taiyaki! That has such a wonderful ring\\nto it!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "それじゃ、ちょっと待っててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait here for just a moment.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うわあ、いい匂い～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaa~ What a great smell!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "はい、できたわ。\\n口から尻尾の先まで\\nあんこぎっしりの特製たい焼きよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There, it’s done. This taiyaki is stuffed from\\nmouth to tail with anko.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "わーい！\\nいただきます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Time to eat!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ふわあ、おーいしーい！\\nあんこの上品な甘さと、\\n皮のカリカリ感がたまらないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, delicious! The unmatched sweetness of\\nthe anko combined with the crunchiness of\\nthe crust is to die for!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "はい、お茶もどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, have some tea with that.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ありがとーっ！\\nお茶の渋さとたい焼きの香ばしさの\\nハーモニーがいいよねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you! The flavor of the tea and the\\nscent of the taiyaki makes such a good\\nharmony.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "でもココアちゃんはしっかりしてるわね。\\n宿題をきちんと終わらせて、\\nこうしてお休みを満喫してるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is quite impressive of you, Cocoa-chan,\\nhaving done your homework early and being\\nable to thoroughly enjoy a break like this.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "もしかして……忘れてた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t tell me... you forgot?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "……忘れてた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I forgot.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "お、教えてる時に思い出さなかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You surely remembered while teaching me,\\nright?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "思い出さなかった……。\\nでも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I didn’t remember... But that said...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "計算自体は今やっちゃったから今夜頑張るよ。\\n今はたい焼き優先！\\n焼き立てたい焼きが冷めたら悲しいからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We just got done with math, and the rest can\\nwait until tonight. But now is time for taiyaki!\\nLetting this cool down would be a tragedy.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "じゃあ、応援のために\\nお土産のたい焼きも作るわね。\\n冷めてもおいしいはずだから、お夜食にして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, I’ll send you home with some\\nmore taiyaki for support. It still tastes fine\\nwhile cold, so have it as a snack tonight.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ホント！？\\nありがとう、千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Thanks, Chiya-chan!",
+          "status": "machine_translated"
         }
       }
     }

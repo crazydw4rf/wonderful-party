@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "リゼ",
           "original": "……ふう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リゼちゃん、どうしたの？\\n疲れちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's the matter, Rize-chan? Are you tired?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いや、その逆だ。\\nただチラシを配ってるだけじゃ、\\n体がなまりそうでさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's the opposite problem. Handing\\nout flyers like this is so easy\\nthat I feel like I'm getting rusty.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "じゃあ、訓練をしながら、\\nチラシを配ったらいいんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then we'll just have to find you a form\\nof training that you can do while working!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そうだな、チラシ配りと両立できる\\n訓練があればいいんだが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like that idea. What would count\\nas both an exercise and an advertisement?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "よし、じゃあ、チラシ配りの間は\\nココアの影を踏んでいることにしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! I'll try to step on your shadow\\nwhile going about my usual routine.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "影を踏む！？　どうして！？\\n私に何をする気なの～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Step on my shadow!? How could you!\\nWhat do you intend to do to me!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "いや、何もしない。\\n影を踏むだけだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, nothing.\\nI'm just stepping on your shadow.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ココアは面白い動きをするからな。\\n動きを予測して、先手を取る訓練になりそうだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You always move around in the most\\npeculiar way. Trying to predict your\\nnext move will make for good practice.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "何を～！？\\nそう簡単に私の影は踏ませないよっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Game on! You're not going to\\ntake down my shadow easily!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "よっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gotcha.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そんな、あっさり！？\\nけど、まだまだー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How'd you do that! But I'm not done yet!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "はっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hah!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ささっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nyoom!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "ほっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hoh!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "これでどうだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have fun with this one!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "えい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eyy!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "やーらーれーたー！\\n……ぱたり。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You... got... me... ＊death gargle＊",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "おい、こんな所で倒れるなよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa, don't lie down in the\\nmiddle of the road like that.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "だ、だって……\\nリゼちゃんがこんなに影踏みが上手いなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm defeated. I can't believe you're\\nthat good at stomping on my shadow.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "ココアの場合、意識すると\\n動きが大げさになってわかりやすくなるんだ。\\n普段の動きの方がトリッキーでつかみづらいぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The more you thought about your actions,\\nthe more obvious they became. You'd\\nperform better by not thinking at all.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "そうなの？\\nどうやったら、意識しないで\\nうまく逃げられるようになるのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? How am I supposed to improve\\nat escaping without thinking about it?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "まあ、訓練あるのみだな。\\nココアが逃げる、私が追う、これを続けてみるか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know what they say: practice makes\\nperfect. We'll just have to continue our\\ncat and mouse game until you improve.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うん！\\n影を踏まれない訓練、頑張る！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! I'll try even harder\\nfor my shadow's sake!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "あ、訓練のついでに\\nチラシ配りもやらないとね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, but let's not forget about the flyers\\nas we train!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "いや、訓練がついでだからな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh,\\nthe flyers always were the main objective.",
+          "status": "machine_translated"
         }
       }
     }

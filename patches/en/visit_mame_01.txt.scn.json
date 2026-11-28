@@ -6,128 +6,128 @@
         "0": {
           "speaker": "マヤ",
           "original": "ちわ～っす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sup!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "お邪魔しまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pardon us.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "おお、やっとお客さんが来てくれたよ！\\nさあさあ、座って座って？\\nご注文は何にしますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, finally, a customer! Come, come, have a\\nseat, have a seat! What will your order be?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "な、なんだ？\\n今日のココアはぐいぐい来るなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What’s with her today? Cocoa’s being\\nway more aggressive than usual.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "悪いな、２人とも。\\n今日はやけに暇なんで、\\nココアのやつ、退屈で仕方なかったみたいなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sorry about that. We’ve had nothing to do all\\nday, so Cocoa’s been dying of boredom.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "ああ、それでチノが\\nあんなことやってるわけか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that explains what Chino’s doing right\\nnow.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "メグ",
           "original": "あっ！\\nチノちゃん、それ、数学の宿題？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Chino-chan, is that your math\\nhomework?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はい。\\n暇なので、今のうちに\\n終わらせようと思っていました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes. I have nothing else to do, so I thought I’d\\nget it out of the way now.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "丁度いいや。\\n私たちもチノに便乗しようか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect timing. We might as well join you.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "メグ",
           "original": "うん！\\nチノちゃん、一緒に宿題しよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Chino-chan, can we do our homework\\nwith you?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "はい、構いませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, I don’t mind.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "みんな、頑張れ～！\\nお姉ちゃんが応援してるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Give it your best shot, everyone! Your big\\nsister is here for moral support!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "応援しているのなら、静かにお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The best way to offer your moral support is\\nto be quiet.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "はい……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "メグ",
           "original": "うーん……。\\n次の問題、難しいねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm... I’m not making any progress on this\\nquestion...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "どれどれ？\\nああ、その答えはマイナス３だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Which one? Oh, the answer to that one is -3.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "お！\\nサンキュー、ココア！　助かったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Thank you, Cocoa! You’re a lifesaver.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "ココアさん。\\nそうやって答えを教えられたら勉強になりません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san? If you leak the answer like that\\nwe don’t get to learn anything.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "マヤ",
           "original": "えー、いいじゃん楽で。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aww, why are you complaining? It’s easier\\nthis way.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "メグ",
           "original": "でも、自分でちゃんとやらなきゃ\\nテストの時、解けなくなっちゃうよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if you don’t do it on your own now, you’re\\ngoing to be stumped when it shows up on the\\ntest.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "そうです。\\nココアさんも、答えがわかっても\\n言わないようにしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. Cocoa-san, even if you know the\\nanswer, please keep it to yourself.",
+          "status": "machine_translated"
         }
       }
     },
@@ -135,24 +135,24 @@
       "select_prompt": {
         "speaker": "チノ",
         "original": "そうです。\\nココアさんも、答えがわかっても\\n言わないようにしてください。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "That’s right. Cocoa-san, even if you know the\\nanswer, please keep it to yourself.",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "本当にごめんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m really sorry.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "つい言っちゃったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was an accident.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "そんなこと言うと、もう教えてあげないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then I won’t give you the answer at all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -161,8 +161,8 @@
         "0": {
           "speaker": "ココア",
           "original": "本当にごめんね。\\nせっかく勉強してるのに邪魔しちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m really sorry. I shouldn’t have disrupted\\nyour studying.",
+          "status": "machine_translated"
         }
       }
     },
@@ -171,74 +171,74 @@
         "0": {
           "speaker": "メグ",
           "original": "ううん、謝ることないよ。\\nお手伝いしてもらえるのは嬉しいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s fine, no need to apologize. We\\nunderstand you were trying to help.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "ココアにも頼りになるところが\\nあるんだなーって思えるしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I almost thought that you were good for\\nsomething for once.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え、えへへ～。\\nそうおだてても、もう答えは\\n教えてあげないんだからね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Ehehe~ If you think you can flatter me into\\ngiving you the answers, you’re mistaken!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "おい、ココア。\\nそう言いながら、次の問題を\\n解こうとしてるのはなんでだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’ve gotta be kidding me, Cocoa. Aren’t\\nyou trying to solve the next question as fast\\nas you can right now?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "こ、これは、ただ、\\n困った時に、すぐ答えられるように\\n準備してるだけだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m-I’m just preparing in case you get stuck\\non that one! So I can answer as soon as\\npossible!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "なあココア、これの答えは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yo Cocoa, what’s the answer?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、それはねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, the answer is--",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "ココアさん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "う、ううう～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu uuuu~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "そんなに教えたいのか。\\n頼られて嬉しいんだな、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is she that desperate to answer it? She must\\nlove being relied on, for sure.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nちょっと待っててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have an idea! Wait just a minute.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "ココアちゃん、どうしたのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder what Cocoa-chan is thinking?",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,38 +247,38 @@
         "0": {
           "speaker": "ココア",
           "original": "つい言っちゃったんだ。\\nすぐに答えがわかったから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was an accident. I figured out the\\nanswer right away.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "じゃあ、そのついを\\nこれからも繰り返してくれよ。\\n楽できるし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, now repeat that happy little accident a\\nfew more times for us! This is gonna be\\neasy!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "だめです、マヤさん。\\nココアさんも絶対に\\n答えを言わないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won’t do, Maya-san. Cocoa-san,\\nabsolutely do not give us the answers.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fiiine.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nちょっと待っててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have an idea! Wait just a minute.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "ココアちゃん、どうしたのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder what Cocoa-chan is thinking?",
+          "status": "machine_translated"
         }
       }
     },
@@ -287,8 +287,8 @@
         "0": {
           "speaker": "ココア",
           "original": "そんなこと言うと、もう教えてあげないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fine! If you’re gonna say that, then I won’t\\ngive you the answer at all.",
+          "status": "machine_translated"
         }
       }
     },
@@ -297,32 +297,32 @@
         "0": {
           "speaker": "リゼ",
           "original": "それでいいんだよ。\\nこういう時は、相手が教えを請うてくるまで\\n自力で頑張らせないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s how it ought to be. You should make\\nthem work on their own until they come to\\nyou for instructions.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "リゼってスパルタ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize’s as strict as always.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "そんなことないって。\\n聞いてくれたら、ちゃんと教えるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s an exaggeration. If you can’t figure it\\nout, we’ll teach you the answer.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nちょっと待っててね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have an idea! Wait just a minute.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ココアちゃん、どうしたのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder what Cocoa-chan is thinking?",
+          "status": "machine_translated"
         }
       }
     },
@@ -331,122 +331,122 @@
         "0": {
           "speaker": "チノ",
           "original": "また変なことを企んでないといいんですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope she’s not planning on doing anything\\nstrange.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃーん！\\n勉強で頑張ってるみんなに、\\nデザートのサービスだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ta-da! As a reward for your hard work, I’ll\\ntreat you to some dessert!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "うわぁ！\\nありがとう、ココアちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaa! Thank you, Cocoa-chan!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "やったね、ラッキー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice! It’s my lucky day!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "あ、ありがとうございます……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, thank you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "答えは教えてあげられないけど、\\nこういう形でばっちりサポートするからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Giving you the answer isn’t much help, but I\\ncan support you in other ways.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "じゃあ、そのデザートの代金は\\n当然、ココアが払うんだよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great. And it goes without saying that you’ll\\nbe paying for those desserts yourself, right?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "えっ！？\\nわ、私が全部、払うの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wha!? Y-You’re making me pay for all of\\nthese myself!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "当たり前だろ？\\n店の商品なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shouldn’t that be obvious? It’s on the menu\\nafter all.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あああ……。\\nこ、今月のお小遣いが～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAAAAaaaa~ There goes this month’s\\nallowance...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "大丈夫です、ココアさん。\\nリゼさんの冗談ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t take her seriously, Cocoa-san. Rize-\\nsan is just joking.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ほ、本当に？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "R-Really?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "ああ、冗談だよ。\\n本気にするとは思わなかった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, I’m kidding. I didn’t think you’d take it\\nseriously.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "はー、よかった！\\n今月お小遣いピンチだったから\\nどうしようかと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, what a relief. I didn’t know what I was\\ngoing to do if I had lost all my spending\\nmoney for the month.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "今回は、私のサービスということに\\nしておきますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just this once, I’ll say that it was on the\\nhouse.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ありがとう、チノちゃん！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Chino-chan.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "……いいんです。\\nちょうどデザートが食べたくなっただけですし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That was nothing. I wanted to have a\\ndessert anyway.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ私が食べさせてあげるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? Okay, then let me feed it to you!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "遠慮します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll pass.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "ココア、邪魔するのもいい加減にしろよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, haven’t you interrupted them enough\\nfor one day?",
+          "status": "machine_translated"
         }
       }
     }

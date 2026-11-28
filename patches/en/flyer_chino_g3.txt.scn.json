@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,182 +16,182 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえチノちゃん、いいもの見つけちゃった。\\nほら！　今の私たちの格好に\\nぴったりだと思わない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Chino-chan, I've found something \\ninteresting. Look, don't you think this goes with \\nour look perfectly?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ジャック・オー・ランタンですか。\\n確かにそう思いますけど、\\nどうしてこんなところにあるんでしょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A jack o'lantern? I agree with you, but what \\nis it doing here?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "誰かが、飾ったまま片付けを\\n忘れてるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It seems like someone forgot to throw it out \\nafter using it as a decoration.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "無責任な人ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What an irresponsible person.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ねえねえ、チノちゃん。\\nカボチャって言えば、どんなお料理を想像する？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino-chan. When you think of pumpkin, \\nwhat type of food comes to mind?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "……ココアさん、\\nもしかしてお腹空いたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san, don't tell me, you're hungry \\nright now?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ううん、そういうわけじゃないけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's not what I'm getting at...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ちょっと寒いからかな？\\nふっと、温かいカボチャのスープが\\n食べたいなって思ったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's a bit chilly out, so I thought some nice, \\nwarm pumpkin soup sounded good.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "カボチャのスープ、いいですね。\\n季節のものですし、\\n甘くておいしいのが作れそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pumpkin soup, that sounds lovely. It's in \\nseason, and we could make it be sweet and \\ndelicious.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "じゃ、帰りに、ハロウィンぽく\\nジャック・オー・ランタンを買っていこっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great! Let's pick up a Halloweeny \\njack o'lantern on our way home.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "……え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ん？\\n私、何かおかしなこと言った？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Did I say something weird?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "あの、ココアさん。\\n念のため言っておきますけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Cocoa-san? I'm going to say this just \\nto be safe...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ジャック・オー・ランタンというのは\\nカボチャで作ったこの飾りのことですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But you do know that a jack o'lantern is \\nthe decoration made from a pumpkin, right?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "うん。\\nカボチャでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup. It's a pumpkin.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "……ココアさん、これは中に火を灯して\\nランタンとして使うものであって\\n食べられませんよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san, it's carved out so you can \\nlight a candle and use it as a lantern. \\nYou can't eat it.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ええ！？　そうなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehhh? Really?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "カボチャである以上、食べようと思えば\\n食べられるのかもしれませんが……\\n食用に向いているものではないと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, it's still a pumpkin, so maybe you \\ntheoretically could eat it, though I doubt it's a \\npumpkin meant to be food.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "そうなんだぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "じゃあ、この子は余計に可哀想だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That makes this poor fellow's story even sadder.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "だって、こんなふうに置いたままにされて\\n食べてももらえないなんて――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look, he's been abandoned like this, and \\ncan't even be put to use as food...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "あ、そうだ。\\nねえチノちゃん、私たちで\\nこの子を飾った人を捜してみない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have an idea. Chino-chan, shall we try \\nto hunt down the person who made this guy?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "……見つかるとは限りませんよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I wouldn't expect we'd be able to find \\nthem.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "でも、このままにしておけないよ。\\nだめかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, we can't just leave him here. Can't we?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "……いいですよ。\\n気分転換に少しくらいなら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Sure. A short change of pace would be \\nwelcome.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "ありがとう、チノちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Chino-chan!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "本当にもう、ココアさんは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What am I going to do with you, Cocoa-san...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "ん？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What was that?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "なんでもありませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was nothing.",
+          "status": "machine_translated"
         }
       }
     }

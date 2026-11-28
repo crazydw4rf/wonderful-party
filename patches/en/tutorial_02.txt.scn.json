@@ -6,8 +6,8 @@
         "0": {
           "speaker": null,
           "original": "喫茶店モードのチュートリアルを見ますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Would you like to view the Cafe Mode tutorial?",
+          "status": "machine_translated"
         }
       }
     },
@@ -15,19 +15,19 @@
       "select_prompt": {
         "speaker": null,
         "original": "喫茶店モードのチュートリアルを見ますか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Would you like to view the Cafe Mode tutorial?",
+        "status": "machine_translated"
       },
       "choices": {
         "*tutorial": {
           "original": "チュートリアルを見る",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "View the tutorial",
+          "status": "machine_translated"
         },
         "*tutorial_skip": {
           "original": "チュートリアルを見ない",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ignore the tutorial",
+          "status": "machine_translated"
         }
       }
     },
@@ -36,212 +36,212 @@
         "0": {
           "speaker": "タカヒロ",
           "original": "では、ラビットハウスでの\\nバイトのやり方について説明をしておこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, I will now explain how to \\nwork at Rabbit House.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "タカヒロ",
           "original": "ここでは、ココア君を操作して、\\nお客様のおもてなしをしてもらいたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I would like you to move Cocoa-kun\\nand serve the customers.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": null,
           "original": "（喫茶店モードでは、\\n　目標数のお客様をおもてなしすることが\\n　目的です）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(In Cafe Mode, your objective is to serve the \\ndesignated number of customers.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": null,
           "original": "（お客様は自ら席につき、\\n　希望の飲み物をオーダーします）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The customers will seat themselves and order \\ntheir desired beverage on their own.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": null,
           "original": "（空いている席がない場合\\n　お客様は待っていますが、\\n　席が空き次第自動的に座ります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(If there are no available tables, \\nthe customers will wait, and will take their \\nseats as soon as they become available.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "タカヒロ",
           "original": "飲み物は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The six types of drinks are...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "タカヒロ",
           "original": "オリジナルブレンド、アイスコーヒー、\\nダッチコーヒー、カフェ・オ・レ、\\nカフェ・カプチーノ、紅茶の６種類だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Original blend, iced coffee, cold brew, \\ncafe au lait, cappuccino and black tea.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "タカヒロ",
           "original": "チノが飲み物を作ったら、それを運んで\\nお客様にお出ししてほしい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Once Chino makes a drink, I want you to \\ncarry and serve it to the customer.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "タカヒロ",
           "original": "すると、お客様は\\n飲み物を楽しんでからお帰りになる。\\nこれが１セットだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Once that is done, the customer will \\nenjoy their drink and then leave. \\nThat makes one set.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "タカヒロ",
           "original": "それから、バイトを行う際、\\n注意してほしいことがある。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After that, there's one thing I'd like \\nto point out while you're working.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "タカヒロ",
           "original": "間違った飲み物を持っていったり、\\n長い間席で待たせないようにしてほしい。\\nお客様が怒って帰ってしまうからだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you bring a customer the wrong drink, \\nor make the customer wait for a long time, \\nthey will get upset and leave.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "タカヒロ",
           "original": "５回、お客様を怒らせてしまった場合、\\nこの日のバイトは中止となってしまう。\\n気をつけてくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the event that you anger the \\ncustomers five times, you'll be kicked off the \\njob for the day. Please be careful.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "タカヒロ",
           "original": "「知名度」が高いほど、多くのお客様が\\n押し寄せてくるから大変なことになるが、\\n当然、収入も増えるだろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A higher “publicity level” will cause\\nmore customers to arrive. This can be\\nchaotic, but can also increase your pay.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": null,
           "original": "（また、喫茶店モードには３つのボタンが\\n　用意されています）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Furthermore, in Cafe Mode there are three \\nbuttons for you to use.)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": null,
           "original": "（左から一時停止ボタン、ヒントボタン、\\n　タッチできる場所を表示するボタンに\\n　なります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(From left to right they are: \\nPause, Hint, Display Interaction Points.)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": null,
           "original": "（一時停止ボタンを押すと、\\n　喫茶店モードの進行が一時停止します）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Pressing the Pause button will temporarily \\nfreeze the progress of Cafe Mode.)",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": null,
           "original": "（ヒントボタンを押すと、\\n　お客様が希望している飲み物をリゼが\\n　教えてくれますが……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Pressing the Hint button will have Rize tell \\nyou which drink the customers want, \\nhowever...)",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": null,
           "original": "（営業時間が５秒減りますので、\\n　ご注意ください）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Doing so will decrease business time by five \\nseconds, so use it carefully.)",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": null,
           "original": "（タッチできる場所を表示するボタンは\\n　押すと画面にタッチできる場所を\\n　教えてくれます）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The Display Interaction Points button will \\ninform you where on the screen it is \\npossible to touch.)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "タカヒロ",
           "original": "ラビットハウスの営業が終わると――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Once Rabbit House closes for the day...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "タカヒロ",
           "original": "「お客様を案内できたか」、「収入」、\\n「ミスの回数」で、ココア君の働きぶりを\\n判断する。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your performance will be judged based on \\nthe number of customers served, revenue \\nearned, and faults committed.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "タカヒロ",
           "original": "その結果、「知名度」が上がったり\\n下がったりするんだ。\\n知名度を高めるため、頑張ってくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That result will influence the publicity \\nlevel going up or down. I'm expecting you \\nto do your best at increasing it.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "タカヒロ",
           "original": "その後はチラシ配りだ。\\nチラシ配りでは、まず一緒に配る相手を決め、\\nそれからコスプレの服を選ぶことになる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Following that is the flyer distribution. \\nFlyer distribution will start with choosing \\nyour partner, then your outfit.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "タカヒロ",
           "original": "服の着こなしとコンビネーションによって、\\nラビットハウスの「知名度」がＵＰすることに\\nなるので、こちらも頑張ってほしい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Based on your dress and combination,\\nour publicity level will increase, so\\nI'd like you to work at this as well.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": null,
           "original": "（同じ服とキャラクターの組み合わせを\\n　繰り返すことで着こなし度が上がります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Matching the attire with a character \\nrepeatedly will increase fashion level.)",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": null,
           "original": "（着こなし度と衣装ランクの星の数が多いほど\\n　「知名度」が上がりやすくなります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The more stars of fashion level and costume \\nrank you have, the easier it will be to \\nraise publicity level.)",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": null,
           "original": "（ただし、同じ服とキャラクターの組み合わせを\\n　連続して選択することはできません。\\n　ご注意ください）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(However, keep in mind that it is not possible \\nto continuously select the same clothing \\nand character combination.)",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "タカヒロ",
           "original": "最後になるけど、「知名度」によって\\nチノの誕生日パーティーの内容が変わる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In the end, the details of Chino's \\nbirthday party will change depending on \\npublicity level.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "タカヒロ",
           "original": "さらに、最終日の時点で\\n「知名度」が５つ星になっていると――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furthermore, if on the final day the\\npublicity level is at five stars...",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "タカヒロ",
           "original": "特定のキャラクターストーリーではなく、\\n「みんなで過ごすストーリー」に\\n移行することができるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instead of an individual character story,\\nyou can enter into the harem ending.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "タカヒロ",
           "original": "ぜひ、チャレンジしてほしい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I would like you to give it a try.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": null,
           "original": "（「みんなで過ごすストーリー」の\\n　優先度はキャラクターストーリー\\n　よりも低くなります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The harem ending has a lower priority than \\nthe individual character stories.)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": null,
           "original": "（「みんなで過ごすストーリー」を\\n　目指す場合は各キャラクターの親密度が\\n　星９個以上にならないように注意ください）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Be aware that to aim for the harem\\nending, your intimacy level with each\\ncharacter must not be above nine stars.)",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": null,
           "original": "（また、１周目では\\n　「みんなで過ごすストーリー」\\n　に移行することができません）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Also, you cannot enter the harem ending \\nwithin the first week.)",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "タカヒロ",
           "original": "説明はこれで終わりだよ。\\nではココア君、チノをよろしく。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That will be the end of the\\nexplanation. Well then, Cocoa-kun,\\nplease take good care of Chino for me.",
+          "status": "machine_translated"
         }
       }
     }

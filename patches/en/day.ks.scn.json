@@ -46,8 +46,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は誰と一緒にチラシ配りをしよう？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Who will I hand out flyers with today?)",
+          "status": "machine_translated"
         }
       }
     },

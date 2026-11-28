@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ん～……んん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ngg... Nggg...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "ココアさん？\\nどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, what's the problem?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ネクタイって、つけ慣れてないから\\nちゃんとできてるか心配で気になって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not used to tying a necktie yet, so I'm\\nkinda worried that I didn't put it on \\nright...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "リゼちゃんやシャロちゃんの制服は\\nネクタイだよね。\\n毎日、大変じゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, Sharo-chan, you two wear a necktie\\nevery day for your school uniform, right? \\nIsn't that a lot of trouble?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "まあ、最初のうちはな。\\n慣れれば意識しなくても結べるようになるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, it was at first. But once you do it \\nenough you get to the point where you can \\ntie it without thinking.",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,182 +58,182 @@
         "0": {
           "speaker": "シャロ",
           "original": "そうですね、私も慣れました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. \\nI'm totally used to it by now too.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うーん、やっぱり違和感があるからやり直すよ。\\n１度、解こうっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. \\nI think there's something wrong with how \\nI did it. I'm gonna undo it and start over.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えーと……こうして、こうだったよね。\\nこうくぐらせて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see... \\nLike this, then like this, yeah? \\nThen this does through here...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ココアちゃん！？\\n蝶ネクタイのようになってるわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!? \\nYou're making it look like a bow tie!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "ネクタイを結ぶだけなのに、\\nなんでそう面白いことになっちゃうわけ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're just tying a tie! \\nHow on earth did you manage to screw it up\\nthat much!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "シャロちゃん、ヘルプ！\\nヘルプミー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nＨｅｌｐ！\\nＨｅｌｐ　ｍｅ！",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "仕方ないわね。\\nまず、この絡まったのをほどいて……\\nじゃあ、始めるわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't stand watching this.\\nHere, start by taking apart the tangled bit...\\nOkay, now I can begin.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "しっかり見てなさいよ？\\nほら、ここをこうして、こうして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pay close attention as I do this, alright? \\nLook, go like this, then like this...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "……あれ？　うまくいかない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. \\nHow do I do this again?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ああ、自分のを結ぶのと\\n他人のを結ぶのは勝手が違うよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. It feels different to tie it on someone\\nelse, after you've gotten so used to tying\\nit on yourself.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "シャロちゃん、ファイトだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, fight on!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "声援はいいから、じっとしてなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't need your cheerleading, \\nI need you to hold still.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "これがこっちで、えっと……\\n自分のネクタイだとこうしてこうなるから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This goes here, and then, uh... \\nIf this were my tie, it'd go like this...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "これが逆で、ここを通す……。\\nあれ？　上下も逆になるのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This goes the other way around, \\nand this goes through here... \\nWhat? Is it upside down somehow?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "シャロちゃん？\\n難しいならいいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan? If it's too hard you don't have \\nto do this you know?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "いいの、やらせて。\\n中途半端にするのは趣味じゃないのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine, let me get this right. \\nI'm not interested in leaving this half-baked.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "シャロさん、すごく真剣ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san sure is taking this\\nseriously.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "シャロはそういう性格なんだよ。\\n１度始めたら、最後までやり通さなければ\\n気がすまないんだろうな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's Sharo for you. Once she's started \\nsomething, she won't quit until she's \\nfinished the job.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "まだネクタイを結ぶのになれてないけれど、\\nどうしても旦那さんに結んであげたい\\n新妻のようね……初々しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's like a newlywed, who isn't very good\\nat tying his tie, but wants to do it for\\nhim no matter what. How precious!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "せせせ、先輩の前で何を言い出すの！\\nやめてー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Wh-Wh-What are you saying in front of\\nSenpai! Quit it!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "落ち着いて！\\n僕は君のそんな不器用さも愛してるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't fret!\\nI love the clumsy side of you too!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "なんで旦那さんを演じてるのよ、あんたは！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you acting as the husband!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "なんとなく、ノリ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dunno, just playing along?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "ああ、もう、黙ってなさい！\\nでないとギュッと締めるわよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah, enough! Just shut up already!\\nAnother word and I'm gonna strangle you\\nwith this thing!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "うっ……はいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, okay!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "シャロちゃん、すっごい！\\nちゃんとできてるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, I'm impressed! \\nYou did it perfectly!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "はあ、思ったより手こずったわ。\\nここまで付き合わせて悪かったわね、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊\\nThat was tougher than it looked. \\nSorry to keep you waiting so long, Cocoa.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "ううん、そんな。\\nこっちこそ、結んでくれてありがとう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no, I should be the one thanking you. \\nI appreciate that you tied my tie for me.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "シャロちゃん、知ってる？\\nネクタイを結んであげる時は、相手の後ろに\\n回ってやると簡単にできるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, did you know that it's a lot \\neasier to tie someone else's tie if you're \\nstanding behind them?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "そ、それを早く言いなさいよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-Why didn't you tell me that sooner!!",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,308 +6,308 @@
         "0": {
           "speaker": "ココア",
           "original": "いらっしゃいませ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings~!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？　リゼちゃん？\\nバイト早めに上がって帰ったんじゃなかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, Rize-chan? I thought you had already \\ngone home?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "何か忘れ物ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did you leave something here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "いや、ちょっとな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's a not exactly that.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "あの、先輩？\\nどうしてラビットハウスに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, Senpai? \\nWhat are we doing at Rabbit House?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、シャロちゃんも一緒なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you brought Sharo-chan with you too.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "こんにちは、シャロさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Sharo-san.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "チノ、しばらくシャロと２人で席を借りていいか？\\nできれば閉店までお願いしたいんだが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino, do you mind if the two of us borrow a \\ntable for a while? If you don't mind, I'd \\nlike to reserve it until the cafe closes.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "今は混み合っているわけでもありませんし、\\n構いませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not as if we're busy at all right now.\\nI don't mind.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ありがとう。\\nシャロ、こっちだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks. Sharo, over here.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "はい。\\nでも先輩、ここで何をするんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right. But Senpai, what are we doing here \\nright now?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "そうだなぁ。\\nまずは数学からにしようか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's see... How about we start with math?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "え？　数学？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Math?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "もうすぐ期末試験だろ？\\n一緒に勉強をしようと思ってさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We have finals coming up, right? I thought \\nwe'd do some studying together.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "あ……。\\nそうだったんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ohh... So that's what this was about.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "迷惑だったか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Am I wasting your time?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "いえ、そんなことありません！\\n数学ですね、すぐに準備します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's no problem whatsoever! Math you say, \\nlet's get started.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "へー、２人で勉強かぁ。\\n喫茶店で勉強って、なんだか捗りそうだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, a study duo. Studying in a cafe, that \\nsounds like a recipe for success.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "なら、ココアも一緒にやるか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you like, how about you join us?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "え！？\\n私はその～、まだ仕事があるし？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh!? I, uh, you know~, still have work and \\nstuff, you know?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "そう言うのなら、ちゃんと仕事してください。\\nお客さんが待ってます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you're going to say that, \\nat least do your job properly. \\nWe've got customers waiting.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "はーい。\\nオーダー、取りに行ってきまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On iiit. I shall now go take their orderrrr.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "リゼさん、コーヒーの差し入れです。\\nシャロさんはココアでいいでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-san, I'll bring you a coffee. Sharo-san,\\nwill you be fine with some hot chocolate?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "ああ、すまないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, thanks.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "ありがとう、チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Chino-chan.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "いえ。\\nでは、頑張ってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're welcome. Now then, good luck.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "よし！\\nじゃあ、始めるとするか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Well now, shall we get to work?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "はい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's begin!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "リゼ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "（始めてはみたけど……\\n　これじゃ、並んで\\n　別々に勉強してるだけのような？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sure we've gotten started, but...Aren't we\\njust studying separate things while sitting \\nnext to each other?)",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "（リゼ先輩とは学年が違うんだもの。\\n　当然、試験範囲も違うんだし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Rize-senpai is in another school year. \\nObviously what our tests cover will be \\ndifferent.)",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "シャロ",
           "original": "（でも、先輩にしてみれば、私の試験範囲は\\n　去年習ってるところなんだから、\\n　質問すれば教えてもらえるかも……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But, Senpai should have already learned \\neverything on my test last year. If I ask, I might\\nbe able to get the some answers from her...)",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "（あ、だけど、もし\\n　こんな問題もわからないのかって\\n　呆れられたりしたら……！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait, but what if she gets fed up with me \\nfor not knowing the answers to anything?!)",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "リゼ",
           "original": "なあシャロ、ちょっと聞いていいか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Sharo, is it okay if I ask you something?",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "あ、はい！？\\nなんでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Sure! What is it?",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "ここの問題なんだが、\\nどうやって解いたらいいと思う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's this problem. Do you know the right \\nway to solve it?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "えーっと……\\nこれなら、あの公式を使えばいいはずです。\\nほら、教科書のここですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, uh...In this case, you should use this\\nformula. Look, it's written right here in \\nthe textbook.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "ああ、なるほど、この公式だったな。\\nそれからさ、これなんだけど、わかるか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I see. It was this formula, wasn't it. \\nNext, this one here. Do you understand it?",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "それはですね、\\nここにこっちの数字を代入して――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This one huh? \\nIf you substitute this with that numberーー",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "（……あれ？　この問題もさっきの問題も、\\n　１年生の時に習うものよね。\\n　両方とも、今回の私の試験範囲だし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Wait. This problem and the last one\\nwere both for first years. And they were \\nquestions that will be on my test.)",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "シャロ",
           "original": "（どうして、リゼ先輩がそんなところの\\n　質問をしてくるのかしら？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(How odd, why would Rize-senpai be asking \\nme about these?)",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "シャロ",
           "original": "……あっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Oh!",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "リゼ",
           "original": "ん？　どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What's the matter?",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "シャロ",
           "original": "あ、いえ、別に、なんでもないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I mean, it's uh, it's nothing.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "シャロ",
           "original": "（もしかして先輩、私の復習を手伝うために、\\n　わざと私の試験範囲の質問をしてきてるんじゃ\\n　ないかしら？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maybe Senpai is asking about questions \\nrelated to my exam deliberately to help \\nwith my review?)",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "シャロ",
           "original": "（勉強に誘ってくれただけじゃなくて、\\n　そんな気遣いまでしてくれるなんて……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She didn't just invite me to study together,\\nbut she's going the extra mile to look \\nout for me...)",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "リゼ",
           "original": "シャロ？\\nおーい、どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo? Hellooo, is anybody there?",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "シャロ",
           "original": "ああっ！？\\n先輩、顔が近いですっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaah!? Senpai, your face is really close!",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "リゼ",
           "original": "ああ、すまない。\\nボーッとしてるみたいだったから\\nどうしたのかと思って、つい。悪かったな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, sorry about that. You were staring out \\ninto space, so I did that without thinking. \\nMy bad.",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "シャロ",
           "original": "（ええっ！？\\n　そんな、先輩は悪くないのに！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Eeeh!? No no, Senpai,\\nyou didn't do anything wrong!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -315,24 +315,24 @@
       "select_prompt": {
         "speaker": "シャロ",
         "original": "（ええっ！？\\n　そんな、先輩は悪くないのに！）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Eeeh!? No no, Senpai,\\nyou didn't do anything wrong!)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "悪いだなんて、そんなことないです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You didn't do anything wrong!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "すごくいい匂いがしました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That smelled really good!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "せ、先輩、ここを教えてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Senpai, tell me the answer to this one!",
+          "status": "machine_translated"
         }
       }
     },
@@ -341,8 +341,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "悪いだなんて、そんなことないです！\\nもっと近くてもいいくらいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you saying, you didn't do \\nanything wrong! In fact, feel free to get \\neven closer!",
+          "status": "machine_translated"
         }
       }
     },
@@ -351,20 +351,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "はは、そうだな。\\nせっかく一緒に勉強してるんだから、\\nあんまり離れててもなんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Haha! If you say so. Since we're here \\nstudying together, we might as well stay \\nhuddled close together.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "じゃあ、このくらいで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, how about this distance.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "（ああああ～！\\n　先輩が近づいてきて、腕が当たって！\\n　どどど、どうしたら～！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(AAAAAAAAAAAA!! Senpai's so close her arm is \\ntouching me!! W-W-What am I gonna do!?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -373,38 +373,38 @@
         "0": {
           "speaker": "シャロ",
           "original": "なんだかすごくいい匂いがしました！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That smelled really good!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（って、私は何を口走ってるのー！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah! What am I doing, saying that out \\nloud!?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "匂い？\\n特に匂いがするようなものは\\nつけてないはずなんだが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Smell? I'm not really wearing anything \\nscented right now...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "まさか、硝煙の匂いがするとかじゃないよな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't by any chance smell like gunpowder, \\ndo I?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "そんなことないです！\\nリゼ先輩自体がいい匂いだったっていうか――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not one bit! Your body itself is what \\nproduced the sweet fragrance!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "（ああああ！\\n　なんだか墓穴を掘ってるわよ、私！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(AAAA! I keep digging my grave even deeper!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -413,8 +413,8 @@
         "0": {
           "speaker": "シャロ",
           "original": "せ、先輩、ここを教えてください！\\nこの問題の解き方がわからないので、\\nお願いします！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Senpai, tell me the answer to this one!\\nI don't know the formula to solve the problem,\\nso please help!",
+          "status": "machine_translated"
         }
       }
     },
@@ -423,26 +423,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "ああ、いいぞ。\\nこういう時くらい先輩らしくしないとな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, alright. I ought to start acting \\nlike your senior, at least during a time \\nlike this.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いえ、リゼ先輩はいつだってすごく立派で……\\n私、本当に尊敬しています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't say that! You're always truly \\nrespectable, and I always look up to you.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ははは、シャロは大げさだな。\\nでもそれなら、ますます頑張らないと。\\nシャロを失望させたくないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hahaha, you're exaggerating. But that means \\nI have to put in even more effort and make \\nsure you don't get disappointed with me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "そんな、先輩……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Senpai!",
+          "status": "machine_translated"
         }
       }
     },
@@ -451,32 +451,32 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？　シャロちゃん、どうしたの？\\n顔が真っ赤だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Sharo-chan, what's up? \\nYour face is beet red.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "ななな、何でもないわよ！\\nほっといて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nonononothing! Leave me alone!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ココアさん、勉強の邪魔をしないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, don't interrupt their study \\nsession.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "そうだぞ、少し静かにしてくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right, be quiet for a little while \\nfor us.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "え～！？\\nなんで私ばかり怒られるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeeh!? Why are you always getting mad \\nonly at me?",
+          "status": "machine_translated"
         }
       }
     }

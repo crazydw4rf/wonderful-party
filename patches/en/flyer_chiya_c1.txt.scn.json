@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,170 +16,170 @@
         "0": {
           "speaker": "千夜",
           "original": "うちのお店の制服を着たココアちゃん、\\nやっぱりいいわね。\\nよく似合ってるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our cafe's uniform looks as good on you\\nas I imagined. It fits you perfectly.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "えへへ～。\\n着こなし、どうかな？　おかしくない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Does it fit me?\\nThere's nothing wrong with it, right?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "大丈夫、とってもいい感じよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No worries, you look fine.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "まあ、着こなしについては、\\nいい先生がいるから当然なんだけどね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I should expect to wear this so well,\\nconsidering I had such an excellent teacher.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "まあ、そんな人がいたの？\\n私の知ってる人？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, I had no idea! Is he\\nor she someone I happen to know?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うん、もちろん！\\n千夜ちゃんがよーく知ってる人だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, of course!\\nIt's someone you know extremely well.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "誰かしら？\\nリゼちゃんは……違うわね。\\nもしかして、チノちゃんが着物を着るの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who could it be? Rize-chan? No, probably\\nnot her. Does Chino-chan wear a kimono?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "違うよ。\\n私の着物の先生は千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope. My kimono-wearing teacher was\\nnone other than you, Chiya-chan!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "え？　私？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Me?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "それは、確かによーく知ってる人だったわ。\\nけど、私がココアちゃんの先生なら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I suppose I do know that person rather well.\\nHowever, if I were your teacher--",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "だめですよ、ココアさん！\\n足はきちんとそろえてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won't do, Cocoa-san!\\nKeep your feet closer together!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（わわっ！？\\n　千夜ちゃん、急に先生モードに！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Whoa! Chiya-chan can activate her\\nteacher mode at the flip of a switch!)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "はい！　先生！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, Sensei!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ココアさん、もっと脇を締めて！\\n大和撫子たるもの、\\n動きはあくまで優雅に流れるように――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, keep your elbows\\ndown! The movement of a Yamato\\nnadeshiko must be a graceful flow!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "チラシを配るのも、こうですよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And here is how you will hand out flyers:",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "どうぞ、お持ちください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "“Please, take one.”",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "どうぞ、お持ちください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please, take one.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "そんなに大きく口を開けてはいけません。\\nあくまで、おしとやかに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Never open your mouth so wide!\\nYou must always be modest and ladylike!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "でも、口を開けずに\\nどうやってしゃべればいいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How am I supposed to talk\\nwithout opening my mouth?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "小さく口を開けて話してください。\\n難しくないですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Speak while only opening your mouth\\nthe bare minimum. It's not difficult.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "口を小さく？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The bare minimum?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "どうぞ、お持ちください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Brease, take vone.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "はい、よくできました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent, much better.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うーん、小さな口でしゃべるのは難しいね。\\nチノちゃんに腹話術のコツ、教わってみようかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Talking with your mouth almost closed\\nis tough. Maybe I can get Chino-chan to\\nteach me her ventriloquism technique.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "そんな……！\\n私、ココアちゃんの先生、失格なのね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nooo! I'm, I'm not fit to be\\nCocoa-chan's teacher, am I?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "えっ！？\\nそういうことじゃなくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? No, I didn't mean it like that...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "さようなら、ココアちゃん！\\nチノちゃんと立派な大和撫子になってね～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Farewell, Cocoa-chan! I pray that\\nyou will become a flawless Yamato\\nnadeshiko under Chino-chan!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "千夜ちゃーん！　待って～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chaaan! Come baaack!",
+          "status": "machine_translated"
         }
       }
     }

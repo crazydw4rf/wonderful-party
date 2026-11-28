@@ -6,86 +6,86 @@
         "0": {
           "speaker": "青山",
           "original": "……お邪魔します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、青山さん。\\nいらっしゃいませ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Aoyama-san. Welcome!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "はい……。\\nあの、そちらのお席、いいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello... Is it alright if I sit here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "はい、どうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Make yourself comfortable.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア（Ｍ）",
           "original": "（青山さん、元気がないみたい。\\n　どうしたんだろう？\\n　ちょっと聞いてみよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It looks like Aoyama-san isn't doing\\nwell. I wonder what happened. I'll try asking.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "青山さん、どうかしたんですか？\\n元気ないみたいですけど。\\n私でよかったら、相談に乗りますよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san, what's wrong? It looks like\\nyou're feeling down. If you don't mind, you can\\ntalk about it with me.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "青山",
           "original": "……聞いてくれますか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will you listen to what I have to say?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "はい、何でもどんと言っちゃってください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course, please let it all out!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "実は……スランプ気味で、\\n小説のインスピレーションが全然湧かないんです。\\nこんなことでは、小説家としてやっていけません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The truth is... I'm in a bit of a slump. I\\ncan't find any inspiration for my novel. I\\nwon't be able to go on as an author like this.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "へー、そうだったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so that's all it was.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "こら、ココア。\\n真面目な話なんだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa. This is a serious conversation,\\nyou know?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "だったら、小説のアイディアを\\n私たちが考えてあげればいいんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, but the only thing we have to do is\\ndream up some ideas for her.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "それは……ちょっと難しいと思いますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that... might be harder than it looks.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "そうかな？\\nえっと、例えば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? Uhh, for example...",
+          "status": "machine_translated"
         }
       }
     },
@@ -93,24 +93,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "そうかな？\\nえっと、例えば――",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "You think so? Uhh, for example...",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "心機一転、ホラーを書いてみたらどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do a 180 and try writing horror?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "爽快なアクションなんてどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How about some lighthearted action?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "ラブストーリーとかいいかもしれませんよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A love story might be nice?",
+          "status": "machine_translated"
         }
       }
     },
@@ -119,86 +119,86 @@
         "0": {
           "speaker": "ココア",
           "original": "心機一転、ホラーを書いてみたらどうですか？\\n例えば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do a 180 and try writing horror?\\nLet's say...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "舞台は寂れた農村で、にんじん畑が一晩にして\\n全滅する怪現象から物語は始まります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The setting is a desolate farming village.\\nThe story begins with the mysterious overnight\\ndestruction of a carrot patch.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "まあ、それは大変。\\nそれでどうなるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, that sounds awful. \\nWhat happens after that?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "農夫さんは、畑を荒らす泥棒を見つけるために\\n徹夜で見張ることにしました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In order to catch the vandal, \\nthe farmer keeps watch over his farm all night \\nlong.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "明かりを消して、物陰でじっと泥棒が来るのを\\n待っていると、周りからかりかり、かりかり、と\\nなにか音が聞こえてきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He shuts off his flashlight and hides in the\\nshadows, waiting on the vandal to return.\\nFrom all around, he hears the sound of gnawing.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "その音が気になって、\\n思わず明かりをつけたら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He just has to know what that sound could be,\\nand so he flips his light back on, and...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "にんじんを囓る１００万羽のうさぎが！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's a million rabbits chewing on \\nhis carrots!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "そ、そんなにたくさん！？\\nそれで、うさぎたちはどうなるんですか？\\n農夫さんも……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-That many? \\nSo, what happened to the rabbits? And the\\nfarmer...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "はい、話はここで終わります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, that'll be the end of the story.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "解決してませんよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You haven't finished it yet!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "そうですねぇ。\\nそこは、きちんと聞いておかないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's right. You need to properly tie up \\nyour loose ends.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I think my bread is done baking. Let me\\ngo check on that real quick.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ココアさん！？\\n話はまだ終わってませんよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san!? Don't think that you can just \\nstop there!",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,20 +207,20 @@
         "0": {
           "speaker": "ココア",
           "original": "爽快なアクションなんてどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How about some lighthearted action?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "アクション……。\\nうん、それもいいかも。\\nどんなお話なんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Action... Hm, that doesn't sound so bad. \\nI wonder what it should be about...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "頭にうさぎをのせた美少女探偵が、\\n街の悪党と戦うんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A beautiful detective with a rabbit on her\\nhead, fighting the town's local villain.",
+          "status": "machine_translated"
         }
       }
     },
@@ -235,32 +235,32 @@
         "1": {
           "speaker": "ココア",
           "original": "うさぎみたいにぴょんぴょん側転しながら、\\n拳銃をバンバン撃つアクションシーンが\\n盛りだくさん！　なんてどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hopping like a rabbit, she cartwheels all \\nover town, getting in action-packed gunfights\\nwith her trusty sidearm! How does that sound?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "へえ、面白そうだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuuuh, I like the sound of it.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "ええ、いいお話が書けそう……。\\nそれは、アイディアとしていただいても\\nよいのでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed, I think I could make a decent plot\\nout of it. Do you mind if I make use of your idea?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "どうぞ！\\n使ってもらえると嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's all yours! I'd love it if you could\\nmake use of my idea.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, I think my bread is done baking. \\nLet me go check on it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,56 +269,56 @@
         "0": {
           "speaker": "ココア",
           "original": "ラブストーリーとかいいかもしれませんよ？\\n例えば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A love story might be nice? Such as...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "朝、遅刻するー！　ってパンをくわえて\\n走ってる女の子に、どーん！　って\\nぶつかるうさぎとか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A girl exclaims “I'm late!” and runs to school\\nwith a piece of bread in her mouth, when\\nBAM, a rabbit collides with her, or something.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "青山",
           "original": "うさぎですか？\\nそこは、同じような遅刻寸前の男の子では……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A rabbit? Don't you mean a boy who's also\\nrunning late?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "それだと簡単に展開が読めちゃいますから。\\nひねった方が面白くなるはずです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everyone can see that coming a mile away.\\nIt's more interesting if it has a twist!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "青山",
           "original": "なるほど、マンネリ防止ですね。\\nそれで、そのうさぎと\\nどんなラブストーリーが始まるのでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see, cliche prevention. That makes me\\nwonder just what kind of love story will \\nbegin with that rabbit?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ふっふっふ、気になります？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hahaha. Did you like it?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "私も気になります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm getting interested too.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あ、そろそろパンが焼けたかな。\\nちょっと見てくるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, it's about time to get the bread out of \\nthe oven. Let me go check on it real quick.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "ココアさん！？\\n話はまだ終わってませんよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san!? The story isn't over yet!",
+          "status": "machine_translated"
         }
       }
     },
@@ -327,128 +327,128 @@
         "0": {
           "speaker": "リゼ",
           "original": "まったく、ココアはマイペースだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sheesh, Cocoa always does things her \\nown way, huh.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "青山",
           "original": "でも、こんな私のために\\n色々考えてもらえて嬉しかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, I'm glad she's willing to look \\nout for even someone like me.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "おまたせー！\\n焼き立てのパンだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm back! I've brought freshly baked bread.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "まあ、おいしそう……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks delicious!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "疲れた時や悩んでる時は、\\nおいしいパンを食べればいいんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whenever you're tired or worried, you should\\nalways chow down on some tasty bread!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "今日のパンは、何だか不思議な香りがしますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Today's bread seems to have a mysterious \\nscent to it.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、わかった？\\n今日のパンは、ココア特製\\nオリジナル具材パンなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, you noticed it? Today's loaf is made \\nwith Cocoa's custom-made secret ingredient.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "青山",
           "original": "つまり、中身がオリジナルなんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So what you're saying is that there's \\nsomething original worked into it?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "はい！\\nカレーパンの代わりになるパンを\\n新しく作ってみようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Correct! I wanted to make something new to\\nreplace the normal curry bread.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "これは……\\n前にも作った焼きうどんパンですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is... \\nThe yakiudon bread you made previously.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そう！\\nそして、これが新作の梅昆布茶パン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! On top of that, this bread is\\nflavored with kelp tea mixed with dried plum!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "おいしいのか、それは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder how well that'll turn out...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "こっ、これは！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-This is...!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "常識的に組み合わせることがない素材を\\nあえて混ぜ合わせたパン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Despite an ingredient combination that flies\\nin the face of common sense, this bread \\nbravely melts them together!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "青山",
           "original": "まるで、苺と大福が出会って\\n最高のハーモニーを奏でたかのような一体感！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Reminiscent of the combination of \\nstrawberries and daifuku, it's a feeling of unity \\nthat almost sings out in perfect harmony!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "相反する存在として、長年戦ってきた具材。\\n自分たちには独立したフィールドがあるからと、\\nあえて共闘の道を歩まなかった２大勢力！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As enemies, these ingredients battled for many\\nyears. Being the masters of their own domains,\\nthey were too proud to join a united front!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "青山",
           "original": "しかし、この２大勢力が手に手を取って\\n和解の道を選んだ時……新たな道が開かれる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, when the two great powers settled\\ntheir differences and chose to walk the road of\\ncompromise, a new path was revealed to them!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "私、書けるかも……！\\nありがとうございます、ココアさん！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I... I may be able to write! Thank you very\\nmuch, Cocoa-san!!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "あ、青山さん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Aoyama-san!?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "すごい勢いで行っちゃったね……。\\nパン、食べていけばよかったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She just flew out of here... \\nI wish she could have had some bread.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "ココアのパンが刺激になるなんて、\\n何がきっかけになるかわからないものだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa's bread of all things becoming the \\nspark... I guess you just never know what will \\nbecome your inspiration.",
+          "status": "machine_translated"
         }
       }
     }

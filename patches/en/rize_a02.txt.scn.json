@@ -6,38 +6,38 @@
         "0": {
           "speaker": "リゼ",
           "original": "（ふう、すっかり長湯をしてしまった。\\n　体の芯までしっかり温まったし、\\n　このまま寝てしまいたいところだが――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah, that was a nice long bath. Now that I'm nice and warm, I'd like to go to bed right about now...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（その前に、クリスマスパーティーの準備の\\n　確認をしておくか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But before that, I think I'll take this chance to confirm what we'll be doing for the party.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "（うーん……。\\n　やはり会場は、予定通り\\n　ラビットハウスにしておくのが妥当だな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hm... As I thought, keeping the location as planned at Rabbit House is our safest bet.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "（うちを提供しようかとも考えたけど、\\n　親父や使用人がいては、\\n　みんな落ち着かないだろう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I thought about suggesting we do it here, but everyone will probably be nervous around my dad and the servants.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "（となると、必要な準備も\\n　ここに書き出したものでいいはずだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Now then, I'd say that now's a good time to write out all of our indispensable preparations.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "（あとは、みんなに役割を\\n　分担するだけなのだが……\\n　誰に何を任せるのがいいだろう？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And after that I just have to divide up the work, but... Who should end up doing what?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -45,29 +45,29 @@
       "select_prompt": {
         "speaker": "リゼ",
         "original": "（あとは、みんなに役割分担するだけだが……\\n　誰に何を任せるのがいいだろう？）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(And after that I just have to divide up the work, but... Who should end up doing what?)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "ココアは……",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa should...",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "チノはこれだな",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino should do this.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "千夜にはこれをお願いしよう",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll ask Chiya to do this.",
+          "status": "machine_translated"
         },
         "*sel_0104": {
           "original": "これはシャロが適任だな",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo is the right choice for this.",
+          "status": "machine_translated"
         }
       }
     },
@@ -76,14 +76,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "（ココアは……\\n　そうだな、ケーキの準備を任せてみるか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Cocoa should... I know, how about I have her get to work on a cake?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（実家がパン屋なだけあって目も舌も肥えているし、\\n　みんなで作るにしても、どこかで買うにしても、\\n　間違いのない選択をしてくれるはずだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "（(Her parents run a bakery, and she has good taste in food. Homemade or store bought, she'll choose the cake for us.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -92,26 +92,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "（チノはこれだな。\\n　料理を担当してもらおう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino should do this. I'll have her be the one to take charge of the food.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（しっかり者のチノなら、材料の買出しや\\n　調理に関しても心配いらないだろう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(If we have someone as responsible as Chino on the job, we won't need to worry about cooking or buying ingredients.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "（……いや、さすがにパーティーの料理を\\n　１人だけに任せるのは大変すぎるか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Well, ultimately leaving all the party's food up to one person might be asking for too much.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "（なら、何かと気遣いができて\\n　料理の腕も確かだろう千夜にも\\n　手伝ってもらうとするか）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(In that case, I think I'll have Chiya come help her. She's always reliable and certainly a capable cook.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -148,20 +148,20 @@
         "0": {
           "speaker": "リゼ",
           "original": "（飲み物の準備。\\n　これはシャロが適任だな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Readying the drinks. Sharo is the right choice for this.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（フルールでバイトもやってるし、\\n　私たちよりも飲み物の知識が豊富だろう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Since she regularly works at Fleur, I imagine she's more knowledgeable about drinks than the rest of us.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "（器に凝ってるから、雰囲気に合った\\n　カップも用意してくれそうだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Since she's into cups, she might even prepare something that'll be appropriate for a party.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -170,38 +170,38 @@
         "0": {
           "speaker": "リゼ",
           "original": "（大まかな役割分担はこんなところだな。\\n　飾り付けは、みんなでやった方が\\n　効率がいいだろう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That's all of the main jobs. For the decorations, it'll be more efficient for us to all work as a team.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "（マヤとメグにも、何か任せてみても\\n　いいかもしれないが……今回はゲストだな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I could probably count on Maya and Megu to help out if needed, but they're our guests this time around.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "（よし！\\n　細かいところは、みんなで集まった時に\\n　詰めるとしよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Great! We can tie up any loose ends next time we have everyone together.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "（そうと決まれば、改めてのお泊まり会の連絡と、\\n　仮の分担表をメールでみんなに送って……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Now that that's settled, it's time to officially message everyone about the sleepover and their assigned jobs...)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "（うん！　我ながら、なかなか順調だな）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Mhm! This is going pretty well, if I do say so myself.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "（この調子で準備を進めて、\\n　すばらしいクリスマスパーティーに\\n　してみせるぞ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And with that note, let's make some progress and make this into a wonderful Christmas party!)",
+          "status": "machine_translated"
         }
       }
     }

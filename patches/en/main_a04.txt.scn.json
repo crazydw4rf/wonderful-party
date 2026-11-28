@@ -6,332 +6,332 @@
         "0": {
           "speaker": "ココア",
           "original": "ありがとうございましたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come back any time!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "今のお客さんが最後ですね。\\n今日はこれで閉店です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was the last customer.\\nWith that we can close for today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ああ、お疲れ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good work.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "お疲れ様、チノちゃん、リゼちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well done, Chino-chan, Rize-chan!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "お疲れ様です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good job today.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "さて、それじゃ片付けをするか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, shall we get started cleaning up?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "私は食器などを片付けます。\\nフロア側はお２人におまかせします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll round up the tableware. \\nYou two can take the floor.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ああ、まかされた！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mission accepted!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "では私がテーブルを拭く！\\nココアは床の掃除だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll wipe down the tables! \\nCocoa, you mop the floor!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gooot it!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "返事はイエスだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I didn't hear a “Yes, sir”!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "イエッサー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, sir!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "よしっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "……いつもながら、暑苦しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...The same overbearing routine as always.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "タカヒロ",
           "original": "やあ、もう閉店かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello. I see you've already closed down?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ、はい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yes!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "今、片付けをしてるところです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We were just now tidying up the place.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア（Ｍ）",
           "original": "（この人は、チノちゃんのお父さん）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This man is Chino-chan's father.)",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（喫茶店にはあまりいないけど、\\n　夜になると、ティッピーと一緒に\\n　バーのマスターとして働いています）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(He isn't seen often in the cafe, but at night\\nhe works alongside Tippy as a bartender.)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "タカヒロ",
           "original": "みんな、ご苦労様。\\n今日もよく頑張ってくれたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good job, everybody. \\nYou worked well for me again today.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "いえ、雇われている身として当然のことですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing. \\nWe were just doing our job as employees.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "私も、お世話になっている分、\\nちゃんと頑張ります！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I too will try to get better at the parts \\nwhere I needed help!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "でも、まだまだ失敗も多いですけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I've still been messing up left \\nand right...",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "タカヒロ",
           "original": "いや、そんなことはないさ。\\nココアくんもずいぶん成長しているよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's not true at all. \\nYou've been making noticeable progress lately.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "えっ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "タカヒロ",
           "original": "それじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must be off.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "あ、はいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-Alright!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "へえ、よかったじゃないか。\\n親父さんに褒められるなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, wasn't that nice of him? \\nGiving us a compliment like that.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "う、うん！\\nびっくりしちゃったけど嬉しい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah! That was a surprise, but I'll take it!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "でも確かに、今日のココアは\\nかなり頑張ってたよな。\\nミスもほとんどなかったし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it's true, today you put in the effort \\nand barely made any mistakes.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "えへへ、そうかな～？\\nここでのお仕事に慣れてきたからかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe, is that so? Maybe I'm getting used \\nto working here?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "やっと慣れてきたんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you've finally gotten used to this place?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "はう、やっとって言われた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hau~ “Finally,” she says...",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "はははは。\\n親父さんと違ってチノは厳しいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hahahaha. Chino sure is strict, \\nnot like her dad at all.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "ココアさんは、\\n甘やかすとすぐに調子に乗りますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's because Cocoa-san lets any praise \\nshe gets go to her head.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "さすがチノちゃん、\\n私のことをよくわかってるね！\\n妹だからかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's my Chino-chan! \\nYou know exactly how I think! \\nBecause you're my little sister, right?",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "だから、妹じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, I'm not your sister.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "チノ",
           "original": "それよりも手を動かしてください。\\n片付けが終わりません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "More importantly, get back to work. \\nCleanup still isn't finished.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "あっ、そうだったね！\\nごめんごめん、掃除道具持ってくる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, that's right! \\nSorry, I'll go get the cleaning supplies!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "リゼ",
           "original": "どうした、チノ。\\nなんだか元気がないぞ？　疲れたのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's wrong, Chino? You don't seem right. \\nAre you tired?",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "チノ",
           "original": "いえ、疲れていません。\\n最近はココアさんのフォローを\\nしなければいけない機会も減ってますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'm fine. It's just that there haven't \\nbeen as many points where I've needed to \\ncorrect Cocoa-san lately.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "リゼ",
           "original": "ん？\\nさては、フォローする機会が減って寂しいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? So what you're saying is that Cocoa not \\nneeding your help is making you lonely?",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "チノ",
           "original": "そ、そんなわけないです。\\nリゼさんも早く片付けしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "T-That's not it. Please get back to work too, \\nRize-san.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "リゼ",
           "original": "了解。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ティッピー",
           "original": "チノ、どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino, what's the matter?",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "チノ",
           "original": "大丈夫です。\\n別に、なんともないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing. Everything is fine.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "ティッピー",
           "original": "ふむ、そうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, if you say so.",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "リゼ",
           "original": "じゃあ、またな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, later, girls.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "ココア",
           "original": "うん！\\nまたね、リゼちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Later, Rize-chan!",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "チノ",
           "original": "お疲れ様でした。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have a good evening.",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "ココア",
           "original": "さて！\\nそれじゃ、一緒に夕飯の支度をしよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Let's start preparing for \\ndinner together!",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "チノ",
           "original": "一緒に、ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Together?",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "ココア",
           "original": "うん、一緒に！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, together!",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "チノ",
           "original": "はい、わかりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, we can do that.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,128 +16,128 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえ、リゼちゃん。\\nこのチラシ、よく見ると――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize-chan, have you noticed\\nthat these flyers...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "どこか変なのか？\\nまたスペルミスでもやらかしたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is something wrong with them?\\nLet me guess, another spelling error?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "わーん！\\n前にチラシに『ラビットホース』って\\n書いたことは忘れて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wah! Hurry up and forget about\\nthat Rabbit Horse incident!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "盛大に間違えた上に\\n街じゅうにチラシを配ってしまったからなぁ。\\nなかなか忘れられないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was quite the blunder! And you\\neven handed them out all around town.\\nI doubt I'll ever forget about that.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "今回はちゃんと確認したけど……\\nそう言われると不安になってくるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I double checked these flyers, but now\\nyou're making me nervous about it again!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "大丈夫だ、私が見ても問題ない。\\nそれでも何か気になるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're good. I looked them over\\nand there's nothing misspelled.\\nSo, what are you worried about?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "あ、うん。\\nこのチラシね、ちょっと地味かなって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. I was thinking that these\\nflyers might be a bit too bland. Maybe.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "言われてみれば……\\n確かに地味かもしれないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it,\\nthey are kind of plain.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "とはいえ、必要なことは書かれてるし\\n充分なんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I think it's fine that way.\\nIt has everything important included.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "でも、一目でラビットハウス！　って\\nわかるぐらいに派手な方がいいんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think it should be something so unique\\nthat you think “Aha! That's Rabbit\\nHouse!” at a passing glance. Am I wrong?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "一目でか？\\nたとえば――単純だけど、\\nラビットハウスの文字を目を引く色にするとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At a glance? So like, something\\nsimple like writing Rabbit\\nHouse in an eye-catching color?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "赤とか、蛍光ピンクもいいよね。\\n目立つしかわいいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Red or fluorescent pink would work well,\\nwouldn't it? All bright and adorable.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "ピンク、しかも蛍光か！？\\n派手すぎるのも問題かもしれないぞ？\\n読みにくくなったら元も子もないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pink!? Fluorescent pink!? Bad idea,\\nthat won't work. If it becomes hard\\nto read it defeats the whole purpose.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "じゃあ、イラストをもっと描くのはどうかな？\\nうさぎと花の絵で埋め尽くそう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, how about adding\\ndrawings? We'll fill in the empty\\nspace with rabbits, and flowers!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "それだとうさぎのいる花屋みたいだろ。\\n喫茶店だってわからなくなるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That makes us seem like a flower\\nshop with a rabbit. It'll take away\\nfrom advertising that we're a cafe.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "でも、ほどほどにすると\\n今とあまり変わらないし……。\\nううう～、難しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if we don't make it flashy\\nenough, then we end up back where\\nwe started. Uuu. I'm out of ideas.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "宣伝は派手に、と考えると\\n加減がわからなくなってくるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The harder you try to make an\\nadvertisement flashy, the further\\nyou get from being tasteful, huh.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "……ん？　派手？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, flashy?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "なあ、ココア。\\n配ってる私たちの衣装が派手なんだから、\\nチラシはこのぐらいでいいのかもしれないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop, Cocoa. We're already wearing\\nan outfit that's plenty flashy. Is\\nimproving the pamphlet really necessary?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "おお！　確かに！\\nさすがリゼちゃん、目の付け所が違うなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, good point! Good job\\nRize-chan! You always know what\\nshould be receiving our attention.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "じゃあ、チラシはこれで問題なし！\\n一件落着だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, that means these flyers are\\nfine the way they are. Case closed!",
+          "status": "machine_translated"
         }
       }
     }

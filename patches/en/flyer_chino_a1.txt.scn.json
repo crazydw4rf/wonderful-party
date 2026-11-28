@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,182 +16,182 @@
         "0": {
           "speaker": "ココア",
           "original": "さあ、チノちゃん！\\nこれからチラシ配りだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, Chino-chan! \\nTime to get rid of some flyers!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "それはわかってます。\\nでも――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know that. However...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "どうして制服なんですか？\\n何かの衣装を着るはずじゃ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are we in our uniforms? I thought we'd \\nbe dressing up in some sort of costume...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん、いい質問だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why, what an excellent question you have there.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあチノちゃん、考えてみて？\\n看護師さんの制服ってなにかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Riddle me this, Chino-chan. What kind of \\nuniform does a nurse wear?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "質問を質問で返さないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't answer my question with a question.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "いいからいいから。\\nね？　答えてみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to be so serious. \\nC'mon, just answer the question.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はあ……。\\n看護師さんの制服は、ナース服です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... A nurse wears, well, a nurse's outfit.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "正解！\\nじゃあね、メイドさんの制服は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bingo! Let's continue. \\nA maid wears what kind of uniform?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "メイド服です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A maid outfit.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "今度も正解！\\nじゃあ、バリスタの制服は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're on a roll! \\nNext, what does a barista wear?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "これといって決まっていませんが、\\nエプロンを身につけたりしますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They don't have to wear any one uniform in \\nparticular, but I'd have to say an apron \\nis normal.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うんうん！\\nじゃあね、コックさんの制服は？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Very good! Next up, what does a cook wear?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ええと、コックコートでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, a cook's coat, right?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そうそう！\\nでは、巫女さんの制服はなんでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect! Continuing on, what does a miko wear?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "それは、巫女服じゃないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't that just a miko's uniform?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "それじゃ、次は――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. Next is...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "あの、これ、いつまで続けるんです？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, but how long are you going to go \\non with this?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あれ、もういいの？\\nチノちゃん、わかってくれた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, had enough of that? Chino-chan, did you \\nfigure it out?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "はあ……。\\n今までのでやり取りで\\n何を理解しろというんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... So you wanted to get me to understand \\nsomething though all that...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "つまりね、職業には制服があるってこと！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In short, every job has its uniform.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "制服……。\\n確かに私たちは学生ですから、これが制服ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A uniform... We're students, so we're here \\nin uniform, huh.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "でも、それとコスプレに\\nなんの関係があるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though I still fail to see how this is \\nrelated in any way to cosplay.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "色々な職業の服を着るのが\\nコスプレなんだから、私たちが制服を着るのも\\n立派なコスプレなんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dressing up as all kinds of occupations is \\nwhat cosplay is all about, so our uniform totally counts as cosplay!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "いえ、違うと思いますけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I'm pretty sure you're wrong.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "えー！？　違うの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eeeh? This doesn't count?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "まったくゆかりのない職業の服を\\n着るから、コスプレなんです。\\n普段から身につけている服ではそうは言えません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cosplay is about dressing up as an occupation \\nyou're completely unrelated to. \\nThe uniform you wear normally doesn't count.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "そんなことないよ！\\nじゃあ、さっそくチラシを配ってみよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't believe that for a second! \\nAnyway, let's hurry and hand these out!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "コスプレして目立ってるから、\\nどんどん受け取ってもらえるはずだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're standing out since we're cosplaying, \\nso we should be over with this is no time.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "それは、難しいんじゃないでしょうか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I get the feeling that won't go as well as \\nplanned...",
+          "status": "machine_translated"
         }
       }
     }

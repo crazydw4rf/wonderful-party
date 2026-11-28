@@ -6,50 +6,50 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃん！\\nチラシ配り、一緒にやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "もちろんいいのだけど、\\n今日はみんな揃って\\n配ることができそうだから、そうしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m down for that, and even better, I believe\\nwe can get everyone together today. Shall we\\ncall them in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、せっかくだしみんな揃ってやろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? Great, let’s get the whole gang\\ntogether.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "わあ！\\nねえ、空！　見て！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! Everyone, look! Look at the sky!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "え？　何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What do you see?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "飛行機雲だよ！\\nすっごくきれい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s a contrail! How gorgeous!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "本当です！\\nこんなにくっきり見えるなんて珍しいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So there is. It’s not often you’re able to see\\nthem so clearly.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ああ、まるで筆で描いたみたいだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. It looks like it was painted up there with\\na brush.",
+          "status": "machine_translated"
         }
       }
     },
@@ -58,278 +58,278 @@
         "0": {
           "speaker": "千夜",
           "original": "そういえば――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That reminds me--",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "おばあちゃんが教えてくれたのだけど、\\n飛行機雲の形が崩れないあいだに\\n願いごとを言えたら、叶うんですって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My grandmother always said that any wish\\nyou make before the contrail disappears will\\ncome true.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "それ、流れ星じゃないの？\\n相変わらず、あんたのおばあさんの知恵袋は\\nどっか間違ってるような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s supposed to be for shooting stars.\\nYour grandma always seems to be lacking in\\ncommon knowledge.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "でも、夢があっていいと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, I like how optimistic she is.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そうだね。\\nよーし、私のお願いは……\\nもっともふもふに出会えますように！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Same here! Alright! I wish for... more\\nencounters with cuddly creatures!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "今までココアちゃんが出会ったもふもふは、\\nティッピー、あんこ、野良うさぎかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have you met any fluffy critters so far other\\nthan Tippy, Anko, and wild bunnies?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "全部うさぎじゃないの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nothing but rabbits!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うさぎのもふもふ感はすべてに勝るからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The cuddliness of bunnies is unparalleled!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "それでもまだ、新しいもふもふが必要なのかしら。\\nココアちゃんは本当にもふもふが大好きなのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yet you continue to seek further fluffiness.\\nCocoa-chan, no one could question your love\\nfor cuddles.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "欲望に忠実とも言いますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Neither could they question her loyalty, or\\ngreed.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "うーん……。\\nでもやっぱり、この願い事は\\nあの立派な飛行機雲にはもったいないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. But when you think about it, spending\\nthis fascinating contrail on more cuddles is\\nprobably a waste.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（もっと、何か、本当に願うべきことは……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I should probably wish for something more\\nimportant to come true.)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "ココアさん、\\n急がないと飛行機雲が消えますよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, if you’re not quick, the contrail\\nwill disappear.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ま、待って待って！\\nえーと、えーと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wait, don’t go! Umm, ummmm...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そうだ！\\nみんなで、ずっと仲良く過ごせますように！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know! I wish for us to all get to have fun\\ntogether forever!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ＆リゼ＆千夜＆シャロ",
           "original": "えっ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "よし、言えた！\\n飛行機雲が消える前に言えたよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice, I said it in time! I got it out before it\\ntotally vanished!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "あ、でも……\\nお願いしなくても、これから\\nそうしていけばいいんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, wait. I didn’t wish for anything, just for\\nthings to stay the way they are.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "……そうね、本当にそうだわ。\\nココアちゃんの言う通り。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You’re right. You hit the nail on the head.\\nIt’s exactly as you put it.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "何かにお願いしなくても、私たち、\\nこうして仲良くなれたんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We all became friends the way we are now\\nwithout any wish or prayer.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "でも、ココアちゃんがいなければ\\nここに５人、揃うことはなかったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But what did make this possible was Cocoa-\\nchan. Without her, all five of us coming\\ntogether would never have happened.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "そうですね。\\nココアさんが来なければ、千夜さんやシャロさんと\\n出会うこともなかったと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. Without Cocoa-san, I doubt I\\nwould have ever met either of you, Chiya-\\nsan, Sharo-san.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ココアが、ラビットハウスと\\n甘兎庵やフルール・ド・ラパンを繋いだんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa is the linchpin that ties Rabbit House,\\nAma Usa An, and Fleur de Lapin together,\\nhuh.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "ココアがいてくれたから、リゼ先輩と\\nこんな風に仲良くなれたのよね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s all thanks to Cocoa that I’ve been able to\\nget this close to Rize-senpai...",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "私たち、接点はあっても繋がっていなかった。\\n繋げてくれたのはココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if we had all met independently, we\\nwould have never bonded. The one to bind us\\ntogether was Cocoa-chan.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "そうですけど……\\n言葉にすると、ちょっとはずかしいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That may be true, but... how can you stand\\nsaying that out loud?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "リゼ",
           "original": "あ、ああ、改めて言うと照れるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah. If you think about it, that’s a terribly\\nembarrassing thing to say.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "そうですね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "って、ココア！\\nなんで空見てんのよ、\\n人にはずかしいこと言わせておいて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, Cocoa! How can you stare out into\\nspace while we embarrass ourselves like\\nthis!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "えっ？\\nあ、ごめん、聞いてなかった。\\nもう１回言ってくれる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Sorry, I wasn’t listening. Can you\\nrepeat that?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "言えるかっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No way!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "ふふっ！\\nココアちゃんは飛行機雲ね、って言ってたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe! We were basically saying that you,\\nCocoa-chan, are our contrail.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "ん？\\nそれって、どういう意味？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What’s that supposed to mean?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "わからなくてもいいのよ。\\nココアちゃんはココアちゃんのままで\\nいてくれればいいの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s fine if you don’t know. Cocoa-chan, just\\nstay the way you are.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "え？　さっぱりわかんないけど……\\nみんなが楽しいならいっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? No clue what you mean by that. But\\nso long as you’re happy, I’m happy!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "チノ",
           "original": "ところで、どうして空を見上げていたんですか？\\n飛行機雲はもう消えたのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, what were you looking at this time?\\nThe plane’s contrail is long gone by now.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "もう１回、出ないかなって。\\nそうすれば、みんなもお願いを言えるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was watching in case we get another one. If\\nwe’re lucky, we can all make a wish together.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "そんな簡単に出ないでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if that’d ever happen to us.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "チノ",
           "original": "あ、見えました！\\n飛行機雲です！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there it is! It’s another contrail!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "みんな、お願い言わないと～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everyone, make a wish right now!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "チノ",
           "original": "なんとか言えましたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We managed to say it.",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "千夜",
           "original": "願いごと、叶うといいわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope our wish comes true!",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ココア",
           "original": "絶対に叶うよ、大丈夫！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know it’ll come true! I just know it!",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "リゼ",
           "original": "しかし、大勢の前で\\n願い事を叫ぶって……考えてみると\\nかなりはずかしいことしてるな、私たち。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But when you think about what we did...\\nshouting out a wish like that in public is an\\nawfully humiliating thing to do.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "シャロ",
           "original": "す、過ぎたことは忘れましょう、先輩！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s over now! Let’s forget about that forever,\\nSenpai!",
+          "status": "machine_translated"
         }
       }
     }

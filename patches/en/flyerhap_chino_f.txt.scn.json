@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,362 +28,362 @@
         "0": {
           "speaker": "チノ",
           "original": "あの、誰かハンカチを落としましたか？\\nこれを拾ったんですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, did one of you drop your \\nhandkerchief? I just found one.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ううん、私のじゃないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, that's not mine.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "私でもないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not mine either.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "私のはここにあるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've got mine right here.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "私のハンカチもあるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've still got mine too.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "では、これは誰かの落とし物ですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, that means this is someone else's \\nhandkerchief.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ほとんど汚れてないから、\\n落として間もなさそうだ。\\n持ち主が捜しているかもしれないな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not not dirty at all, so they must have \\ndropped it quite recently. Its owner might even \\nbe looking for it right now.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "じゃあ、私たちで落とした人に届けてあげよっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, let's try returning it to \\nits owner.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "いい考えね。\\nきっと喜んでくれるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like that idea. I'm sure they'll \\nappreciate it.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "届けるのには賛成だけど、\\nどうやって落とし主を捜すの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not against that idea, but how exactly \\nare we going to find them?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "まずは手がかりを見つけよう。\\nハンカチにヒントがあるかもしれない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We need a clue to start with. Maybe there's \\nsome kind of hint to be found on the \\nhandkerchief?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "名前は……書いてありませんね。\\n他には特に目立った特徴もありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The name written on it... doesn't exist. \\nAnd there's nothing else particularly \\ndistinctive to work with either.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "諦めるのはまだ早いよ、チノちゃん。\\nそのハンカチには、大きな手がかりが\\n残されてるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't throw in the towel just yet, Chino-chan.\\nThat handkerchief actually does provide \\nus with a major clue.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "それは……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And that is?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "それはね……ヘイカモン、ティッピー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Allow me to show you... \\nＨｅｙ，ｃｏｍｅ　ｏｎ，Ｔｉｐｐｙ！",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ティッピー",
           "original": "へ？　わし？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Me?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "ティッピーがどうかしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What does Tippy have to do with this?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "あ、私、わかっちゃった。\\nそうよね、動物の嗅覚は\\n人間の何十倍もあるって言うものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I get it. Animals are known to have a \\nsense of scent many times more powerful than \\na human's, right?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "その通り！\\nはい、ティッピー、このハンカチの匂いを\\nたどって、落とし主を捜して？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bingo! Let's go Tippy, take a whiff of \\nthis handkerchief's scent and lead us to \\nits owner.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ティッピー",
           "original": "できるか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As if I could!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "ティッピーは犬じゃありません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy isn't a dog!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "第一、正確に匂いをたどれるのなんて\\n相当に訓練された犬くらいじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Besides, even for a dog, it takes extensive \\ntraining to be able to track down someone \\nbased on their scent.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "あれ、そうなの？\\nじゃあ、どうしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, really? What do we do now then?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "素直に交番に届けるのが１番じゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shouldn't we just drop it off with the \\npolice?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "ああ、プロに任せるのがいい。\\n餅は餅屋って言うだろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, we should leave this to the \\nprofessionals. You know what they say: each \\nindividual can only do one thing well.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "そうかもしれませんが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You may be right, but...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "チノちゃんは、交番に届けるのは嫌？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, do you not want to contact the \\npolice for some reason?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "嫌ではないです。\\nどうしても落とし主が見つからなかったら\\n届けるしかないと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not it. If we absolutely cannot find \\nthe owner, we'll have no choice but to \\ndrop it off with the police.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "けど、このハンカチがもし\\n持ち主にとって大切な物だったとしたら……\\n一刻も早く届けてあげたいんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, this handkerchief might mean \\nsomething special to its owner, so I want it to \\nbe returned to them as soon as possible.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "チノちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "よし、じゃあ、どうにか頑張ってみるか。\\nただし、見つからなければ交番だぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then, let's put in the extra effort.\\nBut if we fail, we're going to the cops, \\nokay?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "はいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "じゃあ、まずは声を出そっか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First off, let's try shouting.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "声？　どういうこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shouting? What do you mean by that?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "思ったんだけど、\\n持ち主が落としてることに\\n気付いてないかもしれないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I think it's possible the \\nhandkerchief's owner hasn't realized that \\nthey've lost it yet.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "落とした人はいませんかって\\nしっかり声を出して呼びかけたら、\\nあれ？　そういえばない！　って気付くかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we shout out that someone dropped \\nsomething, they might suddenly realize that \\nthey've lost their handkerchief.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "なるほど。\\nいい方法だと思います。\\nココアさんも、たまにはいいこと言うんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. I think that will be effective. \\nSo even Cocoa-san can come up with good \\nideas on occasion.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "たまにじゃなくて、\\nいつもいいこと言ってるよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On occasion!? Don't I provide great \\nideas all the time!?",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "シャロ",
           "original": "……言ってたかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Have you ever provided us with a great \\nidea before?",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "リゼ",
           "original": "よーし、やることは決まったな。\\nさっそく行動だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! We've decided on our plan, now all \\nthat's left to do is execute it!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "チノ",
           "original": "はい、頑張りましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, let's do it!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "ココア",
           "original": "すみませーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse meee!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "チノ",
           "original": "ハンカチを落とした方はいませんかー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Has anyone lost their handkerchief?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "メグ",
           "original": "えっ！　ハンカチ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Handkerchief!?",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "メグ",
           "original": "すみません！\\n今、ハンカチって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, but did you say something about \\na handkerchief...",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "マヤ",
           "original": "って、あれ！？\\nココアにチノじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, it's Cocoa and Chino!",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "チノ",
           "original": "メグさん、マヤさんも？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-san and Maya-san?",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "メグ",
           "original": "あの、チノちゃん、ハンカチって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, Chino-chan, about the handkerchief...",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "チノ",
           "original": "あ、はい、これです。\\nさっき拾ったんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, yes, here it us. We found it a few \\nminutes ago.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "メグ",
           "original": "あー！\\nあったぁ！　私のハンカチ！\\nよかったぁ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, there it is! \\nMy handkerchief! \\nThank goodness!",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "ココア",
           "original": "これ、メグちゃんのだったんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it belonged to Megu-chan!",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "メグ",
           "original": "うん。\\nすごくお気に入りでね、\\nなくしちゃったと思って捜してたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, it's my favorite one. I thought I'd \\nlost it and have been searching for it.",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "ココア",
           "original": "それね、チノちゃんが落とし主に\\n届けてあげたいって言って、\\nだからみんなで捜したんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. Chino-chan wanted to deliver it back \\nto its rightful owner, so we've all been \\nsearching for them.",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "メグ",
           "original": "そうだったんだ。\\nありがとう、チノちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really now? Thank you so much, Chino-chan!",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "マヤ",
           "original": "助かったよ～。\\n街じゅう、捜し回らなくてすんだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're a lifesaver! We've been looking for \\nit all over town.",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "チノ",
           "original": "い、いえ、私は拾っただけで\\n何もしていませんから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's nothing. I did nothing except pick \\nit up off the ground.",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "ココア",
           "original": "ううん、チノちゃんのおかげで\\nメグちゃんに届けられたんだよ？\\nちょっと早いけど、サンタさんになれたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not true. It's all thanks to you \\nthat it was returned to Megu-chan. You've \\nbecome someone's early Santa!",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "チノ",
           "original": "……わ、私がサンタさんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'm someone's Santa?",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "メグ",
           "original": "うん！\\n今のチノちゃんは、私のサンタさんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep! Chino-chan, you were my Santa today!",
+          "status": "machine_translated"
         },
         "59": {
           "speaker": "チノ",
           "original": "そ、そうですか。\\nええと……喜んでもらえたのなら嬉しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Is that so. Uh... \\nI'm glad that I was able to make you happy.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,20 +16,20 @@
         "0": {
           "speaker": "千夜",
           "original": "ふんふん、ふんふ～ん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊hum hum＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "なんだかご機嫌だね、千夜ちゃん。\\nこっちまで楽しくなってくるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You seem to be a good mood, Chiya-chan.\\nSo good that it's contagious.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "だって、この衣装なんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How can you not be in a good mood\\nwhile wearing this costume?",
+          "status": "machine_translated"
         }
       }
     },
@@ -38,14 +38,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（そう言っている千夜ちゃんや私が着てるのは\\n　『怪盗ラパン』の衣装！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The cosplay we're doing today is none other\\nthan the Phantom Thief Lapin!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（『怪盗ラパン』は、今人気のアニメ。\\n　子ども向けだけど、すっごく面白いの。\\n　私やチノちゃんも大好きなんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The Phantom Thief Lapin is a popular anime.\\nIt’s super interesting, despite being a\\nkid’s show. Chino-chan and I both love it.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -54,92 +54,92 @@
         "0": {
           "speaker": "千夜",
           "original": "前から思っていたけれど、\\n怪盗ラパンの服、かわいいわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've always thought that the Phantom Thief\\nLapin had the most adorable costume.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "だよね！\\nこのコスプレ、１度してみたかったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed! I always wanted to do this cosplay!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ねえ、もし千夜ちゃんが\\n本物の怪盗だったのなら、何を盗んじゃう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Random question for you, Chiya-chan. If you\\nwere a phantom thief, what would you steal?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "うーん、そうねぇ。\\nラパンのような怪盗だったのなら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, good question.\\nIf I had Lapin's phantom thief power...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ティッピーかしら。\\nあんこのお嫁さんになってほしいの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'd kidnap Tippy. Anko's in need of a wife.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "りゃ、略奪愛はだめだよ！？\\n勝手にお嫁さんにしたらチノちゃんが悲しむよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wife stealing is off limits! You can't\\ndo anything that will make Chino-chan cry!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "大丈夫、冗談よ。\\nチノちゃんを悲しませるようなことはしないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't overreact, I merely jest.\\nI would never do anything that\\nwould make Chino-chan unhappy.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ほっ……。\\nよかったぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Thank goodness.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "人の想いはままならないもの。\\nやっぱり、結婚は相思相愛でなくっちゃね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can't convince someone against\\ntheir will. Anko will have to\\nmarry someone who loves him back.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "そうだよね。\\nもう、びっくりしちゃったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's more like it. Gosh,\\nyou really shocked me just now.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "あとね、ココアちゃん？\\nこの場合は略奪愛とは言わないわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Allow me to correct one thing,\\nCocoa-chan. What we were talking\\nabout technically isn't wife stealing.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "だってティッピー、\\nお付き合いしてる相手、いないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because that would imply\\nthat Tippy already has a partner, yes?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あ、そっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うーん、でも実はモテモテだったりするのかな？\\nあんなに尋常でないもふもふなんだし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that's strange, you would expect her\\nto be more popular. Her alluring fluffiness\\nshould bring all the boys to the yard.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "さあ、どうかしらね。\\nティッピーって秘密がたくさんありそうだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, who knows. I bet Tippy has\\nplenty of mysteries surrounding her.",
+          "status": "machine_translated"
         }
       }
     }

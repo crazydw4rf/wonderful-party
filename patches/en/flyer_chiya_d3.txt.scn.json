@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "千夜",
           "original": "んー、こんな感じかしら。\\nそれとも、こんな風がいいのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Like this? Or maybe,\\nmore like this would be better?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "いいえ、これじゃだめね。\\nもっとかわいさが引き出せるはずだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No no, that won't do.\\nI can make it look better than that.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "千夜ちゃん？\\nさっきから体をくねくねさせて何してるの？\\n踊り？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan? What's with the way you're\\ntwisting your body? Are you dancing?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "やだ、そんな風に見えてた？\\nはずかしいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yikes, is that how I looked to you?\\nHow embarrassing.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "実はね、この制服をどう着るのが\\n１番かわいいか研究してるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I'm trying to test out\\nhow exactly I can wear this uniform\\nin the way that looks the best.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "でも、いくら研究しても\\n批評してくれる人がいないと難しいわねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But no matter what I try, it's hard to\\nknow exactly how it looks by yourself.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "千夜ちゃん、任せて。\\nここに私がいるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Leave it to me, Chiya-chan!\\nI've got you covered!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "まあ、嬉しい。\\nありがとう、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I appreciate it. Thank you, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "こんな感じで、ロップイヤーを流して――\\nどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at this, with the flowing rabbit ears.\\nHow's it look?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "おお～！\\nさりげない角度と流し目が新しい魅力を\\n引き出してるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! That casual angle, and sideways\\nglance really draws out your charm!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "そしてここで、くるっと回って決めポーズ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And I'll finish with a quick spin,\\nand signature pose!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "おお～！\\nいいね、こんな感じ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! Nice! Like this?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "あら……。\\nこの時、手の角度にも注意すべきね。\\nうまくやらないと盆踊りになってしまうわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Erm... Next time, pay a little more attention\\nto the angle of your hands. If it's not\\nperfect, it ends up looking like an obon dance.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア（Ｍ）",
           "original": "（はっ！？\\n　今の私、もしや盆踊り！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Excuse me!?\\nWhat I did just now was an obon dance!?)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "ふふ、やっぱりココアちゃんが\\nいてくれると研究がはかどるわ。\\nじゃあ、次のポーズはこうしてみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. My research makes good progress\\nwith you around, Cocoa-chan. Here's\\nthe next pose I'd like you to see...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "もうこんな時間なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, the time sure does fly.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "ごめんなさい……。\\nチラシを配るはずだったのに\\n私の研究に付き合わせちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sorry. You were supposed\\nto be handing out flyers, but\\nI dragged you into doing this.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "気にしないで、千夜ちゃん。\\n今日の研究成果を活かせば、\\n明日からのチラシ配りで簡単に取り戻せるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No worries, Chiya-chan. If you put\\ntoday's research into tomorrow's practice,\\nwe'll be able to reclaim our lost time.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "でも、どうしてそんなに熱心なの？\\n甘兎の制服で研究しなくていいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, why were you so interested in this\\ncostume? Shouldn't you be more interested\\nin studying the way of the Ama Usa uniform?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "大丈夫。\\nこれも長い目でみれば\\n甘兎のためになっているから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You might think that. But I'm playing\\nthe long game. This will be to\\nAma Usa's advantage in the future.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "甘兎チェーンの規模が大きくなったら、\\nうさ耳喫茶・甘兎を開店する日が\\n来るかもしれないもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm counting on the day when the Ama\\nUsa restaurant chain expands to the\\npoint of opening a rabbit ears cafe!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "その日のために研究は怠らないわ。\\nお客さんに最上のサービスをお届けするの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I mustn't ever rest in my pursuit of\\nexpansion opportunities. The customers\\nwill receive only the best service from me.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "なるほど～！\\n千夜ちゃんの夢は無限大だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That makes perfect sense!\\nYour ambition is limitless!",
+          "status": "machine_translated"
         }
       }
     }

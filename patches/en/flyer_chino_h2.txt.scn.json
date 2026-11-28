@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,200 +16,200 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん……\\n私、チノちゃんに隠してたことがあるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan... I've actually been hiding \\nsomething from you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "え、ええ？\\n急になんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Ehhh? What's with this out of the blue?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "実はね――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you see...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "私の正体は怪盗なのだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was actually the Phantom Thief the entire \\ntime!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……何を言い出すかと思えば。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I don't know what I expected.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あれ？\\nチノちゃん、驚いてくれないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Chino-chan, you're not surprised?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "そんなあからさまな嘘に\\nいちいち驚くわけないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How can you expect me to be surprised at \\nsuch a bald-faced lie.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "嘘じゃないよ！　私は怪盗なんだよ！\\nこれからチノちゃんの心を盗んじゃう\\n予定なんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not lying! I'm actually the thief! As a \\nmatter of fact, I'm planning on stealing \\nChino-chan's heart as we speak!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "仮にココアさんが怪盗だったとしても、\\nそう簡単に盗まれたりはしません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even if you are such a phantasmal thief, \\ndon't think you can can steal that without a \\ngreat deal of work.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ふっふっふ、それはどうかな？\\nラパンの名に賭けて、必ず盗んでみせる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! Shall we put that to the test? \\nI'll certainly steal it, or my name isn't \\nLapin!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "では、私の心より先に\\nお客さんの心を盗んできてもらえませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, before we get to my heart, why don't \\nyou try stealing the hearts of some \\ncustomers for me first?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "そうすれば、お店に来るお客さんが\\nもっと増えてくれるかもしれません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then maybe we'll get a few more customers \\nto come to the cafe.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ほほう、なるほど。\\nでは、チノちゃんの心を盗むために、\\nまずはお客さんたちの心を盗んでくるとしよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hohooo? Mission accepted. Now then, time to \\ngo harvest some customer's hearts as stepping\\nstones towards the heart of Chino-chan!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "え？　あの、ココアさん？\\n今のは冗談で――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Wait, Cocoa-san? I'm joking, don't take \\nit so...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "……なんだ。\\nチラシ配りに戻っただけですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...What was that. She just went back to \\nhanding out flyers.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "チーノちゃん！\\nチラシ配り、終わったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiiiiino-chan! I'm done with my flyers.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "こっちもです。\\nちょうど終わりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a coincidence. I just finished as well.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "やっぱり怪盗ラパン効果かな。\\n小さな子がいると、その子の方から\\n声をかけてきてくれるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the power of Phantom Thief Lapin. \\nWhenever there's a little girl around, \\nthey always point me out.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "その様子なら、お客さんたちの心は\\nしっかり盗めたみたいですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "From the looks of it, it seems like you've \\ndone well at stealing the customer's hearts.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "もちろんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "じゃーあー、次はチノちゃんの番！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now theeeeeen, it's your turn!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "ですから、私はそう簡単に――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like I said, that's not gonna work on me so \\neasily...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "はい、これ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here, enjoy.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "これは……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What is this?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "ホットココアだよ。\\n缶のだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's hot chocolate. The canned version.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "家に帰れば自分で淹れられるのは\\nわかってるけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know I could just make this once we get home,\\nbut...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "今日はちょっと寒かったでしょ？\\nだから、少しでも体が温まればと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've been getting cold out here, right? \\nSo I wanted to get you warmed up as soon \\nas possible.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "あ、いらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, don't want it?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "いえ、いただきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll take it. Itadakimasu.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "……ココアさんは、そうやって\\nいつも心の隙をついてきてずるいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san, you're always finding the \\nchinks in the armor of my heart like this. \\nNo fair.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "えへへ～。\\nどう？　チノちゃんの心、盗めたかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Now then, I wonder if I've \\nsuccessfully stolen Chino-chan's heart yet?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "知りません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who cares about that.",
+          "status": "machine_translated"
         }
       }
     }

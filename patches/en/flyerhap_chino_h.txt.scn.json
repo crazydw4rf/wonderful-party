@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "クックックックッ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ku ku ku ku ku ku...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "ふ、フッフッフッフッフッ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fu? Fu fu fu fu fu~",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,266 +40,266 @@
         "0": {
           "speaker": "チノ",
           "original": "な、なんですか、この不気味な声は。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What was that unsettling laughter?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "怪盗ラパンよ。\\n楽しげにチラシ配りをしている場合じゃないぞ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's the phantom thief Lapin. \\nI'd say this is no time for you to \\nbe merrily handing out flyers.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "お、お前たちがいない間に、\\nアジトから大切なものを盗み出してやったのだ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-When you were away, we snatched up your \\nmost precious treasure from your hideout!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "私たちの大切な物！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our most precious treasure!?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "まさか、作りかけのパズルが……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't tell me, \\nmy half finished jigsaw puzzle!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "あら？\\n２人とも、そんなところで何してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? What are you two doing here?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "うわぁ！？　いつの間に！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!? When you did get here!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "見つかっちゃったぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We've been exposed.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "マヤさん、それにメグさん？\\nどうしてここに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-san and Megu-san, \\nwhat are you doing here?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "というか、どうして\\nラビットハウスの制服を着てるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not just that, but why are you in \\nRabbit House's uniform?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "フッフッフッフッ！\\nそれはだな――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fu fu fu fu! \\nAllow me to explain...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "メグ",
           "original": "え、えーっと、聞いて驚くがいい～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, umm... \\nNow you should be scared!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "さっき言ってた盗み出した大切な物が\\n制服なんじゃない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me guess, the ”precious treasure” \\nyou mentioned is that uniform you're in.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "マヤ",
           "original": "あああ～！！\\n言っちゃったー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaah! \\nShe guessed it!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "なるほどな。\\nこの私を出し抜くとは、やるじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. So you've managed to outwit us. \\nImpressive.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "やったぁ！\\nリゼさんに褒められちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! \\nRize-san is proud of us!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "まあ、敵に褒められても\\nちーっとも嬉しくないけどね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I'm not exactly thrilled to be \\ncomplimented by the enemy though...",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "どうしよう！\\n制服がなくなったら\\nラビットハウスで働けないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do we do now!? We can't work at \\nRabbit House anymore without our uniforms!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "こうなったら……\\n怪盗として２人から\\nラビットハウスの制服を取り戻そう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're backed into a corner... Now we have \\nno choice but to act as phantom thieves and \\nrecapture those Rabbit House uniforms!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "怪盗として……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As phantom thieves!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "マヤ",
           "original": "ふふーん、簡単に捕まると思うなよ！？\\n逃げろ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Haha! don't think catching us will be easy! \\nHead for the hills!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "メグ",
           "original": "ま、マヤちゃん、待ってぇ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "M-Maya-chan! Wait for meee!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "追いかけましょう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's run them down!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "リゼ",
           "original": "いや、闇雲に追いかけるより\\nまずは作戦を立てた方がいいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait. We should formulate a plan instead \\nof just pursuing them blindly.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "先回りをするのはどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Shall we try to cut off their escape?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "できるでしょうか？\\nマヤさんたちがどこに行くかわかりませんし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will that be possible? We have no way of \\nknowing which way they'll go.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "じゃあ、手分けして追いかけよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, let's split up and get moving!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "ああ。\\n向こうは２人、こっちは５人。\\n数の有利を最大限に利用するか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. It's two against five, so let's \\nexploit our numerical superiority as \\nmuch as possible.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "さあ、行こう！\\nラビットハウスの制服は\\nこの怪盗ラパンが取り返すよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, let's get moving! We're not \\nletting the Rabbit House uniforms get away!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "マヤ",
           "original": "くそ～！\\nこんなにあっさり捕まるなんて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Drat! How could we get caught so quickly!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "メグ",
           "original": "ごめんね。\\n私がうさぎに気を取られたから……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Forgive me. It's my fault for getting \\ndistracted by that bunny rabbit...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "どうしてこんなことをしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What motivated you to do such a thing?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "メグ",
           "original": "あのね、チノちゃんたちが\\nかわいい服着てて、\\nいいなあって思っちゃったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you all are always wearing that \\nadorable uniform of yours, and it made me \\nwant to try it on...",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "なんだ、それならそうと言ってくれれば、\\nマヤちゃんとメグちゃんにも\\n色々着せてあげるのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you should have said something sooner! \\nMaya-chan, Megu-chan, I'd love to dress you \\nup in all kinds of costumes.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "マヤ",
           "original": "ああ、もういいよ。\\nこの制服着て満足したからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, I don't feel like it anymore. Wearing \\nthis uniform has me completely satisfied.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "ええ～？\\n遠慮しなくていいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? \\nC'mon, don't be shy.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "しかし、ココア、大活躍だったじゃないか。\\nまさか２人ともココアが捕まえるとは\\n思わなかったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, Cocoa, you really were our MVP. \\nI never would have guessed you would catch \\nboth of them by yourself.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "チノ",
           "original": "はい、今日のココアさんはすごかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. \\nCocoa-san really shined today.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "意外と索敵能力が高いんだな。\\n感心したぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your aptitude for scouting was unexpected. \\nI'm impressed.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "えっへへん。\\nそれほどでもないよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ \\nIt was nothing.",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "なんてったって、今の私たちは怪盗ラパン！\\n私たちから逃げようなんて１００年早いのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "After all, we're the phantom thieves known\\nas Lapin! You're a hundred years too young to \\nthink of escaping from us!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "マヤ",
           "original": "ちぇー、悔しいなぁ。\\n今度、リベンジしてみせるぜ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dangit, that ticks me off. \\nWe'll get you back one day!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "シャロ",
           "original": "うう……。\\n先輩にいいところ見せられなかった……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... \\nI wasn't able to show off to Senpai at \\nall...",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "はぁ、はぁ……。\\nもう……動けない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ \\n＊gasp＊  \\nI'm... I'm done...",
+          "status": "machine_translated"
         }
       }
     }

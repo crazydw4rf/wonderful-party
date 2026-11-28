@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日の午前中は、私もチノちゃんも\\n　リゼちゃんもバイトお休みで、代わりに\\n　おじさんと青山さんが入ってるんだよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me, Chino-chan and Rize-chan all have \\nthe morning off, so Chino's dad and Aoyama-san \\nare filling our shift.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "（たまにはこんな日もあるんだ。\\n　それじゃ、午後まで何して過ごそうかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(We have one of these days once in a while. \\nAnd with that, where shall I spend time \\nuntil the afternoon?)",
+          "status": "machine_translated"
         }
       }
     },

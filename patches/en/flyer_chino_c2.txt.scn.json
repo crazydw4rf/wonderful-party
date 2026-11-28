@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、うさぎだ。\\nこっちにおいで～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's a rabbit! Come get a hug!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,188 +22,188 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん、何してるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, what are you doing?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、ごめんね。\\n着物を着たら\\nやってみたいことがあったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, sorry. But now that I'm in a kimono, \\nthere's something I wanted to try.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "やってみたいこと？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something you want to try?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ちょっとだけ、大人しくしててね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cooperate with me, just for a second...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "だっこしてみたかったんですか？\\nそれならいつもしてますよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You wanted to try giving it a hug? \\nThat's something you do all the time.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ふふ～ん。\\nまだまだこれからだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmph! You haven't seen anything yet!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "これで、こうして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now, we go like this...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "こ、ココアさん！？\\nこんなところで襟元をゆるめたりして\\n何を――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-san!? What are you doing, \\nloosening the top of your kimono...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "で、この子をこうして……完成！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And now, I take this little guy and... \\nVoila!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "あ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "じゃじゃ～ん♪\\nチノちゃん、どうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tadaa♪Well Chino-chan, how do I look?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "かわいいです！\\nココアさんの懐から、ちょこんと\\n顔だけ出してるうさぎさん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's adorable! I can't see anything but the \\ncute little face of the bunny, peeking your \\nfrom your chest.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "チノちゃんもやってみる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, wanna give it a try?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "あ……。\\nやってみたいですけど、\\nうさぎが大人しくしてくれるかどうか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah... I'd like to, but I don't think there's \\nany rabbit that will hand still for me...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（あ、そっか！　チノちゃん、\\n　ティッピー以外の動物が懐かないんだっけ。\\n　じゃあ――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh, that's right. Tippy's the only \\nanimal that acts tame around Chino-chan. \\nIn that case...)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "大丈夫！\\nティッピーならいけるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won't be a problem! You can do it with \\nTippy!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehh!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ティッピー",
           "original": "なに！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ティッピーならチノちゃんに懐いてるし、\\nいつも頭の上で大人しくしてるんだから\\n服の中に入れても大丈夫だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy seems to like you, and always stays \\nstill on your head. I'm sure you could shove \\nher down your clothes too.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "で、ですが、ティッピーは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, but... Tippy is...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "もふもふしてるし、\\n中に入れたらきっと温かいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's all fluffy, so putting her in your \\nclothes will be nice and warm!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "こ、ココアさん、待ってください！\\nそんなに引っ張ったら着崩れちゃいます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-san, listen to me and wait! If you \\ntug on my clothes like that it's all going \\nto come apart!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "ほら、おいでティッピー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come here, Tippy!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ティッピー",
           "original": "やめんか、こら！　離せ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop, cut it out! Unhand me!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "わわっ！？\\nどうしたの、そんなに暴れたりして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwa!? What's wrong, why are you resisting so \\nmuch?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ティッピー",
           "original": "ええい、仕方がない！\\nほぇい、ほぇいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, you leave me no choice. I'm out!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "あ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "ティッピー、逃げちゃった。\\nどうしたんだろうね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tippy ran away. Just what went wrong?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "ココアさん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san...",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "チノちゃん！？\\nどうして着物がそんなに乱れちゃってるの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan!? What happened to you, your \\nclothes are a mess!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "いったい誰のせいだと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gee, I wonder who's fault that is...",
+          "status": "machine_translated"
         }
       }
     }

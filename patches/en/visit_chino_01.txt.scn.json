@@ -6,92 +6,92 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふー。\\n　チラシ配りも終わったし、\\n　今日の仕事もあと少しだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ahhh. I’m through with the flyers, so my\\nwork for the day is just about over.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "タカヒロ",
           "original": "やあ、お疲れ様。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, good work out there.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、おじさん！\\nどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "F-Father! What are you doing here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "タカヒロ",
           "original": "チノとココア君に聞きたいことがあるんだ。\\n明日のお弁当なんだけど、\\n何か、おかずのリクエストはあるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have something I’d like to ask you two. Is\\nthere anything particular you’d like to go with\\nyour lunch for tomorrow?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "お弁当？\\n親父さんが作ってるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Lunch? Will you be making it?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "はい、普段は父が作ってくれます。\\n自分で作ることもありますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, he usually makes lunch for us. Though I\\nmake it myself from time to time.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "へえ～。\\nちょっと意外だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I had no idea.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "おじさんのお弁当って、\\nおいしいし、かわいいんだよ！\\n前に写真撮ったんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "His lunches always taste great, and look\\ngreat to match! I still have a picture of one.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ほらっ！\\n見て見て、うさぎのデコ弁！\\nかわいいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here! Look, it’s made to look like a rabbit!\\nIsn’t it cute?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "か、かわいい……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It-It’s so cute!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "リゼちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "あ、ああ！\\nすごいな、これならお昼が楽しみになるだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yeah! This is incredible. This would make\\nme look forward to lunch all morning.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "うんっ！\\nわくわくしながらお弁当のふたを開けるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Same! It’s hard for me to contain my\\nexcitement when I get to crack open the lid.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "メグさんとマヤさんも、\\nいつもかわいいと言ってます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-san and Maya-san always\\ncompliment it as well.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "タカヒロ",
           "original": "楽しんでくれてるなら嬉しいよ。\\nそれで、何か食べたいものはあるかな？\\n参考にさせてもらうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m glad you enjoy it so much. So, is there\\nanything special that you want to have?",
+          "status": "machine_translated"
         }
       }
     },
@@ -99,24 +99,24 @@
       "select_prompt": {
         "speaker": "チノの父",
         "original": "楽しんでくれてるなら嬉しいよ。\\nそれで、何か食べたいものはあるかな？\\n参考にさせてもらうよ。",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "I’m glad you enjoy it so much. So, is there\\nanything special that you want to have?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "トマトジュースで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tomato juice!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "栗きんとんが食べたいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want some kuri kinton!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "なんでもいいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t care.",
+          "status": "machine_translated"
         }
       }
     },
@@ -125,26 +125,26 @@
         "0": {
           "speaker": "ココア",
           "original": "トマトジュースで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tomato juice!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "トマトジュース？\\nお弁当に入れるものじゃないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tomato juice? You can’t put that in your lunch\\nbox.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "それに、ココアさん、\\nトマトジュースは苦手じゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And more importantly, don’t you hate tomato\\njuice?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん、そうなんだけど、\\nいつまでも苦手なままじゃだめだから\\n克服しようと思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, I do. But I can’t continue on with that in\\nmy way. I need to overcome it.",
+          "status": "machine_translated"
         }
       }
     },
@@ -153,56 +153,56 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん、自分から言うなんて……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, I never thought I’d hear you say\\nthat yourself...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "というわけで、チノちゃんのお弁当にも\\n苦手なセロリを入れてもらおうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you have it. Don’t forget to put Chino-\\nchan’s hated celery in her lunch too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "え！\\nわ、私もですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! You’re getting me involved!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そう！\\n一緒に克服しよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right! Let’s overcome this together!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "わ、わかりました。\\n頑張ります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay. I’ll try.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "いや、だから、トマトジュースは無理だろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, how are you going to pack tomato\\njuice?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "タカヒロ",
           "original": "お弁当には入れられないけれど、\\n缶のトマトジュースを添えておくよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It can’t go in the lunch itself, but I can give\\nyou a can of juice to take with you.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "タカヒロ",
           "original": "それから、頑張ったご褒美になるように\\n寒天デザートをつけようか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And when you get done with that, I’ll add on\\nan agar agar dessert as a reward.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ホントですか！？\\nやったぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Yay!",
+          "status": "machine_translated"
         }
       }
     },
@@ -211,8 +211,8 @@
         "0": {
           "speaker": "ココア",
           "original": "栗きんとんが食べたいです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want some kuri kinton!",
+          "status": "machine_translated"
         }
       }
     },
@@ -221,32 +221,32 @@
         "0": {
           "speaker": "チノ",
           "original": "私も食べたいです。\\nお父さんの栗きんとん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I want that also. Your kuri kinton.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "タカヒロ",
           "original": "ああ、それじゃ明日のお弁当に入れるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I’ll include that in your lunch\\ntomorrow.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "やったぁ！\\n栗きんとん、栗きんとん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! Kuri kinton, kuri kinton!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "すごい喜びようだな。\\nそんなにおいしいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure seem excited. Is it really that good?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うんっ！\\nすっごくおいしいんだよ！\\n千夜ちゃんがびっくりするくらいなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You bet! It’s the best thing ever! Even Chiya-\\nchan was impressed by it!",
+          "status": "machine_translated"
         }
       }
     },
@@ -255,80 +255,80 @@
         "0": {
           "speaker": "ココア",
           "original": "なんでもいいです。\\n好き嫌いはしませんから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t care. I’m not a picky eater!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "では、お弁当に\\nにんじんのグラッセを入れてもらいましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, please fill her lunch with glazed\\ncarrots.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "にんじん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Carrots!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "好き嫌いはしないんですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re not a picky eater, right?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "し、しないように頑張ります！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I’ll try not to be picky!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "タカヒロ",
           "original": "それじゃ、チノのお弁当にも\\nセロリを入れておこうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and I think I’ll be putting celery in Chino’s\\nlunch as well.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "え！？　私も？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? In mine?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "よーし！\\nチノちゃん、２人で苦手を克服だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here we go! Chino-chan, let’s struggle to\\novercome this together!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "は、はい。\\nわかりました、頑張ります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay. Mission accepted. I’ll do my best.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "タカヒロ",
           "original": "よし、ならご褒美になるように\\n栗きんとんも入れておくよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good. And as a reward, I’ll include some kuri\\nkinton as well.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "栗きんとん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kuri kinton!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "やったぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "アメとムチか。\\n親父さん、やるなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Both the carrot and the stick, huh. Chino’s\\ndad knows how to motivate people.",
+          "status": "machine_translated"
         }
       }
     },
@@ -337,44 +337,44 @@
         "0": {
           "speaker": "タカヒロ",
           "original": "明日も腕によりをかけるよ。\\nそれじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I promise tomorrow’s lunch will live up to your\\nexpectations. Until then.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bye!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えへへ～。\\n明日のお弁当も楽しみだね、チノちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ Tomorrow’s lunch will be something\\nto look forward to, right, Chino-chan?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "手作り弁当か。\\nちょっと羨ましいな、そういうの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A handmade lunch, huh. I’m a little envious of\\nthese two.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ん？\\nリゼちゃん、どうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Rize-chan, did you say something?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "な、なんでもない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I didn’t say anything!",
+          "status": "machine_translated"
         }
       }
     }

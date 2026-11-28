@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "思ったんだけど、この服って\\nやっぱり色違いなのがポイントだね。\\nこのちょっとの違いがお互いを引き立ててるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've got to say, the best part of these\\ncostumes is the variety in color. The way\\nthey contrast each other really looks sharp.",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,224 +34,224 @@
         "0": {
           "speaker": "リゼ",
           "original": "ああ、この服は\\n５色そろってこそって感じがするな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree. They make\\nit feel like all five are a part of a unit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "３色だんごも３色そろって\\n串に刺さっているからこそ、だものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They’re like tricolor dangos. There's\\nsomething special about having three\\ndistinctive colors together on one shish kebab.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "まあ、１個ずつだとただのお団子だし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You may be right.\\nThere's nothing special about a lone dango.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "そういえば、こういう色違いと言えば\\n戦隊ヒーローを思い出すわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All this talk of assorted colors makes me\\nthink of sentai members.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "言ってみれば……\\nこの服は、チラシ配りという戦いに挑む私たちの\\nユニフォームみたいなものですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that you mention it, these\\ncostumes are basically our uniforms to\\nwear in the battle to hand out flyers.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "戦いに挑む……。\\nとなると、登場する時の二つ名が必要だね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're battling to hand out flyers!\\nThat means we need a special nickname\\nto use while we're in action!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "『情熱の赤、ラビット・レッド！！』\\nって感じでだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something like “Scarlet Zealot, Rabbit Red!”",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "いいわね、名前をつけるのは大切よ！\\n雰囲気がグッとしまるわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like it! Naming is critical,\\nas your title sets the tune.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "ああ、千夜に火が点いた……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now you've gotten Chiya excited. Not again...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "じゃあ、ブルーのチノちゃんは、\\n流れるせせらぎ……いえ、蒼穹の煌めき……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now we need to name Chino-chan.\\nFlowing Stream--no, Dazzling Azure Horizon!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "キャッチフレーズなんだから、\\nキャッチーでわかりやすくしないと。\\n『クールなブルー！』とか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's a nickname, so the audience needs\\nto catch the meaning intuitively.\\nSomething like “Cool Blue!”",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "クールなブルー……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cool Blue!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "気に入った！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She likes it!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "じゃあ、シャロちゃんの黄色は\\n『輝く光のイエロー』、なんてどうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And for Sharo-chan,\\nhow about “Bright Yellow Light?”",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "千夜にしてはシンプルにいったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was an unusually straightforward name,\\ncoming from you.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "なら、千夜ちゃんの緑は……\\n『癒しのグリーン』って感じかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And for Chiya-chan,\\nlet's go with something like “Healing Green.”",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "な、なあ、私の紫は\\nどんなキャッチフレーズになるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hey, do you have any ideas\\nfor my color, purple?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "紫……紫はちょっと難しいね。\\nえーっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Purple...\\nDoes anything rhyme with purple? Uh...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "『ナスの艶のパープル！！』",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Elegant Eggplant Purple!!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "ナス……だと！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eggplant!? Seriously!?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "リゼ先輩になんてキャッチフレーズつけるのよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How dare you give Senpai such a nickname!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "ごめ～ん。\\nナスって紫だなって思ったら、\\nもうそれしか考えられなくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oopsies. Eggplants were the first\\nand only thing that came to\\nmind when I thought of purple.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "ナスは、もう旬が終わっちゃってないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not going to fly.\\nEggplants are out of season right now.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "それは関係ないと思います……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't think that's the issue here...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "えーっと、えーっと、紫……紫と言えば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, uhhhh, purple. Purple reminds you of...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "千夜",
           "original": "そうだわ。\\n『夜明けの空のパープル』なんてどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's one: First Light Violet.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "夜明け……。\\n確かに紫っぽい空になるよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First Light... I suppose\\nthe morning sky could be an example of purple.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "暗い夜を駆け抜けて光を見る夜明け……。\\nうん、リゼちゃんに合ってるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The morning light that overruns the darkness of\\nnight! That definitely suits Rize-chan!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "とても素敵だと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like the ring to that as well.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "先輩にぴったりです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That fits Senpai perfectly!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "リゼ",
           "original": "そうか？\\nなんだか大げさな気もするけど……\\nうん、気に入ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? It sounds a bit exaggerated to\\nme, but I'm happy if you're happy.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "よーし！\\nじゃあ、さっそく戦いの幕開けだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! The time has come\\nfor us to march forth into battle!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "幕が開けるのはいいけど、\\nあんたは何と戦う気なのよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree it's time to start marching,\\nbut what is it that you think you're fighting?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "え？　あ、えーっと……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Uhhh...",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "いや待て、お前たちはまだ戦場に出るには早い。\\n誰が相手になってもいいように鍛えてやる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Halt! You're far too green to be\\nparticipating in a battle. I'm going to\\ntrain you until you're not afraid of anyone!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "リ、リゼちゃんに鍛えられたら\\n戦う前から動けなくなっちゃうよ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-If you try to train us, we'll be out of\\ncommission before we ever see the enemy!",
+          "status": "machine_translated"
         }
       }
     }

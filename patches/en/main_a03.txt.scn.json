@@ -6,158 +6,158 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ここが喫茶店ラビットハウス。\\n　私の下宿先です。\\n　昼は喫茶店だけど、夜はバーになります）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This is the cafe Rabbit House. \\nIt's where I've been staying. It's a cafe by \\nday, and operates as a bar at night.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（ラビットハウスだけど、店員さんが\\n　うさ耳をつけていたりはしません）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Despite being called “Rabbit House,” \\nthe employees don't actually wear rabbit ears.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いつもよりかなり早くついたな。\\nチノ、驚くんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're quite a bit earlier than usual. \\nI wonder if Chino will be surprised?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "うん！\\n思いっきりおどかしちゃおう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Probably! Let's go give her a surprise!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ただいまー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm home!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "お疲れ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good evening.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "お帰りなさい、ココアさん。\\nお疲れ様です、リゼさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome back, Cocoa-san. Good evening, \\nRize-san.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（この子はチノちゃん。\\n　ラビットハウスのマスターのお孫さんで\\n　喫茶店の看板娘さん）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(This girl is Chino-chan. She's the \\ngranddaughter of Rabbit House's owner and the \\ncafe's mascot girl.)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア（Ｍ）",
           "original": "（そして、私の妹です！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And also my little sister!)",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "妹じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not your sister.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "はっ！？\\nチノちゃん、私の心を読んだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!? Chino-chan, you read my mind!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "ココアさんがわかりやすいだけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're just easy to read.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "遠慮しなくてもいいんだよ？\\n私にとって、チノちゃんは\\nもう妹も同然なんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't have to be shy about it, you know. \\nTo me, you're already basically my sister!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "それはココアさんが一方的に思っているだけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's simply your one-sided view.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "やれやれ、いつもながらの扱いだな。\\nココアもこれでめげないんだからすごいけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sheesh, the same cold treatment as ever. \\nIt's amazing that even Cocoa hasn't given up \\non this.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ",
           "original": "あははっ！\\nホントだよな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! You can say that again.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "メグ",
           "original": "お帰りなさい、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome back, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あれっ！？\\nマヤちゃんとメグちゃん、来てたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? So Maya-chan and Megu-chan came \\nover too.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "メグ",
           "original": "えへへ、お邪魔してます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe, sorry to intrude.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "マヤ",
           "original": "お邪魔してまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse us!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア（Ｍ）",
           "original": "（メグちゃんとマヤちゃん。\\n　チノちゃんの同級生で、\\n　よくラビットハウスに遊びに来てくれます）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(These two are Megu-chan and Maya-chan. \\nThey're in the same grade as Chino-chan \\nand often come over to hang out.)",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア（Ｍ）",
           "original": "（そして、チノちゃんに続く私の妹たちです！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And by extension through Chino-chan, \\nmy little sisters!)",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "ココアさん、今日はずいぶん早いですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you sure are early today.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "ふふーん、びっくりした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe~ Were you surprised?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "チノ",
           "original": "はい、ちょっとびっくりしました。\\nどうしてこんなに早いんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that was a little unexpected. \\nWhy did you show up so early?",
+          "status": "machine_translated"
         }
       }
     },
@@ -165,24 +165,24 @@
       "select_prompt": {
         "speaker": "チノ",
         "original": "はい、ちょっとびっくりしました。\\nどうしてこんなに早いんですか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "Yes, that was a little unexpected. \\nWhy did you show up so early?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "お姉ちゃんだから当然だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm your big sister, so of course I'm early!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "いつも遅刻ばかりでごめんね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'd like to apologize for always being late.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "実は、時計を見間違えちゃったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, it's because I misread the time.",
+          "status": "machine_translated"
         }
       }
     },
@@ -191,14 +191,14 @@
         "0": {
           "speaker": "ココア",
           "original": "お姉ちゃんだから当然だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm your big sister, so of course I'm early!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "当然なら、いつもこうしてほしいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wish you had that kind of attitude all the time.",
+          "status": "machine_translated"
         }
       }
     },
@@ -207,50 +207,50 @@
         "0": {
           "speaker": "チノ",
           "original": "でも、ココアさんも\\n少しは年上の自覚を持ってきたんですね。\\nえらいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, it seems you've finally come to \\nhave a sense of responsibility. \\nI'm proud of you.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "やったー！\\n褒められちゃった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! I've finally earned some praise!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "あのな……。\\n自覚でも何でもなくて、\\nただ時計を見間違えてただけじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen... It wasn't a sense of responsibility \\nor anything. She just got the time wrong.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ああー！\\nリゼちゃん、言っちゃだめー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Rize-chan, you didn't have to say that!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "どういうことですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you mean?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "止まってる時計を見て、\\n遅刻だと思い込んでたんだよ。\\nそれで走ってきたから早いんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She saw a broken clock, and then she ran all \\nthe way here thinking she was late.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "そういうことですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what it was.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（うう～。\\n　チノちゃんの視線が痛いよぉ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Uuu~ Chino-chan is looking at me as if \\nI'm walking garbage.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -259,56 +259,56 @@
         "0": {
           "speaker": "ココア",
           "original": "いつも遅刻ばかりでごめんね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'd like to apologize for always being \\nso late.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "バイトに限らず、\\n時間にルーズなのはよくないです。\\nもっとしっかりしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not good to be late to work or anything \\nelse. Please get your act together.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん！\\nこれからは、チノちゃんに\\n心配かけないようにするからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You said it! I'll try hard to not let you \\ndown from now on.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "あの、それで、どうしてこんなに早いんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, so, what's the reason for being early \\nthis time?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "ああ、それはな？\\nココアが時計を見間違えたんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, about that. She actually got the time \\nwrong.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "時計を？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The time?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "止まってる時計を見て、\\n遅刻だと思って走ってきたから早いんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She saw a broken clock, and ran all the way \\nhere thinking she was late.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "そういうことですか。\\n謝って誤魔化そうとしたんですか、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what happened. I see you tried to \\ngloss over that by starting with an apology, \\nCocoa-san.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ええっ！？\\nそんなつもりはなかったよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehh!? That's not what I meant!",
+          "status": "machine_translated"
         }
       }
     },
@@ -317,32 +317,32 @@
         "0": {
           "speaker": "ココア",
           "original": "実は、時計を見間違えちゃったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, it's because I misread the \\ntime.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "時計をですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Misread the time?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、止まってる時計を見て\\n遅刻だって思い込んじゃったの。\\nだから走ってきた分、早いんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, I saw a clock that wasn't moving and \\nthought I was behind schedule. So I ran all \\nthe way home and ended up early.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そういうことでしたか。\\nでも、走ってきたら危ないです。\\n無理はしなくてもいいんですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what it was. Still, you shouldn't \\ngo running all over town like that. \\nTake it easy.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "ううん、無理なんかじゃないよ！\\nかわいい妹のチノちゃんに\\n寂しい思いをさせられないからね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was nothing! After all, there's no way I \\ncan let my cute little sister Chino-chan \\nget lonely!",
+          "status": "machine_translated"
         }
       }
     },
@@ -351,20 +351,20 @@
         "0": {
           "speaker": "チノ",
           "original": "だ、だから、妹じゃないです……。\\nでも、その……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like I've been saying, \\nI'm not your sister... But, that...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ん？　なに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What is it?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "……なんでもない、です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Never mind.",
+          "status": "machine_translated"
         }
       }
     },
@@ -373,146 +373,146 @@
         "0": {
           "speaker": "マヤ",
           "original": "時計を見間違えるなんて、\\nココアもそそっかしいな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Misreading a clock like that, Cocoa is \\nquite a scatterbrain, huh.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "そういえば、メグちゃんとマヤちゃんは\\n今日はどうしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "By the way, Megu-chan, Maya-chan, what are \\nyou girls up to today?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "これからね、マヤちゃんと２人で\\n図書館に勉強に行くの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In a little bit, the two of us are going to \\nstudy at the library.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "その前に、一休みしていこうと思ってさ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But we decided to take a quick breather \\nbeforehand.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "おお、勉強しに行くんだ！\\nえらいね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ooh, a study session! Well done!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "何事も、そうやって\\nこつこつ身につけていくのが大切だからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No matter what it is, persistently studying \\nlittle by little is what's important.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "でも、ぱぱっとレベルアップすれば\\n頭もよくなって、勉強しなくていいかもな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe, but if I could level up quickly, I'd get \\nsmarter and probably wouldn't need to study \\nat all.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "どうしてこっちを見ながら言うんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And why are you looking over here while \\nsaying that?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "チノ！　レベルアップさせて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino! Let me level up!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ティッピー",
           "original": "あわわわわわわ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Awawawawa...",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "だから、ティッピーは魔物じゃありません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like I said before, Tippy is not a mob!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（ティッピーは、このお店の\\n　マスコットうさぎさん。\\n　もふもふ具合が格別です！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Tippy is this cafe's mascot rabbit. \\nHer fluffy texture is second to none!)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（いつもチノちゃんの頭の上にいて、\\n　時々、ダンディな声で喋るけど\\n　チノちゃんの腹話術なんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She's usually found on Chino-chan's \\nhead. She might sound manly at times, but \\nthat's just Chino-chan's ventriloquism.)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "ねえねえ、マヤちゃん。\\nそろそろ行こう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Maya-chan. Isn't it about time?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "あ、そうだな。\\nんじゃ、私たちはこれで！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. Well, everyone, we'll be off.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "ああ。\\n勉強、頑張れよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Later. Good luck with your studies.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "マヤ＆メグ",
           "original": "はーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "またねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "See you!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "メグ",
           "original": "またね、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Later, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "ばいばーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bye bye!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "ココアさん、早く着替えてきてください。\\nそろそろバイトの開始時間ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Go get changed, Cocoa-san. It's about time \\nto start your shift.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "あっ！\\nそうだね、急ごうリゼちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! That's right. Let's get moving, \\nRize-chan!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "ああ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On it!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "よーし！\\n今日もバイト頑張るぞ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright! Let's do our best again today!",
+          "status": "machine_translated"
         }
       }
     }

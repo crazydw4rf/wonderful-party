@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,176 +16,176 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえチノちゃん、競争しない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Chino-chan, let's have a competition.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "競争？\\nいきなり、なんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A competition? What's with that out of the \\nblue?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん。\\nどっちがたくさんチラシを配れるか、競争！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, a competition to see which one of \\nus can hand out all of their flyers first!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そんなの、競争するようなことじゃないですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That kind of thing isn't a competition.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あー、チノちゃん、\\nさては私に勝つ自信がないんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I get it. You just don't think you have \\na chance at winning against me.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ど、どうしてそういうことになるんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Why are you jumping to that conclusion?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ならしようよ。\\nね？　いいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then let's do this. Alright? Will you?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "仕方ありませんね。\\nやりましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You leave me no choice. Let's do this.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "よーし！\\nじゃあ、残りのチラシを半分こして、\\n先に配り終えた方が勝ちだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yoooshi! Okay, let's split the remaining \\nflyers in half, and the first to go through \\nthem all wins!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "わかりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Got it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "私が勝ったら、\\nご褒美にお姉ちゃんて呼んで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I win, reward me by calling me ”big sister”.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "それじゃ！\\nよーい、スタート！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good! Ready set go!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "あ、ココアさん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah! Cocoa-san!?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "もう、勝手なことばかり言って……\\n負けませんからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, you always try to get a head start on \\neverything. But I'm not losing.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "うう……どうしてこんなことに……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu~ Not like this...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "どうしても何も、野良うさぎと遊んでいた\\nココアさんの自業自得です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No excuses, you're the one who went off \\nchasing wild rabbits. You only have yourself \\nto blame.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "自分から競争なんて言ってきたのに……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you were even the one to propose the \\ncompetition...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（チ、チノちゃんの視線が冷たい。\\n　私の姉としての威厳が……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan is looking at me with pity. \\nMy dignity as her big sister!)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "ココアさん。\\nチラシの残りはこれだけですね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So is this all the flyers you have left, \\nCocoa-san?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "あ、うん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, yes.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "では、早く配ってしまいましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, let's hurry up and hand them out.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "……手伝ってくれるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You're going to help me?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "ココアさんを残して、\\n私だけ先に帰るとでも思ったんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did you seriously think I was going to leave \\nyou here and go home without you?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh...",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "ち、チノちゃ～ん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ch-Chino-chaaaan!",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "ちょっと、ココアさん！？\\nこんなところで抱きつかないでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop it, Cocoa-san!? Don't go and hug me in \\na place like this!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "チノちゃんが優しくて、お姉ちゃん嬉しい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're so kind to me, your big sister is so \\nlucky to have you~!",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "チノ",
           "original": "もう、離してください……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, get off me!",
+          "status": "machine_translated"
         }
       }
     }

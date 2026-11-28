@@ -6,170 +6,170 @@
         "0": {
           "speaker": "マヤ",
           "original": "お邪魔しまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We have arrived!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "いらっしゃいませ。\\nマヤさん、メグさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings, Maya-san, Megu-san.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "いらっしゃーい。\\nさあ、こちらのお席にどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome! Come, have a seat.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "ありがとう、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-san.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "あーあ。\\n明日の授業、憂鬱だなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw man, I am not looking forward to class\\ntomorrow.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "そうだねぇ。\\nチノちゃんは、ちゃんとやれそう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither. Chino-chan, how do you feel about it?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "……正直、私も困っています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To be honest, I’m not confident about it either.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ん？　勉強のこと？\\nそれならこのココアお姉さんに任せてよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Having trouble studying? In that case,\\nallow your big sister, Cocoa-oneechan to help\\nyou out!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "んー、でもなぁ、ココアにできるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. You say that, but I seriously doubt you\\ncan do this either.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "メグ",
           "original": "どうだろ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ええっ！？\\nそんな、お姉ちゃんをもっと頼ってよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Come on! You can trust your big\\nsister more than that!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "お邪魔しまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "お！　ちょうどいい人が！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! There’s someone who can help!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "えっ？\\n私がどうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Are you talking to me?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "マヤ",
           "original": "うん。\\nお願いがあるんだけど……\\n詩を教えてもらえるかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah. We need your help. Can you teach us\\npoetry?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "明日の授業でね、詩を作って朗読するの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re supposed to compose a poem to read\\nout loud for class tomorrow.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "へー、そんな授業があるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, so that’s what you’re up to.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "千夜のお店のメニューは独創的だし、\\n詩もいけるんじゃないかな。\\nそのセンスを伝授してくれ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya’s custom menu is extremely creative,\\nand I bet she’s good at poetry too. Tell us\\nyour secret!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "なるほど。\\nわかったわ、私でよければ教えてあげる。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. Fine, I’ll teach you everything I know.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "マヤ",
           "original": "やった！　ありがとー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nice! Thanks a bunch!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "メグ",
           "original": "助かったね、マヤちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re saved, Maya-chan!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "千夜さんに教えてもらうって……\\n大丈夫でしょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Learning poetry, from Chiya-san? This will\\nend terribly.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "うーん……。\\nまあ、ココアよりはマシなんじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. Well, at least they’re not learning\\nfrom Cocoa?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "詩を作る上で１番大切なこと――\\nそれは、タイトルをつけること！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The most important thing to consider when\\nwriting a poem is--naming it!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "名は体を表すもの。\\nタイトルから内容を想像させるのが大事なのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The name speaks for the body of your\\nwriting. It’s vital to envision the content by\\nbasing it on the title.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "マヤ",
           "original": "すごーい！\\nなんか本格的じゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Impressive! You seem to know what you’re\\ndoing.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "メグ",
           "original": "千夜さんに聞いて正解だったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I knew we wouldn’t regret asking Chiya-san\\nabout this.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア（Ｍ）",
           "original": "（そ、そんな……\\n　これじゃ、私の姉としての威厳がっ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh no! I’m losing my dignity as their big\\nsister!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,24 +177,24 @@
       "select_prompt": {
         "speaker": "ココア",
         "original": "（そ、そんな……\\n　これじゃ、私の姉としての威厳がっ！）",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "(Oh no! I’m losing my dignity as their big\\nsister!)",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "じ、実は私、詩が得意なの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I’m good at poetry too, actually!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "千夜ちゃんにはかなわないよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t stand a chance...",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "私も参加する！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna do this too!",
+          "status": "machine_translated"
         }
       }
     },
@@ -203,68 +203,68 @@
         "0": {
           "speaker": "ココア",
           "original": "じ、実は私、詩が得意なの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I’m good at poetry too, actually!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "え？\\n本当なの、ココアちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Is that true, Cocoa-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "そんなの初耳ですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve never heard about that before...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "大丈夫！\\n詩はね、頭に浮かんだ言葉を素直に\\n表現すればいいんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Piece of cake! Writing poetry is nothing more\\nthan putting your thoughts into words.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "それっぽく聞こえますが、何か不安です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That sounds reasonable, but I have my\\ndoubts hearing it from you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "たとえば――\\nチノちゃんの　頭の上の　モフモフは　\\n見ているだけで　心安らぐ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For example--That fuzzy wuzzy/seen upon\\nChino-chan’s head/sets my heart at ease.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "おお、さらさらって詩を作った！？\\nやるじゃんココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, did you just make that up? Very\\nimpressive, Cocoa!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "えへへ～。\\nまあ、これくらいなら当然だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ That was nothing.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "いえ、今のは違います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, she didn’t just make that up.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ああ、違うな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, she didn’t.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "に、２回も言う！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "D-Did you have to say that twice!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -273,8 +273,8 @@
         "0": {
           "speaker": "ココア",
           "original": "千夜ちゃんにはかなわないよ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don’t stand a chance against Chiya-chan...",
+          "status": "machine_translated"
         }
       }
     },
@@ -283,14 +283,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "まあ、何だかんだ言って、\\n千夜のセンスはすごく尖ってるし\\n誰にも真似できないものだしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Regardless of whatever else you might say\\nabout her, you have to admit her style is one\\nof a kind.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ですが、学校の授業で\\nあのセンスを認められるかというと……\\n不安しかありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But unfortunately, I can’t imagine that style of\\nhers being received well at school... I’ve got a\\nbad feeling about this.",
+          "status": "machine_translated"
         }
       }
     },
@@ -299,38 +299,38 @@
         "0": {
           "speaker": "ココア",
           "original": "私も参加する！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna do this too!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ココアさんは仕事をしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you have work to do.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "えー、私も詩の朗読したーい！\\nなんだかお嬢様っぽいよね、詩の朗読って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aw, I wanna recite poetry too! That sounds\\nclassy, reciting poetry.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "あ、わかる～。\\nお嬢様って、窓辺の椅子に座って\\n詩集を読んでそうだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know what you mean. Sitting in a chair\\nnext to a window reading poetry seems like\\nsomething a rich girl would do.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "あれ？\\nってことはリゼも詩が得意なの？\\nやってみせてよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Does that mean Rize is good at\\npoetry? Show us what you’ve got!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "えっ！？　わ、私！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? M-Me!?",
+          "status": "machine_translated"
         }
       }
     },
@@ -339,68 +339,68 @@
         "0": {
           "speaker": "千夜",
           "original": "こら、脱線してはいけませんよ。\\nきちんとタイトルを考えてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Stop! No distractions! Keep focused on\\ncreating a title!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア＆メグ＆マヤ",
           "original": "は～い！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "おい、ココア！\\nなんでお前まで返事してるんだ、仕事しろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, Cocoa! What do you think you’re\\ndoing? Get back to work!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "まあまあ、今はお客さんもいないし\\nちょっとくらいならいいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t burst a blood vessel, it’s not like we\\nhave any customers. Cut me some slack.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "はあ……。\\nわかったよ、店は私が見てるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ Fine, whatever. I’ll cover for you.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "あの、できました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, I’ve completed one.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "マヤ",
           "original": "チノ、早いなぁ。\\nなんてタイトルなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dang Chino, that was fast. What’s your title?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "『ティッピーはもこもこ』、です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "『Tippy is soft and fluffy』",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "あら、いいわね。\\nチノちゃんの好きって気持ちが\\n溢れてきてるのが伝わってくるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My, how lovely. It’s made your personal\\npreferences crystal clear.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "そうなのか？\\nそんな感じでいいのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s good enough for you!? You’re\\nseriously fine with that!?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ティッピー",
           "original": "やれやれ……。\\n詩を嗜むにはまだまだじゃな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness gracious. It looks like you’re still\\ntoo young to appreciate poetry.",
+          "status": "machine_translated"
         }
       }
     }

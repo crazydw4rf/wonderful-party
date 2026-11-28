@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（お仕事はこれでおしまいだね。\\n　今日も１日、お疲れ様！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And with that, my job is done. Another \\nhard day's work!)",
+          "status": "machine_translated"
         }
       }
     }

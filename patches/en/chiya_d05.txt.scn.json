@@ -6,272 +6,272 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（メインのメニューが決まったとはいえ、\\n　クリスマスパーティーに向けて\\n　準備することはたくさん！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(While we may have decided on our \\nChristmas recipes, we still have lots \\nof party preparations left to do.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（クリスマスまでの残りの日は、\\n　本当に飛ぶように流れていきました――）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The days remaining until Christmas \\ntruly seemed to fly by...)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "ふう、やっと終わったねぇ。\\n今日はやけに長かった気がするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ We're finally done. \\nToday felt longer than usual for some reason.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "私もよ。\\n楽しみなことがあると、時間って長く感じるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I feel the same. Time seems to slow down \\nwhile you're waiting on something.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "楽しい時間はすぐに過ぎちゃうのにな。\\n逆だったらいいのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But time speeds up while doing something fun. \\nIt should be the other way around.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "うふふっ、本当ね。\\nそれじゃココアちゃん、始めましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Agreed. \\nAlright, Cocoa-chan, let us begin.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ようやく準備も仕上げね。\\nあとは、この招待状を書くだけよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our preparations are finally \\nnearing completion. \\nAll that's left are the invitations.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "準備に買い出しに、大忙しだったよ～。\\n勉強やお仕事をしながら進めるのは\\n大変だったけど、楽しかったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The shopping and preparations were a lot of \\nwork. It was a big job, \\non top of school and work, but I enjoyed it.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ええ、ずっとわくわくしながら準備ができたわ。\\n招待状はココアちゃんの発案だけど、\\nこれもすごく楽しいもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. I was so excited any time we worked \\non the party! I'm glad you suggested \\nwe do these invitations. They seem fun.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "えへへ、よかった。\\nやっぱりパーティーだもん、\\n招待状がないと締まらないよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ I'm glad. It's a party after all! \\nIt's not complete without proper invitations.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "ええ、こういうのも形から入るべきね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. The clothes make the man, \\nand the invite makes the party.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "渡し方はどうしよっか。\\n手渡しもいいけど、ポストに入れておくって\\nいうのも雰囲気あるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How do we deliver them? \\nSure, we could hand them over, but I like \\nthe vibe of sending them in the mail.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "ポストのなかに招待状が入ってる、なんて\\nきっとどきどきするわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's something exciting about \\ngetting an invitation in the mail!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "青山さんの連絡先は……\\nあ、そっか、青山さんは当日、厨房のお手伝いを\\nしてくれることになったんだっけ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do we know Aoyama-san's address? \\nOh, wait, she's going to be helping \\nin the kitchen on the big day.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "そうなの。\\n念のために、クリスマスの予定が空いているか\\n聞いてみたら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. I asked if she was doing \\nanything this Christmas, just in case...",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "そういうことなら私はお手伝いに回りますって\\n言われちゃったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And she insisted that she help out \\nif she's being invited.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "気にしなくていいって言ったけど、\\n当日はみなさんで楽しんでくださいねって\\n返されちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I told her that was unnecessary, \\nbut she simply told us to have a fun day.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "だから、お言葉に甘えちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, I took her up on her offer.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "でも、ラビットハウスにはいるんだから\\nクリスマスのお祝いは一緒にできるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But since she's going to be at Rabbit House, \\nshe'll be right there \\ncelebrating alongside the rest of us.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ええ、そうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's true.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "……ねえ、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa-chan?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ん？　どうしたの、千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What's up, Chiya-chan?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "私ね、毎日がすごく楽しいの。\\nどうしてだと思う？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I personally have had one wonderful day \\nafter another. Do you know why?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うーん、なんでだろ？\\nクリスマスが近いから？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm, why? Because it's Christmas time?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "ううん。\\nきっと、みんなに出会えたからだと思うわ。\\nみんなと一緒だから、何をしていても楽しいの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No. I'm convinced it's because I was able \\nto meet all of you. \\nWhen I'm with the group, anything I do is fun.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "そうだね。\\nクリスマスはもちろん楽しみだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. \\nWhile Christmas is nice in its own way...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "みんなと一緒だったら、\\nなんでもない普通の日だってすごく楽しいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Being together with everyone turns \\neven a normal day into tons of fun.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "この前、公園でココアちゃんと話したわよね。\\n『出会いは不思議だ』って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You mentioned this once before. \\nThat there's something mysterious \\nabout first-time encounters.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "うん、千夜ちゃんの家で\\n地図を見つけた日だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that was the day we found \\nthe first map in your home.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "ええ、そう。覚えていてくれて嬉しいわ。\\n私ね、あの時に話したことが\\nずっと心に残ってるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's right. I'm glad you remembered. \\nThat conversation has \\nvividly remained in my memory ever since.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "ココアちゃんに出会うことができたから、\\nみんなにも出会うことができた。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was only able to meet all the others \\nbecause I met you.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "私が今、こんなにも楽しいのは、\\nココアちゃんのおかげ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm only able to be as happy as I am now \\nbecause of you, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "だからココアちゃん。\\nこれからも、よろしくね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, Cocoa-chan, I hope we can remain \\nfriends for a long time to come.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "そ、そんな、改めて言われると照れちゃうよ。\\nでもね、私もずっと思っていたことがあるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Oh gosh. Coming out and saying that \\ndirectly is going to make me blush. But yeah, \\nthere's something that's been on my mind.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "あら、何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, and what's that?",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "私たち、入学式前にあの公園で出会ってなかったら\\nこんなに仲良くなってなかったかもって、\\nあの時、言ってたでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You said that if we hadn't met in that park \\nbefore the school entrance ceremony, \\nwe never would have become such good friends.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "ココア",
           "original": "でも、そんなことないよ。\\nもし私が入学式の日を間違えなくて、\\nあの公園で千夜ちゃんと出会ってなくても――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I don't believe that! Even if I hadn't \\ncome to the ceremony on the wrong day, \\nand never met you there in the park...",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "千夜ちゃんとは、絶対に、今と同じように\\n仲良しになってたよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm certain, absolutely positive, \\nthat I would have become just as \\nclose friends with you some other way.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "だって、一緒にいてこんなに楽しいんだもん。\\nどんな出会い方だったとしても、私たち、\\nこうして２人で過ごしてたと思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think of how much fun it is when we're \\ntogether! No matter how we crossed paths, \\nI'm convinced we would have ended up together.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "千夜",
           "original": "ココアちゃん……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "千夜",
           "original": "そうよね、出会いは不思議だけど、\\nこの関係を育んできたのは私たち自身だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. Encounters might be mysterious, \\nbut our relationship \\nis something we fostered on our own.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "千夜",
           "original": "出会いはきっかけをくれただけ。\\n今、こうしているのは、\\n私たちが望んだからなのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The encounter was just the opportunity. \\nBut this moment is \\nsomething we wished for and received!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア",
           "original": "そうだよ！\\nだから、こちらこそ、これからもよろしくね。\\n千夜ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you go! \\nSo, let us always remain friends, Chiya-chan.",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "ありがとう、ココアちゃん。\\nずっとずっと、私の大切な親友でいてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you, Cocoa-chan. Please be my \\nprecious best friend, always and forever.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア",
           "original": "うん！\\nずっとずっと一緒だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do! We'll be together forever!",
+          "status": "machine_translated"
         }
       }
     }

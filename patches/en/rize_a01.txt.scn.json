@@ -6,152 +6,152 @@
         "0": {
           "speaker": "ココア",
           "original": "ありがとうございましたー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you for visiting!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ふう！\\n今日はいつもより忙しいね。\\nチラシ配りの効果かな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahh! Today sure is busier than normal. Perhaps our flyers are starting to have an effect?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "そうですね。\\nようやく一息つける感じです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe you're right. I feel like we can finally afford to take a break.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "（確かに少し余裕ができたな。\\n　それなら今のうちに……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She's right, we've finally made some breathing room. Which means, while I still have the time today...)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "チノ、すまないが、\\nちょっとだけ自分の作業をしてもいいか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino, I hate to ask this of you, but do you mind if I work on something on my own for a bit?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "はい、お客さんがいない間ならいいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's fine by me, so long as it's while we don't have any customers.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "リゼちゃん、どうしたの？\\n宿題でもするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you up to, Rize-chan? Are you doing homework?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "違う。\\n役割分担を考えようと思ってさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not it. I thought I'd start planning how we're going to divide up the work.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "役割分担？　なんの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Divide the work? Work on what?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "もちろん、クリスマスパーティーの準備だよ。\\nみんなで手分けして、円滑に準備を進めたいんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The work on the Christmas party preparations, duh. I want everyone to pitch in to make progress as smooth as possible.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "おおー！\\nさすがリゼちゃん、しっかりしてるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh! That's our Rize-chan, always with her head in the game!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "パーティーの主催を買って出たからには、\\nこれくらいのことはやって当然だろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm the one who volunteered to host the party, so something that trivial should go without saying.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "とはいえ、それぞれ都合もあるだろうし、\\n最終的に決める前に意見を聞きたいと\\n思ってるんだが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, I'm sure everyone has different plans, so I'd like to have a talk with everyone before finalizing anything...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "そういうことなら、いつでも聞いてよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can talk it over with me any time you like!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "まあ、待て。\\nまだ必要な役割を書き出してる途中なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be patient for now. I'm still working on exactly who's going to get the important roles.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "それに、意見を聞くなら\\nみんなで集まって、\\nまとめて聞いた方がいいだろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And if I'm going to end up asking everyone, we might as well get everyone together and talk it over as a group.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? And why's that?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "別々に聞いて、誰かの都合が悪かった場合、\\n調整してまた連絡を取る必要があるからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I talk to everyone one by one but someone already has plans, fixing the schedule would mean re-contacting everyone.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "あ、そっか。\\nそれじゃ、二度手間になっちゃうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I see. You'd end up having to start over.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "しかし、いつみんなに集まってもらうかが問題だ。\\nこうして気軽に聞けるココアやチノはともかく、\\nシャロや千夜はバイトの都合もあるだろうし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, getting everyone together will be tough. Even ignoring you two, there's still Sharo and Chiya's work schedule.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "うん、これから年末に向けて\\nバイトも忙しくなるし――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right. We're all getting busy now that the year is coming to an end...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\nだったら、もう１回お泊まり会をやろうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know! Now that it's come to this, why don't we have another sleepover!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "今までみたいに毎週末……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We can do it every weekend, just like before.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "は、無理かもしれないけど、何回かなら\\nみんなの予定も合わせられるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, maybe that's asking for too much, but since we have several shots, maybe everyone's schedule will align?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "いつもすっごく楽しかったから、\\n終わっちゃって寂しいなって思ってたし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The sleepovers were always so much fun, so I'd hate to see them come to an end.",
+          "status": "machine_translated"
         }
       }
     },
@@ -160,32 +160,32 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃんも、これが\\n最後だと思うと残念だって言ってたもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan, even you said you were disappointed that was going to be our final sleepover.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "あ、ああ、まあ、そうだな\\nみんなの予定が合うなら、やりたいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, well, I can't deny that. If the stars align and everyone can get together, I'm for it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、本当に\\nリゼちゃんの家でお泊まり会、しちゃう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, that means we're actually gonna be throwing a sleepover at Rize-chan's mansion?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "そうしたいところなんだが……\\nしばらくは親父の知り合いが来たりして\\n家の中がばたばたするから、難しそうなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'd like to, but my place is going to be busy with my dad's acquaintances for a while, so that's probably impossible.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あれ、そうなんだ。\\n残念だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, is that so. Unfortunate.",
+          "status": "machine_translated"
         }
       }
     },
@@ -216,56 +216,56 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、場所はまたラビットハウスかな？\\nチノちゃん、どう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I guess that leaves us with the same old Rabbit House. Chino-chan, what do you say?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "一応、父に確認は取りますが、\\n大丈夫だと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "At the very least, I'll need to run the idea past Father, but I think it'll be fine.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "そうか。\\nなら、また甘えさせてもらうとするか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so. Well then, I'll take you up on your offer once again.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "じゃあ、お泊まり会決定だね！\\nやった～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's settled then, we're having another sleepover! Hooray!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "おっと。\\nさて、おしゃべりはここまでだ。\\n新しいお客さんだぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well now. Let's leave our conversation at that. We've got another customer.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "私とチノちゃんが接客するから、\\nリゼちゃんは役割分担を進めてていいよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me and Chino-chan will take the customer, you can go work on assigning our roles.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "え？　だけどバイト中だし……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? But work isn't over yet...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "大丈夫です。\\n忙しくなったら仕事をしてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't mind. If we get busy then you can come back to work.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ああ、わかった。\\n悪いな、２人とも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, got it. Thanks you two.",
+          "status": "machine_translated"
         }
       }
     }

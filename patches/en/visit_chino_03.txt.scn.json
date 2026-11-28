@@ -6,134 +6,134 @@
         "0": {
           "speaker": "千夜",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "いらっしゃいませ、千夜さん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome, Chiya-san.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "千夜ちゃん、どうしたの？\\nこの時間は仕事中だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, what are you doing here? Aren’t\\nyou usually working at about this time?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "配達の帰りなの。\\n少し休憩しようと思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m on the return trip from a delivery. I thought\\nI’d stop in for a quick break.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "そうか、なら温かいコーヒーを用意するよ。\\nちょっと待っててくれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Then let us get you a hot coffee. Wait\\njust a moment.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "嬉しいわ。\\n外はもう、だいぶ寒いし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I appreciate it, especially considering how\\nchilly it’s gotten outside.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "寒さに震えたらいつでもここに来てね。\\nラビットハウスはいつでも千夜ちゃんを\\n温めてあげるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come here any time the winter cold starts to\\nget to you! Rabbit House is guaranteed to\\nwarm you back up.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "そうね。\\nここに来ると心も体も温まるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No doubt about that. Every visit here warms\\nmy body and soul.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "……あら？\\nチノちゃん、なんだか髪が乱れてない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What’s this? Chino-chan, why’s your hair so\\nmessy?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "え？　そうでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Is it really?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "お仕事してると、なかなか自分のことに\\n気が回らなくなっちゃうものよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You must not be aware of it once you get so\\nconcentrated on your work.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "よければ、私がきれいにしてあげるわ。\\nちょうどくしも持っているから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Allow me to fix it for you, if you don’t mind. I\\nhappen to be carrying a comb on me for this\\nparticular occasion.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "ありがとうございます。\\nでは、お言葉に甘えて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I would appreciate that. Please, go ahead.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "それじゃ……。\\nどう、チノちゃん。\\n髪がひっかかったりしてない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then... How’s that feel, Chino-chan? Am\\nI pulling on your hair?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "ん……。\\n大丈夫です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not at all.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃんが千夜ちゃんに髪を梳かれて\\n　気持ちよさそうに……！\\n　このままじゃ、私の姉としての立場が！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan’s really enjoying being combed\\nby Chiya-chan! She’s going to abandon\\nthinking of herself as my sister at this rate!)",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ち、千夜ちゃん！\\nチノちゃんは私の妹なんだからね！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ch-Chiya-chan! Don’t forget that Chino-chan\\nis my little sister, not yours!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "違います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "あら、ごめんねココアちゃん。\\nやきもちを焼かせるつもりはなかったのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, forgive me, Cocoa-chan. I didn’t mean to\\nmake you jealous.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "でも、チノちゃんがかわいいから\\n思わず夢中になっちゃったのは本当。\\nまるで子うさぎみたいだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I must admit I got carried away by how\\ncute she is. She’s just like a little baby bunny.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "子うさぎ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A baby bunny!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "子うさぎかぁ、確かにそんな感じはするよな。\\nちなみにココアから見ると、\\nチノってどんなイメージだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A baby bunny, that sure fits the bill. How\\nwould you describe her, Cocoa?",
+          "status": "machine_translated"
         }
       }
     },
@@ -141,24 +141,24 @@
       "select_prompt": {
         "speaker": "リゼ",
         "original": "子うさぎかぁ、確かにそんな感じはするよな。\\nちなみにココアから見ると、\\nチノってどんなイメージだ？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "A baby bunny, that sure fits the bill. How\\nwould you describe her, Cocoa?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "うーん、子猫かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Maybe a kitten?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "クマかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A bear?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "やっぱり、うさぎだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A baby bunny!",
+          "status": "machine_translated"
         }
       }
     },
@@ -167,8 +167,8 @@
         "0": {
           "speaker": "ココア",
           "original": "うーん、子猫かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm. Maybe a kitten?",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,38 +177,38 @@
         "0": {
           "speaker": "チノ",
           "original": "子猫……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A kitten!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "普段はちょっとツンツンしてるけど\\nたまにかわいく甘えてくるところとか、\\n子猫っぽいなーって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She’s usually a little standoffish, but once\\nevery so often she lets me baby her. Just like\\na kitten.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "わ、私がいつココアさんに甘えたんですか！\\n適当なことを言わないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I have literally never been babied by you! I\\ndon’t appreciate being lied about.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "子猫もいいわねえ。\\n今度、猫耳を持ってこようかしら。\\nチノちゃん、きっと似合うと思うの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kittens are lovely too. Perhaps I’ll bring some\\ncat ears with me the next time I visit. I bet\\nthey’ll look great on Chino-chan.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "じゃあ、私とリゼちゃんも猫耳つけて、\\n猫耳デーにしてもいいかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, Rize-chan and I should wear cat ears\\ntoo, and we’ll call it cat ears day.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "わ、私が猫耳！？\\nいいよ、似合うわけないし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me, in cat ears!? Don’t be ridiculous, that\\nwouldn’t suit me at all!",
+          "status": "machine_translated"
         }
       }
     },
@@ -217,50 +217,50 @@
         "0": {
           "speaker": "ココア",
           "original": "クマかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A bear?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "クマですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A bear!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それはむしろ、チノちゃんから\\n１番遠いイメージなような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On the contrary, I feel like that’s as far from\\nChino-chan’s vibe as any animal can get...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうかな？\\nもふもふしてるし、来るべき時に向けて\\n知識を蓄えてる辺りがクマの冬眠っぽいよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think? She’s cuddly, and the way she\\naccumulates information for the future makes\\nyou think of a hibernating bear.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "うーん？\\nニュアンスはわかるけど、なんか違うだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I think I get what you’re hinting at, but\\nit’s still off the mark.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "それに、クマってぬいぐるみならかわいいけど\\n実際はかなり危険な動物だぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I suppose a bear in the form of a teddy bear\\nis cuddly, but the real thing is actually a really\\ndangerous animal.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "危険な女……！\\nそれは素敵な響きね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A dangerous woman! I love the sound of that.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "ですが、私にはやっぱり合わないかと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, that has nothing to do with me...",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,8 +269,8 @@
         "0": {
           "speaker": "ココア",
           "original": "やっぱり、うさぎだよ！\\nもふもふでかわいくて、抱きしめたら\\n幸せになれる世界一の生き物だからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s gotta be a baby bunny! Cute and cuddly\\nand fills you with joy when you hug it! The\\ngreatest animal in the whole wide world!",
+          "status": "machine_translated"
         }
       }
     },
@@ -279,26 +279,26 @@
         "0": {
           "speaker": "チノ",
           "original": "抱きしめるのは遠慮してほしいのですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’d prefer it if you’d leave out the hugging\\npart...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "あら？\\nチノちゃん、赤くなってるわよ？\\n褒められて嬉しい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What’s this? Chino-chan, you’re all red. I\\ntake it you liked that compliment just now?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "べ、別に、いまのは\\n私を褒めたわけではないですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That just now wasn’t anything resembling\\na compliment.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "まあ、ここはラビットハウスだしな。\\nその跡取りのチノがうさぎってのは\\nある意味、ピッタリだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, this is Rabbit House after all. The\\nheiress having the vibe of a rabbit fits\\nperfectly.",
+          "status": "machine_translated"
         }
       }
     },
@@ -307,56 +307,56 @@
         "0": {
           "speaker": "千夜",
           "original": "それにしても……\\nチノちゃんの髪の毛、サラサラで気持ちいいわ。\\nそれに、いい匂いがするし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway. Chino-chan, your hair feels lovely,\\nand is oh so smooth. And smells nice, too.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "多分、コーヒーの匂いだと思います。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I imagine it smells like coffee.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ふふ、こんなに素敵な髪だと\\n髪型を変えてみたくなっちゃうわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. This perfect head of hair makes me\\nwant to transform it into all sorts of different\\nhairstyles.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "いいね！\\n髪型を変えたチノちゃん、見てみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Great idea! I wanna see Chino-chan in a new\\nhairstyle!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "なんでココアさんが乗り気なんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you the one excited about it?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "それじゃ……\\n『蒼天に煌めく聖天使の美しき白翼盛り』\\nなんてどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, how about we go with 『A Serving\\nof the Holy Angel’s Beautiful White Wings,\\nShining in the Pure Blue Sky.』",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "おおー！\\nチノちゃんの髪形がなんか荘厳な感じに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ooooh! Chino-chan’s new hairstyle sounds\\nkind of majestic!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "ちょっと見てみたい気がするな、その髪型。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now even I’m interested in seeing this\\nhairstyle.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "リゼさんまで！？\\nや、やめてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even you, Rize-san!? K-Keep your hands off\\nme!",
+          "status": "machine_translated"
         }
       }
     }

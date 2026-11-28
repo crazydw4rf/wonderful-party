@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! \\nWanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly Rize-senpai\\nsaid earlier that she'll be able to do\\nhandouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!?\\nIn that case, let's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "ちょっと休憩しましょうか。\\nみんな、ずいぶん頑張ったものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's take a quick breather. I see everyone's \\ntrying their hardest right now.",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,242 +34,242 @@
         "0": {
           "speaker": "シャロ",
           "original": "さすがに疲れたわね……。\\nふう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've got that right. I'm beat. \\n＊sigh＊",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "おおー！\\nシャロちゃん、今の言い方とかポーズ、\\n愁いを含んでお嬢様っぽいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh, Sharo-chan! The way you weaved your \\nmelancholy into your pose and tone of voice \\nwas exactly what a rich girl would do!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "え？　どこが？\\n普通にしてるだけよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? How so? \\nEverything I did was perfectly normal.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "いいえ、どこか魔性を感じさせるほどだったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not so. \\nI could sense the bewitching power within you.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "千夜まで……からかわないでよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now Chiya's joining in... \\nQuit teasing me already.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "魔性！？\\nなにを、魔性なら私も負けてないよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bewitching!? What was that now!? \\nYour evilness is no match for mine!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "大声出してなんだ？\\n魔性がどうしたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you yelling all of a sudden? \\nSomething about bewitching?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "前にね、千夜ちゃんに手相を見てもらった時、\\n『魔性の相がある』って言われたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A while back, Chiya-chan discovered that I \\nhave a 『hidden evilness』 through a palm \\nreading.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "というわけで！\\nシャロちゃん、どっちが魔性か私と勝負だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And therefore, Sharo-chan and I must battle \\nto see who is the most bewitching!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "どういうわけなのよ。\\nなんで私がそんな勝負しなきゃならないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't follow your reasoning at all. \\nWhy do I have to compete with you over this?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "ではでは、魔性対決始まりまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, the bewitching competition has \\nnow begun!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "人の話、聞いてない！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's not listening!?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "勝負方法は……\\nチノちゃんを口説き落とした方の勝ち！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The rules are as follows... \\nThe first one to seduce Chino-chan wins!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "はい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "それって魔性か！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's what you mean by ”bewitching”!?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "じゃあ、私が先攻ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, I'll go first.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "こほん！\\nお嬢さん、ハンカチを落としましたよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊ahem＊\\nMy lady, it seems that you have \\ndropped your handkerchief.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "え？　えっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? \\nUmm...",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "ありがとうございます。\\n助かりました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much. I appreciate it.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "いいえ、どういたしまして。\\nきちんとお礼が言えるなんて、\\n礼儀正しく素敵な人ですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it was nothing. Based on how well you \\nexpressed your gratitude, I can't help but notice\\nwhat wonderful, courteous person you are.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "もっとお話したいな。\\nよかったらお茶でもいかがですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'd love you talk with you some more. \\nWould you mind joining me for a spot of tea?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "意外に自然な流れで持っていった……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was a surprisingly natural invitation!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "こんな感じかな。\\nどうチノちゃん、魔性を感じた？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you have it. \\nWell, Chino-chan, was I bewitching?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "魔性はともかく、ハンカチ拾ってくれた\\nわけですし、悪い人ではなさそうです。\\nでも、見ず知らずの人についていきはしません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know about bewitching, but someone\\nwho returns my handkerchief must be a nice\\nperson. But, I'm not going along with a stranger.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "くうっ！\\n魅力が足りなかったか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gah! I wasn't charming enough!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "じゃあ、次はシャロちゃんの番だよ。\\nはい、チノちゃんを口説いてみて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, next up is Sharo-chan! \\nGo on, try seducing Chino-chan.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "あ、ええと……じゃあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, uhhh... \\nOkay then...",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "シャロ",
           "original": "す、素敵なお嬢さんね。\\nあの……なんて言ったらいいのか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You're a wonderful lady. Um... \\nWhat do I say next...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "わ、私のアルバイトしているお店に\\nお茶を飲みに来てくださいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "P-Please come to the cafe where I work for \\nsome tea!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "は、はい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Okay!",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "あらあら。\\nこれじゃ、フルールの宣伝ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My my. \\nThat turned into an advertisement for Fleur.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "あ、はい……。\\n何というか、あまりの必死さに\\n思わず返事をしてしまいました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, that's true. How do I put it... \\nShe seemed so desperate that I responded \\nautomatically.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "シャロ",
           "original": "だ、だから、私には無理なのよっ！\\n魔性なんてないんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "L-Like I was saying! I can't do this at all!\\nThere's nothing bewitching about me at all!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "いや、これは魔性なんて関係ない\\nただのナンパだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, this has nothing to do with being \\nbewitching or not. You're just hitting on her.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "そんなこと言うなら、リゼちゃんもやってみてよ。\\nお手並み拝見だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you're gonna say all that, then why don't\\nyou give it a try. Show us what you've got!",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "なんでだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What for!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "シャロ",
           "original": "あ、あの、私も……\\n先輩の魔性、見てみたいような……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, um... I kinda want to see how... \\nbewitching Senpai can be...",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "リゼ",
           "original": "まったく、仕方ないな。\\nじゃあ、うーん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. \\nSure, whatever. Here I go...",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "射撃訓練場に行かないかっていうのは変だよな？\\nこういう時に誘うべき場所は……いや、場所に\\nこだわらなくても楽しいと伝わればいいはずで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Would it be weird to invite her out to the range?\\nA better date spot would be... No, so long as\\nshe'll have fun the location doesn't matter...",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "リゼ",
           "original": "よし、チノ。\\n私と一緒に――楽しいことをしないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino.\\nWanna--\\ndo something fun with me?",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "チノ",
@@ -280,20 +280,20 @@
         "41": {
           "speaker": "シャロ",
           "original": "ほああああ～……。\\nリゼ先輩、素敵……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hoaaaa~ \\nRize-senpai! That was perfect!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア",
           "original": "これは……１番の魔性はリゼちゃんだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The votes are in... \\nThe most bewitching of us all is Rize-chan!",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "リゼ",
           "original": "だから、これって魔性か？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, what does this have to do with\\nbewitching?",
+          "status": "machine_translated"
         }
       }
     }

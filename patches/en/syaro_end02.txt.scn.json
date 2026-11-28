@@ -6,380 +6,380 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふわぁ～……よく寝たぁ……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(＊yaaawn＊\\nWhat a great night's sleep...)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（昨日で冬休みも終わっちゃったね。\\n　ちゃんと起きられるか自信なかったけど、\\n　寝坊しなくてよかった）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today's the end of winter break.\\nI'm not confident I'll always get up on time,\\nbut I'm glad I didn't oversleep today.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（さあ、今日から新学期！\\n　お休みボケしないように、気合入れていくよ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Well now, from today onward is the new\\nschool term! I can't allow the break to make\\nme rusty, time to return better than before!)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "あら、ココア。\\nおはよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa. Good morning.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あ、おはよう、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, good morning, Sharo-chan.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "……え？　シャロちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. Sharo-chan?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "何、寝ぼけてるの？\\n早く顔を洗って目を覚ましてきなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What, are you still half asleep? \\nGo wash your face and wake up already.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "な、なんでシャロちゃんがここにいるの～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What is Sharo-chan doing here!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "おはようございます、ココアさん。\\n朝から大声を出して、どうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good morning, Cocoa-san. \\nWhy are screaming so early in the morning?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "チノちゃん、おはよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, good morning.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "え？　シャロさん？\\nどうして……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Sharo-san? Why are...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "２人とも、なんでそんなに驚いてるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are both of you acting so surprised?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "なんでって、そりゃびっくりするよ！\\nシャロちゃんがいきなりいるんだもん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Surprising things are surprising! \\nSharo-chan, you just showed up all of a sudden!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……もしかして聞いてないの？\\n私、今日から１週間、\\nラビットハウスで働くんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Did neither of you hear about it? \\nAs of today, I'm going to be spending one \\nweek working here at Rabbit House.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア＆チノ",
           "original": "ええええ～っ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "EEEEEEEEEH!?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "ま、待ってください、父の許可は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now hang on one second. \\nWhat does Father have to say...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "タカヒロ",
           "original": "許可したよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I gave her permission.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "お父さん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Father!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "タカヒロ",
           "original": "詳しい話はシャロ君から聞きなさい。\\nそれじゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can have Sharo-kun tell you the details.\\nSee you later.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "シャロちゃん、どういうことなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, what's this all about?!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "うーん、どこから説明すればいいのかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, where do I begin...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "まず、みんな、私のバイトを\\n手伝ってくれたでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "First of all, you all helped me out with \\nmy work, right?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "それで、バイト先が気を遣ってくれたのか、\\n予定よりもお給料を多めにもらえて、\\n割と余裕ができたのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because of that, my boss was pleased\\nand gave me a raise. So for now I've got a\\nlittle bit of money to spare.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "だから、みんなに迷惑かけちゃったし、\\n何かお返しをしたいと思ったの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've caused a lot of work for you guys,\\nso I'd like to return the favor.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "でも、プレゼントは\\nクリスマスに贈ったばかりでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I already just gave you all presents \\nfor Christmas, right?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "それで、時間的にも余裕があるんだし、\\nみんなのお店を手伝うことにしたのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that I have some free time, I'm going \\nto be helping out at your cafe this time.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "そういうわけだから。\\nココア、チノちゃん、今日から１週間よろしく。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's my explanation. Cocoa, Chino-chan, \\nI'm looking forward to spending the \\nupcoming week with you.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "そうなんだ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what's happening...",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "わーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "あっ、ちょっとココア！\\nいきなり何！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wait, Cocoa! \\nWhat are you doing all of a sudden!?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "だって、シャロちゃんと\\n一緒に過ごせるなんて嬉しくって！\\n今日からシャロちゃんも私の妹なんだね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm expressing how glad I am to spend the \\nweek with you! From today forward you're my \\nlittle sister too!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "なんで妹！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why a little sister!?",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "え？　妹はやだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? Don't you want to be a little sister?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "いやだとかそういう問題じゃなくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not about my preference...",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "ココアさんは、そうやって\\n誰でもすぐに自分の妹にしようとするんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's just how Cocoa-san is. She'll accept \\nanyone as her little sister, won't she?",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "大丈夫よ、チノちゃん。\\n私はココアの妹になる気はないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Worry not, Chino-chan. I have zero interest \\nin becoming Cocoa's sister.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "いえ、構いません。\\nそういうことなら、シャロさんは\\n私のお姉さんということになりますので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's fine. If things go that way, \\nthen Sharo-san will become my big sister.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "チノ",
           "original": "よろしくお願いします、シャロお姉ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's a pleasure to meet you, Sharo-oneechan.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "ああっ！　ずるいよシャロちゃん！\\n私、お姉ちゃんって呼んでもらえてないのに～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waah! \\nThat's not fair, Sharo-chan! \\nShe still won't even call me ”oneechan”!",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "そんなこと、私に言われても困るわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay? What do you want me to do about it?",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "ココア",
           "original": "ねえ、チノちゃん？\\n私のことも、お姉ちゃんて呼んでいいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you listening, Chino-chan? \\nIt's perfectly okay to call me ”oneechan” \\ntoo, understand?",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "チノ",
           "original": "ところで、シャロお姉ちゃん。\\n朝食の準備ができているようですが、\\nもしかして作ってくれたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "By the way, Sharo-oneechan, I notice that \\nbreakfast is already prepared. Perhaps you \\nwere the early riser who did this?",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "ココア",
           "original": "スルーされた！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm being ignored!?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "シャロ",
           "original": "ええ、今日からお世話になるついでにね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, from today onward you'll be looking \\nafter me, it's the least I could do.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "チノ",
           "original": "ありがとうございます。\\nでは、温かいうちにいただきましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you very much. Well now, let's eat \\nit while it's hot.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "シャロ",
           "original": "ええと……そうしたいんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhh, I'd love to, but...",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "ココア",
           "original": "うう……。\\nチノちゃんがいつもにも増してツンツンだよぉ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uu... \\nChino-chan is being even more prickly \\nthan usual.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "チノ",
           "original": "ふう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "チノ",
           "original": "せっかくシャロさんが作ってくれたんですから、\\n温かいうちにいただきましょう、\\nココアお姉ちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san went to the trouble of making \\nthis for us, so don't let it get cold, \\nCocoa-oneechan.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "ココア",
           "original": "ええっ！？\\nチノちゃん、今、ココアお姉ちゃんて言った？\\nシャロちゃんも聞いたよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "WHAT!? \\nChino-chan, did you just say ”Cocoa-oneechan”?\\nYou heard it too, right Sharo-chan?",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "シャロ",
           "original": "ええ、よかったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I did, hip hip hooray.",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "ココア",
           "original": "やったぁ～！\\nシャロちゃん、私、ついに\\nチノちゃんのお姉ちゃんになれたよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Finally! Sharo-chan! At long last, I've \\nbecome Chino-chan's big sister!",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "チノ",
           "original": "そ、そこまで認めてません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I didn't say that!",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "シャロ",
           "original": "ていうか、なんで私に抱きつくのよ！\\nこれじゃ朝食の準備ができないでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you clinging to me?! \\nI can't touch my breakfast like this!",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "ココア",
           "original": "えへへ～。\\nシャロちゃんも、私のことをお姉ちゃんって\\n呼んでくれたら離してあげるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ If you call me ”oneechan” too, \\nthen I'll let you go.",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "シャロ",
           "original": "呼ぶわけないでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's no way I'll ever say it.",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "ココア",
           "original": "えー、なんでー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Whyyy?",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "シャロ",
           "original": "ほら、さっさと席に着きなさい。\\n遅刻するでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, get back in your chair. \\nYou'll be late.",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         },
         "59": {
           "speaker": "チノ",
           "original": "やっぱり、ココアさんよりも\\nシャロさんの方がお姉さんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-san is still more big sister-like \\nthan Cocoa-san. No surprises there.",
+          "status": "machine_translated"
         },
         "60": {
           "speaker": "ココア",
           "original": "ち、違うよ！\\n私が１番上で、お姉さんなんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're totally wrong! \\nI'm the oldest, so I'm the big sister!",
+          "status": "machine_translated"
         },
         "61": {
           "speaker": "シャロ",
           "original": "はいはい、もう何でもいいから。\\n朝食にするわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okey dokey, whatever you say. \\nI'm having my breakfast now.",
+          "status": "machine_translated"
         },
         "62": {
           "speaker": "シャロ",
           "original": "ふふっ！\\nホント、朝からにぎやかね。\\nでも、こういうのも……楽しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. What an action-packed morning. \\nBut this sort of thing...\\nJust might be fun.",
+          "status": "machine_translated"
         }
       }
     }

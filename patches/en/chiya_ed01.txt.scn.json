@@ -6,374 +6,374 @@
         "0": {
           "speaker": "千夜",
           "original": "それじゃ、乾杯！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Everyone, kanpai!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "みんな",
           "original": "かんぱーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kanpai!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "メリークリスマース！\\n聖なる夜の宴だよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Merry Christmas! \\nIt's time for a Holy Night dinner!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（今日は、待ちに待ったクリスマスパーティー！\\n　ここまできたら目いっぱい盛り上がるだけだね！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today is our long-awaited Christmas party! \\nAfter all that's been done, all that's left \\nis to celebrate to our heart's content!)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "さあ、お待ちかねの\\n今日のメニューをお披露目するわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now, it's time to unveil \\ntoday's much-anticipated feast.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "待ってましたぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've been waiting for this!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "はい！\\nまず、前にみんなで食べたコーヒーケーキ。\\nもちろんクリスマス仕様にアレンジしているわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To start, here is a new rendition of the \\ncoffee cake you all tried before. This time \\nI put a festive spin on its appearance.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "わあ、あんことティッピーのマジパンが乗ってる！\\nすごい、かわいいー！\\n私、結局マジパンは作れなかったんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wa~ It has marzipan Tippy and Anko on it! \\nThat's so cute! In the end I never \\ndid get the chance to make marzipan.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ココアちゃん、お仕事も忙しくて\\nそこまで時間がなかったものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were too busy with work \\nand never found the time to do that, huh.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "でも安心して、今日は\\nいっぱいお料理を用意してあるから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But worry not. There's still \\nplenty of food to go around today.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "メグ",
           "original": "あの、これってなんですか～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me, but what are those?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "これはコーヒーあんみつにコーヒー大福。\\nそしてこれは、甘兎庵特製、小麦色の誘惑よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That is coffee anmitsu, and that's \\ncoffee daifuku. And that there is the \\nAma Usa An special Flaxen Temptation.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "ターキー、ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, a turkey.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ターキーもそんな名前が付いてるんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So even the turkey gets a fancy name, huh.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "他にもたくさん作ってあるから、\\nみんな、いっぱい食べてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's even more than that, so eat your fill.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "本当に豪勢だな。\\nすごいじゃないか、お疲れ様。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This really is extravagant. \\nVery nice, and well done.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "ううん、チノちゃんのお父さんや青山さんが\\n協力してくれたからできたのよ。\\n私１人の力なんて大したことないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This was only possible with the help of \\nChino-chan's father and Aoyama-san. \\nWhat I did myself is hardly worth mentioning.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "いえいえ。\\n私たちは本当にお手伝いしただけです。\\n千夜さんが頑張ったからこそのご馳走ですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No need to be so modest. \\nWe were merely there in support. This \\nfeast was the fruit of Chiya-san's effort.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "タカヒロ",
           "original": "千夜君、あとは私と青山君でやるから、\\n君もパーティーを楽しみなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-kun, leave the rest to Aoyama-kun \\nand me. Please enjoy the party.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "はい、ありがとうございます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Will do! Thank you kindly.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "じゃあみんな、めしあがれ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, everyone, dinner is served!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "マヤ",
           "original": "いっただきまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Itadakimasu!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "こら、あんまりがっつくなよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on, don't be such a glutton.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "いいのよ、遠慮なんていらないわ。\\nこのお料理を作ることができたのは、\\nみんなが宝探しを手伝ってくれたからだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's fine, no need to be polite. \\nThis meal was made possible by everyone's \\ncooperation in the treasure hunt.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "２人で見つけた宝の地図が\\nこんな素敵なものだったなんて思わなかったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I had no idea when we found the \\noriginal treasure map that it would \\nlead to such a wonderful ending.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "本当ね。\\nクリスマス前に楽しいどきどきを\\n味わうこともできたわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Me neither. We got a delicious taste of \\nwhat was to come before Christmas time.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "マヤ",
           "original": "すっごく楽しかったよねー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That was so much fun!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "メグ",
           "original": "うん！　またみんなで宝探ししようね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! We need to do that again sometime.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "私は……\\n最後しか参加できなくて、ちょっと残念かも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I kind of regret not being able to participate \\nuntil the very end.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "千夜",
           "original": "はい、シャロちゃん。\\n特製のカップケーキよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here you go, Sharo-chan. \\nHave your very own cupcake.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "ええ？\\n本当に用意してきたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? You actually made something for me?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "わあ～！\\nかわいいマグカップに入ったケーキだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wa~ A cupcake in a coffee mug! Adorable!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "実はね、このマグカップ、ペアになってるの。\\n片方は私が持ってるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just so you know, this coffee mug comes as \\na pair. I happen to have the other one.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "シャロ",
           "original": "えっ？\\nなんでそんなこと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Why would you--",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "千夜",
           "original": "だって、私とシャロちゃんは幼なじみなのに\\nリゼちゃんとだけペアカップなんてずるいわ。\\nちょっと嫉妬しちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because you're my childhood friend! \\nThe fact that you have matching mugs with \\nRize-chan and not me made me jealous.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "シャロ",
           "original": "嫉妬って……！\\nな、何言ってるのよ、もう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Jealous!? Wh-What are you thinking! Gosh...",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "だから、私から\\nおそろいのカップを贈ったんだけど、\\n嫌だったかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, I'm offering you this mug. \\nDo you not want it?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "べ、別に、嫌なわけじゃないわよ。\\nまあ……あ、ありがと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's not like I don't want it. \\nWell, um... thanks.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "ココア",
           "original": "千夜ちゃん、シャロちゃん、\\n２人でひそひそ何を話してるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, Sharo-chan, \\nwhat are you two whispering about?",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "な、何でもないわよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's nothing!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "千夜",
           "original": "うふふっ、実はね、新しい宝物の話をしてたの。\\n私とシャロちゃんだけの、大事な宝物。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. You see, we were discussing a new \\ntreasure. An exclusive, \\nprecious treasure for only Sharo-chan and me.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "シャロ",
           "original": "ち、ちょっと千夜！？\\n変な言い方するなー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-Stop that, Chiya! Don't make this weird!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "青山",
           "original": "あらあら、何のお話ですか？\\n宝物と聞こえましたが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My my, what is this about? \\nI think I overheard something about treasure?",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "ココア",
           "original": "ふふーん、実はですね、\\n今日のレシピが完成するまでに\\n宝の地図片手に大冒険をしてきたんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh! I'm glad you asked! \\nWith only a map to guide us, we underwent \\nan epic adventure to find today's recipes!",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "青山",
           "original": "まあ、それは面白そう。\\n今度の小説のネタになりそうです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that sounds interesting. I feel \\nlike I could make a new novel out of it.",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "ティッピー",
           "original": "なぬぅ！？\\nお、おい、やめんか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the!? Oi, oi, I can't stand to hear this!",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "チノ",
           "original": "だめです、おじいちゃん。\\n楽しいお話の邪魔をしては。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No interruptions, Grandpa. \\nLet them have their fun.",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "千夜",
           "original": "それは素敵なお話になりそうね。\\n書きあがったら、ぜひ見せてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure you could make a wonderful story \\nout of it. If you ever complete it, \\nplease show it to us!",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "青山",
           "original": "ええ、もちろん。\\n１番にお見せしますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, of course. \\nYou'll be the first to read it.",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "マヤ",
           "original": "私たちの宝探しが本になるの？\\nもしかして、映画化もされちゃったり？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The story of our treasure hunt is \\ngoing to become a novel? \\nImagine if it gets a movie adaptation!",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "メグ",
           "original": "わあ～、楽しみだね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wa~ How exciting!",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "ココア",
           "original": "街の国際バリスタ弁護士\\nトレジャーハンターパン屋ココア、\\n華麗に銀幕デビューだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa, the town's international barista \\nlawyer treasure hunter baker, \\nis making her dazzling silver screen debut!",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "リゼ",
           "original": "設定盛りすぎだろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your credentials are getting out of hand!",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "千夜",
           "original": "ふふっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe.",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "ココア",
           "original": "どうしたの、千夜ちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's so funny, Chiya-chan?",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "千夜",
           "original": "ううん、なんでもないわ。\\nただ、とっても楽しいなって思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, don't mind me. \\nI'm just enjoying the moment.",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "千夜",
           "original": "こうやって、みんなでふざけ合って\\n笑い合って……こんな日が\\nずっと続いたら、とても幸せね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at all of us joking around \\nand laughing together. I would be so happy \\nif days like these could continue on forever.",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "ココア",
           "original": "続くよ、絶対に。\\nだってここにいるみんな、\\nきっと同じことを思ってるもん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "They will continue on. I guarantee it. \\nI'm certain everyone \\nhere is thinking the exact same thing.",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "千夜",
           "original": "そうよね。\\nありがとう、ココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. Thank you, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "59": {
           "speaker": "千夜",
           "original": "ねえ、今度、ココアちゃんにも\\nカップケーキをプレゼントしてもいいかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One more thing. Do you mind \\nif I gift you a cupcake in the future too?",
+          "status": "machine_translated"
         },
         "60": {
           "speaker": "ココア",
           "original": "ホント！？\\nやったぁ、嬉しい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Yay! I'd love one.",
+          "status": "machine_translated"
         },
         "61": {
           "speaker": "千夜",
           "original": "うふふ、楽しみにしててね。\\nココアちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. Look forward to it, Cocoa-chan.",
+          "status": "machine_translated"
         }
       }
     }

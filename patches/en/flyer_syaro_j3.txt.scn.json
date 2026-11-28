@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Sharo-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "この香りは～。\\nふああ～、たまらないよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know what smell that is!\\nWaaa~ It's out of this world!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,152 +22,152 @@
         "0": {
           "speaker": "シャロ",
           "original": "ああ、パンを焼いてる香りね。\\n近くにパン屋さんがあるのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's the smell of bread in the oven.\\nWas there a bakery around here?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "はう～。\\nパンは匂いまでかわいいよぉ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahhh~ Even the scent of bread is cute.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "本当にいい香りだけど……かわいいって何？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I agree it's a nice smell, but... cute?\\nSeriously?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ねえシャロちゃん、知ってる？\\n焼き立てのパンって格別のおいしさなんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey Sharo-chan, fun fact. Freshly baked bread\\nis better than anything you've ever had!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "前にみんなでパン作りをしたんだ。\\nおいしかったな～、またやりたいな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We all got together to make bread\\nonce before. It tasted wonderful~\\nWe should do that again sometime.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "みんなって……ラビットハウスのみんなと？\\nということはリゼ先輩も作ったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "All of you, meaning all of you\\nat Rabbit House? Which means\\nthat Rize-senpai made some too?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "うん、千夜ちゃんも一緒にね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yup, and Chiya-chan was with us as well.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "あっ！　シャロちゃんを\\n仲間外れにしたわけじゃないんだよ？\\nその時はまだ会ってなかったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh no! It's not like we deliberately\\nleft you out or anything! That\\nhappened before we ever met.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "そんなの気にしてないから。\\nでも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't really mind. But if...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "もうちょっと早くココアたちと会ってたら、\\n先輩の手作りパンが食べられたの……！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If only I had encountered Cocoa\\nslightly earlier, then I might have\\nhad a shot at Senpai's homemade bread!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "シャロちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "えっ！？\\nな、何でもないわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Uh, n-nevermind!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "今度はシャロちゃんも一緒にパン作りをしない？\\n好きな材料を持ってきて、創作パンを作るの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we ever do that again, can we count you\\nin? You can bring your favorite ingredient\\nto use as stuffing for the bread.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "いいけど……\\n材料ってどんなものを持っていけばいいの？\\nジャムとかチーズかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure. What kind of ingredients are\\nyou talking here? Like jam and cheese?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "自分がおいしいって思うものならなんでもいいよ。\\n私は焼きうどんパンを作ったし、\\n千夜ちゃんは梅干パンだったし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anything you personally think sounds\\ngood. Last time I did yakiudon bread,\\nand Chiya-chan did pickled plum.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "……いまいち食欲をそそられないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I don't think that sounds good at all.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "チノちゃんは焦げたおじいちゃんだった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan did roasted grandpa.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "は！？　な、なにそれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? Wh-What is that supposed to be?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "おじいちゃんの顔の形をしたパンだよ。\\nそれで、リゼちゃんはうさぎパン。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's bread crafted into the shape\\nof her grandpa's face. Also,\\nRize-chan made rabbit bread.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "うさぎパン！？\\nま、まさかリゼ先輩……そんなことないわよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rabbit bread!? Say it ain't so, Rize-senpai.\\nYou wouldn't do such a thing, right?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "かわいいうさぎの形だったんだけど、\\nチョコで顔を描く時に失敗しちゃって\\n歌舞伎うさぎパンになったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was a cute shape, but she messed up\\nwhile drawing the face with chocolate and\\nit ended up a rabbit wearing kabuki makeup.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "あ、ああ、そうよね。\\nうさぎパンと言ったらうさぎの形のパンよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, ohh, that's what you mean.\\nIt was bread in the ＊shape＊ of a rabbit.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "わ、私ったらなんて想像を……\\nリゼ先輩、ごめんなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness me, what am I thinking?\\nRize-senpai, forgive me for doubting you!",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "あの時も楽しかったけど、\\nシャロちゃんも一緒ならもっと楽しくなるよね。\\nああ、早くみんなでパン作りがしたいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We had fun then, but it'd be even better\\nwith you around. Ah, how I hope we\\ncan all make pan together again soon.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "そうね。\\n私も楽しみだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I hope so too. I'll be looking forward to it.",
+          "status": "machine_translated"
         }
       }
     }

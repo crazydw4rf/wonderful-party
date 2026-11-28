@@ -4,20 +4,20 @@
     "language_name": "English",
     "dialogues": {
       "total": 17569,
-      "translated": 2,
+      "translated": 13232,
       "proofread": 2,
-      "machine_translated": 0,
-      "untranslated": 17567,
-      "percent_translated": 0.01,
+      "machine_translated": 13230,
+      "untranslated": 4337,
+      "percent_translated": 75.31,
       "percent_proofread": 0.01
     },
     "choices": {
       "total": 862,
-      "translated": 1
+      "translated": 568
     },
     "prompts": {
       "total": 131,
-      "translated": 0
+      "translated": 65
     },
     "titles": {
       "total": 1014,
@@ -33,74 +33,74 @@
       "chino": {
         "total_dialogues": 1594,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1594
+        "mtl": 9,
+        "untranslated": 1585
       },
       "chiya": {
         "total_dialogues": 1491,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1491
+        "mtl": 1491,
+        "untranslated": 0
       },
       "other": {
         "total_dialogues": 101,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 101
+        "mtl": 2,
+        "untranslated": 99
       },
       "flyer": {
         "total_dialogues": 3659,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 3659
+        "mtl": 3656,
+        "untranslated": 3
       },
       "flyerhap": {
         "total_dialogues": 1821,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1821
+        "mtl": 1818,
+        "untranslated": 3
       },
       "main": {
         "total_dialogues": 1053,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1053
+        "mtl": 1052,
+        "untranslated": 1
       },
       "move": {
         "total_dialogues": 1886,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1886
+        "mtl": 1886,
+        "untranslated": 0
       },
       "pajamas": {
         "total_dialogues": 630,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 630
+        "mtl": 630,
+        "untranslated": 0
       },
       "rize": {
         "total_dialogues": 1425,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1425
+        "mtl": 96,
+        "untranslated": 1329
       },
       "syaro": {
         "total_dialogues": 1524,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1524
+        "mtl": 1524,
+        "untranslated": 0
       },
       "tutorial": {
         "total_dialogues": 49,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 49
+        "mtl": 49,
+        "untranslated": 0
       },
       "visit": {
         "total_dialogues": 1018,
         "proofread": 0,
-        "mtl": 0,
-        "untranslated": 1018
+        "mtl": 1017,
+        "untranslated": 1
       }
     }
   },

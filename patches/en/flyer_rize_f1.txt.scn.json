@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "ココア",
           "original": "はい！\\nリゼちゃんに質問がありまーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Attention! Rize-chan, I have a question.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ん？　なんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's your question?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "サンタさんと言えばこういう赤い服で、\\nそれで、クリスマスツリーと言えば緑で、\\nツリーに飾られる雪は白いでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "When you think Santa, you think of\\nthat red suit. A Christmas tree makes you\\nthink of green, and the snow of white.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "クリスマスといえば赤と緑と白だけど、\\nそれってなんでだろうって思って。\\nリゼちゃん、知ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Red, green, and white are the colors\\nof Christmas. But is it supposed to\\nmean something? Rize-chan, do you know?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "うーん、確か緑は永遠を表しているって\\n聞いたことがあるな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I think I heard someone say\\nthat green represents eternality.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "ほら、ツリーのもみの木とか\\n１年中色を変えない常緑樹だろ？\\nだから、変わらないものを象徴するんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, like the Christmas tree itself.\\nIt's an evergreen. It stays green\\nyear-round, so it symbolizes the unchanging.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "へー、そうなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Neat.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "でも私だとね……\\n緑のイメージは……おいしい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But to me, I think green means... yummy?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "お、おいしい？\\nなんでそうなるんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-Yummy? What the heck?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "緑って言えば緑茶で、緑茶って言えば甘味で、\\n甘味処と言えば甘兎庵！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Green means green tea, and\\ngreen tea goes with sweets, and\\na sweets shop is Ama Usa An!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "ただの連想ゲームじゃないか！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What sort of word association game is this!?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ああ、でも、そう言われると……\\nなんだか私の中で緑のイメージが\\n『マイペース』になってしまった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if I'm being honest, green is\\nstarting to take an egotistical feeling to it.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ん？　なんで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And why is that?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "ほら、千夜だよ。\\n独特のネーミングセンスといい、\\nあのマイペースっぷりはなかなかだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know, because of Chiya. She's only\\never done things her own way. And that's\\nnot to mention her naming obsession.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "あ、でも、ココアもココアで\\n割とマイペースだよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though I suppose that also applies to you.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "そっかなぁ？\\n私は、いつでもツンツンでクールな\\nチノちゃんこそマイペースな気がするよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? I think Chino-chan is\\nthe most strong-willed of us all, the\\nway she stays prickly no matter what.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "言われてみれば……\\n意外にみんなマイペースなのか？\\nそれでよくかみ合っていけるよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that I think about it, everyone\\nI know is quite the character. It's\\nsurprising they can all get along so well.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "それはきっと、リゼちゃんが\\nみんなのペースをまとめてくれてるから\\nじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It only works because we have\\nyou, Rize-chan, to keep us\\nall walking at the same pace.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "えっ？　そ、そうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Seriously?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "うん、そうだよ。\\nリゼちゃんがいるとね、私たちの中に\\nどんって柱が立ってる感じがするから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's true! You're our support pillar,\\nthe one who holds it all together!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "そう、リゼちゃんが私たちの骨組みなんだよ！\\nないとぐねぐねのぐにゃぐにゃになっちゃうの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To put it another way, you're\\nlike our skeleton! Without you\\nwe'd all return to gloopy gloop!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "そこまでか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're that shapeless without me!?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "でも、まあ、なんか嬉しいよ。\\nそういう風に言ってもらえると。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'll take it. That's not the worst\\nthing someone could say about you.",
+          "status": "machine_translated"
         }
       }
     }

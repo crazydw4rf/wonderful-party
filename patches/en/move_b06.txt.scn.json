@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃん、どこにいるんだろ？\\n　市場に買い出しに来てるはずだよね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I wonder where Chino-chan is? I thought she\\nhad gone shopping in the town market.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あ、いた！\\n　フルーツ屋さんの前にいるの、チノちゃんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Oh, there she is! Chino-chan’s in front of a\\nfruit stand.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,20 +22,20 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\n買い出し、お疲れ様。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! How’s the shopping going?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "ココアさん？\\nどうして買い出しのことを……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san? How did you know what I was\\ndoing?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "さっき、ラビットハウスにいって\\nリゼちゃんに聞いたんだ。\\nこのフルーツを買いに来たの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan just told me about it back at Rabbit\\nHouse. Are you here to buy some fruit?",
+          "status": "machine_translated"
         }
       }
     },
@@ -44,20 +44,20 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（やっぱり日曜日の市場は人が多いなあ。\\n　知ってる誰かがいたら声かけてみようかな。\\n　それで、一緒に回って楽しんで……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(The town market sure is busy on Saturday.\\nHopefully I bump into someone and we can\\nhave some fun shopping together.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（え！？　チノちゃんがいる！\\n　今はラビットハウスで\\n　バイトの時間じゃないの？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Aha! There’s Chino-chan! But shouldn’t she\\nbe working at Rabbit House right now?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "チノちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chaaan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -66,26 +66,26 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん。\\nお買い物ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. Are you out shopping?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ううん、ちょっとぶらぶらしてたんだけど、\\nチノちゃんはどうしてここに？　バイトは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope, just loitering. What are you doing\\nhere? Shouldn’t you be at work?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ちゃんとバイト中ですよ。\\n買い出しを頼まれたんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I am at work. I was asked to pick up a few\\nthings.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そういうことか。\\nもしかして、今見てたフルーツを買いに来たの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that’s it. Did you come to buy this fruit\\nyou were looking at?",
+          "status": "machine_translated"
         }
       }
     },
@@ -94,80 +94,80 @@
         "0": {
           "speaker": "チノ",
           "original": "いえ、見ていただけです。\\n買うべきものはまだ少し残っていますが、\\n時間は充分あるので。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I’m just looking. I already got most of\\nwhat I came here to buy, and now I’m just\\nkilling time.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃあ、私も一緒に見て回っていい？\\n１人でぶらぶらするのもつまんないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then how about we go window shopping\\ntogether? It’s no fun wandering around alone.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "いいですよ。\\nただし、はぐれないでくださいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, that sounds fine. Just don’t get\\nseparated from me.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "やだなぁ、子どもじゃあるまいし\\n迷子にはならないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh please, I’m not a kid. I won’t get lost that\\neasily.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……その妙な自信が不安なんですが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...That baseless confidence of yours is\\nalways a bad sign.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、小麦粉売ってる！\\n新作パンを作るのに買っておいた方がいいかな？\\n看板メニューの開発もしたいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh look, they’re selling flour! Think I should\\nbuy some to make a new bread recipe? We\\ncould even put it on the advertising menu.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "看板メニューですか？\\nココアさんの作ったパンがありますよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The advertising menu you say? You already\\nhave your bread listed there.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "そうなんだけど、新作も出さないと\\nお客さんが飽きちゃうかも――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s true, but if I don’t keep innovating the\\ncustomers might get bored--",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ひゃっ！？\\nご、ごめんなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa! E-Excuse me!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "やっちゃったぁ。\\n人が多すぎて、話しながら歩くのは危ないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Dang it. There’s so many people here that I\\ncan’t even walk and talk at the same time\\nwithout causing an accident.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "……あれ？　チノちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. Chino-chan?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃんがいない！\\n　もしかして……迷子になっちゃった！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan is gone! Don’t tell me, she’s\\ngotten herself lost!?)",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（急いで探さないと！\\n　チノちゃん、きっと困ってる！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I need to find her quick! Chino-chan is\\nprobably in trouble!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -181,18 +181,18 @@
       "choices": {
         "*sel_0101": {
           "original": "（周りの人に訊いてみよう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll ask random strangers.)",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "（声を出してみなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll yell for her!)",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "（……この人ごみじゃ無理かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Maybe it’s hopeless in this crowd?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -201,44 +201,44 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（周りの人に訊いてみよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll ask random strangers.)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "すみません！　私の妹を見ませんでしたか？\\nこれくらいの身長で、思わずぎゅっと\\n抱きしめたくなるような子なんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me! Have you seen my little sister?\\nShe’s about this tall, and makes you\\ninstinctively want to hug her.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "女性Ａ",
           "original": "は？　いえ、見てませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? No, I haven’t seen her.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうですか、ありがとうございます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, alright. Thank you.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "あの、私の妹を見ませんでした？\\nかわいくてふわふわで、私の幸せの元なんです！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um, have you seen my little sister? She’s\\nsoft and cute and the light of my life!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "女性Ｂ",
           "original": "い、いえ、わかりませんけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "U-Uh, no, I don’t think so.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ありがとうございます！\\nすみません、私の妹を見ませんでしたか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you! Pardon me, have you seen my\\nlittle sister?",
+          "status": "machine_translated"
         }
       }
     },
@@ -247,20 +247,20 @@
         "0": {
           "speaker": "チノ",
           "original": "こ、ココアさん！\\nやめてください、そんな言い方……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-san! Just what are you saying to\\nthese people!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nよかったぁ、どこに行っちゃったのかと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Thank goodness, I thought you\\nhad wandered off somewhere.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "違います、どこかに行っちゃったのは\\nココアさんです。\\nそれに、私は妹じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, the only one who went anywhere was\\nyou. And I’m not your sister.",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,50 +269,50 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（声を出してみなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I’ll yell for her!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チノちゃん！　チノちゃーーん！\\nどこに行ったのー！？　返事してー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "CHINO-CHAN! CHINO-CHAAAN! WHERE\\nDID YOU GO? SAY SOMETHING!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（……返事がない。\\n　私が気をつけてなかったから\\n　完ぺきに迷子になっちゃったんだ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...No response. I wasn’t paying close\\nenough attention and now she’s completely\\ndisappeared.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（私、お姉ちゃんとして、\\n　ちゃんと妹を探さないと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(As her big sister, I must hunt her down no\\nmatter what!)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "チノちゃーーん！\\nどこに行ったのーーっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "CHINO-CHAAAN! WHERE DID YOU\\nGOOO!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "ココアさんっ！\\nそんな大声、やめてください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san! Please stop screaming at the top\\nof your lungs!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃん！！\\nよかった……。\\nどこ行ってたの？　心配したよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Thank goodness... Where did\\nyou go? I was worried sick.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "それはこっちのセリフです。\\nいなくなったと思ったら、市場中に聞こえる\\n大声で叫んでるんですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s my line! First you disappeared, then I\\nsuddenly hear you shouting loud enough to\\nbe heard throughout the market.",
+          "status": "machine_translated"
         }
       }
     },
@@ -321,8 +321,8 @@
         "0": {
           "speaker": "チノ",
           "original": "気持ちは嬉しいですが……もう少しやり方が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I appreciate the thought, but... Maybe think\\nabout your actions a tad more?",
+          "status": "machine_translated"
         }
       }
     },
@@ -331,44 +331,44 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（……この人ごみじゃ無理かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(...Maybe it’s hopeless in this crowd?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（待っててね、チノちゃん！\\n　今、迎えに行くから！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hold tight, Chino-chan! I’m off to find you!)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（はうう……。\\n　チノちゃん、見つからない）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hauuu~ I can’t find Chino-chan anywhere.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア（Ｍ）",
           "original": "（すれ違っちゃったのかな？\\n　下手に動かないでじっとしてればよかったかも）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Maybe we passed each other by? Maybe I\\nshould have just stayed put and waited.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "ココアさん、探しましたよ。\\n突然いなくなるから心配しました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. I’ve been looking for you. You\\nhad me worried, disappearing like that.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nよかったぁ、\\nどこに行っちゃったのかと思ったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Thank goodness. I thought you\\nhad wandered off somewhere.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "違います、ココアさんが\\n勝手にいなくなったんじゃないですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You have that wrong, Cocoa-san. You were\\nthe one that wandered off on your own.",
+          "status": "machine_translated"
         }
       }
     },
@@ -377,62 +377,62 @@
         "0": {
           "speaker": "チノ",
           "original": "もう……。\\nココアさん、あまり心配させないでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh... Don’t make me so worried, Cocoa-\\nsan.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ご、ごめんなさい……。\\nでも、見つかってよかった！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I’m sorry. But thankfully we’ve been\\nreunited!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "こ、ココアさん！？\\nそんなに抱きしめないでください。\\n周りの人も見ていますし、はずかしいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C-Cocoa-san!? There’s no need to hug me\\nlike this! There are people watching us right\\nnow!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "でも、今、こうしたいの！\\n大事な妹がいなくなったら\\n心配するのがお姉ちゃんなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I want to do this now! I’m your big sister,\\nso I was terribly worried that my precious little\\nsister had disappeared.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "もう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "大丈夫ですよ、ココアさん。\\nココアさんがいなくなっても、\\n私はすぐに見つけられます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s no need to worry, Cocoa-san. Even if\\nyou disappear on me, I’ll find you again in no\\ntime.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "それって姉妹愛？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because of our sisterly love?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "いいえ。\\nココアさんが大騒ぎするので\\nすぐに居場所を特定できますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope. I can track you by the big commotion\\nyou make wherever you go.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "それに……ココアさんだって、\\n私が見つかるまで探してくれますよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That, and... Cocoa-san, you’re sure to be\\nlooking for me until we’re reunited again,\\nright?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うん、もちろん！\\nだって私はチノちゃんのお姉ちゃんなんだからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, guaranteed! That’s because I’m your big\\nsister!",
+          "status": "machine_translated"
         }
       }
     }

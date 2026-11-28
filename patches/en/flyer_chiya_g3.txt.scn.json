@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,152 +16,152 @@
         "0": {
           "speaker": "ココア",
           "original": "はあ……。\\n少し疲れちゃったね、休憩する？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ I'm getting a little tired.\\nWanna take a break?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ええ、そうね。\\nずっと立って配っていると\\nさすがに足が棒になってくるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, not a bad idea. My legs start to hurt\\nif I stand on them long enough.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "あ、そうだわ。\\n今日は休憩用におやつを持ってきたのよ。\\n一緒に食べましょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I almost forgot. I brought some snacks\\nto have while on break. Shall we split them?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "わあ、やったぁ！\\n何を持ってきてくれたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Waa! My lucky day!\\nWhat'd you bring with you?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ふふふ……。\\nじゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe... Behold!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "金平糖だぁ！\\nわー、瓶詰めできれい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Konpeito! Wow, a gorgeous full jar!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "見た目もいいけれど、\\n疲れている時は甘いものが１番でしょ？\\nさあ、手を出して？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And it's better than it looks.\\nSweets are best for when you're\\nworn out. Here, show me your hands.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ありがとう、千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm in your debt, Chiya-chan.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "どういたしまして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was my pleasure.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "金平糖って色もきれいだけど、\\nこの、ちっちゃくて\\nころころしてる形もきゅんってするよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's not just their dazzling colors, they\\nalso have the most charming little forms!\\nWhat's not to love about these things?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "砂糖を熱であたためて、\\n長い時間をかけて転がしつづけて\\nこの形にするのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That hot sugar had to be tossed\\naround for a long, long time for\\nit to become this unique shape.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "作ってるところ、見てみたいなぁ。\\nお星様を作ってるみたいで\\nわくわくしそうだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wanna see how it's made!\\nI'm sure it'd be exciting to watch.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "そうね、金平糖はよく\\n星にたとえられたりもするわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. Konpeito are often compared to\\nthe stars of the nighttime sky, after all.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そうだ、千夜ちゃん知ってる？\\n魔女は星屑を集めて魔法の薬にする、\\nっていう話があるんだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Speaking of which... Chiya-chan, did you\\nknow this? Witches are said to gather\\nstardust to use in making magic potions.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "まあ、素敵ね。\\n今の私たちにぴったりだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, cool story.\\nThat sounds like something we would do.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そうそう。\\nなにしろ、私たちは魔女だもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've got that right. We are none other\\nthan a proud pair of witches.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "じゃあ千夜ちゃん、あーんして？\\n魔女の薬をおすそわけだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, open wide. I'll share\\nsome of my magic medicine with you.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "それでは、いただきます。\\n……あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you would be so kind. Aaaah~",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "もともとは、千夜ちゃんから\\nもらったものだけどね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though this was originally\\nyours to begin with.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "ふふ、おいしい。\\nそれじゃ、ココアちゃんも食べて。\\nはい、あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Teehee. That was yummy.\\nNow it's your turn. Here, open up.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "いただきまーす。\\n……あーん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't mind if I do. Aaaah~",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "甘くておいしい！\\nほっとする味だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's so sweet, I love it!\\nSuch a relaxing flavor.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "星屑の力ももらったし、\\n残りのチラシ配りも頑張りましょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that we've been empowered\\nby stardust, let's get back to\\ngrinding away at these flyers.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright!",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふー、今日のチラシ配りも\\n　あと少しで終わりだね。\\n　千夜ちゃんの方はどうかな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ah, I'm nearly done for the day.\\nOnly a few more flyers left for me to\\ndo. I wonder how Chiya-chan's doing?)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "千夜ちゃん、調子はどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan,\\nhow are those flyers coming along?",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,146 +28,146 @@
         "0": {
           "speaker": "千夜",
           "original": "私が配る分は、ついさっき終わったところよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I just finished with my stack.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "おー、すごい！\\n早いね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, wow! You work fast!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "それじゃ、ココアちゃん。\\nそっちの残りを配るの、手伝わせて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'm not done yet. Cocoa-chan,\\nlend me half of your stack. I'll help you.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ありがと、千夜ちゃん。\\n今日はすっごく調子いいんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks, Chiya-chan.\\nYou seem to be a good mood today.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "そうかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "もしかして、なにかいいことあった？\\nずーっとニコニコしてるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Did something good happen to you?\\nYou've been grinning the whole time.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "ふふっ！\\n実は、最近読んだ本のことを思い出してたの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. You see,\\nI was thinking about a book I read recently.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "日本の伝統色についての本でね、\\nそれがとっても面白くって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was about the traditional colors of\\nJapan. It was absolutely fascinating!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "チラシを配りながら、街の色を見て\\n内容を思い出してたら、\\n楽しくなってきちゃったのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Every time I saw a new color while\\nwalking around town, I would recall\\nsomething from that book. How fun!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "日本の伝統色かぁ。\\nうん、それってすごく千夜ちゃんっぽいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The traditional colors of Japan? That does\\nsound like something you'd find interesting.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "あ、そういえば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "千夜ちゃんが考えた甘兎庵のお品書き、\\n赤宝石とか、エバーグリーンとか、\\n色モチーフなのもあるよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've named some of your menu items stuff\\nlike “Red Jewel” and “Evergreen.” You were\\nusing a color-based motif, weren't you?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "ええ。\\n色の名前って、お菓子の名前を\\nイメージする時、役に立つのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. The color names come in handy\\nwhen envisioning new names for sweets.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "ねえねえ、私はどう？\\n私は、日本の色でいったら何色な感じかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, what about me? If I were one of\\nJapan's colors, which one would I be?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "そうね、ココアちゃんなら――桜色かしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me think. You'd probably be...\\nsakura pink.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "おだやかで、淡い……\\nふんわりと包み込んでくれるような暖かい色よ。\\nココアちゃんにぴったりだと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's peaceful and down to earth,\\na color that gently wraps itself\\naround you. It's perfect for you.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "そ、そうかなぁ。\\nえへへ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ya-Ya think so? Ehehe~",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "そうだわ、撫子色もいいわね。\\n桜色より濃いめの色。\\nちなみに、撫子は小さくて可憐な花なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, nadeshiko pink would work even\\nbetter. It's slightly darker than sakura.\\nIt's named after a little flower, by the way.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（桜色と撫子色かぁ。\\n　どっちもかわいい色で、\\n　はずかしくなっちゃうなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Sakura and nadeshiko? Those are\\nboth really girly colors. I don't\\nknow what to think of that.)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\n残りのチラシは、そのイメージで\\n配ってみることにするよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I have an idea! I'll use those\\ncolors as my theme for handing\\nout the rest of these flyers!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ふんわり包み込むように、\\nそれでいて可憐な花のように～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Peaceful and down to earth,\\nlike a tiny little flower~",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ラビットハウスをよろしくお願いします♪",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please♪give♪Rabbit House♪a visit♪",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "あらあら、ココアちゃんたら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh you, Cocoa-chan.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "そういう、明るくて元気な雰囲気も含めて\\n色を決めたのだけれど……\\nわかってもらえたかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I picked those colors because\\nthey're so bright and cheerful,\\ntoo. Did you pick up on that?",
+          "status": "machine_translated"
         }
       }
     }

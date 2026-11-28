@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は、シャロちゃんのお布団に\\n　お邪魔しちゃうぞ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'll be invading Sharo-chan's bed!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,188 +16,188 @@
         "0": {
           "speaker": "シャロ",
           "original": "そういえば……\\nココアって寝相悪かったわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I must say... Cocoa, last time \\nyour sleeping posture was awful.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "うん、いつの間にか\\nベッドから床に移動してたりするんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, before I know, it I'm out of bed and \\nsprawled out on the floor.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "それでよく起きないわね。\\n私のこと、蹴飛ばしたりしないでよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm impressed it doesn't wake you up. \\nJust don't go and kick me or something, \\nokay?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "約束はできないかなぁ、てへへ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No promises, tehehe.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "でも、どうしてそんなに\\n寝相が悪いのかしらね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though I wonder why you're so restless in \\nyour sleep.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うーん、実は前にちょっと\\n考えたことがあるんだけどね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, I actually thought about this a \\nlittle before.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "もし、何も考えないで、夢も見ないで寝てたら\\n多分動くことってないよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I wasn't thinking of anything and didn't \\nhave any dreams, then I probably wouldn't \\nmove around at all, right?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "つまり、私はたくさん夢を見てるんだよ！\\nだからすっごい動いちゃったりするんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Basically, it's because I have lots of dreams!\\nThat's why I roll around in bed so much.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えへへ～、私って夢多き乙女なんだね。\\n確かによく言われるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~, I'm such a dreamy girl. People say \\nthat about me all the time.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "意味が違うでしょ、意味が。\\n普段言われてるのは、\\n将来の夢が多すぎってことよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're using that word wrong. The normal \\nexpression is about having too many dreams \\nfor the future.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "それにしても、ずいぶん激しい夢を見てるのね。\\nベッドから落ちるほどだなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Either way, you must be having some really \\nintense dreams. You even flop right out \\nof bed.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うーん、もしかしたら夢の中で\\n歌って踊ってるのかもしれない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Perhaps in my dreams I'm singing and \\ndancing...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "はっ！　もしかして私、\\n街の国際バリスタ弁護士をしながら、パンを焼いて\\nミュージカル女優も目指すべきなのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Maybe I should aim to become a \\nbread-baking musical actress while I'm working \\nas this town's international barista lawyer?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "だから、なんで全部やろうとするのよ！\\nもうちょっとやりたいことを絞り込みなさい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, why are you trying to do so many things\\nat once! Try to narrow down what you want \\nto do!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "えー、だって全部やりたいんだもん。\\nじゃあ、今夜も歌って踊る夢を見て\\nミュージカル女優に１歩近づくよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh~ But I wanna do them all! Starting tonight,\\nI'll have another dream of singing and dancing\\nand get closer to becoming a musical actress!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "近づかなくていい！\\n私の安眠を邪魔しないように、大人しく寝て！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Only if you keep away from me! Sleep \\npeacefully, and don't disturb my beauty sleep!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "あ、そうだ。\\nじゃあこうしようよ、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know. Let's do this instead, Sharo-chan.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "２人で手を繋いで寝るの。\\nそれで、私が動きそうになったら押さえて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We'll sleep holding hands. That way, when \\nI start to move, you can hold me in place.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "ええ？\\n意味あるの、それ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Is there any point in doing that?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "手を繋いでいれば、\\n隣に誰かが寝てるって意識して\\n寝相が悪くならないよ、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If we hold hands, I'll be conscious that \\nsomeone's sleeping next to me, and I won't let\\nmy posture get so bad. I know it.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "じゃあシャロちゃん、よろしくね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, Sharo-chan, I'll leave the rest \\nto you.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっと、勝手に何やってるのよ！\\n大体、手を繋いだままじゃ眠れないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wait a sec. Don't get ahead of yourself! \\nTo begin with, I'm not going to be able \\nto sleep while holding hands.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "大丈夫、大丈夫。\\nおやすみなさい、シャロちゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It'll be fine, it'll be fine. \\nSleep well, Sharo-chan.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "ちょ、ちょっとココア～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "H-Hang on, Cocoa~!?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "シャロ",
           "original": "はあ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "すー……くー……。\\nすー……くー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Zzzzzzzz Zzzzzzz",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "なんで１人さっさと寝てるのよ。\\nしかも、手を繋いだまま離そうとしないし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why did only one of us fall asleep instantly?\\nEven worse, she's gripping my hand with no \\nintention of letting go.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "シャロちゃん……メロンパン焼けたよぉ……。\\nお腹いっぱい食べてね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan... I baked some melonpan... \\nEat to your heart's content...\\nzzz",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "シャロ",
           "original": "もう……。\\nどんな夢を見てるのかしらね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh... What in the world is she dreaming \\nof right now?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "あーあ、今夜はこのまま寝るしかないじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh well, I suppose there's nothing else I \\ncan do but sleep like this tonight.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "シャロ",
           "original": "たまにはこんな夜もいいか。\\nたまには、だけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nice to have a night like this \\noccasionally. But only occasionally.",
+          "status": "machine_translated"
         }
       }
     }

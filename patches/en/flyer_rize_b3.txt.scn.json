@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,218 +16,218 @@
         "0": {
           "speaker": "ココア",
           "original": "はう～、疲れたぁ。\\nチラシ配りも体力使うんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊sigh＊ I'm exhausted.\\nHanding out flyers isn't easy.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "立ちっぱなしで声を出してるからな。\\nこうして適度に休憩を取っていこう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It takes energy to stand and\\nto speak, I suppose. We can\\ntake a break now if you want.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うんうん、休憩は大事だね。\\nというわけでリゼちゃん、しりとりしない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, please. Breaks are essential!\\nAlright, Rize-chan, let's play shiritori.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "いきなりだな！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You change topics fast!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "だって、休憩でぼんやりしてるのも\\nもったいなくなっちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're on break! We can't let this\\ntime go to waste doing nothing.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "だからってなんでしりとりなんだ。\\nまあ、いいけどさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And playing shiritori isn't wasting time?\\nNot that I'm complaining.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "やった！\\nじゃあ、私から始めるね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good to hear! I'll start.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "最初は――『パンダ』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll start with: panda!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "ダか……。\\n『ダブルバレルライフル』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Da... Double barrel rifle!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "ル、ル？　ル――『ルゥ』！\\nカレーのルゥだよ！\\nシチューでもいいけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ru-Ru? Ru... Roux! Curry Roux! Or for stew.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "まあ、どっちもルゥだしな。\\nウ、ウ――『ウィルコ』。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, you can use roux\\nfor either. U, U... Wilco.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うぃるこ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｗｉｌｃｏ？",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "『命令を実行します』って意味の返事だよ。\\n使わないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It means you understand an order.\\nHaven't you ever heard it used before?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うーん、あんまり使わないかな？\\nじゃあ、こ、こ――『子猫』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhh, I can't say I have.\\nThat one ended in “ko,” so I say “Kitten!”",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "こ――『コンバットスーツ』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ko... Combat suit!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "『月』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Moon!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "『キャノピー』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Canopy!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "きゃ、きゃのぴー？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｃａｎｏｐｙ？",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "戦闘機なんかのコックピットを\\n覆っている窓のことだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It means the glass that covers\\nthe cockpit of a fighter aircraft.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "へえ～、そうなんだ。\\nじゃあ、次は『い』でいいのかな？\\nえーっと――『イルカ』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, the more you know. So,\\nthat ends with “I?” Uhh, dolphin!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "か、か――『カラシニコフ』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ka, ka... Kalashnikov!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "からしがにこにこ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ｋａｒａｓｈｇａｎｉｋｏｎｉｋｏ？",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "カラシニコフ、だ。\\n銃の名前だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, Kalashnikov. It's the name of a gun.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "へー！\\nリゼちゃん、言葉をいっぱい知ってるね。\\nほとんど私の知らないものだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I'm impressed, Rize-chan, you know lots\\nof words! I've never heard of most of these.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "……え？　知らないものばかりなのか？\\nいや、そんな……\\n普通の言葉のつもりだったんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, really? You haven't? That's strange,\\nI thought they were all common knowledge.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "やっぱり、親の影響からは\\n逃げられないというのか……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perhaps I've been influenced by\\nmy father more than I realized...",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "でも、ホント、リゼちゃんは語彙が豊富だよね。\\n私、新しい言葉を覚えられて嬉しいし、\\nすごく勉強になったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You have quite the rich vocabulary!\\nYou're a big help. I appreciate\\nthe chance to learn some new words!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "え……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "こうやって、こつこつ語彙を増やしていかないと！\\nチノちゃんにしりとりで勝てるように！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I need to pump up the size of my\\nvocabulary! Maybe then I'll be able\\nto defeat Chino-chan at this game.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "あぁ……なんだ。\\nこれって、チノに勝つための特訓だったのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, so that's what this is about.\\nYou wanted to practice to beat Chino.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "だって、チノちゃん、\\nしりとりすっごく強いんだよ！\\nこのままじゃ姉の威厳が～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't look at me like that! Chino-chan is\\ncrazy good at shiritori! If I don't get\\nbetter, I'll shame myself as her big sister!",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "リゼ",
           "original": "威厳なんて初めからないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've never not shamed yourself\\nas her big sister.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "そ、そんなことないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you know that's not true!",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "とにかく、そろそろ休憩は終わりだ。\\nチラシ配り、再開するぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, that's a long enough break.\\nLet's get back to work.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "リゼ",
           "original": "……ありがとな、ココア。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks for that, Cocoa.",
+          "status": "machine_translated"
         }
       }
     }

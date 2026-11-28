@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Sharo-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,146 +16,146 @@
         "0": {
           "speaker": "シャロ",
           "original": "ううう……。\\nなんで私がこんな格好を……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu~ What am I doing wearing this...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "どうしたの、シャロちゃん？\\n何かあった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's wrong, Sharo-chan?\\nDid something happen to you?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "な、何もないわよ。\\nただはずかしいだけ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-It's nothing. It's just that this is\\nso embarrassing...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "はずかしい？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Embarrassing? What is?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "こんな格好でチラシを配ってるのよ？\\nはずかしくないわけないじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Doing the flyers in this ridiculous\\ncostume! How am I supposed to\\nnot feel self-conscious about it?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えー？　はずかしいかな？\\nすごくかわいいと思うんだけど？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Is this something to be embarrassed\\nabout? I just thought it looked kinda cute.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "確かにかわいいけど、\\n普通、こういう格好しないでしょ？\\n目立って仕方ないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, it's cute, but it's still\\nnot something you'd do normally.\\nIt's bound to draw attention.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "でも、これ、コスプレで目立って\\nチラシをたくさん配る作戦だよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the whole point, that we\\ncosplay to draw attention to\\nourselves and hand out more flyers.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "そうかもしれないけど～！\\nうう……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know, you're right, but still... Uuu~",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "うーん。\\nちょっと不思議なんだけど、\\nシャロちゃん、この格好がはずかしいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm. You're acting kinda weird.\\nSharo-chan, does wearing this\\ncostume make you feel embarrassed?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "だから、はずかしいって言ってるじゃない……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's literally what I just told you!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "せっかくよく似合ってるのになー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And it looks so nice on you too,\\nwhat a shame...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "そうかしら？\\nこういうかわいい服、\\nチノちゃんならいいけど私は……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? A cutesy outfit like this\\nwould be perfect for Chino-chan, but on me...",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "あれ？\\nじゃあ、シャロちゃんって\\nフルールの制服を着ててはずかしいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on. Sharo-chan, are you telling\\nme that there's nothing embarrassing\\nabout the uniform at Fleur?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "あれは制服だもの。\\n制服をはずかしいと思うわけないでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's an official uniform. What's\\nso embarrassing about that?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "じゃあ、大丈夫だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then problem solved!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "どういう理屈なの！？\\nさっぱりわかんないんだけど！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Solved how!? I have no idea what you mean!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "だから、シャロちゃんは普段、\\nあんなにかわいいフルールの制服を\\n着こなしてるんだから――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Think about it. You're already\\ncompletely used to wearing that\\nridiculously adorable uniform at Fleur--",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "チラシ配りの制服なこの服でも、\\nはずかしがる必要ないってこと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So there's absolutely no reason to\\nbe fretting over this outfit, which\\nis simply your handout uniform.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "はっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "シャロ",
           "original": "そ、そうだわ！\\n確かに初めはフルールの制服だって\\nはずかしかったはず……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right... I used to be terribly\\nembarrassed at the start, when I was\\nfirst wearing the uniform at Fleur...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "私、いつの間にか\\nそこまでフルールに染まってたの！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Does this mean Fleur has\\ngiven me Stockholm syndrome!?",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "この服もずっと着てたら、\\nフルールの制服みたいになじんじゃうよ、きっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I bet if you wear these clothes long\\nenough, you'll get used to it in\\nthe same way as your Fleur costume.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "それはそれでどうなのかしら……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't know how I feel about this...",
+          "status": "machine_translated"
         }
       }
     }

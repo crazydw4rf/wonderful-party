@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "千夜",
           "original": "あのね、ココアちゃん。\\n実は私、ラパンのような怪盗を知っているの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up, Cocoa-chan.\\nI know a phantom thief just like Lapin.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ええっ！？\\nまさか本物の怪盗がいるなんて！\\n誰なの？　どんな人？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa, really!? I didn't think a\\nphantom thief actually existed!\\nWho is it? Who are they?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "知りたい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Want me to tell you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "もちろんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, please!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "その人はね、私と同じように\\n喫茶店で働いているの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll give you a hint.\\nThey work at a cafe just like I do.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "バーテンダーじゃなかったんだ！\\nでも、喫茶店で働いてる人……。\\nまさか、私の知っている人？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So they're not a bartender! So\\nwhat you're saying is that they're\\nsomeone I might happen to know!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "うふふ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊evil laugh＊",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "むむむむっ！\\nその笑み、もしかして私、核心をついちゃった？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mumumumu!\\nThat smile must mean I'm on the right track!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、でも、チノちゃんもリゼちゃんも\\n　シャロちゃんも怪盗じゃないはず）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That being said, Chino-chan, Rize-chan\\nand Sharo-chan are good people,\\nand none of them would be a thief.)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "実はね、私と同じように高校生なのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's another hint:\\nthey're in high school, just like me.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（ええええ～！？\\n　ま、まさか……\\n　リゼちゃんかシャロちゃんってこと！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wow, really!? Don't tell me...\\nit really is Rize-chan or Sharo-chan!?)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "その子は、とっても独創的な女の子で、\\n私が和菓子の名前を考えるのを\\n一緒に楽しんでくれたりするの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This girl is truly one of a kind.\\nShe's even weird enough to enjoy coming\\nup with names for pastries with me.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア（Ｍ）",
           "original": "（和菓子の名前を付けるのを――\\n　えっ！？　ま、まさか\\n　青山さん、実は高校生だったの！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Naming pastries? Wait, does\\nthis mean Aoyama-san was a\\nhigh schooler the whole time!?)",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "それにね、明るくてとっても面白い子なの。\\nボケもツッコミも上手なのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She's optimistic and has a sense\\nof humor, and can play the funny\\nguy or the straight man perfectly.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（ボケとツッコミが上手？\\n　青山さんはそういうタイプじゃないし\\n　一体、誰なんだろ？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(She can take either comedic role? Aoyama-san\\ndoesn't seem to be that kind of person,\\nto be honest. Who on earth could it be?)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "あとは、計算がとても得意で、\\nでも自分ではその特技に気づいてなかったり――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Furthermore, she's gifted at math, but\\ndoesn't seem to be aware of her own talent.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア（Ｍ）",
           "original": "（むむむ、具体的なヒントだね。\\n　でも……わからないなぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Darn, that was a really specific clue.\\nBut it doesn't ring a bell!)",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "そして、パンを作るのが上手なの。\\nはい、ヒントはこれでおしまい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Finally, she's a master at baking bread.\\nThat's all the hints I'll be giving you.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "えー？　誰だろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Who could that be? I'm completely stumped.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ふふ、自分では自分のことに気がつかないものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Heh. Self-awareness isn't one of her gifts,\\nis it?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "あのね、ココアちゃん。\\nその人は、いつの間にか\\n周りの人の心を盗んじゃう怪盗なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have one more clue, Cocoa-chan. This\\nperson can steal the heart of anyone\\nshe knows, as soon as she meets them.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ううー、わかんない～！\\nギブアップ！　誰なのか教えて、千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu~ I have no ideaaa! I give up!\\nJust tell me already, Chiya-chan!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "怪盗は正体がバレたら大変だもの。\\nだから、教えない。\\nふふふ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It would be the end of the phantom\\nthief if her identity were to be\\nexposed! My lips are sealed. Hehehe.",
+          "status": "machine_translated"
         }
       }
     }

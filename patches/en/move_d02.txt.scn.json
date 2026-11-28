@@ -6,140 +6,140 @@
         "0": {
           "speaker": "ココア",
           "original": "こんにちはー。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello~",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "メグ",
           "original": "ココアちゃん、いらっしゃいませ～。\\nようこそ甘兎庵へ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Greetings, Cocoa-chan. Welcome to Ama\\nUsa An.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "え？　メグちゃん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What the? Megu-chan?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "ラビットハウスのスパイが来たぞー！\\n捕まえろー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The spy from Rabbit House has arrived!\\nDon’t let her get away!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "マヤちゃんも！？\\nっていうか、私はスパイじゃないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan’s here too? And wait, I’m not a\\nspy!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "えー？\\nスパイじゃないなら、一体ここに何しに来たんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? If you’re not spying on us, then why\\nare you here?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "えっと、お茶を飲みながら\\nのんびり過ごそうと思ったんだけど……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, I wanted to kill some time while sipping\\ntea...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "マヤ",
           "original": "ホントにお茶だけか～？\\nホントはスパイをしにきたんだろ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Are you really just here for tea? I still think\\nyou’re a spy!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "ち、千夜ちゃん助けてー！\\nこれはえん罪だよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ch-Chiya-chan, help me! I’m being framed!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "……あれ？\\n千夜ちゃん？　いないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait a second. Chiya-chan isn’t here?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ",
           "original": "千夜なら買い物に行ってるぜ。\\n何か、お店で必要なものが\\n切れちゃったって、急いで出てったよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya went out to buy something. I guess\\nthey ran out of some ingredient, so she left in\\na hurry.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "で、２人がお留守番？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Meaning that it’s just you two here?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "マヤ",
           "original": "そういうこと！\\n臨時バイトってところかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bingo! We’re working here to cover her\\nabsence.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "メグ",
           "original": "遊びに来たついでに、\\nちょっと見てることになったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We just came to hang out, but we ended up\\nlooking after the place.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "それでいいの、千夜ちゃん！？\\nさすがにこれはゆるすぎる気が……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What were you thinking, Chiya-chan!? Even\\nfor you that’s too carefree!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "メグ",
           "original": "ゆるいかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it really too carefree?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "だって、新人バイトさんに\\nいきなりお店を任せちゃうようなものだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hasn’t she left the whole cafe to some brand\\nnew part-timers on a moment’s notice?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "メグ",
           "original": "……そう言われるとちょっと不安かも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...When you put it that way it does make me\\nnervous.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "マヤ",
           "original": "いやいや、私たちが\\nいきなりお店を任せられるレベルの、\\nスーパー新人バイトってことなのかもしれないぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re looking at it wrong. She knew to leave\\nus with the cafe with no warning because\\nwe’re actually SUPER brand new part-timers.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "メグ",
           "original": "そうなのかな～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I wonder...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア（Ｍ）",
           "original": "（うーん、マヤちゃんには悪いけど不安だよ。\\n　ここは私が甘兎庵を守らなくちゃ！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hmm. Sorry Maya-chan, but I don’t feel\\ngood about this. I need to step up to defend\\nAma Usa An!)",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ねえ、マヤちゃん、メグちゃん。\\n甘兎庵を守るために、まず、\\nするべきことがあるんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen up Maya-chan, Megu-chan. There’s\\nsomething we need to do in order to keep\\nAma Usa An afloat.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "マヤ",
           "original": "するべきことってなんだ？\\n私たちは今のままで完ぺきだぜ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And what might that be? We’ve been perfect\\nso far.",
+          "status": "machine_translated"
         }
       }
     },
@@ -148,14 +148,14 @@
         "0": {
           "speaker": "メグ",
           "original": "前に、ココアちゃんに\\nウェイトレスのいろはを習ったことあるもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, you’ve already taught us the\\nbasics of being a waitress.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "甘いよ、２人とも！\\nあれだけじゃ足りないから、もっと教えてあげる。\\nそれじゃ、まず最初にすることなんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How naive of you two! The basics alone isn’t\\nenough. The first thing you need to do is--",
+          "status": "machine_translated"
         }
       }
     },
@@ -164,20 +164,20 @@
         "0": {
           "speaker": "メグ",
           "original": "でも、ココアちゃんは\\nウェイトレスとして先輩だし、\\nアドバイスをもらえるなら嬉しいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But Cocoa-chan is more experienced at this\\nthan we are, so maybe getting advice from\\nhere will be useful?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "そうか？\\nうーん、まあ、先輩の顔を立てるのも\\nスーパー新人バイトの務めかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think so? Hmm. Well, I suppose that\\nsaving our mentor from disgrace is another\\npart of being a super new part-timer.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "はい！　指導、頑張らせて頂きます！\\nそれじゃ、まず最初にすることなんだけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay then, I will now receive your attention.\\nThe first thing you need to do is--",
+          "status": "machine_translated"
         }
       }
     },
@@ -185,18 +185,18 @@
       "choices": {
         "*sel_0101": {
           "original": "制服に着替えなくちゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Get your uniform on!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "メニューを覚えなきゃだめだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Memorize the menu.",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "今日は店じまいだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Close down the cafe at once!",
+          "status": "machine_translated"
         }
       }
     },
@@ -205,62 +205,62 @@
         "0": {
           "speaker": "ココア",
           "original": "制服に着替えなくちゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Get your uniform on!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "制服って言うと、千夜が着てるあの着物？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our uniform? You mean that kimono Chiya\\nwears?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "あれ、かわいいよね～！\\n着てもいいんだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That kimono is adorable! I wanna try wearing\\nit!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "というか着なきゃだめ。\\n臨時とはいえ、店員さんなんだからね。\\n私もお手伝いした時はちゃんと着たんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The kimono is a must! You’re still an\\nemployee, even if only temporarily. Even I\\nwore a kimono while I helped out here.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "メグ",
           "original": "私たち、あの着物、似合うかなぁ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think wearing a kimono would suit us?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "動きにくそうだし、なれないとキツそうだよな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It looks hard to move around in one, I don’t\\nthink I’ll do well without getting used to it.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "そう、あの制服が着こなせるようになって\\nようやく甘兎庵のウェイトレスと\\n認められるんだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right, you’ll only be accepted as an\\nAma Usa An waitress once you’ve gotten\\nused to that uniform!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "なるほど～。\\n道のりは厳しいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really~ We have a rough road ahead of us.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "女性Ａ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "マヤ＆メグ＆ココア",
           "original": "いらっしゃいませ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome!",
+          "status": "machine_translated"
         }
       }
     },
@@ -269,68 +269,68 @@
         "0": {
           "speaker": "ココア",
           "original": "メニューを覚えなきゃだめだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You must memorize the menu.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "なるほど！\\nウェイトレスたるもの、店のメニューぐらい\\n覚えておかないとな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Makes sense! A waitress should at the very\\nleast have the cafe’s menu under control.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "でも、このお店のメニューは\\nちょっと……覚えにくいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, this cafe’s menu in particular\\nseems a bit... hard to remember.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "マヤ",
           "original": "だよなー。\\n私、最初に見た時、\\n魔法を売ってるのかと思ったし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again. I thought this place\\nwas selling magic potions the first time I read\\nthe menu.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そんなにわかりにくいかな？\\nちゃんと中身を表現してると思うんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is it really that hard? I think it expresses the\\ncontents quite well.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "マヤ",
           "original": "えー、これとか全然わかんないよ。\\n『海に映る月と星々』ってなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? These names don’t make any sense\\nat all.  Take this,『The Moon and Stars Upon\\nthe Sea』. What’s that supposed to mean?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "白玉栗ぜんざいだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s a chestnut zenzai with dumplings,\\nobviously.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "わあ～、すごい！\\nさすが先輩だね～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that was amazing! Our mentor is the\\nbest!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えへへ……。\\nそれほどじゃないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ It’s nothing really.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "女性Ａ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ＆メグ＆ココア",
           "original": "いらっしゃいませ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome!",
+          "status": "machine_translated"
         }
       }
     },
@@ -339,68 +339,68 @@
         "0": {
           "speaker": "ココア",
           "original": "今日は店じまいだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Close down the cafe at once!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "マヤ",
           "original": "ええ！？\\nどうしてそうなるんだ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Why would we do that!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "メグ",
           "original": "そうだよ、ココアちゃん。\\n私たち、頼まれたんだから\\nちゃんと最後までやらなくちゃ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That won’t do, Cocoa-chan. We’ve been\\nentrusted with the cafe, so we need to carry\\nthis through to the end.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "でも、千夜ちゃんがいないんだし、\\n閉店しておいた方が\\n後々のことを考えればいいと思うんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But so long as Chiya-chan isn’t around, it’d\\nbe much safer to just close shop and wait.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "マヤ",
           "original": "だーめー！\\n私たちはやるって約束したんだ。\\nだから立派にやり遂げる！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No way! We promised that we’d man the\\nshop, and we’re not about to break that\\npromise!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "メグ",
           "original": "絶対、最後までちゃんとやるー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We’re going to finish this, no matter what!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "メグちゃん、マヤちゃん……！\\nうん、２人の気持ちはよくわかったよ！\\n私も協力するから、頑張ろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Megu-chan, Maya-chan! Good, you’ve\\nconvinced me! I’ll help you out, so let’s not let\\nChiya-chan down!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "メグ",
           "original": "うん、頑張ろ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, let’s do our best!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "マヤ",
           "original": "ココア、足引っ張るなよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t hold us back, okay, Cocoa?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "女性Ａ",
           "original": "こんにちは。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "マヤ＆メグ＆ココア",
           "original": "いらっしゃいませ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome!",
+          "status": "machine_translated"
         }
       }
     },
@@ -409,32 +409,32 @@
         "0": {
           "speaker": "メグ",
           "original": "それじゃ、私、\\n千夜さんのおばあさんを呼んでくるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okay, I’ll go tell Chiya-chan’s grandma.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "え？　もしかして、\\n千夜ちゃんのおばあちゃんはいるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? So you’re saying Chiya-chan’s\\ngrandma was here the whole time?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "マヤ",
           "original": "もちろんいるよ。\\nでも今、お菓子を作ってて手が離せないんだって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course. But she’s busy making sweets\\nand can’t leave the kitchen at the moment.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "メグ",
           "original": "私たち２人はね、\\nお客さんが来たらおばあさんを呼んでくる係なの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Our job has been to call her if we get any\\ncustomers.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そ、そういうことは先に言ってよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Why didn’t you tell me that sooner!",
+          "status": "machine_translated"
         }
       }
     }

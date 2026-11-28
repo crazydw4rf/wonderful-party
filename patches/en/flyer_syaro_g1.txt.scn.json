@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はシャロちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers with Sharo-chan\\ntoday!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃーん！\\nハロウィンの魔女参上！\\n街を幸せにする魔法を使っちゃうよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Tadaa! Enter, the witch of Halloween! I'm gonna\\ncast a spell on this town that'll bring\\neveryone happiness.",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,146 +22,146 @@
         "0": {
           "speaker": "シャロ",
           "original": "はいはい。\\nわかったから、チラシ配って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okey dokey, whatever you say. \\nNow get back to handing out flyers.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "シャロちゃんってば、ノリが悪いよ～。\\n魔女のコスプレしてるんだから、\\n魔女らしいことしないとお客さん呼べないよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C'mon Sharo-chan, it won't hurt you to play\\nalong. We're dressed up as witches, so we need\\nto act like witches to draw customers.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "魔女らしいって？\\n大鍋を持ち出して薬でも作るの？\\nそれとも、魔法でも使うの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Act like witches? Are you planning on whipping\\nout a cauldron and brewing a potion? Or will\\nyou use some magic?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そう！　その通り！\\n魔女と言えば魔法！\\nこの服を着てるからには、魔法を使わなきゃね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yep, that's right! Witches means magic! Being\\ndressed as witches means we can't go without\\nsome display of magic!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "魔法なんてあるわけないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's no such thing as magic.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ふふふ……。\\nこの魔女ココアを甘く見てるね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe...\\nYou're underestimating Witch Cocoa, aren't you?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "え？　まさか使えるっていうの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, can you actually use magic?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "１つだけ、だけどね。\\nシャロちゃんを元気にする魔法が使えるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, but only one spell. \\nI can use magic to make you perk up.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "私を元気にって……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "To make me perk up...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "でも、使うためには\\n用意しなきゃいけないものがあるんだ。\\nすぐ戻るから、ここで待ってて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "However, there's something I must prepare first\\nbefore I can cast the spell. I'll be right\\nback, so don't touch that dial.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "って、ココア！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Cocoa!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "シャロ",
           "original": "ホント、思いついたら一直線なんだから。\\nチラシ配りをするんじゃなかったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unbelievable. She makes a beeline for whatever\\ncrosses her mind. Aren't we supposed to be\\nhanding out flyers here?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "お待たせ、シャロちゃん！\\nシャロちゃんが元気になれる魔法の薬を\\n用意したよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, I'm back! I've brought a potion\\nthat will make you recuperate.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "……なんか嫌な予感がするんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I've got a bad feeling about this.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "じゃーん！\\nこれが、シャロちゃんを元気にする\\n魔法の薬でーす！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huzzah! Behold, a magic potion that will\\ncertainly revive you, Sharo-chan!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "……ココア。\\nそれは魔法の薬じゃなくて\\n缶コーヒーって言うのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa, this isn't a magic potion, \\nthis is a can of coffee.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "さあ、これを飲めば\\nシャロちゃんも元気いっぱいに！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Go ahead, drink it and cheer up!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "元気になるんじゃなくて\\nカフェイン酔いするだけじゃない！\\n魔法はどこにいったのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won't cheer up, I'll just get drunk on the\\ncaffeine! Where's the magic in that!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "名付けて、ココア魔法『コーヒーハッピー』！\\n缶コーヒーであっという間に元気に。\\nただしシャロちゃんにしか効きません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've named this Cocoa's magical\\n『Coffee Happy』! A can of coffee to make you\\nperk up. But, the effect only works on you.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "効いてるのはカフェインであって\\n魔法は関係ないでしょ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Where's the magic in that!? \\nThat's just the effect of caffeine!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "じゃあ、飲まないの？\\nせっかくの魔法なのにな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, does that mean you won't drink it? It's not\\nlike you get to see magic every day...",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "意地でも魔法と言い張る気なのね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're willing to die on this hill, \\naren't you...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "シャロ",
           "original": "もういいから、チラシを配りなさい。\\n魔法を使わなくてもできるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Enough of this already, just hand out the\\npamphlets. You don't need magic to accomplish\\nthat.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "はーい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Okaaay.",
+          "status": "machine_translated"
         }
       }
     }

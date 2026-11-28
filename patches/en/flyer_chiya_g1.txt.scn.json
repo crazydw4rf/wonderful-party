@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？\\n千夜ちゃん、もしかして――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Chiya-chan, is that who I think it is?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "やっぱり、あんこだ！\\n連れてきたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It is! It's Anko! You brought him with you?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ええ。\\nだって魔女にはお供の使い魔が\\nいるものでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. What can I say,\\na witch needs a familiar.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そっか！\\n確かにこの格好、魔女だったね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that's right! We're dressed up\\nas witches today.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "使い魔といえば黒猫がポピュラーだけれど、\\n黒いうさぎを連れている魔女が\\n１人ぐらいいたっていいわよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know black cats are their most common\\ncompanion, but I think there's room in the\\nworld for at least one black rabbit witch.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "ね、あんこ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't you agree, Anko?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア（Ｍ）",
           "original": "（おお、なんだかあんこが\\n　胸を張ってるように見えてきたよ。\\n　案外その気なのかも）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(It looks like he's puffing out\\nhis chest a bit. Maybe he's in the\\nmood to play along for a change?)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うん、そうだね。\\nこれだけ堂々とできるのなら、\\nあんこだって立派な使い魔だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think you're right. He looks proud enough\\nto serve as a full-fledged familiar.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "特にぴんと伸びた耳に風格すら漂ってるよ。\\nむしろ、あんこが黒幕っぽい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at those upright ears, and his\\ndangerous presence! He's like a hoodlum!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "え？　黒幕っぽい？\\n……あんこなだけに？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Like a hoodlum? Because of that?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "え？　なにが？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Because of what?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "だから、あんこなだけに？\\n……って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because Anko is, you know, that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "あんこ？　あんこだから？\\n千夜ちゃん、ごめんね。\\nよくわかんないや。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because Anko is... what?\\nSorry, Chiya-chan. You lost me.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "……通じてない！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You didn't get it!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "まさか、わかってもらえないなんて！\\n私、ココアちゃんの親友として\\nまだ何かが足りないのね……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't believe it! My joke was\\nlost on you! This means I'm still\\nlacking as your best friend!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "そ、そんなことないよ！\\n千夜ちゃんに足りないものなんてないから！\\n私の、大事な親友なんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That's not true! You're perfect just the\\nway you are! Since you're my best friend!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "本当に？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you mean it?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "本当だよ。\\n私が言うんだから間違いないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I really mean it! You've heard it from me!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "よかったぁ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a relief...",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "でも、どうして、あんこなだけになの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway,\\ndo you mind explaining your joke about Anko?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "え？\\nだって、あんこは黒いから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that? It's because Anko is black.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ああ、なるほど！\\n黒いから黒幕、そういうことだったんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I get it! He looks like a hoodlum because\\nhe's black! Chiya-chan, that's racist!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "黒幕っていうからには\\nやっぱり黒い方がいいでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Isn't that the first thing that comes to\\nmind?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "それに、黒いと\\nハロウィンのかぼちゃ色とも合うし、\\nちょうどいいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "On top of that, black looks good with\\nthat orange pumpkin of yours. I like it!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "さあ、ココアちゃん。\\nあんこと一緒に\\nチラシを配ってしまいましょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, Cocoa-chan.\\nShall the three of us get down to business?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア（Ｍ）",
           "original": "（く、黒幕がずっとこっち見てる……。\\n　なんだか緊張してきたよ～！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(That gangster keeps staring at me...\\nI don't feel safe!)",
+          "status": "machine_translated"
         }
       }
     }

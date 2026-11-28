@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "リゼ",
           "original": "なんだかんだで、\\nハロウィンの衣装ってのは目立つよな。\\nおかげでチラシもよく捌けるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can't explain it, but these Halloween\\ncostumes really do attract attention. These\\nflyers have been flying out of our hands.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "……ああ、ハロウィンと言えば\\n思い出すのはあれだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, Halloween. That takes me back.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "リゼちゃんのハロウィンの思い出？\\nねえ、よければ聞かせて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Do you have some special Halloween memories?\\nPlease share them with me!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "昔、お化けの仮装をした相手が\\n急に物影から出てきて、\\n思いっきり驚かされたことがあったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One time years ago, someone jumped\\nout at me while dressed as a scary\\nghost. I nearly jumped out of my skin.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "おおー！\\nまさに、トリック・オア・トリートだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow! So that's the trick in trick or treat!",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "そうなんだ。\\n思わず撃ってしまいそうになった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You can say that again. I would have\\nshot them without a second thought.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "えええっ！？　危ないよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa! That doesn't sound safe!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "なせだ？\\n退路を確認するにしても\\nまず相手の足止めは必要じゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that's the safest thing to do, though?\\nI was always told to incapacitate the\\nenemy before looking for an escape route.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（えっと……そうなの、かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Huh. I can't tell if she's joking\\nor not...)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "でも、その時はあいにく武器を持ってなくて、\\nとっさにテーブルの下に身を隠して\\n匍匐前進で廊下まで出たんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But sadly I wasn't packing heat, so I\\nhad to duck for cover under a table. From\\nthere I army crawled away into a hallway.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア（Ｍ）",
           "original": "（匍匐前進で廊下？\\n　って、その話は自分の家でのことだったの！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Army crawling to a hallway? Does that\\nmean this all happened in her own home!?)",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "思い出すなぁ。\\nそのままずっと廊下を這って逃げてたら――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, that takes me back. I made my great\\nescape to the hallway on my stomach--",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "うっかり使用人を驚かしてしまって\\nもっと大騒ぎになったんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "--and happened to scare the pants off of one\\nof the servants. That caused a huge ruckus.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "しかし、あのくらいで騒ぎになるなんてな。\\n日頃からしっかり心構えをしておけば\\nなんてことないはずだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But a ruckus once in a while is\\nno biggie! If your mind is on\\nthe right track, you get over it.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "あの時も、普段から脱出をシミュレートしていた\\nおかげで、通風口をたどって\\n無事に外に出ることができたしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even then I had already run a few escape\\nsimulations, so evacuating through\\nthe air vents was a piece of cake.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "通風口から出たの！？\\nワイルドすぎるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Through the air vents!?\\nThat's too wild for your own home!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "それ以来、警備システムが強化されて\\n廊下の掃除が徹底されるようになったんだ。\\nいやぁ、懐かしいなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ever since that day, our defenses have\\nbeen strengthened, and the hallways have\\nbeen made spotless. Ah, how nostalgic.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "まだ体が小さかったからできたんだ。\\nもちろん、今は別の脱出ルートを確保してるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was only able to do it since I was so\\nsmall then. But don't you worry! I've since\\nconfirmed another escape route to use.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（リゼちゃんって……\\n　昔からリゼちゃんだったんだね……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Rize-chan... You haven't changed at all\\nsince then, have you?)",
+          "status": "machine_translated"
         }
       }
     }

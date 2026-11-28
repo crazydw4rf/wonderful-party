@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "シャロちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "いいけど、今日はリゼ先輩達も一緒に\\n配ることができるって聞いたわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure I guess, but more importantly\\nRize-senpai said earlier that she'll be\\nable to do handouts with me today too.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなんだ！\\nじゃあ、みんな揃ってやろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really!? In that case,\\nlet's go get everyone together.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あれ？　青山さんだ。\\nカフェから出てきたところだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, there's Aoyama-san, coming out of a cafe.",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,194 +34,194 @@
         "0": {
           "speaker": "シャロ",
           "original": "え？\\nさっき、あっちのカフェから\\n出てきたのを見たんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? I saw her coming out of a\\ndifferent cafe just a minute ago.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "カフェのはしごですか。\\nコーヒーの飲み比べでもしているんでしょうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perhaps she's cafe-hopping.\\nShe may be comparing the flavors of coffee.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "作業場所を求めて、\\nさまよってるんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It seems to me like she's wandering around\\nfrom business to business in search of a job.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "青山",
           "original": "……あら、みなさん。\\nチラシ配りですか、お疲れ様です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, hello everyone.\\nGood work on handing out those flyers.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "こんにちは、青山さん。\\n青山さんは何してるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello, Aoyama-san. What are you up to?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "青山",
           "original": "今日は、スイーツ食べ歩きをしているんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Today, I'm touring all the sweets in town.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "食べ歩き？\\n太っちゃいません？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "An eating tour? You'll get fat doing that.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "私たちと違って座り仕事だから、\\n普段のカロリー燃焼量も少なそうだしな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Unlike us, you have a sedentary job, so I\\ndoubt you burn many calories on a normal day.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "青山",
           "original": "はうっ、それはわかっているのですが……\\n連載しているグルメコラムの取材も兼ねて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hauuu~ That's all true. But this\\ndoubles as gathering information\\nfor my serialized gourmet column.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "仕事なんですか。\\nそれは、大変なような羨ましいような。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you're technically being paid to do this.\\nI'm not sure whether to pity or envy you.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "そうだ！\\nだったら、私たちと一緒にチラシ配りで\\n動いてみたらどうですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have an idea! If you're worried about\\nputting on weight, then why don't you\\nhelp us hand out flyers to burn calories?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "それはいいですね。\\nチラシ配りの経験は執筆にも活かせそうですし、\\nぜひ、参加させてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not a bad plan. Experiencing handouts\\nseems like it would be of use for my\\nwriting. Please allow me to participate.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "青山",
           "original": "さて……。\\nうまく配れるでしょうか？\\nどきどきします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect. I wonder\\nif I'll be any good at this? I'm nervous.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "あの……どうぞ……これを……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Um... Please... Just one of...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "あー……。\\nまあ、初めてだし、こうなるよな。\\nコツをアドバイスしてやるか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah... Well, she's just starting\\nout, so what can you expect. Maybe\\nwe should give her some pointers.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "じゃあ、私が。\\n１番経験が多いですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll do it. I've got the longest\\nhistory at this after all.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "青山さん。\\nチラシ配りは初めてですよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aoyama-san?\\nThis is your first attempt at this, correct?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "青山",
           "original": "はい……。\\nどうしましょう、誰も受け取ってくださいません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes... What am I doing wrong?\\nNo one's accepting any of these.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "シャロ",
           "original": "まず、声を大きくして、\\nはきはきとしゃべることを意識してみてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "For starters, don't mumble,\\nand focus on speaking loud and clear.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "こっちがはずかしがると向こうも照れちゃうから、\\n当然の顔で渡すと案外上手くいくんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If you act shy, then your target will also\\nfeel nervous. Just handing it over with a\\nlook of confidence is surprisingly effective.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "青山",
           "original": "なるほど……。\\n他には何かあるんでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. Do you have any other advice?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "他には――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Other than that--",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "今のシャロちゃん、先生みたいだね。\\nテキパキしててわかりやすいし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan looks like a teacher\\nout there right now. She's\\nefficient and easy to understand.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "シャロちゃん、面倒見がいいのよ。\\n困っている人をほっとけないのよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She likes to look out for her\\nfriends. She's the type of person\\nto always help someone in need.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "青山",
           "original": "どうぞ、素敵なご案内です。\\nよろしければ目を通してください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please take one, it will be a\\nwonderful guide for you. Take a\\nlook through it if you have time.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "へえ、いつの間にかすっかり慣れてるじゃないか。\\nシャロのアドバイスが効いたんだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, she's gotten the hang of it in no time.\\nYour advice worked like a charm.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "いえ、そんな。\\n私はちょっと教えただけですから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that was nothing.\\nIt was just a few little tricks.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "青山",
           "original": "喫茶店ラビットハウスです。\\n素敵な時間をお約束する喫茶店です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're the cafe Rabbit House.\\nWe promise you'll have a wonderful time.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "青山",
           "original": "そんな時間のお供には、ぜひ、\\nうさぎになったバリスタの物語をどうぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And during that time, I implore you to read\\nthe story of The Barista Who Became A Rabbit.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "って、自分の本の宣伝までしてる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait,\\nnow she's even doing her own advertising!?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "チノ",
           "original": "慣れってすごいですね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Incredible how quickly she got used to this...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "あの商魂は見習いたいわね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll have to take notes\\non her commercial spirit!",
+          "status": "machine_translated"
         }
       }
     }

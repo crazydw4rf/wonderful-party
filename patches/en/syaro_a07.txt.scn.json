@@ -6,62 +6,62 @@
         "0": {
           "speaker": "シャロ",
           "original": "（ふう……。\\n　明日の予習はこれでいいわね。\\n　少し試験勉強もしておこうかしら？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Phew... I guess this will be the plan for\\ntomorrow? Maybe I'll study some more \\nat that time?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "シャロ",
           "original": "（って、もうこんな時間か。\\n　今日はここまでにしておいた方がよさそう）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ugh, it's already this late? I guess now's \\na good time to stop for today.)",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "（無理して目にクマなんかできたら、\\n　またみんなに心配されちゃうわ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(If I do too much and end up with bags under \\nmy eyes, I'll just make everyone worried.)",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "（ふふ……。\\n　ホント、みんな心配性なんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hehe...Everyone is such a worrywart.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "（でも、その気持ちに甘えちゃだめだわ。\\n　理由はどうあれ、引き受けたのは私なんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But I can't let their kindness make me soft.\\nNo matter the reason, I was the one who \\nvolunteered to do this.)",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "（手伝ってもらう必要は出てくるでしょうけど、\\n　自分でできることは自分でやらないと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(There might be some parts where I need help,\\nbut anything that can be done alone is \\nsomething I need to do by myself.)",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "（みんなの気持ちに応えるために、\\n　最高のクリスマスパーティーにしてみせる！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(In order to meet everyone's expectations, \\nI need to show them the best Christmas party\\nI can offer!)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "（そのためには、しっかり体を休めなくっちゃ。\\n　勉強だけじゃなくて、バイトもあるんだから）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(And in order to do that, I need to make sure\\nmy body gets some rest. It's not just studies,\\nbut I've got lots of jobs to do as well.)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "（バイト……。\\n　明日は夜まで予定が詰まってるのよね。\\n　大変だけど、頑張らないと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Work...Tomorrow I'm scheduled all the way \\nuntil it gets dark. This is going to be a \\nnightmare, but I just have to try even harder.)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "とりあえず……おやすみなさい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But for tonight...sweet dreams.",
+          "status": "machine_translated"
         }
       }
     }

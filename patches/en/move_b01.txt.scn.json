@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "リーゼちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Riiize-chan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,14 +16,14 @@
         "0": {
           "speaker": "リゼ",
           "original": "何だ、どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What do you want?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "何って、コーヒーを飲みに来たんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I came here for coffee, that’s what.",
+          "status": "machine_translated"
         }
       }
     },
@@ -32,8 +32,8 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（チノちゃんは……\\n　そっか、市場で買い出し中なんだった。\\n　まだ戻っていないんだね）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Chino-chan appears to... not be here. I\\nguess she’s gone to the marketplace and\\nhasn’t returned yet.)",
+          "status": "machine_translated"
         }
       }
     },
@@ -42,20 +42,20 @@
         "0": {
           "speaker": "ココア",
           "original": "あれ？　チノちゃんは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hang on, where’s Chino-chan?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、市場まで買い出しに行ってるよ。\\n足りないものがあってさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, she’s gone out to the marketplace. We\\nwere running short on something.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、そうなんだ。\\nじゃあ、今はリゼちゃん１人なんだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, okay. That must mean you’re here all on\\nyour own.",
+          "status": "machine_translated"
         }
       }
     },
@@ -64,128 +64,128 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、今日は私、お客さんしてるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While we’re at it, let me remind you that I’m a\\ncustomer today.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、空いてる席に適当に座っていいぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure. Go on and pick some random table.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "もー、リゼちゃん！\\n今日の私はお客さんなんだからね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh, Rize-chan! I just told you I am a\\ncustomer for the day!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "私だからってそんな接客してると、\\nラビットハウスは無礼なお店だって\\n思われちゃうよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyone who sees your treatment of me will\\nthink Rabbit House is rude to its customers!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "いや、見ての通り、今のお客はココアだけだし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "As you can clearly see, you’re our only\\ncustomer right now.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "それでも、普段からきちんとしないと、\\nいざという時にボロが出たりするんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Even still, if you don’t consistently stay in\\ncharacter, you’ll eventually slip up when you\\ncan’t afford to.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "う……ココアらしくもなく正論を……。\\nわかった、ちゃんと接客するよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu... A strangely valid argument coming\\nfrom you. Fine, whatever, I’ll take this\\nseriously.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "いらっしゃいませ。\\n１名様ですね？\\nお席はこちらでよろしいですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome. I take it that you’ll be ordering\\nalone? Will this table be fine?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "はい、いいですよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, that’s better.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "リゼ",
           "original": "ご注文、お決まりの頃にお伺いいたします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Please call on me when you’re ready to order.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "もう決まってまーす！\\nオリジナルブレンドと、\\n今日のケーキをお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve aaalready decided! I want your original\\nblend and today’s cake.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "かしこまりました。\\nオリジナルブレンドと本日のケーキですね。\\nそれでは、少々お待ちください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thank you for your order. Our original blend\\nand today’s cake. Please wait just a moment.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "……違う。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Something’s not right.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "お客様？　どうかなさいましたか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ma’am? Is something the matter?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "何か違う！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something’s not right at all!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "は？　違うってなんだ？\\n普通にいつもどおりに接客してるだろ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Like what? That’s exactly how I\\nregularly treat customers.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "その、いつもどおりが違うんだよ。\\nちっともラビットハウスぽくないよね？\\nなんか普通！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There’s something wrong with how you\\nregularly treat customers. That was too\\nnormal! It didn’t feel Rabbit House-ish at all!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "フルール・ド・ラパンも甘兎庵も独自のカラーを\\n出してるのに、ラビットハウスは普通だよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fleur de Lapin and Ama Usa An both have\\ntheir own characteristic styles, but Rabbit\\nHouse is just plain!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "いや、まあ、そうかもしれないけど……\\nじゃあ、ココアの思うラビットハウスっぽい\\n接客ってどんなものなんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, well, that’s true enough. So, what\\nexactly do you have in mind that would make\\ntreating customers more Rabbit House-ish?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "もちろん、ラビットハウスなんだから\\nうさぎっぽさを前面に出すべきだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s called Rabbit House, so it goes without\\nsaying that it should be overtly rabbit themed!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "でも、制服にうさ耳をつけると\\nフルールとかぶるな。\\n他に何かあるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe, but if we were to wear bunny ears,\\nwe’d be conflicting with Fleur. Do you have\\nsomething else in mind?",
+          "status": "machine_translated"
         }
       }
     },
@@ -199,18 +199,18 @@
       "choices": {
         "*sel_0101": {
           "original": "手でうさぎの耳を作るとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe make bunny ears with your hands?",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "もふもふになるとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be more cuddly somehow?",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "ぴょんぴょん跳ぶとか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe if you hopped around?",
+          "status": "machine_translated"
         }
       }
     },
@@ -219,8 +219,8 @@
         "0": {
           "speaker": "ココア",
           "original": "手でうさぎの耳を作るとか？\\nこう、ぴょんぴょんって感じで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe make bunny ears with your hands?\\nLike this, it gives you a hippity hoppity vibe.",
+          "status": "machine_translated"
         }
       }
     },
@@ -229,44 +229,44 @@
         "0": {
           "speaker": "リゼ",
           "original": "お、おお……。\\nそれは、なんだ、うん、かわいいかもな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Well now... That’s, uh, yeah. It’s kinda\\ncute.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "じゃあ、さっそくやってみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Glad you like it. Give it a try!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "って、本当にやる気なのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, you want me to do it!?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そうだよ？\\nほら、リゼちゃんカモン！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right. Do it. Rize-chan, ｃｏｍｅ　ｏｎ！",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "ま、待て！\\n普段はメニュー表とかお盆を持ってるから\\nその場でやるのは難しいだろ、これ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Wait! I have to carry around a menu and a\\nplatter, so how am I supposed to do this?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "あ、そっか。\\n手ぶらになる時って、案外ないもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. The times when you walk around\\nempty-handed are surprisingly rare.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ああ、そうだろ？\\nだからこれは却下だな。ああ、却下だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "See, you understand? So that idea’s out.\\nYep, it’s out.",
+          "status": "machine_translated"
         }
       }
     },
@@ -275,8 +275,8 @@
         "0": {
           "speaker": "ココア",
           "original": "もふもふになるとか？\\nほら、ティッピーみたいに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be more cuddly somehow? You know, like\\nTippy.",
+          "status": "machine_translated"
         }
       }
     },
@@ -285,26 +285,26 @@
         "0": {
           "speaker": "リゼ",
           "original": "つまりコスチュームでの差別化か。\\nまあ、悪くない考えだな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So using costumes as our brand? That’s not\\nthe worst idea I’ve heard.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "しかし、もふもふってなんだ？\\n具体的にはどんな服を着るんだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, what would it mean to be cuddly?\\nGive me a concrete example of what we’d be\\nwearing.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "それは……えーっと……\\nティッピーみたいなまんまるの着ぐるみ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’d be wearing... uhhh... a big, round\\ncostume of Tippy?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "おいおい、それで働くのは\\nいくらなんでも無理だろ。\\nていうか、もはや服ですらないぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Come on now, how are we expected to work\\nin something like that? Besides, it’s not even\\na uniform at that point.",
+          "status": "machine_translated"
         }
       }
     },
@@ -313,32 +313,32 @@
         "0": {
           "speaker": "ココア",
           "original": "ぴょんぴょん跳ぶとか？\\nうさぎみたいに、ぴょんぴょんって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maybe if you hopped around? Hop hop, like a\\nbunny rabbit.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "まあ、コンセプトとしてはわかりやすいな。\\nうさぎだってすぐにわかるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, that’s an easy enough concept to\\ndigest. Everyone knows a rabbit when they\\nsee it.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "でもなぁ、喫茶店で\\nドタバタするのはよくないだろ。\\n静かにコーヒーを楽しみたい人だっているんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But we’d be causing a lot of noise going\\naround the cafe, which is sure to disturb\\nanyone who wants to enjoy their coffee in\\npeace.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "リゼ",
           "original": "それに、ぴょんぴょんしながら\\nコーヒーを運ぶのは無理だし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And there’s no way to carry coffee while\\nhopping.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "そ、そうだね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You’re right...",
+          "status": "machine_translated"
         }
       }
     },
@@ -347,104 +347,104 @@
         "0": {
           "speaker": "ココア",
           "original": "んー、じゃあ、\\n語尾にぴょんってつけるのはどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm, how about this. We’ll say ”pyon!” at\\nthe end of every sentence.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "語尾に……ぴょん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "”Pyon” in every sentences!?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうだぴょん！\\nって、こんな感じね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s right-pyon! See, like that.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ぴょんって言うだけなら、\\n何の準備もいらないし、誰でもできるし\\nすっごくうさぎっぽいぴょん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Saying ”pyon” takes no prep work, everyone\\ncan do it, and makes you just like a rabbit-\\npyon!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "いや、うさぎっぽいか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, I don’t think that’s very rabbit-like at all...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ちょっと練習してみるぴょん。\\nいらっしゃいませぴょん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Try practicing it-pyon! Welcome-pyon!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "う……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uuu...",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ほら、リゼちゃんも言うぴょん。\\nいらっしゃいませぴょん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "C’mon, Rize-chan, say it-pyon! Welcome-\\npyon!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "いらっしゃいませ、ぴょん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Welcome... pyon...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "もっと大きな声でぴょん！\\nいらっしゃいませぴょん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Say it louder-pyon! Welcome-pyon!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "い、いらっしゃいませぴょんっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-Welcome-pyon!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "青山",
           "original": "いらっしゃいましたぴょん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I have arrived-pyon.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "あ、あああ、青山さん！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A-AAA-Aoyama-san!?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "青山",
           "original": "特殊な語尾……ですか。\\n使い古されてはいますが、実際に聞くと\\n案外、創作意欲をかき立てられますね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Adding something to your speech, are you?\\nWhile that’s a quite overused trope, actually\\nhearing it somehow sparks my creativity.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "ちち、ち、違うんだ！\\n今のは、その、とにかく違う！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You’re getting this all wrong! What you just\\nheard is, uh, it’s not what you think!!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "青山",
           "original": "ぴょんを忘れていますよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You forgot to add a pyon at the end of that.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "うわあああああ～！\\n頼む、忘れてくれ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaaa~ Please, forget all about that!!",
+          "status": "machine_translated"
         }
       }
     }

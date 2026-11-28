@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,158 +16,158 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえ、リゼちゃん。\\n着物って言えば、やっぱり羽子板だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Rize-chan, these kimonos make\\nyou think of badminton, don't they?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "は？　突然どうした？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excuse me? What's with that, out of the blue?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うん、こういう格好をしてるから\\nそれっぽいことをしてみたいなって思って。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course they do! Wearing\\nsomething like this makes you\\nwanna play something like that.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "着物と言えば羽子板とかコマまわしだよね。\\nあと凧揚げ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "When you think kimono, you think badminton,\\nand spinning tops! And kite flying?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "それ、着物というよりはお正月じゃないか？\\n着物といえばお正月って発想はわかるけどさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not about kimonos. You're thinking\\nNew Year's Day. Though I see the connection\\nbetween kimonos and New Year's.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うーん……。\\nあ、折り紙もいいかも！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... Oh, what about origami?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "ああ、それは\\n着物の大和撫子の遊びっぽいかもしれないな。\\nでもココア、折り方わかるのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, right. Origami is something I imagine\\na kimono-wearing Yamato nadeshiko does\\nfor fun. Can you make any origami?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "えーっと……\\n確か、鶴は、こうしてこうして……こう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhh, I think a swan is made,\\nsomehow like... this!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "……箱に見えるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's a paper box.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "あれ？　鶴を作ってたはずなのに！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh!? That was supposed to be a paper swan!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "途中までは今ので正しいんじゃないか？\\nここから……こうして、こうだったろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think you had the first half of it\\nright. If you continue like this, then\\nlike this, and finish like this...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "おお！　鶴だ！\\nリゼちゃん、すごーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, wow! A swan! Rize-chan,\\nthat was amazing!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "べ、別に大したことじゃない。\\nココアだって、途中まではちゃんとできてただろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Th-That was nothing special!\\nEven you almost completed one.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "よーし、私だって！\\nこれをこうして、こうで……んん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright then! My time to shine!\\nYou fold here, then here... Huh?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "……風船だな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That appears to be a balloon.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "こ、今度こそ！\\nこうして、こうして……\\nこうで、こうで……えーっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I'll get it right this time!\\nLike this, then this, and this\\npart, then here... Ummm...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "できたぁ！\\nねえリゼちゃん、これって鶴だよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And done! Look, Rize-chan, a swan!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "ああ、立派な鶴だな。\\nなかなか上手いじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A perfect swan. Impressive. Very nice.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "ふっふっふ！\\nこれで私も立派なヤマトナデシコ！　だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! That makes me a\\ncertified legit Yamato nadeshiko!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "はいはい、そうだな。\\nじゃ、そろそろチラシ配りを――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes yes, good for you.\\nNow then, let's get back to--",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "ああー！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "AAAA!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "つい、うっかり……\\nチラシを折ってしまった……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've only myself to blame. My pamphlets\\nhave taken on a third dimension...",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "えーっと、これ、上手に折れたし、\\nこのまま配っちゃだめかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uhhh, since we made such pretty swans\\nout of them, do you think we can just\\nhand them out to some lucky stranger?",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "さすがにそれはだめだろ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I don't think we can.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "だよね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, we can't.",
+          "status": "machine_translated"
         }
       }
     }

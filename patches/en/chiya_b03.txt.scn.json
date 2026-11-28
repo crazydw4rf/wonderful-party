@@ -6,356 +6,356 @@
         "0": {
           "speaker": "千夜",
           "original": "地図によると、\\n宝箱はこのあたりにあるみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "According to the map, the treasure chest \\nshould be somewhere around here.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "街中に出ちゃったけど、\\nこんなところに本当にあるのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's taken us back into town. \\nDo you really think it's hidden around here?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "逆に、こういう場所の方が\\nいいのかもしれないわ。\\n隠せるような場所がたくさんあるでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I think this is a great place for it \\nto be hidden. It could be anywhere.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、そっか、確かに。\\n物陰とか植え込みとかもあるしね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, that's true. There are lots of shadows \\nand shrubs and the like to hide it in.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "でも、そうなると……少し心配ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That said, I'm a little \\nworried about doing this...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "え？　心配って何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? Worried about what?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "他の人が隠したシストの宝箱を\\n見つけてしまうかも……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What if we find someone \\nelse's unrelated Ciste?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "私たちも、それで宝物を見つけたと\\n勘違いしてしまったら困るわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What will we do if we mistakenly \\nfind a different treasure chest?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "あ、それは大丈夫だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that won't be a problem.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "え？　どうして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why do you say that?",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "さっきの宝箱ね、外側に\\nうさぎの刻印が付いてたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The first treasure chest we found had \\na rabbit insignia carved into it.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "そうだったの？\\nやだ、私、全然気づかなかったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really? Good eye. I completely missed that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "そんなに大きい刻印じゃなかったからね。\\n私も、たまたま気がついたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It wasn't very large. \\nI almost missed it myself.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "それでね、次の宝箱にも\\nきっと同じ刻印があると思うんだ。\\nそれを目印に探せばいいんじゃないかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure the next chest will have the same \\ninsignia on it. In fact, \\nwe should be on the lookout for that emblem.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "やるわね、ココアちゃん。\\n頼りになる相棒だわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good thinking, Cocoa-chan. I would expect \\nnothing less from my trusty partner.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "ふふふ～、千夜ちゃんにばかり頼っている\\n私じゃないんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! I can take care of myself. \\nDon't expect to solve all riddles on your own!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "メグ",
           "original": "……あっ！\\nココアちゃんだぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, there's Cocoa-chan!",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "マヤ",
           "original": "あれ、千夜もいるんじゃん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And she's with Chiya!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "メグ",
           "original": "こんにちは～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hello~",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "マヤちゃん、メグちゃん。\\nこんにちは！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Maya-chan, Megu-chan! Good to see you.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "マヤ",
           "original": "なんかさっきから\\n妙にきょろきょろしてるけど、何してんの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You two have been acting strange, glancing \\naround everywhere. What are you up to?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "ふふ、実はね、宝探しをしているの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. We happen to be on a treasure hunt \\nright now.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "メグ",
           "original": "宝探し？\\nもしかしてシストですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A treasure hunt? \\nFor one of those Ciste things?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "ううん、そうじゃないの。\\nクリスマスのために、スペシャルメニューの\\nレシピを探してるのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Not exactly. We're looking for a recipe to use \\non our upcoming special festive menu.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "マヤ",
           "original": "それってもしかして、チノが誘ってくれた\\nラビットハウスのクリスマスパーティーの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Does this have something to do with \\nthe Christmas party at Rabbit \\nHouse that Chino invited us to?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ええ、そうよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, that's right.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "メグ",
           "original": "そうなんだぁ。\\nでも、どうしてレシピを探すことに\\nなったんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Interesting. So why are you searching \\nthe town for a recipe?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "ココア",
           "original": "実はね、千夜ちゃんのおうちのレシピノートに\\n謎の宝の地図が挟まってたんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good question. We happened to find a \\nmysterious treasure map hidden in \\na notebook at Chiya-chan's place.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "もしかしたら、その宝物って\\n秘密のレシピなのかもしれないでしょ？\\nだから、クリスマスに備えて２人で探してるの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're assuming that the hidden treasure is \\nsome kind of secret recipe. So the two of us \\nare searching for it to use for Christmas.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "マヤ",
           "original": "いいな、それ！\\nすっげー楽しそう！\\nねえねえ、私たちも一緒にやっていい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that's so cool! \\nA treasure hunt sounds like a blast! \\nIs it okay if we tag along with you?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "もちろん大歓迎よ。\\n大勢で探した方が見つけやすいものね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Of course you're welcome to join us. \\nThe more eyes looking for it, the better.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "メグ",
           "original": "やったぁ！\\n宝探し隊結成だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray! We've formed a treasure-hunting party!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "マヤ",
           "original": "じゃあさ、せっかくだし\\n宝探し隊のかっこいい名前を考えようぜ。\\nリゼには、いつもチマメ隊とか呼ばれてるしさ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "While we're at it, let's come up with a cool \\nname for our squad. Something better than \\nthat \"Chimame\" Rize always calls us.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "そういうことなら私に任せてっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A new name? You've come to the right girl.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "ココア（Ｍ）",
           "original": "（これは……千夜ちゃんの魂に火がついた！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I can see the fire in Chiya-chan's eyes!)",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "４人で行動するんだから\\n４にまつわる言葉がいいわね……。\\nそれに加えて宝探しで……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Since there are four of us, \\nwe need a name related to the number four. \\nAnd to reference treasure hunting...",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "これね！　完成したわ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, perfect. I've got one!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "メグ",
           "original": "どんな名前なんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What did you think of?",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "千夜",
           "original": "名付けて……『四神を抱く探索者たち』！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Behold: 『The Adventurers \\nEmbodying the Four Gods』",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "マヤ",
           "original": "ししん？\\nそれって何だ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Four Gods? What are you referencing?",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "千夜",
           "original": "中国の神話の、４つの方角を司る霊獣のことよ。\\n青龍、朱雀、白虎、玄武って\\n聞いたことがあるんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The Four Gods of the cardinal directions, from\\nChinese mythology. The Blue Dragon, the Red\\nBird, the White Tiger, and the Black Warrior.",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "メグ",
           "original": "わあ、かっこいい～！\\n選ばれた冒険者って感じだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, that's awesome! \\nI feel like we're the chosen adventurers!",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "マヤ",
           "original": "冒険者どころじゃないな、もはや伝説の勇者だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We're more than mere adventurers. \\nWe're heroes of legend!",
+          "status": "machine_translated"
         },
         "43": {
           "speaker": "千夜",
           "original": "うふふっ、気に入ってもらえて嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehehe. I'm glad you like it.",
+          "status": "machine_translated"
         },
         "44": {
           "speaker": "ココア",
           "original": "はいはーい！　私も名前考えたよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My turn! I thought of a name too!",
+          "status": "machine_translated"
         },
         "45": {
           "speaker": "千夜",
           "original": "ココアちゃんも？\\nどんな名前なのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You did too? What did you come up with?",
+          "status": "machine_translated"
         },
         "46": {
           "speaker": "ココア",
           "original": "千夜ちゃんとマヤちゃんとメグちゃんの\\n名前の頭文字をとって――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan, Maya-chan, Megu-chan. \\nIf we add up all your names, we get...",
+          "status": "machine_translated"
         },
         "47": {
           "speaker": "ココア",
           "original": "チマメ隊ｆｅａｔ．ココア！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chimame Squad, featuring Cocoa!",
+          "status": "machine_translated"
         },
         "48": {
           "speaker": "マヤ",
           "original": "いつもと変わってねーじゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's the same as before!",
+          "status": "machine_translated"
         },
         "49": {
           "speaker": "ココア",
           "original": "ふっふっふ～、チマメ隊の呪縛からは\\n逃れられない運命なんだよ～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! You're cursed to be Chimame no \\nmatter what! Accept your fate!",
+          "status": "machine_translated"
         },
         "50": {
           "speaker": "千夜",
           "original": "でも、その名前だと\\nココアちゃんだけ別チームみたいに\\nなっちゃってるけど、いいのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But that makes it sound like you're \\na part of a different team. \\nAre you really okay with that?",
+          "status": "machine_translated"
         },
         "51": {
           "speaker": "ココア",
           "original": "えっ……！\\nな、仲間外れはやだ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? No, don't leave me out!",
+          "status": "machine_translated"
         },
         "52": {
           "speaker": "メグ",
           "original": "でも、言ったのココアちゃんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It was your idea...",
+          "status": "machine_translated"
         },
         "53": {
           "speaker": "マヤ",
           "original": "きっと、響きが格好いいから、とか\\nそんな理由でつけたんだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure she just thought it sounded cool \\nwithout thinking it through.",
+          "status": "machine_translated"
         },
         "54": {
           "speaker": "ココア",
           "original": "……な、名前は置いておこう！\\nそれより宝探しを頑張ろう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "E-Enough about the stupid name! \\nWe have treasure to find!",
+          "status": "machine_translated"
         },
         "55": {
           "speaker": "マヤ",
           "original": "あはは！　ごまかしてるし！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! She embarrassed herself!",
+          "status": "machine_translated"
         },
         "56": {
           "speaker": "メグ",
           "original": "でも、早く宝探しをするのには賛成～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I agree that we need \\nto find that treasure!",
+          "status": "machine_translated"
         },
         "57": {
           "speaker": "千夜",
           "original": "そうね。\\nそれじゃ、さっそく手分けして探しましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You said it. Let's split up \\nand start searching.",
+          "status": "machine_translated"
         },
         "58": {
           "speaker": "マヤ",
           "original": "クリスマスのご馳走のためでもあるし、\\n頑張るぜー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This will pay off at the Christmas feast! \\nI'll give this my best effort!",
+          "status": "machine_translated"
         }
       }
     }

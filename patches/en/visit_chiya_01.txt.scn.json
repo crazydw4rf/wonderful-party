@@ -6,74 +6,74 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃんっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "千夜ちゃん！？\\nどうしたの、そんなに慌てて。\\n何かあったの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan!? \\nWhat's the matter, did something happen?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "あんこが、あんこがいなくなっちゃったの！\\nここには来てない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's Anko! Anko has vanished! \\nHas he come here?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あんこが行方不明！？\\nそれは一大事だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anko is gone? Good Heavens, this is serious!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "うちには来ていませんが……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We haven't seen him around here...",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "そう。\\n愛しのティッピーを求めて\\nここまで来ちゃったのかなと思ったんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that so. I thought he might have come \\nhere in search of his beloved Tippy.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ティッピー",
           "original": "なぬぅ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "はっ！？\\nもしかして、ティッピーを探して\\n街中を走り回っているのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "＊gasp＊ Maybe, just maybe he's looking for \\nTippy, hopping through the streets all over \\ntown?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "ああ……。\\n数々の苦難を乗り越え\\nやがて２羽は結ばれるのね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aah... After overcoming countless hardships,\\nin the end the two rabbits might finally be\\nable to be together!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "全うさぎが泣く、\\n感動のクライマックスだよ……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A story that could bring any rabbit to tears.\\nIt'll be a great emotional climax!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ティッピー",
           "original": "断じて結ばれんわ！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Like hell that will ever happen!!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "いや、そんな壮大な話じゃなくて、\\nいつもみたいにカラスに\\nさらわれただけじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I doubt it. Instead of some epic tale, won't\\nthis end up as Anko being kidnapped by a\\ncrow like usual?",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,24 +81,24 @@
       "select_prompt": {
         "speaker": "リゼ",
         "original": "いや、そんな壮大な話じゃなくて、\\nいつもみたいにカラスに\\nさらわれただけじゃないか？",
-        "translation": "",
-        "status": "untranslated"
+        "translation": "I doubt it. Instead of some epic tale, won't\\nthis end up as Anko being kidnapped by a\\ncrow like usual?",
+        "status": "machine_translated"
       },
       "choices": {
         "*sel_0101": {
           "original": "うん、多分カラスだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, it's probably just a crow.",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "違うよ、ラブアドベンチャーだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No! It's a love adventure!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "これは……自分磨きの旅に出たんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "He's on a journey of self improvement!",
+          "status": "machine_translated"
         }
       }
     },
@@ -107,20 +107,20 @@
         "0": {
           "speaker": "ココア",
           "original": "うん、多分カラスだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, it's probably just a crow.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "いいえ、違うわ！\\nあんこは愛に生きているのよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, you're wrong! \\nAnko lives and dies for love!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "どうしてそう頑なにこだわるんだ……？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How can you say that so confidently?",
+          "status": "machine_translated"
         }
       }
     },
@@ -129,8 +129,8 @@
         "0": {
           "speaker": "ココア",
           "original": "違うよ、ラブアドベンチャーだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No! It's a love adventure!",
+          "status": "machine_translated"
         }
       }
     },
@@ -139,32 +139,32 @@
         "0": {
           "speaker": "千夜",
           "original": "その通りよ！\\nあんこはあれで情熱的なうさぎなんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! Anko is the type of rabbit\\nto get fired up over this.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "いずれ、ラビットハウスさんの扉を颯爽と開いて\\nティッピーをさらっていくんだわ。\\n『君を迎えにきたよ！』って……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "One day, he'll come gallantly charging through\\nthe doors of Rabbit House and elope with Tippy.\\n『I'm here to take you away』 he'll say...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ティッピーは渡しません！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll never hand over Tippy!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "これは……\\nティッピーをめぐる三角関係が勃発ね！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh dear... \\nA love triangle is developing over Tippy!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "おいおい。\\n人間とうさぎの三角関係ってどんな展開だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Slow down. A love triangle with both humans \\nand rabbits is getting ridiculous.",
+          "status": "machine_translated"
         }
       }
     },
@@ -173,8 +173,8 @@
         "0": {
           "speaker": "ココア",
           "original": "これは……自分磨きの旅に出たんだ！\\nティッピーに相応しい男になるために。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rather, he's embarked on a journey of \\nself-improvement! He's intent on becoming a \\nman worthy of Tippy!",
+          "status": "machine_translated"
         }
       }
     },
@@ -183,20 +183,20 @@
         "0": {
           "speaker": "千夜",
           "original": "素敵……！\\nなんて健気なの、あんこ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wonderful...! What a devoted fellow, \\nour Anko!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "もっとビッグになって、\\nいつかお前を迎えに行くぜ。\\nアイラブユー、ティッピー……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Babe, one day after I make it big, \\nI'll come back for you. \\nＩ　ｌｏｖｅ　ｙｏｕ，　Ｔｉｐｐｙ．",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いやいや、うさぎが自分磨きの旅って。\\nそれはないだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Absurd. A rabbit on a training arc? \\nDon't be ridiculous.",
+          "status": "machine_translated"
         }
       }
     },
@@ -205,80 +205,80 @@
         "0": {
           "speaker": "千夜",
           "original": "あら、スマホが……\\nシャロちゃんからメールだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, my phone... \\nIt's a message from Sharo-chan.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "あんこがフルールの店先に落ちてきて\\n大騒ぎになってるから迎えに来なさい！\\nですって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "“Anko has shown up at Fleur and is making \\na huge commotion, get over here right now!”\\nshe says.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "ほらな？\\nやっぱりカラスにさらわれてたんじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "See? As I thought, he probably got a ride \\nfrom a bird.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "でも、見つかってよかったです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I'm glad we've found him.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "そうね、ごめんなさい。\\n私、どうやら勘違いをしていたみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So that's what happened. I'm sorry. It \\nlooks like I was wrong about all this.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "あんこが会いたがっていたのは、\\nティッピーじゃなくてシャロちゃんだったのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The one Anko was pining for wasn't Tippy, \\nbut Sharo-chan.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "そっちですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're taking it that way!?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "いつもシャロちゃんに飛びかかっていたのは\\n愛情の裏返しだったんだわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anko's habitual pouncing upon Sharo-chan \\nis just one way of showing his affection.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "だから、どうしてそういう展開にこだわる！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why does everything have to be interpreted \\nas that kind of development!?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "それじゃ、あんこを迎えに行ってくるわね。\\nお騒がせしちゃってごめんなさい。\\nまた今度、ゆっくり遊びに来るわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And with that, I'll be off to go pick up \\nAnko. Sorry for showing up in such a panic. \\nNext time I'll make a longer stay.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "行ってしまいましたね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There she went.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "見つかってよかったけど、\\nあんことティッピーのラブロマンスも\\nちょっと見たかったなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm glad we found him, but I was kind of \\nhoping for some romance between Anko and \\nTippy.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ティッピー",
           "original": "断じてお断りじゃ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That will absolutely never happen!",
+          "status": "machine_translated"
         }
       }
     }

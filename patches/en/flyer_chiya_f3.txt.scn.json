@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,140 +16,140 @@
         "0": {
           "speaker": "ココア",
           "original": "ねえねえ、千夜ちゃんって\\nこの街に住んで長いんだよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Refresh my memory, Chiya-chan. You've lived\\nin this town for quite a while, right?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ええ、小さいころからずっと住んでるわ。\\nそれがどうかしたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. I've always lived in this town.\\nWhy do you ask?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あのね、私、この街の冬ってよく知らないんだ。\\nどんな風なのかな？\\n今からすっごく楽しみで仕方なくて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because, well, I don't know anything about\\nwinter in this town. What's it going to\\nbe like? I can't contain my excitement!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "んー……。\\n残念だけど、取り立てて\\n他と違ったところはないと思うわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. I hate to rain on your parade, but I\\ndon't think this town is anything unique.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "寒くて、静かで、どこにでもある\\n普通の街の、普通の冬よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's simply quiet and cold,\\nlike every other winter in every other town.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "うーん、そんなことないよ。\\nこの街にあって、\\n他の街にはないものがあるんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, I don't think I believe that.\\nThis town has a trick up its sleeve,\\nsomething no other town has.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "あら、それって何？\\n聞いてもいい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? And what might that be?\\nMind letting me in on the secret?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "聞かなきゃわからないかな～？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you haven't figured it out?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "では、お教えしましょう！\\nこの街にはね、千夜ちゃんがいます！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Then, I'll explain it to you! This town is\\nwhere Chiya-chan happens to be!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "それに、チノちゃん、\\nリゼちゃん、シャロちゃん――\\n他にも、この街で会ったみんながいてくれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And on top of that, Chino-chan,\\nRize-chan, Sharo-chan, and everyone else\\nI've met in this town is here for me too!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "この街の冬をみんなで過ごせる。\\nこんな素敵な特別って、他にないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is the only place where I can be with\\neveryone this winter. That's the unique thing\\nthat this town has over all the others!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "……ふふふ。\\nええ、確かにそうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Hahaha! I can't deny that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "私にとっても……\\n今年の冬は、ココアちゃんがいるんだものね。\\n特別でないはずがなかったわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That goes for me too. I'll have you to\\nkeep me company this winter. There's no\\nway this year won't be something special.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "でしょ？\\nでも――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? And what's more--",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "千夜ちゃんが、私がいることを当たり前に\\n思ってくれてたのなら、\\nそれはそれで、すっごく嬉しいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The fact that you take my presence\\nfor granted is another reason\\nfor me to be extremely happy.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ココアちゃん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan...",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "どんな冬になるんだろう？\\nみんなで何をしよう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's going to unfold this winter?\\nWhat are we all going to do this year?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "そう考えるだけで、もう冬をやりとげた！\\nって、満足しちゃいそうになるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just thinking about it makes me content, as\\nif I've experienced all of winter already!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "あらあら。\\nそれは、さすがに気が早いんじゃないかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness.\\nAren't you getting ahead of yourself?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "そうだよね。\\nまだまだ、これからなんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right.\\nThe best part is still ahead of us.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "そうよ？\\n私だって、なんだかわくわくしてきたもの。\\n一緒に楽しみましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes indeed. Now you've started\\ngetting me excited. Let's thoroughly\\nenjoy this winter together.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "うん！\\n千夜ちゃんも、したいことあったら教えて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! Chiya-chan, let me know\\nif there's anything you want to do.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "ええ、わかったわ。\\nきっと、今までで１番楽しい冬になるわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, will do. I'm sure this will end\\nup being the best winter I've had so far.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,116 +16,116 @@
         "0": {
           "speaker": "リゼ",
           "original": "なあ、ココア？\\nやっぱり、こういう衣装を着ている時は\\nかわいらしく『ゆるふわ』な感じにすべきなのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Cocoa. We should try to act messy-lazy\\nwhile wearing this costume, don't you think?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ゆるふわ？\\n……ゆる、ふわ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Messy-lazy? Messy, lazy?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "なぜ繰り返した！\\n私からゆるふわなんて言葉が出てくるのが\\nおかしいのか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why are you repeating yourself!\\nYou think it's weird that someone\\nlike me said messy-lazy, don't you!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "……なにそれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What does that even mean?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "うう……！\\n悪かったよ！　私らしくないことを言った！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Bleh. I'm sorry. That was something\\nout of character for me to say.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "え？　なんで？\\nゆるふわってリゼちゃんらしくないものなの？\\n私、それ、わかんないんだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why do you say that? Is that such\\na strange word for you to say?\\nNot that I know what it means.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "え……。\\nココア、知らないのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What? Cocoa, you seriously don't know?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うん、知らない。\\nリゼちゃんは知ってるんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I don't. You are the one in the know.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "あっ、当たり前じゃないか！\\n普通の女子高生だったら\\nゆるふわぐらい知ってないとな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "B-But of course! Messy-lazy is common\\nknowledge for the typical high school girl!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "さすがリゼちゃんだね！\\nじゃあ、教えてほしいな。\\nそうすれば私も一緒にゆるふわな感じで配れるし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I always knew you were smart, Rize-chan!\\nTell me what this messy-lazy is! Then we\\ncan hand out our flyers messy-lazy style!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "え、えーと……まず、全身の力を抜くんだ。\\nゆるーく、な。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's, um... well, you start by relaxing\\nall your muscles. Just relaaax. Got it?",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "それから……それから……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And after that, you uh...",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "ああっ！？　大変だぁ！\\nふわっとしたものが足りないぞぉ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Aaaa! This isn't right!\\nThere's nothing to be messy!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "いやー、残念だな。\\nせめてティッピーがいてくれたら\\n存分にゆるふわできたのにな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Darn, we're one ingredient short. If\\nonly we had Tippy with us, then we\\ncould have made her fur all messy.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "そっかー。\\nそれじゃ、残念だけど普通に配ろっか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. I guess there's nothing we can do about\\nthat. Let's just do this normally.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "そうだな。\\nあと少しだし、頑張ろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright. Let's get back to work.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "お店に帰ったら、ゆるふわを教えてね。\\nティッピーだって、お店のためなら\\nきっと協力してくれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Once we get back to base, you can show\\nme what this messy-lazy is about. Tippy\\nwill surely help us if it helps the cafe.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "え！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "ああ、まあ、任せてくれ。\\n完璧なゆるふわを\\nココアに見せてやるからな……うん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, alright, I will. I promise\\nI'll show you what the ideal\\nmessy-lazy looks like. Probably.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,128 +16,128 @@
         "0": {
           "speaker": "ココア",
           "original": "今日はチラシを受け取ってくれる人が\\nたくさんいるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There's lots and lots of people out\\nand about to take our flyers today, huh.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "本当だな。\\n休憩する暇もないくらいだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No joke.\\nThey're not giving us a minute's rest.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "それにしても、ずっと配りっぱなしで\\nさすがに暑くなってきたよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've been running around doing handouts\\nso much that it's making me overheat.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "（ちょっと服をばさばさしよう。\\n　少しは涼しくなるし）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna loosen my\\nclothes to cool down a bit.)",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "お、おい、ココア！\\n何やってるんだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa, whoa, Cocoa! What are you doing!?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "え？　暑いから服をばさばさばさって。\\nこうすると涼しくなるんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pardon? I'm putting some slack in my clothes\\nto let some air in. It's cooler this way.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "見ればわかる。\\nこんなところで、はしたないぞ？\\nそれに無防備すぎだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can see that! Why the hell are\\nyou doing this out in public!\\nPeople can see you out here!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "でも、暑いよ～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But it's hot!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "なら、少し服を持ち上げて\\n隙間から手であおぐようにして風を入れれば\\nマシになるだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Just lift your top slightly\\nand fan in some air with your hand.\\nSurely that'll be enough for now.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "おお！\\nそっか、なるほど！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Good idea.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "まったく。\\nこんな格好なんだし、いつもより\\n人に見られてるって自覚しろよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good grief. You're already in a costume!\\nPeople are going to be paying attention\\nto your every move, so be more careful.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "はーい。\\nなんだか、リゼちゃんって\\nいいお母さんになりそうだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Fiiiiiiiine. Rize-chan, I can already tell\\nyou're going to make a good mother one day.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "はっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "リゼ",
           "original": "な、な、ない！　それはない！\\n私はそんなガラじゃない！\\nはずかしいことを言わないでくれ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, no, don't be ridiculous!\\nThat wouldn't suit me at all! Why\\ndo you have to make this weird!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（あはは、リゼちゃんの顏が\\n　真っ赤になっちゃった。\\n　耳の先まで赤くなっちゃってる）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Hahaha! She's blushing from ear to ear!)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "リゼ",
           "original": "いいか、ココアが子どもだから\\n私にそう言わせてるんだ！\\n反省しろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You and your childishness are\\nwhat's making me say this stuff.\\nMaybe reflect on your actions?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "はーい、おかーさん。\\n反省しまーす。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, mommy.\\nI'll think about what I did wrong.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "リゼ",
           "original": "ほう……。\\n私を母と呼ぶのなら\\nびしびし鍛えさせてもらうが、いいのか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Have it your way. If you want\\nme to be your mama, I'm going to\\nspank you like your mama. Got it?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "じょ、冗談だよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-I merely jest!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "まったく、ココアのせいで\\n私まで暑くなってきたじゃないか。\\n早くチラシを配り終えて帰るぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look what I have to deal with. Now I'm\\nstarting to feel hot, thanks to you. Let's\\nhurry and finish this so I can go home.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア（Ｍ）",
           "original": "（ふふふ～。\\n　照れてるリゼちゃん、かわいいな～）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ehehe~ I like it\\nwhen she gets all embarrassed.)",
+          "status": "machine_translated"
         }
       }
     }

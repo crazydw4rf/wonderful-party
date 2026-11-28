@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,260 +28,260 @@
         "0": {
           "speaker": "リゼ",
           "original": "うっ、くっしゅん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Achoo!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？\\nリゼちゃん、もしかして風邪？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? Rize-chan,\\nare you coming down with a cold?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "いや、特に不調は感じてないんだが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I don't think so. I feel fine.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "念のため、帰った方がいいんじゃないですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You should go home just to be safe.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "はい。\\n無理をしてもいいことはありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Agreed. There's\\nnothing to gain by overworking yourself.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "リゼ",
           "original": "大丈夫、ちょっと冷えただけだよ。\\n家に帰ったら、風邪を引かないように\\n温かい物を飲んで、ちゃんとしておくから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really, it's fine. I'm just a tad\\ncold. I'll be fine once I get home\\nand have something hot to drink.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "じゃあ、それまでのあいだは私に任せて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But in the mean time, leave it to me!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "リゼ",
           "original": "は？　任せろって何がだ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Leave what to you?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "いつもリゼちゃんには\\nお店を守ってもらってるから、\\nこんな時ぐらい私がリゼちゃんを守るよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're always the one keeping\\nRabbit House safe, so in your time\\nof need, I'll be watching over you!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "リゼさんはガードマンじゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-san is not a bouncer.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "そうだ！\\n私は普通の店員だ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's right! I'm a perfectly normal employee!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "とにかく！\\n私はこの北風からリゼちゃんを守ってみせるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whatever! I will be the one\\nto defend you against the harsh north wind!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "具体的には何をするの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And how exactly do you plan on doing that?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "具体的には、えーっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I plan on, um...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "考えてなかったんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "She didn't think that far ahead, huh.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あ、そうだ！\\n押しくらまんじゅうをしよう！\\nこれならみんなで温まれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I know! Let's huddle up!\\nWe'll warm up that way!",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "シャロ",
           "original": "ここでそんなことしてたら\\n周りの人に変な目で見られるわよ？\\nお店の評判にも関わるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What will the locals think when\\nthey see you doing that? Your\\ncafe's reputation will be damaged.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "そ、それはだめー！\\nラビットハウスは真面目なお店なんだから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-We can't be having that!\\nRabbit House is a respectable establishment!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "うーん……。\\nじゃあ、私が風よけになるのはどうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmmm... Okay,\\nhow about I become your windbreak?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "リゼ",
           "original": "風よけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A windbreak?",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "風は……こっちから吹いてるね。\\nさあ、リゼちゃん私の背中で風をよけて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The wind's coming from... that way!\\nQuickly Rize-chan, get behind me!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "リゼ",
           "original": "あ、ああ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, sure.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "ココア",
           "original": "どう？　風から守られてる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well? Are you safe from the cold wind?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "シャロ",
           "original": "あ、風向きが変わったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, the wind changed direction.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "今度はこっちだね！\\nリゼちゃんに冷たい風は当てさせないよ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now it's coming from over there!\\nBut the cold will not prevail against us!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "今度はこっちね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's changed direction once more.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "私が必ず守るんだから～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'll protect you with my life!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "こっちからも吹いてきます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now it's coming from this way.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "ええええっ！？\\nさすがに分身はできないよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whaaaaaat!? It's not like I can clone myself!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "ココア",
           "original": "じゃあ、こうなったら……\\nリゼちゃん、ちょっと屈んでみて？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So it has come to this... Rize-chan,\\nlean forward.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "リゼ",
           "original": "ん？　こうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, like this?",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "ココア",
           "original": "そうそう。\\nじゃあ、えいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Very good. Now, here I come!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "リゼ",
           "original": "うわ！？\\n急に何するんだ、ココア！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa! What are you doing, Cocoa!?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "ココア",
           "original": "どう？\\nこれなら、どこから風が吹いても守れるし\\nすごく温かいでしょ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you think? I can protect you\\nagainst the wind this way, no matter\\nits angle of attack. Isn't it warm?",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "リゼ",
           "original": "確かに温かいが、\\nこれはちょっと……はずかしいだろ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sure, it's warm, but aren't you,\\nyou know... a bit embarrassed by this?",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "ちょっとだけ我慢だよ、リゼちゃん。\\n温かいのとはずかしいのを\\n交換するつもりになろう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Suffer through it, Rize-chan. Let's attempt\\nto transform our embarrassment into body heat.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "リゼ",
           "original": "ど、どういう交換だ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How am I supposed to do that?",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "ココア",
           "original": "えへへ、こうしていると私も温かいなぁ。\\n２人とも仲良くぽかぽかになれる、いい方法だね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe~ This is keeping me warm too.\\nWhat a miraculous technique, keeping our\\nbodies toasty warm and our bond tight.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "リゼ",
           "original": "お前、実は自分が温まりたいだけじゃないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me guess,\\nyou were the one feeling cold the whole time.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "ココア",
           "original": "偶然だよ、偶然。\\nじゃあ、これをココアカイロと名付けよっかな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A mere coincidence! Nothing more!\\nI'll name this technique the Cocoa Warmer!",
+          "status": "machine_translated"
         },
         "40": {
           "speaker": "シャロ",
           "original": "ココアってば先輩とあんなに近づいて……！\\nうらやましい～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It should have been me, not Cocoa!\\nIt's not fair!",
+          "status": "machine_translated"
         },
         "41": {
           "speaker": "千夜",
           "original": "シャロちゃん、私のマントに入る？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan, want to cuddle up under my cloak?",
+          "status": "machine_translated"
         },
         "42": {
           "speaker": "シャロ",
           "original": "入らないわよー！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Never in a million years!",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,32 +6,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nチラシ配り、一緒にやろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! Wanna hand out flyers together?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "構いませんが……\\n今日はみんな揃って\\n配ることができそうですし、そうしませんか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm fine with that, but...\\nIt sounds like we can get everyone together\\ntoday, so how about we do that instead?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "そうなの？\\nじゃあ、みんな揃ってやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Really?\\nOkay then, let's get everyone involved.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あれ、あっちで何かやってるね。\\nテニスの練習かな？\\nお揃いのユニフォームだし、学校の部活なのかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh look, they're doing something over there.\\nLooks like tennis practice? The uniforms \\nprobably means it's a school club activity.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ええ、楽しそう。\\n私も部活に入っていたら、あんな風に\\n若い人たちと青春の汗を流していたのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, how they must be having fun. I remember\\nwhen I used to shed the sweat of my youth with\\nmy fellow club members like that.",
+          "status": "machine_translated"
         }
       }
     },
@@ -40,224 +40,224 @@
         "0": {
           "speaker": "チノ",
           "original": "千夜さんは何歳なんですか……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-san, just how old are you...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "そういえば、みんな部活に入ってないよな。\\nまあ、バイトがあるからそれどころじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now that I think about it, none of us are a\\npart of any clubs. Well, that should go without\\nsaying, since we're all holding jobs.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、ねえねえ！\\nシャロちゃんたちの学校ってどんな部活があるの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh! Hey, Sharo-chan, what kind of club \\nactivities go on at your school?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "シャロ",
           "original": "……何を期待をしてるのか知らないけど、\\n普通よ、普通。\\nですよね、リゼ先輩。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I'm not sure what you're expecting me to \\nsay, but they're all normal activities. \\nPerfectly normal. Right, Rize-senpai?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "ああ、そうだな。\\n演劇部やソフトボール部、それから\\nバスケ部とか乗馬部とかよくあるものだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Pretty much. Drama and softball clubs, and \\nother normal things like basketball and \\nequestrian clubs.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "おお、乗馬部！\\nそれはお嬢様っぽいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oooh, an equestrian club! That one sounds \\nlike something rich girls would do!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "あと、庶民研究部とか吹き矢部もあるぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Also, we've got groups like a plebeian \\nresearch society and a blowgun club.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "ええっ！？　吹き矢部ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? \\nA blowgun club?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "シャロ",
           "original": "そういえば、そういう\\n変わった部もありましたね……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh right, I guess there was that weird \\nclub...",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "庶民を研究って、何をしているのかしら？\\nちょっと想像がつかないのだけど。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What exactly does the plebeian research \\nsociety do? I'm struggling to imagine anything.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "私も詳しいことは知らないけど、\\n『特売』とか『おつとめ品』とか、\\nそういう言葉の意味を研究してるみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm not entirely sure either, but I think \\nthey study the meanings of phrases like \\n”special sale” and ”bargain price”.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "へえ～、それもお嬢様っぽいね。\\n世間知らずで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huuuh, that's also kind of a rich girl \\nthing to do. Being detached from the real \\nworld.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "どういう評価なのよ、それ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's with that evaluation of yours?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "なるほど、部活も色々あるんですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I see. So you do have quite a few active \\nclubs.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（えっ！？\\n　チノちゃん、私たちの学校よりも\\n　シャロちゃんたちの学校に興味を持ってる？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Wait! Does Chino-chan have more \\ninterest in Sharo-chan's school than mine!?)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア（Ｍ）",
           "original": "（これは、まさか……！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh no, don't tell me...)",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ち、チノちゃん？\\nもしかして、シャロちゃんたちの学校に\\n入学しようかなって、そう思ってる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ch-Chino-chan, is there a chance that you \\nmight be considering going to Sharo-chan's \\nschool?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "いえ、まだそこまでは。\\nでも興味が出てきました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I haven't thought that far ahead. But \\nthis has piqued my interest.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア（Ｍ）",
           "original": "（だ、だめー！\\n　このままじゃ、チノちゃんを\\n　とられちゃうよー！？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Noooo! If I don't do something, \\nChino-chan is gonna get snatched away \\nfrom me!)",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "チノちゃん！\\nうちの学校にだって面白い部活があるんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan! There's lots of interesting \\nclubs at my school too!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "ううん、こうなったら\\n私がチノちゃんのために新しい部活を作るよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Actually, I'll go and make a new club just \\nfor you!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "チノ",
           "original": "あ、あの、そこまでされても困りますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh, umm, I really wish you wouldn't go \\nthat far...",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "それに、作るってそう簡単にできるのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anyway, will it be that easy to make a \\nclub from scratch?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "大丈夫、人を集めたり署名を集めたりすれば\\nきっと作らせてもらえるよ。\\nその時はよろしくね、千夜ちゃん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No worries! If we gather lots of people and\\nsignatures I'm sure they'll let us found it!\\nI'll be counting on you, Chiya-chan!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "ええっ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!?",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "ココアって、なんでこういう時、\\n根拠もなく自信満々になれるのかしらね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How does Cocoa manage to have the most \\nbaseless confidence during times like this?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "じゃあチノちゃん、どんな部活に入りたい？\\nやっぱりバリスタ部かな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright Chino-chan, what kinda club would \\nyou be interested in joining? Something \\nlike a barista club?",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "いえ、でしたらラビットハウスで学びます。\\nその方が実践もできますし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No thanks, I already study that enough at \\nRabbit House. And I get to practice what \\nI learn.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "確かに……。\\nあ、じゃあ、うさぎもふもふ部！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Can't deny that... Oh, I know, what about \\na bunny cuddling club!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "家でティッピーを充分に触ってますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I already get plenty of contact with Tippy \\nat home...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "ああ、そうだったぁ！\\nそれじゃ、えーっとえーっと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nah, right! \\nOther than that, uhhhh...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "あの、ココアさん。\\n確かに部活も学校を選ぶ１つの要素ですが、\\nそれで決めるつもりはありません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen, Cocoa-san. Sure, club activities is\\na bonus when choosing a school, but I'm not \\ngoing to decide entirely based on that.",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "チノ",
           "original": "まだ時間はありますから、\\n自分に向いている学校をじっくり考えて選びます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I still have plenty of time to think about \\nit, so I'm going to carefully consider which \\nschool will suit me best.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "リゼ",
           "original": "さすがチノ、しっかりしてるな。\\n将来に関わることだし、ちゃんと考えるんだぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino sounding as responsible as always. \\nIt's your future, naturally you're thinking \\nthis through.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "チノ",
           "original": "はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "チノちゃん、私より大人だ……！\\nこれじゃ、お姉ちゃん失格だよ～！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan is more mature than I am! I'm \\nunfit to be your big sisterrr!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "チノ",
           "original": "そもそも姉じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were never my sister to begin with.",
+          "status": "machine_translated"
         }
       }
     }

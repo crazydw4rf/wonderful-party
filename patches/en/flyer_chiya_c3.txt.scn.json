@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,164 +16,164 @@
         "0": {
           "speaker": "千夜",
           "original": "ココアちゃん。\\nそろそろ着物、着崩れちゃったりしてない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, is your kimono coming undone?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "大丈夫！\\nばっちりだよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope! It's still in perfect shape!",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "……だと思うんだけど、どうかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Is what I'd like to say. How's it look?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "それじゃ、ちょっと失礼して。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hold still, I'll take a look.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "うん、衣紋も抜けてるし、帯もゆるんでないわ。\\n問題ないわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, your collar is still in\\nplace in the back, and your belt\\nis tight. Nothing to worry about.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "千夜ちゃんのおかげだよ。\\n着物のおかげで目立てるから、\\nチラシの減りも早いし。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks again for helping me with this.\\nI've gone through these flyers faster\\nthan usual, thanks to this kimono.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "ほら、見て！\\nもうこれだけしか残ってないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Look at this!\\nI've only got a few sheets left.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "千夜",
           "original": "私の分も、もうすぐなくなっちゃいそうだわ。\\nいつの間にこんなに配ったのかしら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm almost through with my pile of pamphlets\\nas well. It happened before I even noticed.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "こんなにたくさん配ったんだから、\\nお客さんもいっぱい来てくれるよね。\\nお店、忙しくなりそうだなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "With all these flyers in circulation,\\nI bet we'll get a bunch more customers.\\nOur shops are about to get busy.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "ええ、今から覚悟しておかないと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed.\\nI'll need to mentally prepare myself for it.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "心配ないよ。\\nラビットハウスのみんなで力を合わせれば、\\nどんなにいっぱいお客さんが来ても大丈夫！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But worry not! With the combined powers\\nof everyone at Rabbit House, we'll be\\nable to serve any number of customers!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "まあ、頼もしい。\\nさすがココアちゃんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Goodness, how dependable.\\nThat's the Cocoa-chan I know.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "ココア",
           "original": "ふっふっふ！\\nなんてったって成長期だからね。\\nどんどん成長していくよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ha ha ha! That's because I'm progressing!\\nI'm only getting stronger!",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "ええ、この街に来てまだ１年も経っていないのに\\nこんなに成長するなんて……私、嬉しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No doubt. Look how far you've come,\\nwithout being in this village even\\na year. I'm... I'm proud of you.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア",
           "original": "……千夜ちゃん、\\nなんでお母さんみたいなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan,\\nwhy are you starting to sound like a parent?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "もう、ココアちゃん１人でも大丈夫ね。\\n私は引退してもいいかも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're already grown up enough that\\nyou won't be needing me anymore.\\nIt's time for me to retire.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "えええっ！？\\nだめだよ、そんな弱気なことを言っちゃ！\\n私には千夜ちゃんが必要なの！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! Don't say something so depressing!\\nWhat would I ever do without you!?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "千夜",
           "original": "ううん、ココアちゃんは大丈夫。\\n心残りは……シャロちゃんのことだけ……。\\nよろよろ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don't worry, I know you'll be fine\\nwithout me. My only regret... is\\npoor Sharo-chan... ＊dying breath＊",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "千夜ちゃーん！！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chaaan!",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "千夜",
           "original": "ココアちゃん、\\nシャロちゃんを……よろしくね……。\\nあの子……寂しがり屋さんだから……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan... please take good care of...\\nSharo-chan... Don't... let her be lonely...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "しっかりして、千夜ちゃん！\\n私たちで、甘兎庵とラビットハウスを\\n盛り上げて行くんでしょ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Keep it together, Chiya-chan! You promised\\nthat we'd make Ama Usa An and Rabbit\\nHouse prosperous together, remember!?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "そうね、そうだったわ。\\n私にはまだまだ大切な役目があるのね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right, I almost forgot. I still have\\nan important mission left to fulfill.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "そうだよ。\\n千夜ちゃん、引退なんかしちゃだめ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right! So, Chiya-chan,\\nno more talk about retirement!",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "わかったわ。\\n引退は取りやめにする。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Understood. My retirement will have to wait.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "千夜",
           "original": "ココアちゃん。\\nチノちゃんたちも一緒に、\\nお互いのお店を盛り上げていきましょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-chan, let's all work together in\\nbringing success to both of our cafes.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "ココア",
           "original": "うん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah!",
+          "status": "machine_translated"
         }
       }
     }

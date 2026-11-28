@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア（Ｍ）",
           "original": "（……あれ？　チノちゃんだ。\\n　チノちゃんもお散歩かな？）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Oh look, there’s Chino-chan. Is she out for a\\nstroll?)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "チーノちゃーん！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chaaan!",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,128 +22,128 @@
         "0": {
           "speaker": "チノ",
           "original": "ココアさん。\\nどうしたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san. What’s the matter?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "お散歩してたの。\\nチノちゃんもそうなの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m taking a stroll. Are you doing the same?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "いえ、私はウォーキングをしていました。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I’m taking a walk.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ウォーキング？\\nお散歩じゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A walk? Not a stroll?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "立ち仕事のバリスタには、体力も必要なんです。\\nだから少しでも鍛えようと思いまして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A barista is always on her feet, so a certain\\namount of physical endurance is necessary.\\nSo I thought I’d do a little training.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "そっか。\\nじゃあ、私も一緒に散歩していい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh. Anyway, you don’t mind if I take a stroll\\nwith you then, right?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "散歩じゃないです、ウォーキングです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m not taking a stroll, I’m walking.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、歩き方もすごくゆっくりだし、\\n　どう見ても散歩してるようにしか……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But your pace is extremely casual, so I don’t\\nsee how that’s any different from a stroll...)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア（Ｍ）",
           "original": "（でも、チノちゃんがウォーキングって\\n　言ってるし、それでいっか！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(But if Chino-chan says it’s a walk, then it’s a\\nwalk!)",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "じゃあ、一緒にウォーキングしよう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alrighty then, let’s go for a walk!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "いいですよ。\\n行きましょう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Excellent. Let’s get moving.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "ねー、チノちゃん？\\n私たち、こうしてると本当の姉妹みたいだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Chino-chan. Doesn’t this make us look\\nlike real sisters?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "……一緒に歩いているだけですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Aren’t we just walking together?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "よーし！\\nじゃあ、もっと仲良しな姉妹らしくしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now’s the time! Let’s start acting more like\\nclose sisters!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "チノ",
           "original": "どうしてですか。\\n別に姉妹らしく振る舞う必要はありませんよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And why is that? There’s no need to look like\\nsisters at all.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "う～ん、仲良し、仲良し……。\\n手を繋ぐ、とか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. Closeness, closeness... How about we\\nhold hands?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "チノ",
           "original": "……嫌です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I refuse.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "即答！？\\nどうして嫌なの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Instant answer? What’s wrong with holding\\nhands?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "ココアさんは、その……\\nはずかしいとは思わないんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Listen, Cocoa-san... Aren’t you embarrassed\\nto do something like that in public?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "全然。\\nお姉ちゃんなんだから、\\n妹の手を取って導いてあげないとね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nope! I’m a big sister, and it’s my job to lead\\nmy little sister by the hand.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "チノ",
           "original": "だから、妹じゃないです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, I’m not your little sister.",
+          "status": "machine_translated"
         }
       }
     },
@@ -157,18 +157,18 @@
       "choices": {
         "*sel_0101": {
           "original": "そう言わないで、繋いでください！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t say that! Please hold my hand!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "そんなことを言う妹は、こうだ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here’s what happens if you say that!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "チノちゃんはツンデレだな～。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh Chino-chan, you’re such a tsundere~",
+          "status": "machine_translated"
         }
       }
     },
@@ -177,44 +177,44 @@
         "0": {
           "speaker": "ココア",
           "original": "そう言わないで、繋いでください！\\nでないとお姉ちゃん、泣いちゃうよ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t say that! Please hold my hand! If you\\ndon’t, you’ll make your big sister cry!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "な、泣くんですか！？\\nお姉さんなのに！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You’re going to cry? Despite being a big\\nsister?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "お姉ちゃんだって人間だもん！\\n寂しくなっちゃうことだってあるんだよ……。\\nうるうる……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Big sisters are people too! They can still get\\nlonely from time to time! ＊sob＊",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そ、そんな涙目で訴えるほど寂しいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "S-So lonely that you’d cry out in the open?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "うん……。\\n隣にいるはずのチノちゃんが\\nずっと遠くに感じられるほどだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah... I thought you were by my side, but it\\nfeels like you’re a million miles away.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "……わかりました。\\nちょっとだけ……ですよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Fine. We’ll hold hands, just a little.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "やったぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hooray!",
+          "status": "machine_translated"
         }
       }
     },
@@ -223,32 +223,32 @@
         "0": {
           "speaker": "ココア",
           "original": "そんなことを言う妹は、こうだ！\\nえいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here’s what happens to sisters who say that!\\nEyy!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "あっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "チノちゃんの手、奪っちゃった～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve seized Chino-chan’s hand!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そんな、無理矢理……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So you’ve resorted to force...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "もう放さないよ！\\nさ、行こう！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I won’t let you escape! Now, let’s be off!",
+          "status": "machine_translated"
         }
       }
     },
@@ -257,8 +257,8 @@
         "0": {
           "speaker": "チノ",
           "original": "もう……お姉さんって言ってるけど、\\n全然じゃないですか。\\n仕方のないココアさんです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Gosh. So much for all that talk of being a big\\nsister. Cocoa-san, you’re hopeless.",
+          "status": "machine_translated"
         }
       }
     },
@@ -267,32 +267,32 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃんはツンデレだな～。\\nお姉ちゃんの前では、\\nもっと素直になっていいんだよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh Chino-chan, you’re such a tsundere~ You\\ncan be a little more honest with your feelings\\nto your big sister, you know?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "私はいつだって素直です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ve always been honest with you.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "うんうん、お姉ちゃんはわかってるよ？\\nホントは手を繋ぎたいけど、\\n認めちゃうのがはずかしいんだよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah yeah, your big sister knows better. The\\ntruth is that you’re too shy to hold hands,\\neven though you secretly want to.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "そうじゃなくて……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s not true...",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "だったら、お姉ちゃんから手を繋いじゃえば\\nはずかしくないよね。\\nえいっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But if your big sister takes the initiative,\\nthere’s nothing to be embarrassed about!\\nEyy!",
+          "status": "machine_translated"
         }
       }
     },
@@ -301,8 +301,8 @@
         "0": {
           "speaker": "チノ",
           "original": "あっ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah...",
+          "status": "machine_translated"
         }
       }
     },
@@ -311,80 +311,80 @@
         "0": {
           "speaker": "ココア",
           "original": "あ、チノちゃん、手、冷えちゃってるね。\\nもしかして寒い？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, Chino-chan, your hands are cold. Are\\nyou getting chilly?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "いえ、寒くはないです。\\n外の空気に当たっていたから\\n冷たくなっただけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I’m fine. My hands are just cooling down\\ndue to the cold air.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "あ、そういえば、手が冷たい人は\\n心が温かいって言うよね。\\nじゃあ、チノちゃんはすっごく温かい人なんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You know what they say, someone with cold\\nhands has a warm heart. Therefore Chino-\\nchan must be super warmhearted.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "……あれ？\\nねえ、私の手、チノちゃんより温かい？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Wait. Aren’t my hands warmer than yours?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "はい、温かいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, they’re quite warm.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "じゃあ、私は心が冷たいってこと！？\\nガーン……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That means I have a cold heart! Say it ain’t\\nso!",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "いえ、そんなことありません。\\nココアさんは手も心も温かいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That certainly isn’t true. You’re set with both\\ntoasty hands and a warm heart.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "え！？　本当？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Really!?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "こ、こんな時に嘘を言ったりしません。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wh-What makes you think I’m lying?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "そっか！\\nチノちゃんにとって私は、温かい心の持ち主で、\\n信頼できるお姉ちゃんってことだね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I get it! You see me as being a warmhearted,\\nreliable big sister after all!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "そこまでは言ってませんが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I never said all that...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "あうっ！\\nで、でも、心が温かいのは間違いないよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Auu~ B-But at the very least you admit I have\\na warm heart, right?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "……はい。\\nそこは間違いないですよ、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Right. That much is true, Cocoa-san.",
+          "status": "machine_translated"
         }
       }
     }

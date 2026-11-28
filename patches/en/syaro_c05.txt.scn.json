@@ -6,242 +6,242 @@
         "0": {
           "speaker": "シャロ",
           "original": "ふう……。\\n今日は色々あったわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Phew. What a busy day.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "ええ、本当にね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, you can say that again.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "シャロ",
           "original": "って、なんで千夜、まだいるのよ。\\nみんなと一緒に見送ったのに。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wait, what are you still doing here? \\nYou even went out to see everyone leave.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "千夜",
           "original": "だって、放っておくと、\\nシャロちゃんが夜更かしして\\nパーティーの準備をしてそうなんだもの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I know the moment I leave you alone, \\nyou'll be staying up all night working \\non the party.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "シャロ",
           "original": "心配いらないわよ。\\nもう無理はしないって決めたんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don't need to worry about that. I already\\ndecided I wont go overboard anymore.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "千夜",
           "original": "……そう。\\nごめんなさい、心配しすぎだったみたいね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Good to hear. \\nForgive me, I guess I've been overly worried.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "ねえ、千夜。\\n本当にこれでよかったのかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What do you think, Chiya? Is this really \\nthe right thing to do?",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "千夜",
           "original": "え？　何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hm? What is?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "シャロ",
           "original": "みんなに甘えちゃったことが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Accepting help from everyone.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "シャロ",
           "original": "今回のことは、全部、私が悪いのに、\\nいっぱい心配してもらって、その上でこんな……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Recently I've done nothing but mess up, \\nmake everyone worried over me, and on \\ntop of that...",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "千夜",
           "original": "そんなこと、誰も気にしてないわ。\\nみんなの言葉を信じられないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No one minds one bit about all that. Can't \\nyou believe what we've been saying all \\nthis time?",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "シャロ",
           "original": "ううん。\\nでも、だから余計に申し訳ないのよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I can, but that's one more reason why \\nI should feel sorry.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "千夜",
           "original": "シャロちゃん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan...",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "シャロ",
           "original": "きゃ！？\\nな、何よ、いきなり手を握ったりして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Kya!? \\nWh-What's with you, \\nsuddenly grabbing my hand like that?",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ねえ、シャロちゃん。\\nたとえばの話だけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hey, Sharo-chan. \\nHypothetically speakingーー",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "私が、今回のシャロちゃんみたいに、\\nちょっとした失敗をしたとして……\\nそんな時、シャロちゃんならどうする？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If I, like you did, \\nmade a tiny little mistake... \\nIn a time like that, what would you do?",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "シャロ",
           "original": "どうするって、\\nそんなの、力を貸すに決まってるじゃない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What would I do? Isn't it obvious that \\nI would try to help you out?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "なら、その時、迷惑だなぁなんて思ったりする？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And in a time like that, would you think it \\nwas huge hassle to lend a helping hand?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "シャロ",
           "original": "思うわけないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Absolutely not.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "千夜",
           "original": "じゃあ、相手が私じゃなくて、\\nココアちゃんやチノちゃん、\\nリゼちゃんだったとしたら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well, what if it wasn't me, but instead \\nCocoa-chan or Chino-chan, or maybe Rize-chan?\\nWhat would you think then?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "変わらないわよ。\\n千夜の時と同じように力を貸すし、\\nそれを迷惑だなんて思ったりしないわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That doesn't matter. I'd do my best to help\\nthem just the same as if it were you. And I\\nwouldn't think it was a nuisance either.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "千夜",
           "original": "でしょう？\\nそれと一緒よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? It's the same for us.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "千夜",
           "original": "私たち、シャロちゃんのためなら\\nいくらでも力を貸すし、\\nそれを迷惑だなんて思わないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If it's for Sharo-chan, we'll all do anything\\nwe can to help. And we won't blame you for\\nit either.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "千夜",
           "original": "だからシャロちゃんも、\\n私たちのことを気にして\\n自分が悪い、なんて言ったりしないで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So Sharo-chan, don't go worrying about \\nus or blaming yourself.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "そうね。\\nありがと、千夜。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right. Thank you, Chiya.",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "千夜",
           "original": "どういたしまして。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Anytime.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "千夜",
           "original": "でも、なんだかちょっと寂しいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, I can't help but feel a little down \\nabout it.",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "シャロ",
           "original": "寂しいって何が？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "About what?",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "だって、シャロちゃんが\\n甘えられる相手がいっぱいになって、\\n私だけのものじゃなくなっちゃったみたいで。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Sharo-chan has gained lots of admirers to \\nfawn over her, it's no longer my personal \\nprivilege anymore.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "シャロ",
           "original": "な、何言ってるのよ～！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What are you talking about!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "千夜",
           "original": "冗談よ、冗談。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I merely jest.",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "でも、忘れないでね。\\n私はいつでもシャロちゃんのそばにいるわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But, never forget. \\nYou always have me right here by your side.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "そんなの……\\n言われなくたって、わかってるわよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Something like that... \\nYou don't even need to say, I already know it.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "千夜",
           "original": "ええ、そうよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah, that's right.",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "千夜",
           "original": "それじゃ、そろそろ帰るわね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Well then, it's about time I go home.",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "シャロ",
           "original": "遅くまでありがと、千夜。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Thanks for staying so late, Chiya.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "千夜",
           "original": "いいのよ、好きでしてることなんだから。\\nそれじゃ、おやすみなさい。\\nちゃんと温かくして寝てね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It's nothing, I did it because I wanted to.\\nAnd with that, have a good night.\\nKeep warm and sleep well.",
+          "status": "machine_translated"
         },
         "39": {
           "speaker": "シャロ",
           "original": "そっちもね。\\nおやすみ、千夜。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You too. Goodnight, Chiya.",
+          "status": "machine_translated"
         }
       }
     }

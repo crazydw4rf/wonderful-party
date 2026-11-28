@@ -6,20 +6,20 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はリゼちゃんとチラシ配りをしよう！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(I'm gonna hand out flyers\\nwith Rize-chan today!)",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？　リゼちゃん？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Rize-chan?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア（Ｍ）",
           "original": "（どうしたんだろう？\\n　リゼちゃん、あんなところで\\n　ずっとしゃがみこんだままで……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Rize-chan's squatting down without moving.\\nWhat's she up to?)",
+          "status": "machine_translated"
         }
       }
     },
@@ -28,158 +28,158 @@
         "0": {
           "speaker": "リゼ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あれ？　写真？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, you're taking pictures?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "わっ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoa!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、ごめんね！\\n驚かせちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, sorry. I didn't mean to startle you.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "リゼ",
           "original": "い、いや、いいんだ。\\nチラシ配りをサボってたのはこっちだからな。\\nすまん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it's fine. I'm supposed to be\\nworking anyway. Sorry for slacking.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "ねえ、リゼちゃん\\n何の写真撮ってたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So what were you taking pictures of,\\nRize-chan?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "リゼ",
           "original": "えっ！\\nま、まあ、つまらないものだ。\\n気にしなくていい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? I-It's nothing interesting.\\nDon't mind me.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "見せて見せて～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Show me! Show me!",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "リゼ",
           "original": "だから、つまらないものだって\\n言ってるじゃないか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Again, it's something boring.\\nNot worth your time.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "つまらなくてもいいよ～！\\n見せてほしいな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I don't care if it's boring! I wanna see it!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "リゼ",
           "original": "仕方ないやつだな。\\n見せてもいいけど笑うなよ？\\n……ほら。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You sure are persistent. I'll show you\\nif you promise not to laugh. Here.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "うわぁ、かっわいい～！\\n野良うさぎの写真だぁ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaa~ It's so cute! It's a wild bunny!",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "リゼ",
           "original": "ああ、かわいいだろ？\\n他にもあるから見てみるか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You're right, it's cute! I've\\ngot more pictures where that\\ncame from. Want to see them?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "うん、見たい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Show me!",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "リゼ",
           "original": "ほら、これが親子のうさぎだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Here's a rabbit family.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "ココア",
           "original": "あはは、仲良しさんだね。\\n一緒に葉っぱをかじってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ahaha! They must get along well.\\nThey're having a leaf dinner together.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "リゼ",
           "original": "子うさぎだけの写真なら、\\nまだ、こっちにたくさんあるぞ。\\nこれと……これと、ああ、これも。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I've got a bunch more photos\\nof baby bunnies! Here's one,\\nand another, and one more.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ふわわわ～！\\nこのうさぎ、どの子も\\n思わず触りたくなっちゃうかわいさだぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uwaaaaaaaa~ All of these are so cute!\\nI wanna just pet all of them!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "リゼ",
           "original": "だろう？\\nこの瞬間を捉えるのがなかなか大変なんだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Right? It's hard to stand back and\\nsnap pictures while you have one\\nof these right in front of you.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "こんなに写真が上手なら、\\nリゼちゃんは将来カメラマンに\\nなれちゃうかもしれないね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm impressed with your photography\\nskills! Rize-chan, you have what it takes\\nto become a professional camerawoman!",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "リゼ",
           "original": "カメラマンかぁ、それもいいな。\\nカメラ片手に街から街へ、なんて\\nロマンがありそうだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A camerawoman? Mm, I like it. There's\\nsomething romantic about traveling\\nfrom town to town, camera in hand.",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "うん、世界中を飛び回る\\n立派な戦場カメラマンになれるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure you'd make a fantastic\\nworld-traveling combat camerawoman!",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "リゼ",
           "original": "おい、どうして戦場なんだ！\\nうさぎを撮るのとまったく関係ないだろう！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We were talking about rabbits!\\nWhat makes you bring up combat!?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "あ、ごめんごめん。\\nなんとなく戦場かなって思っちゃって。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, whoopsies.\\nThe battlefield kind of popped into my head.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "ココア",
           "original": "今度、リゼちゃんが撮ったうさぎの写真を\\nラビットハウスに飾るのもいいかもね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's print out these photos and hang\\nthem up at Rabbit House for all to see!",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "リゼ",
           "original": "さ、さすがにそれははずかしいな。\\nプロでもないんだし、遠慮しとくよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "L-Let's not get ahead of ourselves here.\\nI'm just an amateur, so let's not.",
+          "status": "machine_translated"
         }
       }
     }

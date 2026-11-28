@@ -6,26 +6,26 @@
         "0": {
           "speaker": "ココア",
           "original": "リゼちゃん！\\nチラシ配り、一緒にやらない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Rize-chan! Let's hand out flyers together!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "リゼ",
           "original": "ああ、それなんだが、\\n今日はみんな揃って配ることができそうだぞ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me. I think we can\\nget everyone together to do handouts today.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "じゃあ、せっかくだし、みんなでやろうか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What a great opportunity! Let's all team up!",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "チラシ配りはこれで終わりだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's all of our flyers finished for today!",
+          "status": "machine_translated"
         }
       }
     },
@@ -34,236 +34,236 @@
         "0": {
           "speaker": "リゼ",
           "original": "さすがに疲れたな。\\n小腹も空いたことだし、\\nどこかで何か食べて帰らないか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm sure all of us are tired\\nby now. I'm slightly hungry,\\nso let's find somewhere to eat.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "千夜",
           "original": "なら、あそこの屋台なんてどうかしら？\\nクレープ屋さんみたい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Might I suggest that stall, right over there?\\nIt looks like they're selling crepes.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "リゼ",
           "original": "お、いいな。\\nそれじゃ、クレープにするか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, good idea! Let's go for crepes.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "さんせーい！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You've got my vote!",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "あれは、前にシャロさんが\\nバイトしていたお店ですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Is that the same stall\\nthat Sharo-san worked at previously?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "シャロ",
           "original": "ううん、違うわね。\\n別の店よ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, it's not. That was a different stall.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "シャロ",
           "original": "ていうか、あそこって屋台にしてはおいしいけど\\nその分、お高い店だったような。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(If I recall correctly, this crepe stand is\\npretty good, though it’s not cheap.)",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "シャロ",
           "original": "で、でも、せっかくなんだから！\\nここは奮発して……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(B-But this is a special occasion,\\nso it's okay to splurge!)",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "みんな、違うの買わない？\\nそれで食べさせあいっこするの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let's all order different flavors,\\nso we can all share with everyone else!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "いいですね。\\nじゃあ、私はアップル＆アイスにします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I like that idea. I'll go with apple\\nand ice cream.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "ココア",
           "original": "私はイチゴにしよーっと。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm getting strawberry!",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "リゼ",
           "original": "ベリー＆チーズケーキがおいしそうだな。\\nこれにしよう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The berry and cheesecake looks good.\\nI'm getting that.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "それじゃ、私はバナナチョコにするわ。\\nシャロちゃんは？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "In that case, I'll go with chocolate banana.\\nSharo-chan, anything catch your eye?",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "シャロ",
           "original": "えっと……１番安いのは……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Let's see... which one is the cheapest?)",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "あら、このイチゴソース＆アイス、\\nおいしそうじゃない？\\n私食べたいから、シャロちゃん、これにして？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Doesn't that strawberry sauce\\nand ice cream look good? You\\nshould order it so I can try it.",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "シャロ",
           "original": "そ、そう？\\nじゃあ、それでいいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Y-You do? Alright, I'll go with that.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "千夜",
           "original": "じゃ、決まりね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good, we're ready to order.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "ん～！\\n甘酸っぱさとクリームのハーモニーが絶妙だ～！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Mmm! The sweet\\nand sour mixed with the cream is exquisite!",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "チノ",
           "original": "アップルも、\\nほんのりシナモンが薫っておいしいです。\\n……あれ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "My apple flavoring is scented with cinnamon.\\nI like it. ...Wait?",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "チノ",
           "original": "ココアさん、鼻にクリームがついてます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Cocoa-san, you've got cream on your nose.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "えっ！？\\nいつの間に……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? How did that happen?",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "シャロ",
           "original": "ふふ！\\nチノちゃんの鼻にもクリームがついてるわよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hehe. You've got some on your nose too,\\nChino-chan.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "あ、本当です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh, you're right.",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "チノ",
           "original": "言われるまで気づきませんでした。\\nこれでは、ココアさんのことは言えませんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I had no clue until you told me. I guess I\\ncan't blame Cocoa-san for being careless now.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "リゼ",
           "original": "けど、シャロもクリームついてるぞ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That's not all. Sharo has it on her face too.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "シャロ",
           "original": "え……？　あれ！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? Really!?",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "シャロ",
           "original": "やだ、はずかしい……！\\n先輩にこんな所を見られるなんて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, I've humiliated myself! How could I\\nlet Senpai see me embarrass myself like this!",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "リゼ",
           "original": "気にすることないさ。\\nクレープはクリームたっぷりだからな。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No big deal.\\nThese crepes are drowning in whipped cream.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "なーんて笑ってるリゼちゃんも、\\nクリームついてるよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And you've got some of that whipped cream on\\nyour nose while you say that, Rize-chan!",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "リゼ",
           "original": "何っ！？\\nしまった、油断した……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What!? Dangit, I got too careless...",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "千夜",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "千夜",
           "original": "えいっ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eyy!",
+          "status": "machine_translated"
         },
         "32": {
           "speaker": "ココア",
           "original": "千夜ちゃん！？\\nなんでクリーム、自分でつけたの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan,\\ndid you just put cream on your face?",
+          "status": "machine_translated"
         },
         "33": {
           "speaker": "千夜",
           "original": "あらあら、私もついちゃった。\\nこれでみんなお揃いね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Whoopsies, looks like I got some on my nose\\nas well. Now I match everyone else.",
+          "status": "machine_translated"
         },
         "34": {
           "speaker": "シャロ",
           "original": "ついたんじゃなくてつけたんでしょ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You didn't get some on your nose,\\nyou put some there.",
+          "status": "machine_translated"
         },
         "35": {
           "speaker": "ココア",
           "original": "うん、でもみんなお揃いがいいもんね。\\n仲良くクリーム姉妹だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Though it's good that we all match!\\nWe're all happy sisters in whipped cream!",
+          "status": "machine_translated"
         },
         "36": {
           "speaker": "シャロ",
           "original": "なんなの、そのネーミング！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Your naming sucks!",
+          "status": "machine_translated"
         },
         "37": {
           "speaker": "リゼ",
           "original": "はははっ！\\n５人揃ってこんな顔なんてしまりがないなぁ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hahaha! Look at the five of us clowns.",
+          "status": "machine_translated"
         },
         "38": {
           "speaker": "チノ",
           "original": "でも……なんだか楽しいです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But I must admit... that this is kind of fun.",
+          "status": "machine_translated"
         }
       }
     }

@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日は千夜ちゃんとチラシ配りをしようっと）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Today I'm gonna hand out\\nflyers with Chiya-chan!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,134 +16,134 @@
         "0": {
           "speaker": "千夜",
           "original": "あら？\\nそこに座っている人、何をしているのかしら。\\nあの大きな板を持っている人。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh? What's that fellow over there doing?\\nHe's holding a great big board.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "きっと絵を描いてるんじゃないかな？\\nあの板、多分画板だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think he's drawing a picture.\\nThat board is probably his easel.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "千夜",
           "original": "ああ、絵を描いているのね。\\n街のスケッチかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, he's drawing!\\nA sketch of the town, I imagine.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "真剣な顔で、一所懸命だね。\\n芸術家さんって感じだよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Given his stern expression, he must be\\ntaking it seriously. That's exactly what\\nI would imagine an artist would look like.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "千夜",
           "original": "ええ、ああいう趣味もいいわねぇ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Indeed. What a noble pastime.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "趣味かぁ。\\nそういえば、私の趣味ってなんだろう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "A pastime, huh. I wonder\\nif I should pick up a hobby.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "千夜",
           "original": "あら、パンを焼くことじゃないの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, it wasn't baking?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "うーん、実家では普通に焼いてたし\\n趣味って感じがしないんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Hmm. That's just kind of something\\nI picked up from my parents back at\\nhome. I never thought of it as a hobby.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "私も、スケッチを趣味にしてみようかな。\\nなんだか楽しそう。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I think I'll pick up sketching\\nas my hobby too! It looks fun.",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "千夜",
           "original": "まあ、ココアちゃんが絵を描くの？\\nそれは素敵ね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wow, you're going to become an artist?\\nHow wonderful.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "千夜",
           "original": "ココアちゃんの絵って、どんな風なのかしらね？\\n描いたら、ぜひ見せてほしいわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What are you planning on sketching first?\\nPlease show it to me once it's done.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "う、うまく描けたらね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "O-Only if it comes out well.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "千夜",
           "original": "そんなこと言わずに。\\nどんな絵でも見てみたいの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, I don't care if it's good or not.\\nI want to see it no matter the quality.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "ココア",
           "original": "千夜ちゃん、そんなに私の絵が見たいの？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chiya-chan,\\nwhy do you want to see my drawing so much?",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "千夜",
           "original": "だって、ココアちゃんの目に映っている景色を\\n私も見られるってことでしょう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because that would allow me to\\nsee the world through your eyes!",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "千夜",
           "original": "ココアちゃんから見たこの街って\\nどんな風なのか、とっても興味があるわ。\\nきっと、温かな風景なんでしょうね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm extremely interested in what our town\\nlooks like from your point of view. I'm sure\\neverything looks friendly and warm to you.",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア（Ｍ）",
           "original": "（そ、そうかなぁ。\\n　普通の絵になると思うんだけど。\\n　でも、千夜ちゃんが見たいのなら……）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(O-Okay? I don't think my drawing\\nwill be anything special, to be\\nhonest. But since she insists...)",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "ココア",
           "original": "じゃあ、何を描こうかな？\\n橋とか川とか建物とか、石畳の通りとか……\\nお花屋さんのある景色もいいよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Now then, what to draw? There's bridges,\\nand the houses, and the cobblestone roads...\\nAnd the florist! That'd make a nice scene.",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "千夜",
           "original": "普通のおうちや図書館、\\n公園や広場もいいんじゃないかしら？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Why not something familiar like your\\nhouse or the library? You can't go wrong\\nwith the park or the marketplace either.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "いいお天気の日の道も、\\n曇った日の市場も、雨の日の石畳も……\\nこの街はいつだって絵になるもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Be it the road in the sun, the market on\\na cloudy day, or the cobblestones in the\\nrain, this village is always picturesque.",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "全部描いてみたいけど、うまく描けるかな？\\n千夜ちゃんの期待を裏切らないように\\n頑張ってみるね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I might draw them all, though I can't promise\\nthey'll be any good. Hopefully I don't\\ndisappoint you too badly. I'll do my best!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "千夜",
           "original": "ええ、楽しみにしているわ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Good to hear! I'll be waiting.",
+          "status": "machine_translated"
         }
       }
     }

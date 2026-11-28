@@ -6,8 +6,8 @@
         "0": {
           "speaker": "ココア",
           "original": "（今日はチノちゃんと\\n　姉妹でチラシ配りをしようっと！）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Me and my sister Chino-chan are handing \\nout flyers today!)",
+          "status": "machine_translated"
         }
       }
     },
@@ -16,194 +16,194 @@
         "0": {
           "speaker": "ココア",
           "original": "おーっしまいっと♪\\nやっぱりサンタさんはみんなに人気だね、\\nチラシ、すぐになくなっちゃった。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I'm dooone♪ \\nThis Santa costume sure is popular. \\nThese flyers just flew out of my hands.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "あ、そういえば……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh, that reminds me...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "そういえば？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Reminds you of what?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "ううん！\\nなんでもないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Nevermind, it's nothing.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "そんな風に言われたら余計気になります。\\n何を言いかけたんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Saying that just makes me more interested. \\nWhat were you going to say?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "えーと……うーんと……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Uh... Hmm...",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "チノちゃんのところには、\\n毎年、サンタさん、来てる？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, has Santa come to visit your \\nhome every year?",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "はあ……。\\n来ていると言えば来ていますが――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh... Yes, you could say he's come around \\nto visit...",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "もしかして、私がサンタさんを\\n信じているか確認したいんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Let me guess, you're fishing to see if I'm \\nsomeone who still believes in Santa?",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "ココア",
           "original": "な、何言ってるの？\\n信じるも何も、サンタさんはいるに決まってるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "W-What are you talking about? Santa \\nobviously exists, everyone knows that!",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "……気を遣ってもらっていることはわかりました。\\nでも大丈夫です、それくらいはもう知っています。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...I see what you're getting at. But you \\ndon't have to go so far, I already know \\nhow this works.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そ、そうなんだ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Is that so.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "ただ、本当にいないとは限らないので\\n念のため靴下は毎年、用意していますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Still, science can't prove Santa doesn't exist.\\nI do leave my stockings out every year \\njust to be safe.",
+          "status": "machine_translated"
         },
         "13": {
           "speaker": "チノ",
           "original": "ね、念のためですよ。\\n念のため、一応、です。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "J-Just to be safe. You never know what \\ncould happen.",
+          "status": "machine_translated"
         },
         "14": {
           "speaker": "ココア（Ｍ）",
           "original": "（へえ～、念のため、かぁ）",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "(Ehe~ Just to be safe, huh...)",
+          "status": "machine_translated"
         },
         "15": {
           "speaker": "チノ",
           "original": "なんですが、その顔は？\\n子どもっぽいとでも思ってるんですか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What's with that look on your face? \\nYou think I'm being childish, don't you?",
+          "status": "machine_translated"
         },
         "16": {
           "speaker": "ココア",
           "original": "ううん、そんなことないよ。\\nだってサンタさんは本当にいるからね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, not at all. \\nAfter all, Santa really does exist.",
+          "status": "machine_translated"
         },
         "17": {
           "speaker": "チノ",
           "original": "え？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh?",
+          "status": "machine_translated"
         },
         "18": {
           "speaker": "ココア",
           "original": "本物のサンタさんは、\\n世界中の子どもたちにプレゼントを\\n配らなくちゃいけなくて忙しいもんね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Santa sure does have his work cut out for him,\\nhaving to give gifts to all the kids \\naround the world.",
+          "status": "machine_translated"
         },
         "19": {
           "speaker": "ココア",
           "original": "だから、毎年必ず本物のサンタさんから\\nプレゼントをもらうのは難しいけど――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "So, it's not necessarily the main Santa who \\npersonally delivers the presents every \\nyear...",
+          "status": "machine_translated"
         },
         "20": {
           "speaker": "ココア",
           "original": "でも、今年は大丈夫！\\n絶対にチノちゃんのところに来てくれるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But this year is certain! He'll definitely \\nswing around to Chino-chan's place this time!",
+          "status": "machine_translated"
         },
         "21": {
           "speaker": "ココア",
           "original": "だって、チノちゃんは\\nこんなにいい子なんだもん。\\nプレゼントをあげたくなっちゃうに決まってるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Because Chino-chan is such a good girl! \\nHe can't not want to give you a gift.",
+          "status": "machine_translated"
         },
         "22": {
           "speaker": "チノ",
           "original": "そ、そうでしょうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I-Is that so?",
+          "status": "machine_translated"
         },
         "23": {
           "speaker": "ココア",
           "original": "うん！\\nだから、今年も忘れずに靴下を用意しておいてね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yeah! So, absolutely don't forget to leave \\nyour stocking out this year.",
+          "status": "machine_translated"
         },
         "24": {
           "speaker": "チノ",
           "original": "……はい。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Understood.",
+          "status": "machine_translated"
         },
         "25": {
           "speaker": "ココア",
           "original": "えへへ。\\nクリスマスが楽しみだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ehehe. I can't wait for Christmas.",
+          "status": "machine_translated"
         },
         "26": {
           "speaker": "チノ",
           "original": "…………。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "…………",
+          "status": "machine_translated"
         },
         "27": {
           "speaker": "チノ",
           "original": "よい子のところに来てくれるのなら、\\nきっとココアさんのところにだって\\n来てくれますよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "If good girls get presents, I'm sure he'll \\nhave to make a visit to Cocoa-san's place \\nas well.",
+          "status": "machine_translated"
         },
         "28": {
           "speaker": "ココア",
           "original": "え？　何か言った？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Eh? What was that?",
+          "status": "machine_translated"
         },
         "29": {
           "speaker": "チノ",
           "original": "残りのチラシを配ってくると言っただけです。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I just said it's about time I go and hand \\nout these flyers.",
+          "status": "machine_translated"
         },
         "30": {
           "speaker": "ココア",
           "original": "ああ、待って。\\nそれなら私も手伝うよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Ah, wait for me! Let me give you a hand on \\nthat.",
+          "status": "machine_translated"
         },
         "31": {
           "speaker": "チノ",
           "original": "……ありがとうございます、ココアさん。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Thank you very much, Cocoa-san.",
+          "status": "machine_translated"
         }
       }
     }

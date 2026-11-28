@@ -6,14 +6,14 @@
         "0": {
           "speaker": "ココア",
           "original": "チノちゃん、お仕事の調子はどう？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Chino-chan, how’s work coming along?",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "わ！？　お店の中がすごいことになってるよ？\\n洗い物も積んだままで、食器もテーブルの上に\\n置きっ放し？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Wa!? Something terribly wrong is happening\\nhere! There’s a pile of unwashed dishes and\\nstuff left on the tables?",
+          "status": "machine_translated"
         }
       }
     },
@@ -22,32 +22,32 @@
         "0": {
           "speaker": "チノ",
           "original": "さっきまで、お客さんの波が来ていたんです。\\n今は落ち着きましたから、急いで片付けます。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "We just had a surge of customers. But it’s\\ncalmed down since then, so I’m working on it.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "１人で大丈夫？\\n私、手伝おうか？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Can you handle this on your own? Want me\\nto pitch in?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "大丈夫です。\\nココアさん、今日はバイト、お休みなんですから\\nちゃんと休んでください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m fine. Cocoa-san, this is your day off, so\\nplease get your rest.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "でも……こんなの、放っておけないよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "But look... How can I possibly just leave this\\nthe way it is?",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "これくらいなら問題ありません。\\n気になるのなら、外でゆっくりしてきてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "This is nothing serious. If it’s bugging you,\\nthen please step outside and relax out there.",
+          "status": "machine_translated"
         }
       }
     },
@@ -61,18 +61,18 @@
       "choices": {
         "*sel_0101": {
           "original": "お願いだから何か手伝わせて！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m begging you, let me help!",
+          "status": "machine_translated"
         },
         "*sel_0102": {
           "original": "じゃあ、勝手に仕事しちゃうから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m helping and you can’t stop me!",
+          "status": "machine_translated"
         },
         "*sel_0103": {
           "original": "お客さんが悲しむよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The customers won’t like this.",
+          "status": "machine_translated"
         }
       }
     },
@@ -81,26 +81,26 @@
         "0": {
           "speaker": "ココア",
           "original": "お願いだから何か手伝わせて！\\n何でもするよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m begging you, let me help! I’ll do anything!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "……ココアさん、\\nそんなにお仕事が好きなんですか？\\nその割には、たまにサボってますが。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san, since when did you like this job\\nso much? And you used to be so lazy on the\\njob...",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "お仕事が好きっていうか、\\nラビットハウスが好きなんだよ。\\nこの街での、私の家なんだから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s not that I like the job, but more that I like\\nRabbit House. This is my home now, in this\\ntown.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "そんな場所がこうなってるのは悲しいよ。\\nだから放ってはおけないの。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It brings a tear to my eye to see the place like\\nthis. There’s no way I can simply look the\\nother way.",
+          "status": "machine_translated"
         }
       }
     },
@@ -109,20 +109,20 @@
         "0": {
           "speaker": "チノ",
           "original": "……！\\nココアさん……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Cocoa-san...",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "では、お願いします。\\nすみません、お休みの日に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Alright, you may help. Forgive me for taking\\ntime away from your day off.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "気にしない気にしない。\\nさあ、気合い入れて頑張るよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t you worry about it! Now then, I’m off to\\nwork!",
+          "status": "machine_translated"
         }
       }
     },
@@ -131,56 +131,56 @@
         "0": {
           "speaker": "ココア",
           "original": "じゃあ、勝手に仕事しちゃうから！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m helping and you can’t stop me!",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "そんな……。\\nココアさん、困ります。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Seriously... Cocoa-san, you know that won’t\\ndo.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "ココア",
           "original": "困る必要ないよ。\\n私のことは空気だと思って気にしないで？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’m sure it will do.  Can’t you just ignore me\\nas if I were a piece of furniture?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "あ、でも、ちょっとは気にして欲しいかな？\\nチノちゃんに無視されるのはつらいから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "No, wait, I want a little bit of attention. It hurts\\nwhenever you start to ignore me.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "チノ",
           "original": "……私にどうしろと言うんですか。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Make up your mind.",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "ココア",
           "original": "それにね、お店の中が散らかってたら\\n新しく来るお客さん、嬉しくないと思うよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "More importantly, leaving the cafe in a mess\\nwill leave a bad impression on new\\ncustomers.",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "チノ",
           "original": "……！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "!!",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "ココア",
           "original": "ね？\\nだから、手伝わせて。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Am I right? So, let me help out.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "チノ",
           "original": "……はい。\\nでは、よろしくお願いします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Alright. Please, help me out.",
+          "status": "machine_translated"
         }
       }
     },
@@ -189,32 +189,32 @@
         "0": {
           "speaker": "ココア",
           "original": "お客さんが悲しむよ？\\n初めて来たお客さんは\\n入る気がなくなっちゃうだろうし――",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "The customers won’t like this, you know?\\nSeeing this will make first time customers\\nwant to keep on walking--",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "リピーターのお客さんだったら、\\n何かあったのかって心配しちゃうかもしれない。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And might even make the repeat customers\\nworried about this place.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "あ……。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Oh...",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "なによりね、散らかったお店を見て\\nとっても悲しむと思う。\\n私だって、入った時ちょっと悲しかったよ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I’ll come out and say it: a messy cafe is a\\nsorry sight. Even to me, just walking in here\\nmade me depressed.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "お客さんに悲しい思いをさせないように\\nするのだって、私やリゼちゃん、\\nチノちゃんの大事なお仕事だよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "That’s our job after all. Me, Rize-chan and\\nyou, Chino-chan. We’re all trying to make the\\ncustomers happy.",
+          "status": "machine_translated"
         }
       }
     },
@@ -223,26 +223,26 @@
         "0": {
           "speaker": "チノ",
           "original": "……はい。\\nココアさんの言うとおりですね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...You’re right. That’s all one hundred percent\\ncorrect.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "ココア",
           "original": "ってことで、手伝ってもいいよね？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "There you have it. So may I help?",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "よろしくお願いします。\\nでも、すみません、お休みの日に。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Yes, please do. Sorry again, about making\\nyou do this on your day off.",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "ココア",
           "original": "いいのいいの！\\nじゃあ、まずは洗い物からだね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Don’t mention it! Alright then, I’m starting with\\nthe dishes!",
+          "status": "machine_translated"
         }
       }
     },
@@ -251,80 +251,80 @@
         "0": {
           "speaker": "ココア",
           "original": "よーし、これでピカピカだね。\\nお客さんに気持ちよく入ってもらえるよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Perfect, this place is spotless! Now we can\\ngreet customers with nothing to feel ashamed\\nof.",
+          "status": "machine_translated"
         },
         "1": {
           "speaker": "チノ",
           "original": "本当にすみません、手伝わせてしまって。\\nそれだけじゃなくて、今日は……\\nココアさんに大事なことを教わった気がします。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "How disgraceful of me, making you help out\\ntoday. And on top of that, you taught me a\\nvaluable lesson.",
+          "status": "machine_translated"
         },
         "2": {
           "speaker": "チノ",
           "original": "ココアさんは、お客さんの立場になって\\n考えろと言いたかったんですよね。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You were trying to tell me to think from the\\ncustomer’s point of view, weren’t you?",
+          "status": "machine_translated"
         },
         "3": {
           "speaker": "チノ",
           "original": "私、意地になって、１人でなんでもしようとして、\\nお客さんが来た時のことを考えていませんでした。\\n……反省します。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "I was stubbornly trying to do everything by\\nmyself, and ignored what the visiting\\ncustomers would have thought.",
+          "status": "machine_translated"
         },
         "4": {
           "speaker": "ココア",
           "original": "え？　何のこと？\\n私、何か言ったっけ？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Huh? What are you talking about? Did I say\\nsomething?",
+          "status": "machine_translated"
         },
         "5": {
           "speaker": "チノ",
           "original": "覚えてないんですか！？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You don’t remember!?",
+          "status": "machine_translated"
         },
         "6": {
           "speaker": "ココア",
           "original": "覚えてないわけじゃなくて、\\nどのことなのかなって。\\nね、教えてくれない？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It’s not that I don’t remember, but which part\\nexactly are you referencing? Refresh my\\nmemory.",
+          "status": "machine_translated"
         },
         "7": {
           "speaker": "チノ",
           "original": "……もういいです。\\n今言ったことは忘れてください。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "...Whatever. Just forget I said anything.",
+          "status": "machine_translated"
         },
         "8": {
           "speaker": "ココア",
           "original": "えー！？　気になるよ！",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "What! This is gonna bug me now!",
+          "status": "machine_translated"
         },
         "9": {
           "speaker": "チノ",
           "original": "いいんです。\\nその代わり、私がココアさんの言ったこと、\\nずっと覚えてますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "Serves you right. In place of your\\nforgetfulness, I’m going to make sure I\\nremember what you said forever.",
+          "status": "machine_translated"
         },
         "10": {
           "speaker": "チノ",
           "original": "それに、覚えてなくても、\\n同じことがあったら、ココアさんは\\nきっとまた同じ言葉を私にくれますから。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "And regardless, if the same situation were to\\narise again, I’m sure you’d say the exact\\nsame thing to me.",
+          "status": "machine_translated"
         },
         "11": {
           "speaker": "ココア",
           "original": "そうなの？\\nうーん、じゃあいいのかな？",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "You think? Hmm, well, I guess it’s fine.",
+          "status": "machine_translated"
         },
         "12": {
           "speaker": "チノ",
           "original": "はい。\\n気にする必要ありませんよ。",
-          "translation": "",
-          "status": "untranslated"
+          "translation": "It sure is. There’s nothing for you to worry\\nabout.",
+          "status": "machine_translated"
         }
       }
     }
